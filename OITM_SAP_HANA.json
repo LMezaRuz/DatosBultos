@@ -23124,10 +23124,6 @@
     "ItemName": "HELADO SOFT SABOR MORA 1 UN X 800 GR"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "200302027",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
@@ -23538,10 +23534,6 @@
   {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
-    "ItemCode": "101007033",
-    "ItemName": "LECHE POLVO SUPER CALO 20X850GR"
   },
   {
     "ItemCode": "101009037",
@@ -30908,10 +30900,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100600002",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -33722,10 +33710,6 @@
   {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
     "ItemCode": "200500023",
@@ -40544,10 +40528,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "101303004",
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
@@ -40574,10 +40554,6 @@
   {
     "ItemCode": "101350003",
     "ItemName": "LIMONETA SACHET 300X10 CC"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "101350005",
@@ -40810,10 +40786,6 @@
   {
     "ItemCode": "102530001",
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
-  },
-  {
-    "ItemCode": "102560016",
-    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "102560020",
@@ -42792,14 +42764,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "300200001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
@@ -43576,10 +43540,6 @@
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
   },
   {
-    "ItemCode": "400301078",
-    "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
-  },
-  {
     "ItemCode": "400301091",
     "ItemName": "COLLARIN HALLOWEEN DOGGIS 1 X 350 UN"
   },
@@ -43686,5 +43646,45 @@
   {
     "ItemCode": "304760112",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "102560016",
+    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "300200001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "400301078",
+    "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "101007033",
+    "ItemName": "LECHE POLVO SUPER CALO 20X850GR"
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   }
 ]
