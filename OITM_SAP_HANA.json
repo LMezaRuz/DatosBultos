@@ -22360,10 +22360,6 @@
     "ItemName": "HARINA INTEGRAL FINA YANINE 1X25 KG"
   },
   {
-    "ItemCode": "103640000",
-    "ItemName": "JUGO ZUKO GO NARANJA 45X60 GR"
-  },
-  {
     "ItemCode": "103670004",
     "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
   },
@@ -33564,10 +33560,6 @@
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
@@ -36526,10 +36518,6 @@
   {
     "ItemCode": "304450019",
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
-  },
-  {
-    "ItemCode": "200308004",
-    "ItemName": "PAILA MARINA NAC 20X500 GR"
   },
   {
     "ItemCode": "304420003",
@@ -42728,10 +42716,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10 X 1 KG"
-  },
-  {
     "ItemCode": "204870003",
     "ItemName": "COCHEZUELA (HUESO RODILLA) CAJA 15 KG APROX"
   },
@@ -42964,16 +42948,8 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760110",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760111",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760112",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "304760136",
@@ -43006,10 +42982,6 @@
   {
     "ItemCode": "304760264",
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL IMP. BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760265",
-    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "304760266",
@@ -43114,10 +43086,6 @@
   {
     "ItemCode": "304760339",
     "ItemName": "SOBRECOSTILLA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760340",
-    "ItemName": "POSTA PALETA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "304760341",
@@ -43686,5 +43654,37 @@
   {
     "ItemCode": "AFMQC0018",
     "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
+  },
+  {
+    "ItemCode": "103640000",
+    "ItemName": "JUGO ZUKO GO NARANJA 45X60 GR"
+  },
+  {
+    "ItemCode": "304760265",
+    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200308004",
+    "ItemName": "PAILA MARINA NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "304760340",
+    "ItemName": "POSTA PALETA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "304760110",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760112",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   }
 ]
