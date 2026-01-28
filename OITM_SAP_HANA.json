@@ -34988,10 +34988,6 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
@@ -35434,10 +35430,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "100552005",
@@ -42660,10 +42652,6 @@
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT"
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -42782,10 +42770,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "304410001",
-    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
     "ItemCode": "100003002",
@@ -43032,10 +43016,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -43070,10 +43050,6 @@
   {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
   {
     "ItemCode": "200500043",
@@ -43142,10 +43118,6 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "200051018",
@@ -43272,10 +43244,6 @@
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -43346,10 +43314,6 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "202720027",
@@ -43714,5 +43678,41 @@
   {
     "ItemCode": "200201001",
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "304410001",
+    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   }
 ]
