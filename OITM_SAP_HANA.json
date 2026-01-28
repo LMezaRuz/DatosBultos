@@ -23880,10 +23880,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
-    "ItemCode": "100651010",
-    "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
@@ -27828,10 +27824,6 @@
     "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   },
   {
-    "ItemCode": "103070003",
-    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
     "ItemCode": "101301002",
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
@@ -27982,10 +27974,6 @@
   {
     "ItemCode": "104290009",
     "ItemName": "PASTELERA DE CHOCLO WASIL 16X380 GR"
-  },
-  {
-    "ItemCode": "103440004",
-    "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
   {
     "ItemCode": "102500000",
@@ -34192,10 +34180,6 @@
     "ItemName": "MERMELADA DE FRUTILLA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "100350013",
-    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
-  },
-  {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
@@ -34634,10 +34618,6 @@
   {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "101100043",
@@ -37576,10 +37556,6 @@
     "ItemName": "SUCEDANEO QUESO CHEDDAR LAMINADO LORELEY 2X1,92 KG"
   },
   {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
-  },
-  {
     "ItemCode": "202820017",
     "ItemName": "CAMARON EC CRUDO PELADO DESVENADO 36/40 10X1KG LOCAL"
   },
@@ -38486,10 +38462,6 @@
   {
     "ItemCode": "101007010",
     "ItemName": "LECHE 0% MG TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910018",
@@ -43332,10 +43304,6 @@
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -43384,10 +43352,6 @@
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "300152013",
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
@@ -43430,10 +43394,6 @@
   {
     "ItemCode": "101009041",
     "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009025",
@@ -43700,10 +43660,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -43714,5 +43670,49 @@
   {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "103440004",
+    "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
+  },
+  {
+    "ItemCode": "100651010",
+    "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "103070003",
+    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "100350013",
+    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   }
 ]
