@@ -23924,10 +23924,6 @@
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
   },
   {
-    "ItemCode": "101009010",
-    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
-  },
-  {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
@@ -31536,16 +31532,8 @@
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "300154004",
     "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
-  },
-  {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
   {
     "ItemCode": "400301020",
@@ -38588,10 +38576,6 @@
     "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "304760317",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -42804,10 +42788,6 @@
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
   {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
   },
@@ -43212,10 +43192,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
@@ -43440,14 +43416,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CHOCOLATE 18X200"
   },
   {
-    "ItemCode": "103740002",
-    "ItemName": "LECHE  PROTEIN EXTRA PROTEINA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "101009009",
-    "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
-  },
-  {
     "ItemCode": "103750000",
     "ItemName": "LECHE CON PLATANO 12X1 LT"
   },
@@ -43532,14 +43500,6 @@
     "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
-  },
-  {
     "ItemCode": "302590001",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 25X46 GR"
   },
@@ -43620,10 +43580,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "204300054",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
-  },
-  {
     "ItemCode": "204300069",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. INTERF. 1X20 KG."
   },
@@ -43668,10 +43624,6 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "200307009",
-    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
@@ -43714,5 +43666,53 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101009009",
+    "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
+  },
+  {
+    "ItemCode": "101009010",
+    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
+  },
+  {
+    "ItemCode": "103740002",
+    "ItemName": "LECHE  PROTEIN EXTRA PROTEINA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "200307009",
+    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
+  },
+  {
+    "ItemCode": "204300054",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   }
 ]
