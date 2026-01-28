@@ -38852,16 +38852,8 @@
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
     "ItemCode": "203210108",
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
     "ItemCode": "400251004",
@@ -43340,10 +43332,6 @@
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -43680,10 +43668,6 @@
     "ItemName": "LECHE  PROTEIN EXTRA PROTEINA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
@@ -43714,5 +43698,21 @@
   {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   }
 ]
