@@ -26812,10 +26812,6 @@
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200100035",
     "ItemName": "HELADO PUDU MANJAR DE CAMPO 1X5 LT"
   },
@@ -30274,10 +30270,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "101007006",
@@ -37516,10 +37508,6 @@
     "ItemName": "MAYONESA JB 6X1,9 KG"
   },
   {
-    "ItemCode": "202820013",
-    "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG"
-  },
-  {
     "ItemCode": "103110002",
     "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
   },
@@ -40538,10 +40526,6 @@
   {
     "ItemCode": "101450003",
     "ItemName": "SUCEDANEO DE LIMON 300 X 8 CC."
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "101450007",
@@ -43714,5 +43698,21 @@
   {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202820013",
+    "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
