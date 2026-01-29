@@ -29960,10 +29960,6 @@
     "ItemName": "PAPAS PRE FRITAS 10 MM STAR FRITES 5X2 KG"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
@@ -30206,10 +30202,6 @@
   {
     "ItemCode": "101012008",
     "ItemName": "SABORIZANTE CHOCOLATE RED. AZUCAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100002004",
@@ -41820,10 +41812,6 @@
     "ItemName": "HAMBURGUESA GARBANZOS (FALAFEL) 40x100 gr"
   },
   {
-    "ItemCode": "200462002",
-    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
-  },
-  {
     "ItemCode": "200462109",
     "ItemName": "CARNE MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
   },
@@ -42026,14 +42014,6 @@
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "202910014",
-    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "202910016",
@@ -42644,10 +42624,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -43028,10 +43004,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760303",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760304",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -43062,10 +43034,6 @@
   {
     "ItemCode": "304760312",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760313",
-    "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "304760314",
@@ -43714,5 +43682,37 @@
   {
     "ItemCode": "200303015",
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "304760313",
+    "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200462002",
+    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
+  },
+  {
+    "ItemCode": "304760303",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910014",
+    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   }
 ]
