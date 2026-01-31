@@ -35736,10 +35736,6 @@
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100300008",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
@@ -43156,10 +43152,6 @@
     "ItemName": "MOSTAZA DIJON BORNIER 1X720 GR"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT."
   },
@@ -43396,10 +43388,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
@@ -43474,10 +43462,6 @@
   {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "103180004",
@@ -43612,18 +43596,6 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ 10X1 KG"
   },
@@ -43646,10 +43618,6 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100900005",
@@ -43766,5 +43734,37 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
   }
 ]
