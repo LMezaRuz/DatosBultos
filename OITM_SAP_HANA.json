@@ -37932,10 +37932,6 @@
     "ItemName": "DONUT GLASEADA 72 X 52 GR"
   },
   {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
     "ItemCode": "102810003",
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
   },
@@ -38862,10 +38858,6 @@
   {
     "ItemCode": "400011005",
     "ItemName": "ESPONJA DE ACERO 1X1 UN"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
   },
   {
     "ItemCode": "400011003",
@@ -42224,10 +42216,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -42412,10 +42400,6 @@
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
   {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -42594,10 +42578,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "104010005",
@@ -43098,10 +43078,6 @@
   {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100001002",
@@ -43766,5 +43742,29 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   }
 ]
