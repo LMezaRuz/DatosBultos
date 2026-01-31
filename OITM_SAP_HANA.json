@@ -34348,10 +34348,6 @@
     "ItemName": "POSTA PALETA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "101200020",
-    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
-  },
-  {
     "ItemCode": "304760276",
     "ItemName": "PUNTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -35176,10 +35172,6 @@
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
   {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "200302026",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -35430,10 +35422,6 @@
   {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
-    "ItemCode": "101200014",
-    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
   {
     "ItemCode": "400005013",
@@ -35774,10 +35762,6 @@
   {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
-    "ItemCode": "101100064",
-    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
   {
     "ItemCode": "103010004",
@@ -39054,10 +39038,6 @@
   {
     "ItemCode": "203610000",
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
-  },
-  {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "101150032",
@@ -42520,10 +42500,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
@@ -43492,10 +43468,6 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
@@ -43766,5 +43738,33 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101200020",
+    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200014",
+    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
+  },
+  {
+    "ItemCode": "101100064",
+    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   }
 ]
