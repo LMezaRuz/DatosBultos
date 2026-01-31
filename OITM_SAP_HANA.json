@@ -35220,10 +35220,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -35242,10 +35238,6 @@
   {
     "ItemCode": "200303006",
     "ItemName": "MERLUZA AUSTRAL FILETE (AUSTRALIS) C/P S/E 1X10 KG"
-  },
-  {
-    "ItemCode": "202820013",
-    "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG"
   },
   {
     "ItemCode": "100852012",
@@ -38652,10 +38644,6 @@
     "ItemName": "TOMATE TRITURADO 6X3 KG"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "200100001",
     "ItemName": "HELADO DE PLATANO MANJAR ( CREMA ) 1X4,8 LT."
   },
@@ -39960,20 +39948,12 @@
     "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
   },
   {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
     "ItemCode": "202820017",
     "ItemName": "CAMARON EC CRUDO PELADO DESVENADO 36/40 10X1KG LOCAL"
   },
   {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "103810007",
@@ -43300,10 +43280,6 @@
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "400011012",
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
@@ -43338,10 +43314,6 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "101354019",
@@ -43444,10 +43416,6 @@
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
@@ -43548,20 +43516,12 @@
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT."
   },
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "101250003",
@@ -43728,10 +43688,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
@@ -43766,5 +43722,49 @@
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "202820013",
+    "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG"
   }
 ]
