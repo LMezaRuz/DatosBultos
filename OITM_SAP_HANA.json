@@ -24076,10 +24076,6 @@
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "100304060",
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
@@ -24110,10 +24106,6 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "103180004",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
   {
     "ItemCode": "304760317",
@@ -27540,10 +27532,6 @@
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
   {
-    "ItemCode": "100950002",
-    "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
-  },
-  {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
   },
@@ -27982,10 +27970,6 @@
   {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "303850000",
-    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
     "ItemCode": "303680000",
@@ -35172,10 +35156,6 @@
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG"
-  },
-  {
     "ItemCode": "101402003",
     "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
   },
@@ -35190,10 +35170,6 @@
   {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101355001",
@@ -35274,10 +35250,6 @@
   {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "101150077",
@@ -35726,10 +35698,6 @@
   {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "103540000",
@@ -36394,10 +36362,6 @@
   {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "204010002",
@@ -40188,10 +40152,6 @@
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200500022",
     "ItemName": "BROCOLI IQF 6X1 KG."
   },
@@ -43424,10 +43384,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -43688,10 +43644,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "304760316",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -43766,5 +43718,53 @@
   {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103180004",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
+  },
+  {
+    "ItemCode": "100950002",
+    "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG"
+  },
+  {
+    "ItemCode": "303850000",
+    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
