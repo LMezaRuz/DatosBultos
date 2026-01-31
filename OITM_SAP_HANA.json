@@ -24388,10 +24388,6 @@
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
-  },
-  {
     "ItemCode": "300150005",
     "ItemName": "CREMA LISTA LIGHT SIN LACTOSA LONCOLECHE 6X200 ML"
   },
@@ -34748,10 +34744,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
@@ -39100,10 +39092,6 @@
     "ItemName": "YERBA MATE 1X1 KG"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "101400005",
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   },
@@ -39170,10 +39158,6 @@
   {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
-  },
-  {
-    "ItemCode": "200200011",
-    "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
     "ItemCode": "204530006",
@@ -42116,10 +42100,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 40X250 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -42206,10 +42186,6 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT."
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "100150003",
@@ -42776,10 +42752,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101354016",
-    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG"
   },
@@ -43224,10 +43196,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
@@ -43454,10 +43422,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "400011012",
@@ -43748,10 +43712,6 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -43766,5 +43726,45 @@
   {
     "ItemCode": "300200001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
+  },
+  {
+    "ItemCode": "200200011",
+    "ItemName": "MUFFIN VAINILLA 36X110 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101354016",
+    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
