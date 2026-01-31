@@ -23748,10 +23748,6 @@
     "ItemName": "CAFE DESCAFEINADO CAPSULA ESPRESSO POINT 1X100 UN"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "103650014",
     "ItemName": "DURAZNO TROCITOS 1X3 KG"
   },
@@ -35064,10 +35060,6 @@
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
   {
-    "ItemCode": "303660008",
-    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "200453020",
     "ItemName": "COSTILLAR DE CERDO AHUMADO KG. (NV)"
   },
@@ -43100,10 +43092,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -43240,10 +43228,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "304760261",
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -43282,10 +43266,6 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG"
   },
   {
     "ItemCode": "101354019",
@@ -43474,10 +43454,6 @@
   {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT."
   },
   {
     "ItemCode": "400001003",
@@ -43766,5 +43742,29 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG"
+  },
+  {
+    "ItemCode": "303660008",
+    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
