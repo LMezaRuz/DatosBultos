@@ -31700,10 +31700,6 @@
     "ItemName": "SABORIZANTE VAINILLA RED. AZUCAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "100302014",
     "ItemName": "SPRITE ZERO 6X1,5 LT"
   },
@@ -34780,10 +34776,6 @@
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
-    "ItemCode": "200500019",
-    "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
     "ItemCode": "100751003",
     "ItemName": "MERMELADA DE DURAZNO 1X250 GR"
   },
@@ -35790,10 +35782,6 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "104670057",
@@ -37932,10 +37920,6 @@
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "102480010",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
-  },
-  {
     "ItemCode": "300156013",
     "ItemName": "YOGURT BOLSA CALAN FRUTILLA 12x1 NUEVA CAJA"
   },
@@ -39548,10 +39532,6 @@
     "ItemName": "GALLETA FRAC SABORES 36x110 GR"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -40156,10 +40136,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "200051005",
     "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
@@ -40206,10 +40182,6 @@
   {
     "ItemCode": "300154015",
     "ItemName": "MARGARINA SOPROLE PAN 1X250 GR."
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "101100063",
@@ -40274,10 +40246,6 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "200455004",
@@ -43144,10 +43112,6 @@
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -43766,5 +43730,41 @@
   {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "102480010",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "200500019",
+    "ItemName": "ESPARRAGOS 9X1 KG."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
