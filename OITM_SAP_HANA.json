@@ -33888,10 +33888,6 @@
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
   {
-    "ItemCode": "100355011",
-    "ItemName": "SYRUP MENTA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
@@ -34796,10 +34792,6 @@
     "ItemName": "ABASTERO KG (NV)"
   },
   {
-    "ItemCode": "303660005",
-    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100751048",
     "ItemName": "MERMELADA DE CIRUELA PORCION 192X20 GR."
   },
@@ -34838,10 +34830,6 @@
   {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
     "ItemCode": "202910010",
@@ -37560,10 +37548,6 @@
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -39354,10 +39338,6 @@
   {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
     "ItemCode": "200307005",
@@ -42892,10 +42872,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
@@ -43352,10 +43328,6 @@
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
@@ -43386,10 +43358,6 @@
   {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "101100022",
@@ -43716,10 +43684,6 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -43766,5 +43730,41 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660005",
+    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355011",
+    "ItemName": "SYRUP MENTA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   }
 ]
