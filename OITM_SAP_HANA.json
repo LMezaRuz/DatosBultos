@@ -24452,10 +24452,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
   },
   {
-    "ItemCode": "101009038",
-    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
@@ -26764,10 +26760,6 @@
     "ItemName": "ENTRAÑA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "300353062",
     "ItemName": "FILETE AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -28156,10 +28148,6 @@
     "ItemName": "YOGURT GRI OIKOS NAT S/AZUCAR 48X150 CAJA"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -28318,10 +28306,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
     "ItemCode": "103910032",
@@ -32356,10 +32340,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
   },
@@ -32438,10 +32418,6 @@
   {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "103910039",
@@ -35680,10 +35656,6 @@
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
   },
@@ -35958,10 +35930,6 @@
   {
     "ItemCode": "200203008",
     "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "100202001",
@@ -40020,10 +39988,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -43372,10 +43336,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -43418,10 +43378,6 @@
   {
     "ItemCode": "103440003",
     "ItemName": "COMPOTA DE DURAZNO WATT'S 36X90 GR"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "100754003",
@@ -43766,5 +43722,49 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009038",
+    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   }
 ]
