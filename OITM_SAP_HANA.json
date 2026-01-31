@@ -24424,10 +24424,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "104210000",
-    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
     "ItemCode": "103250007",
     "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
   },
@@ -28254,10 +28250,6 @@
   {
     "ItemCode": "101150016",
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "200401007",
-    "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
   },
   {
     "ItemCode": "203210115",
@@ -37276,10 +37268,6 @@
     "ItemName": "METIL TEXTURAS 24 X 300 GR"
   },
   {
-    "ItemCode": "103930009",
-    "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
-  },
-  {
     "ItemCode": "200302016",
     "ItemName": "CAMARON IMP CH CRUDO PELADO 71/90 10X1 KG"
   },
@@ -39478,10 +39466,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "104670092",
@@ -43766,5 +43750,21 @@
   {
     "ItemCode": "204790046",
     "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "200401007",
+    "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
+  },
+  {
+    "ItemCode": "104210000",
+    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "103930009",
+    "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   }
 ]
