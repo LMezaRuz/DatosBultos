@@ -32228,10 +32228,6 @@
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
     "ItemCode": "101151016",
     "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
@@ -32330,10 +32326,6 @@
   {
     "ItemCode": "101009008",
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "102560016",
-    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "100303005",
@@ -35250,14 +35242,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "101150038",
-    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "400005008",
@@ -43432,10 +43416,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "102480010",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
   },
@@ -43766,5 +43746,25 @@
   {
     "ItemCode": "304760313",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "102560016",
+    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101150038",
+    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   }
 ]
