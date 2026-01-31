@@ -35484,10 +35484,6 @@
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "104290010",
     "ItemName": "POROTOS CON RIENDA 15X400 GR"
   },
@@ -38158,10 +38154,6 @@
   {
     "ItemCode": "104670083",
     "ItemName": "TE LIPTON GREEN MANDARIN ORANGE 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
     "ItemCode": "200003004",
@@ -42784,10 +42776,6 @@
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X277 GR"
-  },
-  {
     "ItemCode": "101353009",
     "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
   },
@@ -43536,10 +43524,6 @@
     "ItemName": "MOSTAZA HEINZ SACHET 500X6 GR"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101353041",
     "ItemName": "MAYONESA DELI KRAFT SACHET 500X7 GR"
   },
@@ -43672,10 +43656,6 @@
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -43766,5 +43746,25 @@
   {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X277 GR"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
