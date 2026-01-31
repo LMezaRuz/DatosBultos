@@ -24092,10 +24092,6 @@
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "304760317",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -35392,10 +35388,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
@@ -39884,10 +39876,6 @@
     "ItemName": "LECHE CULTIVADA LT"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
@@ -43048,10 +43036,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -43380,10 +43364,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -43564,10 +43544,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "102480010",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
   },
@@ -43630,10 +43606,6 @@
   {
     "ItemCode": "204300068",
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
-  },
-  {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
     "ItemCode": "101450006",
@@ -43700,10 +43672,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
@@ -43766,5 +43734,37 @@
   {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   }
 ]
