@@ -32408,10 +32408,6 @@
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100304010",
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
@@ -34980,10 +34976,6 @@
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -35190,10 +35182,6 @@
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "104010050",
@@ -35938,10 +35926,6 @@
   {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "101403002",
@@ -39442,10 +39426,6 @@
   {
     "ItemCode": "100852016",
     "ItemName": "GALLETA FRAC SABORES 36x110 GR"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "203210107",
@@ -42984,10 +42964,6 @@
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ 10X1 KG"
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -43176,10 +43152,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "200453019",
-    "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
-  },
-  {
     "ItemCode": "200460046",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
   },
@@ -43260,10 +43232,6 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -43310,10 +43278,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "400008004",
@@ -43512,10 +43476,6 @@
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "104210011",
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
@@ -43542,10 +43502,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "100050003",
@@ -43676,16 +43632,8 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "101351012",
@@ -43694,10 +43642,6 @@
   {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100450003",
@@ -43748,10 +43692,6 @@
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -43766,5 +43706,65 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "200453019",
+    "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   }
 ]
