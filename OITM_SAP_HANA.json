@@ -34092,10 +34092,6 @@
     "ItemName": "PULPA DE CERDO KG (NV)"
   },
   {
-    "ItemCode": "204790045",
-    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
-  },
-  {
     "ItemCode": "300352001",
     "ItemName": "CHULETA CERDO KG (NV)"
   },
@@ -37330,10 +37326,6 @@
   {
     "ItemCode": "100355008",
     "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "100101001",
@@ -42512,10 +42504,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -43092,10 +43080,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
-  },
-  {
     "ItemCode": "200401007",
     "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
   },
@@ -43250,10 +43234,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "100901004",
@@ -43632,14 +43612,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -43766,5 +43738,33 @@
   {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "204790045",
+    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   }
 ]
