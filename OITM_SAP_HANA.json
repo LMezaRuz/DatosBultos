@@ -32532,10 +32532,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100600007",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X277 GR"
   },
@@ -34800,10 +34796,6 @@
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "200203006",
     "ItemName": "BAGUETTE MULTICEREAL PRECOCIDO 50X140 GR"
   },
@@ -34910,10 +34902,6 @@
   {
     "ItemCode": "101354014",
     "ItemName": "MOSTAZA DIJON 1X370 GR"
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "100356018",
@@ -35716,10 +35704,6 @@
     "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -35762,10 +35746,6 @@
   {
     "ItemCode": "400251009",
     "ItemName": "SERVILLETA TORK LUNCH NAPKIN BC 10 X 200 UN SE70044"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "200301002",
@@ -39406,10 +39386,6 @@
   {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
-  },
-  {
-    "ItemCode": "300152009",
-    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
   {
     "ItemCode": "300156003",
@@ -43184,10 +43160,6 @@
     "ItemName": "MOSTAZA DIJON BORNIER 1X720 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -43334,10 +43306,6 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "103670022",
@@ -43652,10 +43620,6 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -43712,10 +43676,6 @@
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
@@ -43766,5 +43726,45 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100600007",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "300152009",
+    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   }
 ]
