@@ -39036,10 +39036,6 @@
     "ItemName": "BOLSAS ZIPLOC MEDIANA (18 X 20 CM) 1X1 UN"
   },
   {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760307",
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -39186,10 +39182,6 @@
   {
     "ItemCode": "103850003",
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
-  },
-  {
-    "ItemCode": "304760112",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "102710013",
@@ -39426,10 +39418,6 @@
   {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "101050002",
@@ -42720,10 +42708,6 @@
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "204530007",
     "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   },
@@ -42774,10 +42758,6 @@
   {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "101352013",
-    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
   },
   {
     "ItemCode": "100356005",
@@ -42988,10 +42968,6 @@
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
@@ -43034,10 +43010,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "300152006",
@@ -43168,16 +43140,8 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "304760270",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760311",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760107",
-    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "304760313",
@@ -43636,10 +43600,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
@@ -43766,5 +43726,45 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "304760107",
+    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760112",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "304760270",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101352013",
+    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
   }
 ]
