@@ -23352,10 +23352,6 @@
     "ItemName": "POSTA NEGRA 97VL AL VACIO CAT V LOCAL BRASIL (20KG APROX)"
   },
   {
-    "ItemCode": "103180001",
-    "ItemName": "DURAZNOS TROCITOS WASIL 6X3 KG"
-  },
-  {
     "ItemCode": "103520000",
     "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
   },
@@ -32156,10 +32152,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -34406,10 +34398,6 @@
   {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
-    "ItemCode": "103180006",
-    "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
   },
   {
     "ItemCode": "100102010",
@@ -38864,16 +38852,8 @@
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
   {
-    "ItemCode": "101400005",
-    "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
-  },
-  {
     "ItemCode": "200452004",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
-  },
-  {
-    "ItemCode": "101400004",
-    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
   },
   {
     "ItemCode": "304440019",
@@ -42060,10 +42040,6 @@
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
@@ -42078,10 +42054,6 @@
   {
     "ItemCode": "104670092",
     "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "104610009",
@@ -43612,10 +43584,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
@@ -43766,5 +43734,37 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "101400004",
+    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
+  },
+  {
+    "ItemCode": "101400005",
+    "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
+  },
+  {
+    "ItemCode": "103180001",
+    "ItemName": "DURAZNOS TROCITOS WASIL 6X3 KG"
+  },
+  {
+    "ItemCode": "103180006",
+    "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   }
 ]
