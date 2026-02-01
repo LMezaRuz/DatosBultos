@@ -35088,10 +35088,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
   {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "300001002",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
@@ -35474,10 +35470,6 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO KG (4,5 KG APROX)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "103730009",
@@ -39258,10 +39250,6 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "304760306",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "400101007",
@@ -43052,10 +43040,6 @@
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
@@ -43766,5 +43750,21 @@
   {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "304760306",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   }
 ]
