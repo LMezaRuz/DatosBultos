@@ -24012,10 +24012,6 @@
     "ItemName": "POCILLO TRANSP. PLASTICO 1,5 OZ 1 X 2500 UN"
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -27788,10 +27784,6 @@
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "104420000",
-    "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -28126,10 +28118,6 @@
   {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "304760263",
@@ -35622,10 +35610,6 @@
   {
     "ItemCode": "101100050",
     "ItemName": "CABELLO DE ANGEL CORTO LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "101450003",
@@ -43368,10 +43352,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "304760238",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -43708,10 +43688,6 @@
     "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -43766,5 +43742,29 @@
   {
     "ItemCode": "204140008",
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104420000",
+    "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
   }
 ]
