@@ -24264,10 +24264,6 @@
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "104290003",
     "ItemName": "TOMATICAN WASIL 16X380 G"
   },
@@ -28334,10 +28330,6 @@
   {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "102500000",
@@ -35448,10 +35440,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "100852011",
     "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
@@ -38900,10 +38888,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "204790038",
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
   },
@@ -39482,10 +39466,6 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
     "ItemCode": "304760264",
@@ -43766,5 +43746,25 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   }
 ]
