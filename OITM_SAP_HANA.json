@@ -28156,10 +28156,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO CALO 2X1,92 KG"
   },
   {
-    "ItemCode": "102630000",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
   },
@@ -33860,10 +33856,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "100654002",
-    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -34732,10 +34724,6 @@
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
   {
-    "ItemCode": "101354014",
-    "ItemName": "MOSTAZA DIJON 1X370 GR"
-  },
-  {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
@@ -35296,10 +35284,6 @@
     "ItemName": "SOPA DE POLLO CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT"
-  },
-  {
     "ItemCode": "101000008",
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
@@ -35322,10 +35306,6 @@
   {
     "ItemCode": "400005009",
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
     "ItemCode": "101050001",
@@ -38562,10 +38542,6 @@
   {
     "ItemCode": "101012003",
     "ItemName": "MILO EN POLVO 15X1 KG"
-  },
-  {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
   {
     "ItemCode": "202820015",
@@ -42260,10 +42236,6 @@
     "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   },
   {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
     "ItemCode": "104670092",
     "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
   },
@@ -42544,16 +42516,8 @@
     "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "200100003",
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
   },
   {
     "ItemCode": "203430016",
@@ -43600,10 +43564,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -43696,10 +43656,6 @@
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
@@ -43766,5 +43722,49 @@
   {
     "ItemCode": "202720028",
     "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "102630000",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101354014",
+    "ItemName": "MOSTAZA DIJON 1X370 GR"
+  },
+  {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100654002",
+    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   }
 ]
