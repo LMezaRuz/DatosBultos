@@ -24160,10 +24160,6 @@
     "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
   {
-    "ItemCode": "204700007",
-    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT."
   },
@@ -24254,10 +24250,6 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
   },
   {
     "ItemCode": "104600004",
@@ -34020,10 +34012,6 @@
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
   {
-    "ItemCode": "204700006",
-    "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
     "ItemCode": "100557022",
     "ItemName": "CLAVO DE OLOR MOLIDO 1X250 GR."
   },
@@ -34082,10 +34070,6 @@
   {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
-    "ItemCode": "204700002",
-    "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
   },
   {
     "ItemCode": "300351015",
@@ -34964,10 +34948,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "101012001",
     "ItemName": "MILO ACTIV-GO 1X300g"
   },
@@ -35250,10 +35230,6 @@
   {
     "ItemCode": "204140018",
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100555004",
@@ -35740,10 +35716,6 @@
     "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100303002",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
   },
@@ -35778,10 +35750,6 @@
   {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "100202002",
@@ -39348,10 +39316,6 @@
     "ItemName": "HAMBURGUESA GARBANZOS (FALAFEL) 40x100 gr"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
@@ -39664,20 +39628,8 @@
     "ItemName": "LECHE BLANCA COLUN 12X1 LT PROMO"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "202730048",
@@ -39758,10 +39710,6 @@
   {
     "ItemCode": "100852021",
     "ItemName": "GALLETA DONUTS 1X100 GRS"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "100102004",
@@ -43352,10 +43300,6 @@
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -43732,10 +43676,6 @@
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "304760301",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -43766,5 +43706,65 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "204700006",
+    "ItemName": "RED VELVET 10 PORCIONES"
+  },
+  {
+    "ItemCode": "204700007",
+    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "204700002",
+    "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   }
 ]
