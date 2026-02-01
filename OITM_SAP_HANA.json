@@ -42588,10 +42588,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "102480005",
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
@@ -42902,10 +42898,6 @@
   {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "200250011",
@@ -43344,10 +43336,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -43400,10 +43388,6 @@
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
@@ -43434,10 +43418,6 @@
   {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
   },
   {
     "ItemCode": "200500008",
@@ -43562,10 +43542,6 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "202820019",
@@ -43740,16 +43716,8 @@
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "300401005",
@@ -43766,5 +43734,37 @@
   {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   }
 ]
