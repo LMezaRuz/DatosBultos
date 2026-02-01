@@ -32100,10 +32100,6 @@
     "ItemName": "HELADOS PUDU CHOCOLATE BROWNIE MANJAR 1X5 LTS."
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
@@ -34900,10 +34896,6 @@
     "ItemName": "BARRA DE CEREAL  140X18 GR"
   },
   {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
@@ -34990,10 +34982,6 @@
   {
     "ItemCode": "101012001",
     "ItemName": "MILO ACTIV-GO 1X300g"
-  },
-  {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
   {
     "ItemCode": "100302004",
@@ -36334,10 +36322,6 @@
   {
     "ItemCode": "300157034",
     "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
-  },
-  {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
     "ItemCode": "300157032",
@@ -38164,10 +38148,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
     "ItemCode": "300157050",
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
@@ -38398,10 +38378,6 @@
   {
     "ItemCode": "100355013",
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100001002",
@@ -39156,10 +39132,6 @@
     "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
     "ItemCode": "102970011",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
@@ -39330,10 +39302,6 @@
   {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "204090006",
@@ -39542,10 +39510,6 @@
   {
     "ItemCode": "103650024",
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "103200000",
@@ -39862,10 +39826,6 @@
   {
     "ItemCode": "304760299",
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "400011015",
@@ -43680,10 +43640,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
@@ -43718,10 +43674,6 @@
   {
     "ItemCode": "104610009",
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100200002",
@@ -43766,5 +43718,53 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   }
 ]
