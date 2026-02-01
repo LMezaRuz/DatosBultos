@@ -28340,10 +28340,6 @@
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
@@ -32316,10 +32312,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "101201043",
-    "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "302960000",
     "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
@@ -33828,10 +33820,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "200200033",
     "ItemName": "REJILLA PASTELERA X 72 UN"
   },
@@ -33986,10 +33974,6 @@
   {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
-  },
-  {
-    "ItemCode": "300153010",
-    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
   {
     "ItemCode": "200456050",
@@ -34154,10 +34138,6 @@
   {
     "ItemCode": "101201049",
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
-    "ItemCode": "101201048",
-    "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
     "ItemCode": "100852005",
@@ -34456,10 +34436,6 @@
     "ItemName": "HELADO SAN FCO. FRAMBUESA (AGUA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -34610,10 +34586,6 @@
   {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT."
   },
   {
     "ItemCode": "100700003",
@@ -35682,10 +35654,6 @@
   {
     "ItemCode": "100450008",
     "ItemName": "SALSA TERIYAKI 1X1 KG"
-  },
-  {
-    "ItemCode": "101201012",
-    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201044",
@@ -39342,10 +39310,6 @@
   {
     "ItemCode": "103880033",
     "ItemName": "MAYONESA LIGHT PROFESIONAL HELLMANNS 6X2 KG"
-  },
-  {
-    "ItemCode": "204790045",
-    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
   },
   {
     "ItemCode": "103880023",
@@ -43204,10 +43168,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
@@ -43766,5 +43726,45 @@
   {
     "ItemCode": "204180004",
     "ItemName": "PAPA PREFRITA 10 PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "101201043",
+    "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201012",
+    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201048",
+    "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
+  },
+  {
+    "ItemCode": "300153010",
+    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "204790045",
+    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT."
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
   }
 ]
