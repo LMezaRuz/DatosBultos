@@ -15700,10 +15700,6 @@
     "ItemName": "DEMOLICION Y REPOSICION DE HORMIGON"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "LOG_104670019",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON 48X20 UN"
   },
@@ -32220,10 +32216,6 @@
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101009017",
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
   },
@@ -35240,10 +35232,6 @@
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
@@ -35320,16 +35308,8 @@
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "400301101",
-    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
   {
     "ItemCode": "102930006",
@@ -35590,10 +35570,6 @@
   {
     "ItemCode": "300157046",
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
-  },
-  {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
   {
     "ItemCode": "101150045",
@@ -43004,32 +42980,16 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "104570009",
@@ -43140,16 +43100,8 @@
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "101354005",
@@ -43438,10 +43390,6 @@
   {
     "ItemCode": "202820017",
     "ItemName": "CAMARON EC CRUDO PELADO DESVENADO 36/40 10X1KG LOCAL"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "200307003",
@@ -43766,5 +43714,57 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "400301101",
+    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
