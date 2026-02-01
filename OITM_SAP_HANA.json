@@ -27888,10 +27888,6 @@
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
@@ -27902,10 +27898,6 @@
   {
     "ItemCode": "100701011",
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
     "ItemCode": "104420000",
@@ -28110,10 +28102,6 @@
   {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
-  },
-  {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
     "ItemCode": "102480002",
@@ -31728,10 +31716,6 @@
     "ItemName": "HELADO PUDU FRAMBUESA 1X460 ML"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "400010024",
     "ItemName": "GRINDZ 1 X 1 UN"
   },
@@ -32686,10 +32670,6 @@
   {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
-  },
-  {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "203190038",
@@ -35494,10 +35474,6 @@
   {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
-    "ItemCode": "200307010",
-    "ItemName": "SALMON FILETE NAC \"TRIM D\" 2/3 LB"
   },
   {
     "ItemCode": "302890024",
@@ -40428,10 +40404,6 @@
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE BLANCA COLUN 12X1 LT."
   },
@@ -43766,5 +43738,33 @@
   {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "200307010",
+    "ItemName": "SALMON FILETE NAC \"TRIM D\" 2/3 LB"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   }
 ]
