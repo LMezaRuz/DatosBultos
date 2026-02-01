@@ -28220,10 +28220,6 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
-  },
-  {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
   },
@@ -35880,10 +35876,6 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -35930,10 +35922,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
     "ItemCode": "200457001",
@@ -37964,10 +37952,6 @@
     "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
@@ -38860,10 +38844,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "103880001",
     "ItemName": "MAYONESA LIGHT HELLMANNS 12X900 GR"
   },
@@ -38890,10 +38870,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "100300009",
-    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
     "ItemCode": "204180001",
@@ -39178,10 +39154,6 @@
   {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "100101005",
@@ -43444,10 +43416,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -43548,10 +43516,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT."
-  },
-  {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
@@ -43618,10 +43582,6 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "100005004",
-    "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
     "ItemCode": "102480005",
@@ -43744,10 +43704,6 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -43766,5 +43722,49 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT."
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100005004",
+    "ItemName": "ACEITE DE SESAMO 1X500 ML"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "100300009",
+    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   }
 ]
