@@ -31688,10 +31688,6 @@
     "ItemName": "PAPAS KG."
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
@@ -43484,10 +43480,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
@@ -43732,6 +43724,14 @@
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
   {
+    "ItemCode": "200500035",
+    "ItemName": "CHOCLO EN GRANO 16X1 KG"
+  },
+  {
+    "ItemCode": "300405005",
+    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
+  },
+  {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
@@ -43760,11 +43760,11 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "200500035",
-    "ItemName": "CHOCLO EN GRANO 16X1 KG"
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "300405005",
-    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
