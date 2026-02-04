@@ -33296,10 +33296,6 @@
     "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
   },
   {
-    "ItemCode": "200304006",
-    "ItemName": "OSTION C/CORAL 1x1 KG"
-  },
-  {
     "ItemCode": "101009040",
     "ItemName": "LECHE LONCOLECHE BREAK CARAMEL MACCHIATO 18X250"
   },
@@ -35018,10 +35014,6 @@
   {
     "ItemCode": "MAQ001277",
     "ItemName": "TARIFA SERVICIOS $1277"
-  },
-  {
-    "ItemCode": "200250016",
-    "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "600002002",
@@ -39148,10 +39140,6 @@
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
@@ -42552,10 +42540,6 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
@@ -43116,10 +43100,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -43640,14 +43620,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "200453013",
-    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
     "ItemCode": "203430015",
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
@@ -43728,6 +43700,10 @@
     "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
   },
   {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
     "ItemCode": "600002020",
     "ItemName": "ZANAHORIA KG."
   },
@@ -43770,5 +43746,29 @@
   {
     "ItemCode": "600001008",
     "ItemName": "KIWI KG."
+  },
+  {
+    "ItemCode": "200453013",
+    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "200250016",
+    "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200304006",
+    "ItemName": "OSTION C/CORAL 1x1 KG"
   }
 ]
