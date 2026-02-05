@@ -43636,22 +43636,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -43772,10 +43756,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -43786,5 +43766,25 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
   }
 ]
