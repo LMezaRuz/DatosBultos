@@ -38264,10 +38264,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -38766,10 +38762,6 @@
   {
     "ItemCode": "204310012",
     "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
-  },
-  {
-    "ItemCode": "204310009",
-    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
   {
     "ItemCode": "100003003",
@@ -42928,10 +42920,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
@@ -43320,10 +43308,6 @@
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "400301072",
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
@@ -43360,10 +43344,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "102960002",
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
@@ -43392,14 +43372,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
@@ -43414,10 +43386,6 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
     "ItemCode": "100052005",
@@ -43786,5 +43754,37 @@
   {
     "ItemCode": "304450013",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS DE VALDIVIA LAMINA GRUESA 20X210 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "204310009",
+    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   }
 ]
