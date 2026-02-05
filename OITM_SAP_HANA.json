@@ -34688,10 +34688,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "204300042",
-    "ItemName": "TRUTRO ENTERO DE POLLO DESHUESADO CONG. MARINADO 10X2 KG."
-  },
-  {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
@@ -36144,20 +36140,8 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "200460051",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
-  },
-  {
     "ItemCode": "304760273",
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP.BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204300054",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
-  },
-  {
-    "ItemCode": "204300067",
-    "ItemName": "MEDIA PECHUGA DESHUES. MARINADA DE POLLO INTERF. IMP. 1X12 KG"
   },
   {
     "ItemCode": "101300003",
@@ -38998,10 +38982,6 @@
   {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
-    "ItemCode": "204180025",
-    "ItemName": "PAPAS PRE FRITAS 10 MM STAR FRITES 5X2 KG"
   },
   {
     "ItemCode": "100802001",
@@ -43296,10 +43276,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "204300050",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
-  },
-  {
     "ItemCode": "100751002",
     "ItemName": "MERMELADA DE DAMASCO 1X250 GR"
   },
@@ -43776,6 +43752,10 @@
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
   {
+    "ItemCode": "204300050",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
+  },
+  {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
@@ -43786,5 +43766,25 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "204300042",
+    "ItemName": "TRUTRO ENTERO DE POLLO DESHUESADO CONG. MARINADO 10X2 KG."
+  },
+  {
+    "ItemCode": "204300067",
+    "ItemName": "MEDIA PECHUGA DESHUES. MARINADA DE POLLO INTERF. IMP. 1X12 KG"
+  },
+  {
+    "ItemCode": "200460051",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
+  },
+  {
+    "ItemCode": "204300054",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
+  },
+  {
+    "ItemCode": "204180025",
+    "ItemName": "PAPAS PRE FRITAS 10 MM STAR FRITES 5X2 KG"
   }
 ]
