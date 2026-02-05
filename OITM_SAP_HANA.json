@@ -23264,10 +23264,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
   {
-    "ItemCode": "100304037",
-    "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
-  },
-  {
     "ItemCode": "104290008",
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
   },
@@ -23438,10 +23434,6 @@
   {
     "ItemCode": "103070009",
     "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
-  },
-  {
-    "ItemCode": "100304034",
-    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
   },
   {
     "ItemCode": "104670001",
@@ -35020,10 +35012,6 @@
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100751050",
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
   },
@@ -38360,10 +38348,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "104040030",
     "ItemName": "ADOBO CONDIMENTO ARGENTINIA BH 4X1 KG"
   },
@@ -39814,10 +39798,6 @@
   {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "101355005",
@@ -43456,10 +43436,6 @@
     "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -43586,10 +43562,6 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "202900000",
@@ -43786,5 +43758,33 @@
   {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304037",
+    "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
+  },
+  {
+    "ItemCode": "100304034",
+    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   }
 ]
