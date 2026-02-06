@@ -22976,10 +22976,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X1 UN"
   },
   {
-    "ItemCode": "100554029",
-    "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
-  },
-  {
     "ItemCode": "102790000",
     "ItemName": "NESCAFE DECAF STICK 180X1,8 GR"
   },
@@ -29784,10 +29780,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -30074,10 +30066,6 @@
   {
     "ItemCode": "101450003",
     "ItemName": "SUCEDANEO DE LIMON 300 X 8 CC."
-  },
-  {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
   {
     "ItemCode": "102480001",
@@ -33408,10 +33396,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
@@ -34842,10 +34826,6 @@
   {
     "ItemCode": "102700022",
     "ItemName": "ZEROZOTTI 6X750 ML"
-  },
-  {
-    "ItemCode": "104040030",
-    "ItemName": "ADOBO CONDIMENTO ARGENTINIA BH 4X1 KG"
   },
   {
     "ItemCode": "104070007",
@@ -39852,10 +39832,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "100903003",
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
@@ -40470,10 +40446,6 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "101353022",
@@ -41770,10 +41742,6 @@
   {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "200307005",
@@ -43196,10 +43164,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
     "ItemCode": "400150004",
     "ItemName": "KIMBO TAZA Y PLATO CAPUCHINO 6 UN"
   },
@@ -43386,10 +43350,6 @@
   {
     "ItemCode": "402740001",
     "ItemName": "SACO GRANDE KRAFT BARRIO CHICKEN 1 X 250 UN"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "403250022",
@@ -43586,10 +43546,6 @@
   {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "101404002",
@@ -43806,5 +43762,49 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "104040030",
+    "ItemName": "ADOBO CONDIMENTO ARGENTINIA BH 4X1 KG"
+  },
+  {
+    "ItemCode": "100554029",
+    "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
   }
 ]
