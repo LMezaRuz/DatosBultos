@@ -43104,10 +43104,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
@@ -43604,10 +43600,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
@@ -43806,5 +43798,13 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   }
 ]
