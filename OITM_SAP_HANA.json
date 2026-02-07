@@ -34692,10 +34692,6 @@
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "100202011",
-    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
     "ItemCode": "100300011",
     "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
   },
@@ -34754,10 +34750,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
     "ItemCode": "101402001",
@@ -35218,10 +35210,6 @@
   {
     "ItemCode": "100852024",
     "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
-  },
-  {
-    "ItemCode": "100854011",
-    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
   {
     "ItemCode": "100852009",
@@ -35948,10 +35936,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
@@ -36050,10 +36034,6 @@
   {
     "ItemCode": "100352004",
     "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "400011001",
@@ -37170,10 +37150,6 @@
   {
     "ItemCode": "103770003",
     "ItemName": "MAIZ CURAGUA 10X1 KG"
-  },
-  {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
     "ItemCode": "104010048",
@@ -38648,10 +38624,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
@@ -39774,10 +39746,6 @@
   {
     "ItemCode": "304760107",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "304760136",
@@ -43140,10 +43108,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
   },
@@ -43248,10 +43212,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -43298,10 +43258,6 @@
   {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "303850000",
@@ -43806,5 +43762,49 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "100202011",
+    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100854011",
+    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   }
 ]
