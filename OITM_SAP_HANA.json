@@ -35404,10 +35404,6 @@
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "100352004",
     "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
   },
@@ -38182,10 +38178,6 @@
   {
     "ItemCode": "103810009",
     "ItemName": "CONTROLADOR DE OLORES GNZY RENEW PLUS 1X5 LT"
-  },
-  {
-    "ItemCode": "302970004",
-    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
   {
     "ItemCode": "102560020",
@@ -42308,10 +42300,6 @@
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -43440,10 +43428,6 @@
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -43600,10 +43584,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101100066",
     "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
   },
@@ -43638,10 +43618,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "101305006",
@@ -43806,5 +43782,29 @@
   {
     "ItemCode": "300001012",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 7X400 GR"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "302970004",
+    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   }
 ]
