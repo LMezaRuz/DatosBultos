@@ -24000,10 +24000,6 @@
     "ItemName": "PAPAYAS EN TROCITOS WASIL 16X380 GR."
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "103180010",
     "ItemName": "DURAZNOS CUBITOS REGIMEL 16X380 GR"
   },
@@ -24018,10 +24014,6 @@
   {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "104620002",
@@ -24402,10 +24394,6 @@
   {
     "ItemCode": "200454029",
     "ItemName": "CHULETA VETADA 180 GR 1X6,5 KG APROX (3F)"
-  },
-  {
-    "ItemCode": "204180004",
-    "ItemName": "PAPA PREFRITA 10 PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "203550002",
@@ -34232,10 +34220,6 @@
     "ItemName": "MOSTAZA DIJON FUERTE 1X210 GR"
   },
   {
-    "ItemCode": "100753002",
-    "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
     "ItemCode": "400012003",
     "ItemName": "PALA PLASTICA 1X1 UN."
   },
@@ -35308,10 +35292,6 @@
     "ItemName": "ESPARRAGOS 9X1 KG."
   },
   {
-    "ItemCode": "100555001",
-    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   },
@@ -35566,10 +35546,6 @@
   {
     "ItemCode": "100653005",
     "ItemName": "CEREZAS AL JUGO SIN CAROZO 1X3 KG."
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "204300071",
@@ -38450,10 +38426,6 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "304760342",
@@ -42908,10 +42880,6 @@
     "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
@@ -43164,10 +43132,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101150043",
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
@@ -43344,10 +43308,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -43398,10 +43358,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100004001",
@@ -43806,5 +43762,49 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100753002",
+    "ItemName": "NUTELLA UNIDAD 1X350 GR."
+  },
+  {
+    "ItemCode": "100555001",
+    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "204180004",
+    "ItemName": "PAPA PREFRITA 10 PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   }
 ]
