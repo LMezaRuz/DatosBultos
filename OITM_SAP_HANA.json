@@ -27808,10 +27808,6 @@
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
   },
   {
-    "ItemCode": "101006006",
-    "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "400301009",
     "ItemName": "PAPEL TERMICO MAMUT ROLLO 1X60 UN"
   },
@@ -32116,10 +32112,6 @@
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
-  },
-  {
     "ItemCode": "101007015",
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
   },
@@ -32344,10 +32336,6 @@
     "ItemName": "CARNE MOLIDA  1x1 kg"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
@@ -32370,10 +32358,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
   {
     "ItemCode": "101353030",
@@ -38364,10 +38348,6 @@
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "204790007",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -39742,10 +39722,6 @@
   {
     "ItemCode": "104010009",
     "ItemName": "BARBACOA BBQ HEINZ DISPENSER 2 X 6,8 KG"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "304760269",
@@ -43424,10 +43400,6 @@
     "ItemName": "BEBIDA VEGETAL DE ALMENDRAS LONCO LECHE 6X1 LT"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -43656,24 +43628,8 @@
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
-    "ItemCode": "300157032",
-    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
-  },
-  {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "101009017",
@@ -43806,5 +43762,49 @@
   {
     "ItemCode": "204300071",
     "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. IQF 12X1KG."
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101006006",
+    "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "204790007",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
   }
 ]
