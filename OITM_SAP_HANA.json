@@ -27556,10 +27556,6 @@
     "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "200307009",
-    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
     "ItemCode": "101009020",
     "ItemName": "LECHE MOMENTS MOCACCINO 6x200 CC"
   },
@@ -27614,10 +27610,6 @@
   {
     "ItemCode": "103090003",
     "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
-  },
-  {
-    "ItemCode": "204380022",
-    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "103480001",
@@ -27838,10 +27830,6 @@
   {
     "ItemCode": "203430017",
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "203430015",
-    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "104600003",
@@ -42776,14 +42764,6 @@
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
-    "ItemCode": "203430016",
-    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -42878,10 +42858,6 @@
   {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "200500032",
@@ -43002,10 +42978,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "200308003",
@@ -43214,10 +43186,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
     "ItemCode": "204150002",
@@ -43498,10 +43466,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   },
   {
     "ItemCode": "100752001",
@@ -43806,5 +43770,41 @@
   {
     "ItemCode": "302970004",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430016",
+    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430015",
+    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380022",
+    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "200307009",
+    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   }
 ]
