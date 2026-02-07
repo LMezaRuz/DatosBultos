@@ -23800,10 +23800,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "202730003",
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
@@ -27940,14 +27936,6 @@
     "ItemName": "ARVEJAS IQF 20X500 GR"
   },
   {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
-  },
-  {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
     "ItemCode": "304760300",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -28286,10 +28274,6 @@
   {
     "ItemCode": "204090002",
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
-  },
-  {
-    "ItemCode": "100552005",
-    "ItemName": "CANELA EN RAMA 1X250 GR"
   },
   {
     "ItemCode": "400301101",
@@ -33816,10 +33800,6 @@
     "ItemName": "POLENTA 1X1 KG"
   },
   {
-    "ItemCode": "100152002",
-    "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
-  },
-  {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
@@ -35790,10 +35770,6 @@
   {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
     "ItemCode": "200302008",
@@ -38964,10 +38940,6 @@
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
   },
@@ -39286,10 +39258,6 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "204790031",
-    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "300157042",
@@ -42620,14 +42588,6 @@
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101401008",
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
@@ -43164,10 +43124,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
@@ -43456,10 +43412,6 @@
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200456009",
     "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
@@ -43578,10 +43530,6 @@
   {
     "ItemCode": "101402001",
     "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "100555004",
@@ -43806,5 +43754,57 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204790031",
+    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "100152002",
+    "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
+  },
+  {
+    "ItemCode": "100552005",
+    "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   }
 ]
