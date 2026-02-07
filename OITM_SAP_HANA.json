@@ -35008,10 +35008,6 @@
     "ItemName": "ALBAHACA EN SOBRE 1x6 g."
   },
   {
-    "ItemCode": "102780002",
-    "ItemName": "CAFE MOLIDO 1X1 KG"
-  },
-  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
@@ -35396,10 +35392,6 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -35462,10 +35454,6 @@
   {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "200305008",
@@ -35546,10 +35534,6 @@
   {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "103910032",
@@ -42388,10 +42372,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -43076,18 +43056,6 @@
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -43456,10 +43424,6 @@
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
@@ -43566,10 +43530,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101358007",
@@ -43800,11 +43760,51 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "102780002",
+    "ItemName": "CAFE MOLIDO 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
   }
 ]
