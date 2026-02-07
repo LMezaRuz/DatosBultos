@@ -31640,10 +31640,6 @@
     "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
-    "ItemCode": "400010023",
-    "ItemName": "RINZA 1 X 1 UN"
-  },
-  {
     "ItemCode": "101302002",
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
@@ -33928,10 +33924,6 @@
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400010013",
-    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
   },
@@ -34600,10 +34592,6 @@
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "200201009",
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
   },
@@ -35106,10 +35094,6 @@
   {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
-  },
-  {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
     "ItemCode": "101008003",
@@ -35686,10 +35670,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
   },
   {
     "ItemCode": "200201002",
@@ -38606,10 +38586,6 @@
   {
     "ItemCode": "204390005",
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
-  },
-  {
-    "ItemCode": "400250001",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
   {
     "ItemCode": "300157019",
@@ -42952,10 +42928,6 @@
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
     "ItemCode": "200461008",
     "ItemName": "SALAME ITALIANO LAMINADO 1X1,6 KG"
   },
@@ -43332,10 +43304,6 @@
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
@@ -43550,10 +43518,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "100300006",
@@ -43806,5 +43770,41 @@
   {
     "ItemCode": "204300045",
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "400250001",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "400010013",
+    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400010023",
+    "ItemName": "RINZA 1 X 1 UN"
   }
 ]
