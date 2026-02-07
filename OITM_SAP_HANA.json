@@ -24320,10 +24320,6 @@
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
@@ -27218,10 +27214,6 @@
   {
     "ItemCode": "100303009",
     "ItemName": "JUGO CONCENTRADO NARANJA 1X900 ML"
-  },
-  {
-    "ItemCode": "100304042",
-    "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
   },
   {
     "ItemCode": "100350008",
@@ -33288,10 +33280,6 @@
     "ItemName": "LECHE ENTERA UHT 6x200 ml."
   },
   {
-    "ItemCode": "101009003",
-    "ItemName": "LECHE FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "101012004",
     "ItemName": "MILO EN POLVO 1X300 GR"
   },
@@ -34724,10 +34712,6 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
-    "ItemCode": "100351009",
-    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
-  },
-  {
     "ItemCode": "400100006",
     "ItemName": "BOLSAS ZIPLOC GRANDE 26x27 cm 1x20 un."
   },
@@ -34992,10 +34976,6 @@
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
   {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "200100003",
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
@@ -35058,10 +35038,6 @@
   {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
-  },
-  {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
     "ItemCode": "101200023",
@@ -36562,10 +36538,6 @@
   {
     "ItemCode": "101002010",
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
-  },
-  {
-    "ItemCode": "101009004",
-    "ItemName": "LECHE CHOCOLATE 6X200 CC"
   },
   {
     "ItemCode": "102560021",
@@ -38662,10 +38634,6 @@
   {
     "ItemCode": "304760305",
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "300157042",
@@ -42360,10 +42328,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
@@ -42688,10 +42652,6 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -42940,14 +42900,6 @@
     "ItemName": "KETCHUP JB 10X1 KG"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
@@ -43010,10 +42962,6 @@
   {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "101100021",
@@ -43372,10 +43320,6 @@
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
-    "ItemCode": "100753002",
-    "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
@@ -43522,10 +43466,6 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE BLANCA SOPROLE 12X1 LT."
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "101002004",
@@ -43806,5 +43746,65 @@
   {
     "ItemCode": "304760276",
     "ItemName": "PUNTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101009004",
+    "ItemName": "LECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "101009003",
+    "ItemName": "LECHE FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100351009",
+    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100304042",
+    "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
+  },
+  {
+    "ItemCode": "100753002",
+    "ItemName": "NUTELLA UNIDAD 1X350 GR."
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   }
 ]
