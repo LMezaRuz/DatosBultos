@@ -28356,10 +28356,6 @@
     "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "202820001",
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -35484,10 +35480,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100350013",
-    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
-  },
-  {
     "ItemCode": "200201006",
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
   },
@@ -38584,10 +38576,6 @@
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
   },
@@ -38830,10 +38818,6 @@
   {
     "ItemCode": "300158001",
     "ItemName": "YOGURT BATIDO SIN LACTOSA MORA 48 X125 GRS"
-  },
-  {
-    "ItemCode": "300158002",
-    "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
     "ItemCode": "204300076",
@@ -43252,10 +43236,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -43656,10 +43636,6 @@
     "ItemName": "QUESO MOZZARELLA PAMPA CHEESE BARRA KG (4,5 KG APROX.)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
@@ -43670,10 +43646,6 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "200250004",
@@ -43760,10 +43732,6 @@
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
-  },
-  {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
@@ -43806,5 +43774,37 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100350013",
+    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "300158002",
+    "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
