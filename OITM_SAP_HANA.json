@@ -32592,10 +32592,6 @@
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "101009015",
     "ItemName": "LECHE VAINILLA 6X200CC"
   },
@@ -32638,10 +32634,6 @@
   {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "102530001",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
     "ItemCode": "101150036",
@@ -38556,10 +38548,6 @@
     "ItemName": "SALSA BBQ UNIFOOD 12 UN X 1 KG"
   },
   {
-    "ItemCode": "101404005",
-    "ItemName": "TOMATE TRITURADO 6X3 KG"
-  },
-  {
     "ItemCode": "102630002",
     "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
   },
@@ -39830,14 +39818,6 @@
   {
     "ItemCode": "200051004",
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "304760302",
@@ -43806,5 +43786,25 @@
   {
     "ItemCode": "204150017",
     "ItemName": "PAN MOLDE MULTIGRANO SIN GLUTEN 4X400 GR"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "102530001",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101404005",
+    "ItemName": "TOMATE TRITURADO 6X3 KG"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   }
 ]
