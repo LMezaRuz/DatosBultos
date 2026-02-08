@@ -24384,10 +24384,6 @@
     "ItemName": "BARBACOA BBQ HEINZ DISPENSER 2 X 6,8 KG"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "101357003",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
@@ -34220,10 +34216,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "303850017",
-    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
-  },
-  {
     "ItemCode": "300152016",
     "ItemName": "MANTECA PROFESIONAL DELICIA 1X1 KG."
   },
@@ -35244,10 +35236,6 @@
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
@@ -35706,10 +35694,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "203510007",
-    "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
   },
   {
     "ItemCode": "101201032",
@@ -36194,10 +36178,6 @@
   {
     "ItemCode": "101354017",
     "ItemName": "MOSTAZA DIJON FUERTE 1X210 GR"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "101354016",
@@ -37966,10 +37946,6 @@
   {
     "ItemCode": "204530029",
     "ItemName": "PORCION SALMON ATLAN. C/PIEL STAN. 4,5-4,9 KG (APROX)(CAMANCHACA)"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "300156003",
@@ -43552,10 +43528,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -43644,10 +43616,6 @@
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
   {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
-  },
-  {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
@@ -43682,10 +43650,6 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "302890013",
-    "ItemName": "PEPPERONI LAMINADO 1X500 GR"
   },
   {
     "ItemCode": "101000001",
@@ -43796,15 +43760,51 @@
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
+  },
+  {
+    "ItemCode": "203510007",
+    "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "303850017",
+    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "302890013",
+    "ItemName": "PEPPERONI LAMINADO 1X500 GR"
   }
 ]
