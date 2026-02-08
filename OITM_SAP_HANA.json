@@ -33880,10 +33880,6 @@
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS  6X1,6 LT"
   },
   {
-    "ItemCode": "100302002",
-    "ItemName": "FANTA 6 X 1,5 LTS"
-  },
-  {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
@@ -33902,14 +33898,6 @@
   {
     "ItemCode": "100854003",
     "ItemName": "TIKA NATIVAS ANDINA SAL DE MAR 48X35 GR"
-  },
-  {
-    "ItemCode": "100302003",
-    "ItemName": "COCA COLA  6 X 1,5 LTS"
-  },
-  {
-    "ItemCode": "100302004",
-    "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
   },
   {
     "ItemCode": "100355024",
@@ -34052,10 +34040,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100302005",
-    "ItemName": "COCA COLA LIGHT 6 X 1,5 LTS"
-  },
-  {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
@@ -34072,20 +34056,12 @@
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100302006",
-    "ItemName": "SPRITE 6 X 1,5 LTS"
-  },
-  {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
   {
     "ItemCode": "101008005",
     "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "101452006",
@@ -38668,10 +38644,6 @@
     "ItemName": "LECHE CON CHOCOLATE SIN LACTOSA LONCO 12X1 LT"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "404680001",
     "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
   },
@@ -38894,10 +38866,6 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "304760329",
@@ -43048,10 +43016,6 @@
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "101355005",
     "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
   },
@@ -43496,10 +43460,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
   },
@@ -43806,5 +43766,45 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
+  },
+  {
+    "ItemCode": "100302002",
+    "ItemName": "FANTA 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302003",
+    "ItemName": "COCA COLA  6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302004",
+    "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302005",
+    "ItemName": "COCA COLA LIGHT 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302006",
+    "ItemName": "SPRITE 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   }
 ]
