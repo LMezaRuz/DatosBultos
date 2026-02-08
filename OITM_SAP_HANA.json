@@ -32096,10 +32096,6 @@
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
-    "ItemCode": "403400007",
-    "ItemName": "CAJA PAPAS KIDS DOGGIS 1X300 UN"
-  },
-  {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
@@ -32418,14 +32414,6 @@
   {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "101150047",
@@ -35292,10 +35280,6 @@
     "ItemName": "ESENCIA VAINILLA 1x100 cc"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
@@ -36012,10 +35996,6 @@
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "600001006",
     "ItemName": "UVA KG."
   },
@@ -36118,10 +36098,6 @@
   {
     "ItemCode": "600002009",
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
     "ItemCode": "103910032",
@@ -40120,10 +40096,6 @@
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
@@ -43806,5 +43778,33 @@
   {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403400007",
+    "ItemName": "CAJA PAPAS KIDS DOGGIS 1X300 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
   }
 ]
