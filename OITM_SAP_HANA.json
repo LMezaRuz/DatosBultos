@@ -24004,10 +24004,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "102680001",
-    "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
-  },
-  {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
@@ -31756,10 +31752,6 @@
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
   {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
@@ -31776,16 +31768,8 @@
     "ItemName": "LECHE FRUTILLA BAJA EN AZUCAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "400301032",
     "ItemName": "STICKER CHILI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
     "ItemCode": "200051028",
@@ -38152,14 +38136,6 @@
     "ItemName": "ACEITE DE SESAMO CON MARAVILLA CHEF 30X500 ML"
   },
   {
-    "ItemCode": "102680017",
-    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
-  },
-  {
-    "ItemCode": "102680018",
-    "ItemName": "PREPARADO HELADO CALO BLUE ICE 12X1 LT"
-  },
-  {
     "ItemCode": "102710015",
     "ItemName": "BEBIDA VEGETAL SOYA LONCOLECHE 6X1 LT"
   },
@@ -43806,5 +43782,29 @@
   {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "102680018",
+    "ItemName": "PREPARADO HELADO CALO BLUE ICE 12X1 LT"
+  },
+  {
+    "ItemCode": "102680017",
+    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "102680001",
+    "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
   }
 ]
