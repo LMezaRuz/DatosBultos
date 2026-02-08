@@ -27980,10 +27980,6 @@
     "ItemName": "ENTRAÑA AL VACIO CAT V PARAGUAY LOCAL (20 KG APROX)"
   },
   {
-    "ItemCode": "101352013",
-    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
-  },
-  {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
   },
@@ -35876,10 +35872,6 @@
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -42720,10 +42712,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -42758,10 +42746,6 @@
   {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "100202001",
@@ -43066,10 +43050,6 @@
   {
     "ItemCode": "104910021",
     "ItemName": "OBULATO REDONDO 9 CM 10X100 UN"
-  },
-  {
-    "ItemCode": "400250003",
-    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
   {
     "ItemCode": "400251003",
@@ -43440,10 +43420,6 @@
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
   {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
@@ -43796,15 +43772,39 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "400250003",
+    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
+  },
+  {
+    "ItemCode": "101352013",
+    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   }
 ]
