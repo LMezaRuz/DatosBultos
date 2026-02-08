@@ -27320,10 +27320,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   },
   {
-    "ItemCode": "101353033",
-    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
-  },
-  {
     "ItemCode": "400007012",
     "ItemName": "JABON ELEVATION LIQUIDO HAIR & BODY 6X1000ML (JA70003)(0601)"
   },
@@ -27434,10 +27430,6 @@
   {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "101150045",
@@ -28126,10 +28118,6 @@
   {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG"
   },
   {
     "ItemCode": "101100050",
@@ -42196,10 +42184,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "300403013",
     "ItemName": "QUESO CREMA CALO 10X1.36 KG"
   },
@@ -43124,10 +43108,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -43138,10 +43118,6 @@
   {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "200500079",
@@ -43234,10 +43210,6 @@
   {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "101352009",
@@ -43374,10 +43346,6 @@
   {
     "ItemCode": "101100016",
     "ItemName": "TALLARIN 87 1X5 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "101011001",
@@ -43564,10 +43532,6 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "203430006",
     "ItemName": "MIX FRUTOS ROJOS 10X1 KG"
   },
@@ -43586,10 +43550,6 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
   },
   {
     "ItemCode": "203210014",
@@ -43804,7 +43764,47 @@
     "ItemName": "MOSTAZA DIJON FUERTE 1X210 GR"
   },
   {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101353033",
+    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
   }
 ]
