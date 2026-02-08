@@ -32096,10 +32096,6 @@
     "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
@@ -38324,10 +38320,6 @@
     "ItemName": "SALSA BBQ UNIFOOD 12 UN X 1 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -39584,10 +39576,6 @@
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
-    "ItemCode": "300200001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
-  },
-  {
     "ItemCode": "204180025",
     "ItemName": "PAPAS PRE FRITAS 10 MM STAR FRITES 5X2 KG"
   },
@@ -39732,14 +39720,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
@@ -39778,10 +39758,6 @@
   {
     "ItemCode": "300156010",
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "202910044",
@@ -43500,10 +43476,6 @@
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -43806,5 +43778,33 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "300200001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
