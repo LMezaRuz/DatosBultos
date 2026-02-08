@@ -31296,10 +31296,6 @@
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "100151015",
     "ItemName": "CEREAL ZUCOSOS NESTLE 1X800GR"
   },
@@ -31730,10 +31726,6 @@
   {
     "ItemCode": "300405005",
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
-  },
-  {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
     "ItemCode": "300351003",
@@ -41840,10 +41832,6 @@
     "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
@@ -41974,10 +41962,6 @@
   {
     "ItemCode": "101402003",
     "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
-  },
-  {
-    "ItemCode": "204300054",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
   {
     "ItemCode": "101354007",
@@ -43516,22 +43500,6 @@
     "ItemName": "ATLANTIC SALMON IQF FILETE TRIM D (INDUSTRIAL) KG"
   },
   {
-    "ItemCode": "100300008",
-    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
-  },
-  {
-    "ItemCode": "100302006",
-    "ItemName": "SPRITE 6 X 1,5 LTS"
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "101200021",
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
@@ -43568,10 +43536,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -43594,10 +43558,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "304760316",
@@ -43708,10 +43668,6 @@
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -43806,5 +43762,49 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100300008",
+    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
+  },
+  {
+    "ItemCode": "100302006",
+    "ItemName": "SPRITE 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "204300054",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   }
 ]
