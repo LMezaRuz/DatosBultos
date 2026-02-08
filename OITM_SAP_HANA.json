@@ -41792,16 +41792,8 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "204150017",
     "ItemName": "PAN MOLDE MULTIGRANO SIN GLUTEN 4X400 GR"
-  },
-  {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
     "ItemCode": "102530001",
@@ -42568,10 +42560,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE BLANCA SOPROLE 12X1 LT."
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -42896,20 +42884,12 @@
     "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "103940009",
@@ -43216,10 +43196,6 @@
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -43356,10 +43332,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "202820005",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
@@ -43454,10 +43426,6 @@
   {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
     "ItemCode": "400010019",
@@ -43562,10 +43530,6 @@
   {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "101200021",
@@ -43772,10 +43736,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -43806,5 +43766,45 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE BLANCA SOPROLE 12X1 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
