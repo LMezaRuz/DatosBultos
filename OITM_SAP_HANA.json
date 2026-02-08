@@ -23496,10 +23496,6 @@
     "ItemName": "SALSA DE AJO GOURMET 24X165 CC"
   },
   {
-    "ItemCode": "104010018",
-    "ItemName": "SALSA DE OSTRA 12X510 GR"
-  },
-  {
     "ItemCode": "104070001",
     "ItemName": "PEPINILLO DILL LAMINADO UNIFOOD 6 X 1,7 KG"
   },
@@ -31736,10 +31732,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -31810,10 +31802,6 @@
   {
     "ItemCode": "400004006",
     "ItemName": "DETERGENTE ROPA BIO FRESCURA 1X 800 KG"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "101100052",
@@ -35160,10 +35148,6 @@
     "ItemName": "JAMON PAVO COCIDO LAMINADO 12x125 gr"
   },
   {
-    "ItemCode": "200100003",
-    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
-  },
-  {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
@@ -35478,10 +35462,6 @@
   {
     "ItemCode": "204300067",
     "ItemName": "MEDIA PECHUGA DESHUES. MARINADA DE POLLO INTERF. IMP. 1X12 KG"
-  },
-  {
-    "ItemCode": "100355011",
-    "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
   {
     "ItemCode": "100352004",
@@ -42424,10 +42404,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "300154012",
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
@@ -42974,10 +42950,6 @@
   {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "102630000",
@@ -43732,10 +43704,6 @@
     "ItemName": "KETCHUP VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
@@ -43806,5 +43774,37 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "104010018",
+    "ItemName": "SALSA DE OSTRA 12X510 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "100355011",
+    "ItemName": "SYRUP MENTA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200100003",
+    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   }
 ]
