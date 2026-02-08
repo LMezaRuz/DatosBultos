@@ -34440,10 +34440,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "400010014",
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
@@ -34982,10 +34978,6 @@
   {
     "ItemCode": "200051026",
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "400007009",
@@ -35638,10 +35630,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "204300009",
-    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
   },
   {
     "ItemCode": "200460014",
@@ -36372,10 +36360,6 @@
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -36614,10 +36598,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "100557002",
-    "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
     "ItemCode": "100356006",
@@ -37794,10 +37774,6 @@
   {
     "ItemCode": "103620000",
     "ItemName": "JABON ESPUMA 8X475 ML (JA70004)"
-  },
-  {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
     "ItemCode": "103880033",
@@ -39584,10 +39560,6 @@
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
   },
@@ -39624,10 +39596,6 @@
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -39642,10 +39610,6 @@
   {
     "ItemCode": "200305016",
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
     "ItemCode": "203210101",
@@ -39852,10 +39816,6 @@
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "102480010",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
   },
@@ -40042,10 +40002,6 @@
   {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
     "ItemCode": "304850010",
@@ -40400,10 +40356,6 @@
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
@@ -40414,10 +40366,6 @@
   {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "100251002",
@@ -43500,24 +43448,12 @@
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "400301075",
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "200500041",
@@ -43806,5 +43742,69 @@
   {
     "ItemCode": "302890013",
     "ItemName": "PEPPERONI LAMINADO 1X500 GR"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100557002",
+    "ItemName": "ALIÑO COMPLETO 1X250 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204300009",
+    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
