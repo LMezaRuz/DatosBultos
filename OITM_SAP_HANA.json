@@ -24272,10 +24272,6 @@
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "103810002",
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
@@ -24398,10 +24394,6 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "100852012",
@@ -32024,10 +32016,6 @@
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "400301072",
-    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
-  },
-  {
     "ItemCode": "100151020",
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
   },
@@ -32242,10 +32230,6 @@
   {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
     "ItemCode": "100250002",
@@ -38468,14 +38452,6 @@
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
   {
-    "ItemCode": "403250026",
-    "ItemName": "ESTUCHE PAPA MEDIANA BARRIO CHICKEN 1X1000 UN"
-  },
-  {
-    "ItemCode": "403250027",
-    "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
-  },
-  {
     "ItemCode": "304760307",
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -42904,10 +42880,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -43102,10 +43074,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
   {
     "ItemCode": "100101007",
@@ -43394,10 +43362,6 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "200250015",
@@ -43806,5 +43770,41 @@
   {
     "ItemCode": "304760341",
     "ItemName": "HUACHALOMO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "400301072",
+    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "403250026",
+    "ItemName": "ESTUCHE PAPA MEDIANA BARRIO CHICKEN 1X1000 UN"
+  },
+  {
+    "ItemCode": "403250027",
+    "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
   }
 ]
