@@ -35988,14 +35988,6 @@
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "300150001",
     "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
@@ -39326,10 +39318,6 @@
   {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "104600001",
@@ -43224,10 +43212,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -43254,14 +43238,6 @@
   {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
-  },
-  {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "100200003",
@@ -43672,10 +43648,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
@@ -43806,5 +43778,33 @@
   {
     "ItemCode": "104670082",
     "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
   }
 ]
