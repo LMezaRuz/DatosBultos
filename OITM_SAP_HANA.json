@@ -33648,10 +33648,6 @@
     "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "100905002",
     "ItemName": "SEMOLA 1x500 g."
   },
@@ -34848,10 +34844,6 @@
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
@@ -35402,10 +35394,6 @@
   {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "101303001",
@@ -43826,5 +43814,17 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   }
 ]
