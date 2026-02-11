@@ -22968,10 +22968,6 @@
     "ItemName": "COLUDA DE VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "103810004",
-    "ItemName": "DESINCRUSTANTE DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "303000002",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
@@ -27702,10 +27698,6 @@
   {
     "ItemCode": "203190009",
     "ItemName": "COSTILLAR DE CERDO BABY BACK"
-  },
-  {
-    "ItemCode": "104610006",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
     "ItemCode": "302890012",
@@ -34204,10 +34196,6 @@
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
@@ -34904,10 +34892,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
@@ -35130,10 +35114,6 @@
   {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "200307004",
@@ -35494,10 +35474,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "100558003",
@@ -39082,10 +39058,6 @@
   {
     "ItemCode": "303870008",
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "304850037",
@@ -43380,14 +43352,6 @@
     "ItemName": "MANGO KG."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -43826,5 +43790,41 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "103810004",
+    "ItemName": "DESINCRUSTANTE DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "104610006",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   }
 ]
