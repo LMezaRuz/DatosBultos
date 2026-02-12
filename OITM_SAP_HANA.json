@@ -31264,10 +31264,6 @@
     "ItemName": "ACEITE CHEF PEPITA UVA 30x500  GR"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300157029",
     "ItemName": "YOG. GRI OIKOS SABOR CHIMYA 48X110 CAJA"
   },
@@ -31522,10 +31518,6 @@
   {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100302029",
@@ -36132,10 +36124,6 @@
     "ItemName": "FILETE SALMON ATLAN. SIN PIEL INDUS. 15 KG (APROX)(CAMANCHACA)"
   },
   {
-    "ItemCode": "204530009",
-    "ItemName": "FILETE SALMON ATLANTICO CON PIEL CAJA 15 KG APROX (CAMANCHACA)"
-  },
-  {
     "ItemCode": "204530010",
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
@@ -36630,10 +36618,6 @@
   {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "304450018",
@@ -41356,10 +41340,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
-    "ItemCode": "200302029",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
@@ -41976,10 +41956,6 @@
     "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "203210090",
     "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
   },
@@ -42278,10 +42254,6 @@
   {
     "ItemCode": "204150018",
     "ItemName": "PAN DE QUESO HORNEADO 10X240 GR"
-  },
-  {
-    "ItemCode": "204180001",
-    "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
   },
   {
     "ItemCode": "204180023",
@@ -42996,20 +42968,12 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760301",
-    "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760302",
     "ItemName": "GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "304760303",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760304",
-    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "304760305",
@@ -43310,14 +43274,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "400102003",
-    "ItemName": "BROCHETAS 25 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
     "ItemCode": "400103008",
@@ -43830,5 +43786,49 @@
   {
     "ItemCode": "AFMQC0020",
     "ItemName": "MAQUINA DE GRANO LA CIMBALI 2 GRUPOS"
+  },
+  {
+    "ItemCode": "200302029",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "400102003",
+    "ItemName": "BROCHETAS 25 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "204180001",
+    "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
+  },
+  {
+    "ItemCode": "204530009",
+    "ItemName": "FILETE SALMON ATLANTICO CON PIEL CAJA 15 KG APROX (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "304760301",
+    "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760304",
+    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   }
 ]
