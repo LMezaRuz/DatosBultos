@@ -36940,10 +36940,6 @@
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
@@ -39644,10 +39640,6 @@
     "ItemName": "MANTECA PROFESIONAL DELICIA 1X1 KG."
   },
   {
-    "ItemCode": "101150077",
-    "ItemName": "CONDIMENTO CEBOLLA PIMENTON TOMMY BEANS 5 UN X 1 KG"
-  },
-  {
     "ItemCode": "101150078",
     "ItemName": "LAUREL MOLIDO 5 UN X 1 KG"
   },
@@ -39990,10 +39982,6 @@
   {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
-    "ItemCode": "101300002",
-    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
   {
     "ItemCode": "101300003",
@@ -42320,10 +42308,6 @@
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "202820016",
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
   },
@@ -43060,10 +43044,6 @@
     "ItemName": "PUNTA GANSO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760264",
-    "ItemName": "PLATEADA AL VACIO CAT-V BRASIL IMP. BOA CARNE 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760265",
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -43604,10 +43584,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "304760276",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
     "ItemCode": "103670004",
     "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
   },
@@ -43808,14 +43784,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -43826,10 +43794,6 @@
   {
     "ItemCode": "304760260",
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
     "ItemCode": "203190008",
@@ -43850,5 +43814,41 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "304760264",
+    "ItemName": "PLATEADA AL VACIO CAT-V BRASIL IMP. BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101150077",
+    "ItemName": "CONDIMENTO CEBOLLA PIMENTON TOMMY BEANS 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "304760276",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101300002",
+    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   }
 ]
