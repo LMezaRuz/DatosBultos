@@ -27976,14 +27976,6 @@
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
-    "ItemCode": "101355023",
-    "ItemName": "TINTA CALAMAR 1 X 90 GR"
-  },
-  {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
     "ItemCode": "204530004",
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
@@ -40648,10 +40640,6 @@
     "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
-  },
-  {
     "ItemCode": "203190049",
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
@@ -42616,10 +42604,6 @@
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "101403008",
     "ItemName": "PALMITOS RODAJAS WASIL 24X400"
   },
@@ -42662,10 +42646,6 @@
   {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "104010009",
@@ -42754,10 +42734,6 @@
   {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
   },
   {
     "ItemCode": "103760001",
@@ -43300,10 +43276,6 @@
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -43374,18 +43346,6 @@
   {
     "ItemCode": "204300045",
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
-  },
-  {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
     "ItemCode": "304760276",
@@ -43608,24 +43568,12 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "101008006",
@@ -43638,10 +43586,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101404002",
@@ -43850,5 +43794,61 @@
   {
     "ItemCode": "100350015",
     "ItemName": "CAPSULA SAP VERGNANO (ESPRESSO POINT)  1 X 100 UN"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "101355023",
+    "ItemName": "TINTA CALAMAR 1 X 90 GR"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
