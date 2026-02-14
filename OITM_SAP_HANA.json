@@ -35908,10 +35908,6 @@
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
     "ItemCode": "104420000",
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
@@ -36216,10 +36212,6 @@
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100654006",
     "ItemName": "PINA CUBITOS 24X560 WASIL"
   },
@@ -36254,14 +36246,6 @@
   {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES CALO 12X1 LT"
-  },
-  {
-    "ItemCode": "100701015",
-    "ItemName": "SOPA DE CARNE CON FIDEOS (REND 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
     "ItemCode": "101358003",
@@ -36538,10 +36522,6 @@
   {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100701008",
-    "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "100751054",
@@ -38258,10 +38238,6 @@
   {
     "ItemCode": "204140017",
     "ItemName": "PAN MOLDE MIGA INTEGRAL 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "202720034",
@@ -43560,10 +43536,6 @@
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -43684,10 +43656,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -43702,10 +43670,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "100900001",
@@ -43740,10 +43704,6 @@
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -43774,10 +43734,6 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "104540004",
@@ -43850,5 +43806,49 @@
   {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100701008",
+    "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100701015",
+    "ItemName": "SOPA DE CARNE CON FIDEOS (REND 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
   }
 ]
