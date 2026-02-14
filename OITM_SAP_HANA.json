@@ -23296,10 +23296,6 @@
     "ItemName": "GRANIZADO SABOR BLUE ICE 10X1 KG"
   },
   {
-    "ItemCode": "103180005",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 24X425 GRS"
-  },
-  {
     "ItemCode": "103640000",
     "ItemName": "JUGO ZUKO GO NARANJA 45X60 GR"
   },
@@ -34820,10 +34816,6 @@
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -36092,10 +36084,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "104670059",
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
@@ -36266,10 +36254,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
     "ItemCode": "101007015",
@@ -37626,10 +37610,6 @@
   {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
     "ItemCode": "LOG_104670097",
@@ -39866,10 +39846,6 @@
   {
     "ItemCode": "203210108",
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "203210014",
@@ -43424,10 +43400,6 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -43504,24 +43476,12 @@
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "101357003",
@@ -43540,32 +43500,16 @@
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "101353003",
     "ItemName": "MAYONESA HELLMANNS DOY PACK 12X670 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
   },
   {
     "ItemCode": "101355006",
@@ -43824,10 +43768,6 @@
     "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
@@ -43850,5 +43790,65 @@
   {
     "ItemCode": "304760112",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "103180005",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 24X425 GRS"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   }
 ]
