@@ -27288,10 +27288,6 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO TR 5X200 GR (5 KG)(MM)"
   },
   {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
   },
@@ -34224,10 +34220,6 @@
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
   {
-    "ItemCode": "100652001",
-    "ItemName": "MIFRUT MANZANA 36X90 GR"
-  },
-  {
     "ItemCode": "100151013",
     "ItemName": "CEREAL FITNESS 16X630 GR"
   },
@@ -34710,10 +34702,6 @@
   {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
     "ItemCode": "300350003",
@@ -35480,10 +35468,6 @@
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -35906,10 +35890,6 @@
   {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
     "ItemCode": "303870012",
@@ -36714,10 +36694,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
   },
   {
     "ItemCode": "101007015",
@@ -37926,10 +37902,6 @@
   {
     "ItemCode": "100302037",
     "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "100302028",
@@ -40228,10 +40200,6 @@
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
@@ -40428,10 +40396,6 @@
     "ItemName": "SYRUP CANELA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "203210090",
     "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
   },
@@ -40578,10 +40542,6 @@
   {
     "ItemCode": "200301002",
     "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
-  },
-  {
-    "ItemCode": "100801002",
-    "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
     "ItemCode": "200304007",
@@ -43850,5 +43810,45 @@
   {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "100801002",
+    "ItemName": "PASAS RUBIA 1X250 GR"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100652001",
+    "ItemName": "MIFRUT MANZANA 36X90 GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
   }
 ]
