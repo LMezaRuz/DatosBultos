@@ -22716,10 +22716,6 @@
     "ItemName": "TE TWININGS ROOIBOS 1X25 UN"
   },
   {
-    "ItemCode": "104670051",
-    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X50 UN"
-  },
-  {
     "ItemCode": "200100077",
     "ItemName": "HELADO PUDU YOGHURT CHERRY 1X460 ML"
   },
@@ -24186,10 +24182,6 @@
   {
     "ItemCode": "103070013",
     "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
-  },
-  {
-    "ItemCode": "104670082",
-    "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
   },
   {
     "ItemCode": "200304002",
@@ -32240,10 +32232,6 @@
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "100353005",
-    "ItemName": "INFUSION MANZANILLA 1X20 UN"
-  },
-  {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
   },
@@ -34786,10 +34774,6 @@
   {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "102600001",
@@ -38936,10 +38920,6 @@
     "ItemName": "GYOZAS DE CERDO ARTESANAL 5X30 UN"
   },
   {
-    "ItemCode": "104670081",
-    "ItemName": "TE LIPTON GREEN INTENSE MINT 12 X 20 BLS"
-  },
-  {
     "ItemCode": "202990000",
     "ItemName": "CHURROS ESPAÑOL CONGELADO 7X20X22 GR"
   },
@@ -39222,10 +39202,6 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "104670078",
-    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
   },
   {
     "ItemCode": "104670079",
@@ -40460,10 +40436,6 @@
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -40502,10 +40474,6 @@
   {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "200003002",
@@ -43850,5 +43818,37 @@
   {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670051",
+    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X50 UN"
+  },
+  {
+    "ItemCode": "104670081",
+    "ItemName": "TE LIPTON GREEN INTENSE MINT 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "104670082",
+    "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "104670078",
+    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "100353005",
+    "ItemName": "INFUSION MANZANILLA 1X20 UN"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
