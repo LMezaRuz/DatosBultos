@@ -24116,10 +24116,6 @@
     "ItemName": "CAJA CHICA LOVDO GYN 1 X 50 UN"
   },
   {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
-  },
-  {
     "ItemCode": "400301041",
     "ItemName": "CAJA DELIVERY COSTILLITAS MAMUT 1 X 100 UN"
   },
@@ -32064,10 +32060,6 @@
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
   {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
   },
@@ -35030,10 +35022,6 @@
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "101150040",
@@ -38576,10 +38564,6 @@
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "204530007",
-    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
-  },
-  {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
@@ -39590,10 +39574,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
     "ItemCode": "100101004",
@@ -42952,10 +42932,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "100152003",
-    "ItemName": "SEMILLA DE CHIA 1X1 KG."
-  },
-  {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
@@ -43098,10 +43074,6 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "102500002",
@@ -43428,10 +43400,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
@@ -43530,10 +43498,6 @@
   {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
-    "ItemCode": "100601001",
-    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
   {
     "ItemCode": "103530000",
@@ -43850,5 +43814,41 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100601001",
+    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
+  },
+  {
+    "ItemCode": "204530007",
+    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "100152003",
+    "ItemName": "SEMILLA DE CHIA 1X1 KG."
   }
 ]
