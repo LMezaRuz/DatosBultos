@@ -23788,10 +23788,6 @@
     "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
   {
-    "ItemCode": "103070009",
-    "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
-  },
-  {
     "ItemCode": "203430013",
     "ItemName": "PALTA EN GAJOS RIO ALTO 5X1 KG."
   },
@@ -24286,10 +24282,6 @@
   {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "101403005",
@@ -28440,10 +28432,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "102480007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
@@ -32440,10 +32428,6 @@
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "400005009",
-    "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "203210117",
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -35842,10 +35826,6 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "400001004",
@@ -40148,10 +40128,6 @@
     "ItemName": "PUNTA GANSO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -43612,16 +43588,8 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "100050008",
@@ -43850,5 +43818,37 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400005009",
+    "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "103070009",
+    "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   }
 ]
