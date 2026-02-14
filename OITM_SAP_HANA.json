@@ -24516,10 +24516,6 @@
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
   {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
-  },
-  {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
@@ -32660,10 +32656,6 @@
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
   {
-    "ItemCode": "100651005",
-    "ItemName": "DURAZNOS EN MITADES 1X3 KG."
-  },
-  {
     "ItemCode": "100552003",
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
@@ -33980,10 +33972,6 @@
     "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
-    "ItemCode": "100802001",
-    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
     "ItemCode": "101009041",
     "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
   },
@@ -34952,10 +34940,6 @@
     "ItemName": "SPAGUETTI 1X5 KG"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "204380022",
     "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   },
@@ -35436,10 +35420,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "302890025",
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
@@ -35454,10 +35434,6 @@
   {
     "ItemCode": "100356018",
     "ItemName": "TE VERDE PREMIUM 1X50 UN"
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "100353004",
@@ -36086,10 +36062,6 @@
   {
     "ItemCode": "100352004",
     "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
   },
   {
     "ItemCode": "104670066",
@@ -43840,15 +43812,43 @@
     "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
   },
   {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "100651005",
+    "ItemName": "DURAZNOS EN MITADES 1X3 KG."
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE DE ALMENDRAS ORASI 12X1 LT"
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100802001",
+    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   }
 ]
