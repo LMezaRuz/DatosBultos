@@ -32432,10 +32432,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "300353006",
-    "ItemName": "POSTA ROSADA CAT V BRASIL LOCAL (20 KG APROX)"
-  },
-  {
     "ItemCode": "203210117",
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -35748,10 +35744,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "300353053",
-    "ItemName": "POSTA ROSADA KG (NV)"
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -38544,10 +38536,6 @@
     "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
@@ -39258,10 +39246,6 @@
   {
     "ItemCode": "304760266",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
     "ItemCode": "100202016",
@@ -43304,10 +43288,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
@@ -43464,10 +43444,6 @@
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
@@ -43606,10 +43582,6 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101353019",
@@ -43764,10 +43736,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
   },
@@ -43812,14 +43780,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760343",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
@@ -43850,5 +43810,45 @@
   {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "304760343",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "300353053",
+    "ItemName": "POSTA ROSADA KG (NV)"
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "300353006",
+    "ItemName": "POSTA ROSADA CAT V BRASIL LOCAL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
