@@ -35260,10 +35260,6 @@
     "ItemName": "YOGURT BATIFRUT 36X165 GR"
   },
   {
-    "ItemCode": "101009017",
-    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "300353069",
     "ItemName": "POLLO GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -35900,14 +35896,6 @@
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE CHOCOLATE LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009014",
-    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "101009015",
     "ItemName": "LECHE VAINILLA 6X200CC"
   },
@@ -36178,10 +36166,6 @@
   {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100751052",
@@ -38520,10 +38504,6 @@
     "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "104670068",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 12X20 BLS"
   },
@@ -38622,10 +38602,6 @@
   {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "203210088",
@@ -39050,10 +39026,6 @@
   {
     "ItemCode": "200051020",
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "103180001",
@@ -43660,10 +43632,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -43850,5 +43818,37 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "101009014",
+    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009017",
+    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE CHOCOLATE LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   }
 ]
