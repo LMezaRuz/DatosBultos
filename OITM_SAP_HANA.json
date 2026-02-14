@@ -23680,10 +23680,6 @@
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "101354022",
-    "ItemName": "MOSTAZA HEINZ SACHET 500X6 GR"
-  },
-  {
     "ItemCode": "100750011",
     "ItemName": "MANJAR CALO PASTELETO ARTESANAL 2X5KG"
   },
@@ -27262,10 +27258,6 @@
   {
     "ItemCode": "101351002",
     "ItemName": "AJI JB SACHET 528X8 GR"
-  },
-  {
-    "ItemCode": "101352005",
-    "ItemName": "KETCHUP JB SACHET 528X8 GR"
   },
   {
     "ItemCode": "101354011",
@@ -35024,10 +35016,6 @@
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
   {
-    "ItemCode": "102560016",
-    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "100558001",
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
   },
@@ -36634,10 +36622,6 @@
   {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "304760302",
@@ -38482,10 +38466,6 @@
   {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
-  },
-  {
-    "ItemCode": "101353009",
-    "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
   },
   {
     "ItemCode": "101100001",
@@ -40502,10 +40482,6 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "101100064",
@@ -43850,5 +43826,29 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352005",
+    "ItemName": "KETCHUP JB SACHET 528X8 GR"
+  },
+  {
+    "ItemCode": "101354022",
+    "ItemName": "MOSTAZA HEINZ SACHET 500X6 GR"
+  },
+  {
+    "ItemCode": "102560016",
+    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101353009",
+    "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
   }
 ]
