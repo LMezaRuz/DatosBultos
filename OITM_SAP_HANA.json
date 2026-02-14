@@ -32012,10 +32012,6 @@
     "ItemName": "CONDIMENTO CAJUN GYN 5 UN X 1 KG"
   },
   {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "300157036",
     "ItemName": "YOG. GRI OIKOS TROZO COCO 48X110 CAJA"
   },
@@ -32626,14 +32622,6 @@
   {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "303880000",
-    "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
-  },
-  {
-    "ItemCode": "101006001",
-    "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
   },
   {
     "ItemCode": "101100033",
@@ -35918,10 +35906,6 @@
   {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
-    "ItemCode": "303850010",
-    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   },
   {
     "ItemCode": "100002008",
@@ -39428,10 +39412,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "103880029",
     "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
   },
@@ -39954,10 +39934,6 @@
   {
     "ItemCode": "100751047",
     "ItemName": "MERMELADA DE DAMASCO PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "300404006",
@@ -43508,10 +43484,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
   },
@@ -43850,5 +43822,33 @@
   {
     "ItemCode": "202730006",
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
+  },
+  {
+    "ItemCode": "303880000",
+    "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "303850010",
+    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
+  },
+  {
+    "ItemCode": "101006001",
+    "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   }
 ]
