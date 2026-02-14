@@ -23552,10 +23552,6 @@
     "ItemName": "LOMO LISO PORCIONADO 250G (6 BOLSAS X 4 UN) (MM)"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "200453031",
     "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
   },
@@ -32468,10 +32464,6 @@
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100558003",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
@@ -34568,10 +34560,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "202730063",
     "ItemName": "DONUT GLASEADA 72 X 52 GR"
   },
@@ -34814,10 +34802,6 @@
   {
     "ItemCode": "101200018",
     "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100752001",
@@ -35872,10 +35856,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -36442,10 +36422,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "100102012",
@@ -40300,10 +40276,6 @@
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "204180001",
-    "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -40390,10 +40362,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100101017",
@@ -40524,10 +40492,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -40554,10 +40518,6 @@
   {
     "ItemCode": "304420007",
     "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100905001",
@@ -40662,10 +40622,6 @@
   {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "200003002",
@@ -43850,5 +43806,49 @@
   {
     "ItemCode": "400252005",
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "204180001",
+    "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   }
 ]
