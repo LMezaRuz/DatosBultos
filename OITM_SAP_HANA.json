@@ -32328,20 +32328,12 @@
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "200203008",
@@ -34476,10 +34468,6 @@
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
@@ -36246,10 +36234,6 @@
   {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "101007015",
@@ -39782,10 +39766,6 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "200051006",
@@ -43380,10 +43360,6 @@
     "ItemName": "MANI SALADO 1X1 KG"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -43428,10 +43404,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
@@ -43450,10 +43422,6 @@
   {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "103880017",
@@ -43622,10 +43590,6 @@
   {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
     "ItemCode": "400011001",
@@ -43844,11 +43808,47 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   }
 ]
