@@ -32092,10 +32092,6 @@
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
@@ -32222,10 +32218,6 @@
   {
     "ItemCode": "400301070",
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "300001003",
@@ -34200,10 +34192,6 @@
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
   {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
     "ItemCode": "100700003",
     "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -35526,10 +35514,6 @@
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
     "ItemCode": "200456031",
@@ -39344,10 +39328,6 @@
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "100751049",
     "ItemName": "MERMELADA DE FRUTILLA PORCION 192X20 GR."
   },
@@ -42824,10 +42804,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
@@ -43112,10 +43088,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "100350015",
     "ItemName": "CAPSULA SAP VERGNANO (ESPRESSO POINT)  1 X 100 UN"
   },
@@ -43126,10 +43098,6 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
-    "ItemCode": "101402001",
-    "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
   },
   {
     "ItemCode": "200500003",
@@ -43388,10 +43356,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -43566,10 +43530,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101354005",
@@ -43850,5 +43810,45 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101402001",
+    "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
   }
 ]
