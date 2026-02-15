@@ -28072,10 +28072,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
@@ -28406,10 +28402,6 @@
   {
     "ItemCode": "103070010",
     "ItemName": "CUARTOS DE ALCACHOFAS SMART CHOICE 6 X 2.5 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "203430014",
@@ -32096,10 +32088,6 @@
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "400301047",
-    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
     "ItemCode": "300157049",
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
@@ -35252,10 +35240,6 @@
     "ItemName": "PULPA DE FRAMBUESA C/PEPA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "100800002",
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
@@ -35574,10 +35558,6 @@
   {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
     "ItemCode": "101305001",
@@ -36352,10 +36332,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -36398,10 +36374,6 @@
   {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
     "ItemCode": "300351005",
@@ -39496,10 +39468,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "104010039",
-    "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
-  },
-  {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
   },
@@ -39870,10 +39838,6 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
   {
     "ItemCode": "204710001",
@@ -43580,22 +43544,6 @@
     "ItemName": "ASADO CARNICERO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "400104014",
-    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
-  },
-  {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
@@ -43732,10 +43680,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "101354002",
     "ItemName": "MOSTAZA SACHET CAROZZI 500X8 GR."
   },
@@ -43850,5 +43794,61 @@
   {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "400104014",
+    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "400301047",
+    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "104010039",
+    "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   }
 ]
