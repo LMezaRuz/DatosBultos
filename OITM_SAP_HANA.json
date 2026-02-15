@@ -24320,10 +24320,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "304760358",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -37648,10 +37644,6 @@
     "ItemName": "SUCEDANEO QUESO CHEDDAR LAMINADO LORELEY 2X1,92 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "LOG_104670097",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 100 BLS"
   },
@@ -39194,10 +39186,6 @@
   {
     "ItemCode": "102600001",
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "103520002",
@@ -43320,10 +43308,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
   {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -43424,10 +43408,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -43498,10 +43478,6 @@
   {
     "ItemCode": "203210115",
     "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "300403009",
@@ -43604,10 +43580,6 @@
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "400252005",
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
@@ -43622,10 +43594,6 @@
   {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "101008003",
@@ -43670,14 +43638,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "100102004",
@@ -43848,7 +43808,47 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
