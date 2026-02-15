@@ -24148,10 +24148,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
@@ -36152,10 +36148,6 @@
     "ItemName": "JAMON PIERNA LAMINADO MODINGER 1x150 g."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
-  },
-  {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
   },
@@ -36626,10 +36618,6 @@
   {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100751054",
@@ -38790,10 +38778,6 @@
   {
     "ItemCode": "204090009",
     "ItemName": "ALMEJA JULIANA 24X500 GR"
-  },
-  {
-    "ItemCode": "304760348",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "304760355",
@@ -43688,10 +43672,6 @@
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -43850,5 +43830,25 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE BLANCA COLUN 12X1 LT."
+  },
+  {
+    "ItemCode": "304760348",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   }
 ]
