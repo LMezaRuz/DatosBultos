@@ -23372,10 +23372,6 @@
     "ItemName": "SOBRE DE PAPAS FRITAS BCH 1X4000 UN"
   },
   {
-    "ItemCode": "203230005",
-    "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "AFACC0002",
     "ItemName": "MOLINILLO TRANQUILO TRON NEGRO 230/50"
   },
@@ -32216,10 +32212,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
     "ItemCode": "101201036",
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
@@ -34426,10 +34418,6 @@
   {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100250006",
@@ -42528,10 +42516,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
@@ -43564,10 +43548,6 @@
     "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "203230002",
-    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -43850,5 +43830,25 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203230002",
+    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "203230005",
+    "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   }
 ]
