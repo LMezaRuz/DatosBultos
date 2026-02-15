@@ -38840,10 +38840,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO 15X400 GR"
-  },
-  {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
   },
@@ -42040,10 +42036,6 @@
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
@@ -42192,10 +42184,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "102680017",
     "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
   },
@@ -42338,10 +42326,6 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "103830005",
@@ -43756,10 +43740,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -43840,15 +43820,35 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200305016",
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
   {
     "ItemCode": "304760136",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO 15X400 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
