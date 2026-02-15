@@ -23320,10 +23320,6 @@
     "ItemName": "GRANIZADO SABOR FRAMBUESA 10X1 KG"
   },
   {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
     "ItemCode": "102710011",
     "ItemName": "BEBIDA VEGETAL DE ALMENDRA ORASI BARISTA 12 X 1 LT"
   },
@@ -32520,10 +32516,6 @@
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "203210117",
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -32642,10 +32634,6 @@
   {
     "ItemCode": "101100033",
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
-  },
-  {
-    "ItemCode": "101100043",
-    "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
   {
     "ItemCode": "303870004",
@@ -34668,10 +34656,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "300353053",
     "ItemName": "POSTA ROSADA KG (NV)"
   },
@@ -35224,10 +35208,6 @@
     "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
@@ -35714,10 +35694,6 @@
   {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "304760112",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "100302005",
@@ -38120,10 +38096,6 @@
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
   {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
-  },
-  {
     "ItemCode": "403040000",
     "ItemName": "VASO DE PAPEL KIMBO 25X40X8 OZ"
   },
@@ -39488,10 +39460,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "200302028",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "300157012",
     "ItemName": "YOGURT FRAMBUESA BATIDO SOPROLE 1X120 GR."
   },
@@ -40302,10 +40270,6 @@
   {
     "ItemCode": "400050001",
     "ItemName": "CARBON PREMIUM 2KL"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "300351012",
@@ -43850,5 +43814,41 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "101100043",
+    "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "304760112",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "200302028",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   }
 ]
