@@ -28252,10 +28252,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -32084,14 +32080,6 @@
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
     "ItemCode": "400301035",
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
@@ -32210,10 +32198,6 @@
   {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
     "ItemCode": "300153014",
@@ -35450,10 +35434,6 @@
   {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "101305007",
@@ -43384,10 +43364,6 @@
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
-    "ItemCode": "400301047",
-    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -43680,10 +43656,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -43720,36 +43692,16 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "300200001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "304490000",
@@ -43850,5 +43802,53 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "400301047",
+    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
