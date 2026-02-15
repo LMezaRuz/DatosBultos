@@ -43028,10 +43028,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100854013",
     "ItemName": "TIKA CHILOE  48 UN X 35 GRS"
   },
@@ -43322,10 +43318,6 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "300001002",
@@ -43836,10 +43828,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
-  },
-  {
     "ItemCode": "204150013",
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
@@ -43850,5 +43838,17 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   }
 ]
