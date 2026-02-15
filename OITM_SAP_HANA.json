@@ -24012,10 +24012,6 @@
     "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
   },
   {
-    "ItemCode": "103250002",
-    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
-  },
-  {
     "ItemCode": "204090002",
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
@@ -28394,10 +28390,6 @@
   {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "104190000",
-    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
   {
     "ItemCode": "204790004",
@@ -34388,10 +34380,6 @@
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
   {
-    "ItemCode": "400005007",
-    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
-  },
-  {
     "ItemCode": "100300013",
     "ItemName": "AGUA MINERAL CON GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
@@ -34658,10 +34646,6 @@
   {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
     "ItemCode": "101303005",
@@ -35968,10 +35952,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "200100003",
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
@@ -35986,10 +35966,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
     "ItemCode": "200308001",
@@ -38250,10 +38226,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
   {
     "ItemCode": "304760293",
@@ -43344,14 +43316,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "102630000",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
@@ -43390,10 +43354,6 @@
   {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "304460000",
@@ -43584,10 +43544,6 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -43682,10 +43638,6 @@
   {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "101352009",
@@ -43850,5 +43802,53 @@
   {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "104190000",
+    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "400005007",
+    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "103250002",
+    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
   }
 ]
