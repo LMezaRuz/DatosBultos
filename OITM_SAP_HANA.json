@@ -33812,10 +33812,6 @@
     "ItemName": "BAGUETTE MULTICEREAL PRECOCIDO 50X140 GR"
   },
   {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -37436,10 +37432,6 @@
     "ItemName": "AZUCAR FLOR IANSA 1X25 KG"
   },
   {
-    "ItemCode": "203230001",
-    "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
-  },
-  {
     "ItemCode": "200462119",
     "ItemName": "LOMO VETADO PORCIONADO 250G (6 BOLSAS X 4 UN) (MM)"
   },
@@ -38244,10 +38236,6 @@
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
-    "ItemCode": "203230000",
-    "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
-  },
-  {
     "ItemCode": "404600006",
     "ItemName": "SERVILLETA XPRESSNAP BLANCA SIGNATURE 12X500 UN SE70056"
   },
@@ -38442,10 +38430,6 @@
   {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
     "ItemCode": "104210025",
@@ -38684,10 +38668,6 @@
     "ItemName": "HABAS 15X1 KG"
   },
   {
-    "ItemCode": "203230002",
-    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
-  },
-  {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
@@ -38762,10 +38742,6 @@
   {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "101350004",
@@ -42976,10 +42952,6 @@
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -43358,10 +43330,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "100901004",
@@ -43850,5 +43818,37 @@
   {
     "ItemCode": "100355046",
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "203230001",
+    "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "203230000",
+    "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "203230002",
+    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   }
 ]
