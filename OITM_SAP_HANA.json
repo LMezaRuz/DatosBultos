@@ -35292,10 +35292,6 @@
     "ItemName": "AJI PEBRE TRAVERSO PET 24 X 350 GR"
   },
   {
-    "ItemCode": "101200004",
-    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
-  },
-  {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30 UN X 400 GR"
   },
@@ -39132,10 +39128,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
@@ -39564,10 +39556,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -39626,10 +39614,6 @@
   {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
     "ItemCode": "300156002",
@@ -39848,20 +39832,12 @@
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "304420007",
     "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
   },
   {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "100902007",
@@ -43028,14 +43004,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "101200002",
-    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200006",
-    "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101200005",
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -43216,10 +43184,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -43328,10 +43292,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "100654003",
-    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
@@ -43390,10 +43350,6 @@
   {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100101017",
@@ -43844,11 +43800,55 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+    "ItemCode": "101200004",
+    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
+  },
+  {
+    "ItemCode": "101200006",
+    "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200002",
+    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "100654003",
+    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   }
 ]
