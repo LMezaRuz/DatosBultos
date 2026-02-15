@@ -42756,10 +42756,6 @@
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -43126,10 +43122,6 @@
   {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
-  },
-  {
-    "ItemCode": "300403009",
-    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
     "ItemCode": "304430007",
@@ -43808,26 +43800,6 @@
     "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
   },
   {
-    "ItemCode": "304760349",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760343",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760361",
-    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760348",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760238",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -43850,5 +43822,33 @@
   {
     "ItemCode": "304760346",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300403009",
+    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
+  },
+  {
+    "ItemCode": "304760349",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760343",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760361",
+    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760348",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   }
 ]
