@@ -24108,10 +24108,6 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "400301020",
-    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
-  },
-  {
     "ItemCode": "400301025",
     "ItemName": "CAJA CHICA LOVDO GYN 1 X 50 UN"
   },
@@ -34328,10 +34324,6 @@
     "ItemName": "LOMO VETADO EN TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760346",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
@@ -34758,10 +34750,6 @@
   {
     "ItemCode": "100351009",
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
-  },
-  {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
   {
     "ItemCode": "200454023",
@@ -35556,10 +35544,6 @@
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
   },
@@ -35618,10 +35602,6 @@
   {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "300154004",
@@ -42948,20 +42928,12 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "103480029",
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
   {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "202910045",
@@ -43848,7 +43820,35 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
+    "ItemCode": "304760346",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "400301020",
+    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   }
 ]
