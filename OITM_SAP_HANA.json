@@ -24332,10 +24332,6 @@
     "ItemName": "PALMITO RODAJA 24 X 400 GRS"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "204140008",
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
   },
@@ -27298,10 +27294,6 @@
   {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
-  },
-  {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
     "ItemCode": "200100034",
@@ -32260,10 +32252,6 @@
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
   },
   {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
@@ -32496,10 +32484,6 @@
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
-    "ItemCode": "101008007",
-    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "103070009",
     "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
   },
@@ -32658,10 +32642,6 @@
   {
     "ItemCode": "204790000",
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
-  },
-  {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
     "ItemCode": "204090006",
@@ -40624,10 +40604,6 @@
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
   {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
-  },
-  {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
@@ -43850,5 +43826,29 @@
   {
     "ItemCode": "202730012",
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101008007",
+    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
   }
 ]
