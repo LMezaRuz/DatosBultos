@@ -28068,10 +28068,6 @@
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
   },
   {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
-  },
-  {
     "ItemCode": "200100011",
     "ItemName": "HELADO SAN FCO. FRAMBUESA (AGUA) 1 X 4,8 LTS"
   },
@@ -36652,10 +36648,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "101007015",
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
   },
@@ -36742,10 +36734,6 @@
   {
     "ItemCode": "202730056",
     "ItemName": "BROWNIE CON OREO 1800 GR (24 PORCIONES)"
-  },
-  {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
   {
     "ItemCode": "202730026",
@@ -37866,10 +37854,6 @@
   {
     "ItemCode": "102970000",
     "ItemName": "CHOCOLATE NEUCOBER BLANCO 29% MONEDAS 6X1 KG"
-  },
-  {
-    "ItemCode": "102970003",
-    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
   {
     "ItemCode": "300157011",
@@ -39706,10 +39690,6 @@
   {
     "ItemCode": "304450017",
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
-  },
-  {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
   {
     "ItemCode": "102480001",
@@ -43850,5 +43830,25 @@
   {
     "ItemCode": "304450006",
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "102970003",
+    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   }
 ]
