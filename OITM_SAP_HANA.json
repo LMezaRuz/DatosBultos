@@ -35240,10 +35240,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -43516,10 +43512,6 @@
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -43752,18 +43744,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -43776,16 +43756,8 @@
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "100850015",
@@ -43844,11 +43816,39 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA EN BOLSA NESTLE 3X6 KG."
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   }
 ]
