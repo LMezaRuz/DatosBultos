@@ -23892,10 +23892,6 @@
     "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "102480008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
-  },
-  {
     "ItemCode": "104290005",
     "ItemName": "CREMA TOMATE WASIL 16X380 G"
   },
@@ -27956,10 +27952,6 @@
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
   {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
   },
@@ -31560,10 +31552,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
-    "ItemCode": "200462002",
-    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -34444,10 +34432,6 @@
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -35438,10 +35422,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "100751011",
-    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
   {
     "ItemCode": "101201026",
@@ -37704,10 +37684,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG"
   },
   {
-    "ItemCode": "103480030",
-    "ItemName": "GALLETA BISCOFF LOTUS DULCE 10X250 GR"
-  },
-  {
     "ItemCode": "103480031",
     "ItemName": "GALLETA BISCOFF LOTUS DULCE 12X124 GR"
   },
@@ -38278,10 +38254,6 @@
   {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "303870008",
-    "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
   },
   {
     "ItemCode": "103540000",
@@ -42108,10 +42080,6 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "100751012",
-    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
-  },
-  {
     "ItemCode": "101357003",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
@@ -43512,10 +43480,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -43712,10 +43676,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "200500053",
-    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
@@ -43808,10 +43768,6 @@
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -43850,5 +43806,49 @@
   {
     "ItemCode": "203190006",
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100751012",
+    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100751011",
+    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
+  },
+  {
+    "ItemCode": "200500053",
+    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "102480008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
+  },
+  {
+    "ItemCode": "103480030",
+    "ItemName": "GALLETA BISCOFF LOTUS DULCE 10X250 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "303870008",
+    "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
+  },
+  {
+    "ItemCode": "200462002",
+    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   }
 ]
