@@ -23928,10 +23928,6 @@
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
   {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "103750001",
     "ItemName": "LECHE MOMENTS MOCACCINO 12X1 LT"
   },
@@ -23986,10 +23982,6 @@
   {
     "ItemCode": "200456050",
     "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "100304060",
@@ -27998,14 +27990,6 @@
   {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "104620001",
-    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
     "ItemCode": "202730003",
@@ -36380,10 +36364,6 @@
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
@@ -43696,10 +43676,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -43844,11 +43820,35 @@
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "104190001",
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "104620001",
+    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   }
 ]
