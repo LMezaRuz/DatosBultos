@@ -35860,10 +35860,6 @@
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
   {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
@@ -36226,10 +36222,6 @@
   {
     "ItemCode": "100303002",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "101201013",
-    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "103440000",
@@ -38924,10 +38916,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "304440012",
     "ItemName": "QUESO GAUDA EN BARRA NOAL (3,7 KG APROX)"
   },
@@ -39646,10 +39634,6 @@
   {
     "ItemCode": "100852012",
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "100750008",
@@ -43196,22 +43180,6 @@
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -43356,10 +43324,6 @@
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
     "ItemCode": "101150075",
     "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
   },
@@ -43438,10 +43402,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "300250001",
@@ -43998,5 +43958,45 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "101201013",
+    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   }
 ]
