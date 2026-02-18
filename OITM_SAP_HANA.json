@@ -28212,10 +28212,6 @@
     "ItemName": "MANTECA BATERKRIM VEGETAL 1X20 KG"
   },
   {
-    "ItemCode": "100852019",
-    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
     "ItemCode": "100852011",
     "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
@@ -28378,10 +28374,6 @@
   {
     "ItemCode": "103910027",
     "ItemName": "MERMELADA MORA WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
     "ItemCode": "203190012",
@@ -31636,10 +31628,6 @@
     "ItemName": "MERMELADA DE GUINDA 1X250 GR"
   },
   {
-    "ItemCode": "100751004",
-    "ItemName": "MERMELADA DE MORA 1X250 GR"
-  },
-  {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
@@ -34154,10 +34142,6 @@
   {
     "ItemCode": "400102002",
     "ItemName": "PALOS PARA SUSHI 1X100 UN."
-  },
-  {
-    "ItemCode": "100751006",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
     "ItemCode": "100701013",
@@ -43264,38 +43248,6 @@
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
-    "ItemCode": "202820016",
-    "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
-  },
-  {
-    "ItemCode": "200302017",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
-  },
-  {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -43310,10 +43262,6 @@
   {
     "ItemCode": "304760303",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "101303001",
@@ -43344,10 +43292,6 @@
     "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -43358,10 +43302,6 @@
   {
     "ItemCode": "203210115",
     "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
-  },
-  {
-    "ItemCode": "200455001",
-    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
     "ItemCode": "203210111",
@@ -43390,10 +43330,6 @@
   {
     "ItemCode": "104040014",
     "ItemName": "ACHIOTE EN PASTA 60X100"
-  },
-  {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
     "ItemCode": "101250001",
@@ -43998,5 +43934,69 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "202820016",
+    "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
+  },
+  {
+    "ItemCode": "200302017",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100751004",
+    "ItemName": "MERMELADA DE MORA 1X250 GR"
+  },
+  {
+    "ItemCode": "100751006",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
+  },
+  {
+    "ItemCode": "100852019",
+    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455001",
+    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   }
 ]
