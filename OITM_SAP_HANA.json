@@ -43500,20 +43500,8 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "102520000",
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "100101010",
@@ -43984,6 +43972,14 @@
     "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
   },
   {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
     "ItemCode": "204300009",
     "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
   },
@@ -43992,11 +43988,15 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   }
 ]
