@@ -34316,14 +34316,6 @@
     "ItemName": "TIKA PATAGONIA 14 X 150 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
@@ -35162,10 +35154,6 @@
   {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "303850010",
@@ -38916,10 +38904,6 @@
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "203550030",
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
@@ -39616,10 +39600,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "204300056",
-    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
   },
@@ -39984,10 +39964,6 @@
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
   },
@@ -40078,10 +40054,6 @@
   {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910030",
@@ -40218,14 +40190,6 @@
   {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009025",
@@ -43988,15 +43952,51 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "204300056",
+    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   }
 ]
