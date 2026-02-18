@@ -27052,10 +27052,6 @@
     "ItemName": "HELADO PUDU (ESPECIAL) BOMBON FERRERO 1X5 LT"
   },
   {
-    "ItemCode": "101352005",
-    "ItemName": "KETCHUP JB SACHET 528X8 GR"
-  },
-  {
     "ItemCode": "100201008",
     "ItemName": "AZUCAR XS MARKET 800X5GR"
   },
@@ -34848,10 +34844,6 @@
     "ItemName": "MARGARINA CALO 6X900G"
   },
   {
-    "ItemCode": "101201021",
-    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
@@ -35716,10 +35708,6 @@
     "ItemName": "TE TWININGS FRUTOS ROJOS 1X10 UN"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
@@ -35866,10 +35854,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101353009",
-    "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
   },
   {
     "ItemCode": "101354002",
@@ -39684,10 +39668,6 @@
     "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
@@ -39810,10 +39790,6 @@
   {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
-  },
-  {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "103910048",
@@ -43424,10 +43400,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -43494,10 +43466,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "202820016",
@@ -43710,10 +43678,6 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "101008003",
@@ -43998,5 +43962,41 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101201021",
+    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101352005",
+    "ItemName": "KETCHUP JB SACHET 528X8 GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "101353009",
+    "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   }
 ]
