@@ -43000,10 +43000,6 @@
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
-    "ItemCode": "304440020",
-    "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
-  },
-  {
     "ItemCode": "400252002",
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
@@ -43124,10 +43120,6 @@
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
   {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
     "ItemCode": "400301075",
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -43170,14 +43162,6 @@
   {
     "ItemCode": "101002007",
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "304760278",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "200455004",
@@ -43306,10 +43290,6 @@
   {
     "ItemCode": "100353005",
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
-  },
-  {
-    "ItemCode": "101357005",
-    "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
     "ItemCode": "104520000",
@@ -43964,6 +43944,18 @@
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "304440020",
+    "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -43992,11 +43984,19 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+    "ItemCode": "101357005",
+    "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304760278",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   }
 ]
