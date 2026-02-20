@@ -26360,10 +26360,6 @@
     "ItemName": "GALLETA CRIOLLITA MCKAY 1X80 GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "600002018",
     "ItemName": "REPOLLO 1x1 un."
   },
@@ -26706,10 +26702,6 @@
   {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "100002008",
@@ -32492,10 +32484,6 @@
     "ItemName": "PINA CUBITOS 24X560 WASIL"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
   },
@@ -34570,10 +34558,6 @@
   {
     "ItemCode": "400301047",
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "304760315",
@@ -39556,10 +39540,6 @@
     "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "204700006",
     "ItemName": "RED VELVET 10 PORCIONES"
   },
@@ -40812,10 +40792,6 @@
     "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -41818,10 +41794,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "400251002",
-    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   },
   {
     "ItemCode": "400251007",
@@ -42992,10 +42964,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -44030,5 +43998,37 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "400251002",
+    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   }
 ]
