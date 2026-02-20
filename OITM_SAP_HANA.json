@@ -37424,14 +37424,6 @@
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "403250027",
-    "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
-  },
-  {
-    "ItemCode": "403250026",
-    "ItemName": "ESTUCHE PAPA MEDIANA BARRIO CHICKEN 1X1000 UN"
-  },
-  {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
@@ -43416,10 +43408,6 @@
     "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "204790047",
-    "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -44030,5 +44018,17 @@
   {
     "ItemCode": "204310013",
     "ItemName": "VOLCAN DE CHOCOLATE PREMIUM 14X100 GR"
+  },
+  {
+    "ItemCode": "204790047",
+    "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "403250026",
+    "ItemName": "ESTUCHE PAPA MEDIANA BARRIO CHICKEN 1X1000 UN"
+  },
+  {
+    "ItemCode": "403250027",
+    "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
   }
 ]
