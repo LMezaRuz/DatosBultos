@@ -34856,10 +34856,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "101402001",
     "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
   },
@@ -35170,10 +35166,6 @@
   {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "400005001",
-    "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
     "ItemCode": "304760276",
@@ -42400,16 +42392,8 @@
     "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "100051004",
@@ -42586,10 +42570,6 @@
   {
     "ItemCode": "100855012",
     "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "204150002",
@@ -42848,10 +42828,6 @@
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ 10X1 KG TRAVERSO"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -42914,10 +42890,6 @@
   {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100750003",
@@ -43030,10 +43002,6 @@
   {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
-  },
-  {
-    "ItemCode": "300405004",
-    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
     "ItemCode": "100110002",
@@ -43180,10 +43148,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "204380017",
     "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
@@ -43230,10 +43194,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400008004",
@@ -43608,10 +43568,6 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "204700005",
     "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   },
@@ -43864,10 +43820,6 @@
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
-    "ItemCode": "400005012",
-    "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
-  },
-  {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
@@ -44030,5 +43982,53 @@
   {
     "ItemCode": "403250027",
     "ItemName": "ESTUCHE PAPA GRANDE BARRIO CHICKEN 1X1000 UN"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ 10X1 KG TRAVERSO"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300405004",
+    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400005001",
+    "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
+  },
+  {
+    "ItemCode": "400005012",
+    "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
   }
 ]
