@@ -23044,10 +23044,6 @@
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.3 CAJA 7X2,3 KG"
   },
   {
-    "ItemCode": "103440002",
-    "ItemName": "COMPOTA DE MANZANA MANGO PLATANO WATT'S 36X90 GR"
-  },
-  {
     "ItemCode": "103750001",
     "ItemName": "LECHE MOMENTS MOCACCINO 12X1 LT"
   },
@@ -24258,10 +24254,6 @@
   {
     "ItemCode": "101150004",
     "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "103440001",
-    "ItemName": "COMPOTA DE PERA WATT'S 36X90"
   },
   {
     "ItemCode": "300154004",
@@ -27244,10 +27236,6 @@
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
   },
   {
-    "ItemCode": "103440003",
-    "ItemName": "COMPOTA DE DURAZNO WATT'S 36X90 GR"
-  },
-  {
     "ItemCode": "101010007",
     "ItemName": "LECHE S/LACTOSA DESC LCO 12X1 LTS"
   },
@@ -27914,10 +27902,6 @@
   {
     "ItemCode": "303710005",
     "ItemName": "LECHE CULTIVADA LIGHT LONCOLECHE CHIRIMOYA 6X900 ML"
-  },
-  {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
     "ItemCode": "302890012",
@@ -31704,10 +31688,6 @@
     "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
-    "ItemCode": "300154034",
-    "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
     "ItemCode": "101002007",
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
   },
@@ -31978,10 +31958,6 @@
   {
     "ItemCode": "100004008",
     "ItemName": "ACEITE CHEF PEPITA UVA 12X1 LT"
-  },
-  {
-    "ItemCode": "103440000",
-    "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
   },
   {
     "ItemCode": "100002010",
@@ -39312,10 +39288,6 @@
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
   {
-    "ItemCode": "303850007",
-    "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -39474,14 +39446,6 @@
   {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
-  },
-  {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "304850035",
@@ -43904,10 +43868,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "200460046",
-    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44034,5 +43994,45 @@
   {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "300154034",
+    "ItemName": "MARGARINA CALO 12X450"
+  },
+  {
+    "ItemCode": "303850007",
+    "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
+  },
+  {
+    "ItemCode": "103440003",
+    "ItemName": "COMPOTA DE DURAZNO WATT'S 36X90 GR"
+  },
+  {
+    "ItemCode": "103440002",
+    "ItemName": "COMPOTA DE MANZANA MANGO PLATANO WATT'S 36X90 GR"
+  },
+  {
+    "ItemCode": "103440000",
+    "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
+  },
+  {
+    "ItemCode": "103440001",
+    "ItemName": "COMPOTA DE PERA WATT'S 36X90"
+  },
+  {
+    "ItemCode": "200460046",
+    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
   }
 ]
