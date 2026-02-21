@@ -27500,10 +27500,6 @@
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
   {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "300353049",
     "ItemName": "ABASTERO KG (NV)"
   },
@@ -35796,14 +35792,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -35842,10 +35830,6 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100201003",
@@ -44034,5 +44018,21 @@
   {
     "ItemCode": "100200001",
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
   }
 ]
