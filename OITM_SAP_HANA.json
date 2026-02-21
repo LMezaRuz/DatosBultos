@@ -23064,10 +23064,6 @@
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
   {
-    "ItemCode": "202820008",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 51-60 10 X 1 KG"
-  },
-  {
     "ItemCode": "104610008",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
   },
@@ -28088,10 +28084,6 @@
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
   },
@@ -28350,10 +28342,6 @@
   {
     "ItemCode": "103480002",
     "ItemName": "GALLETA MINI DULCITAS  30X40 GR"
-  },
-  {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
     "ItemCode": "103480000",
@@ -31774,10 +31762,6 @@
   {
     "ItemCode": "102710015",
     "ItemName": "BEBIDA VEGETAL SOYA LONCOLECHE 6X1 LT"
-  },
-  {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
     "ItemCode": "101011002",
@@ -37172,10 +37156,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104010035",
-    "ItemName": "CREAMY CAESAR DRESSING HUNGRY BROS 4X3,79 LT"
-  },
-  {
     "ItemCode": "LOG_104670066",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
@@ -38002,10 +37982,6 @@
   {
     "ItemCode": "300158003",
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
-  },
-  {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
     "ItemCode": "100852012",
@@ -42972,10 +42948,6 @@
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "102560001",
     "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
@@ -43396,10 +43368,6 @@
     "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
   },
   {
-    "ItemCode": "100600007",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -43728,10 +43696,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
@@ -43896,10 +43860,6 @@
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
@@ -43946,10 +43906,6 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "204300056",
@@ -44034,5 +43990,49 @@
   {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "104010035",
+    "ItemName": "CREAMY CAESAR DRESSING HUNGRY BROS 4X3,79 LT"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "202820008",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 51-60 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100600007",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   }
 ]
