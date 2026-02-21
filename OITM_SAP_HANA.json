@@ -31808,10 +31808,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "204790005",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
@@ -38580,10 +38576,6 @@
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
@@ -39064,10 +39056,6 @@
     "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "304760279",
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -39238,10 +39226,6 @@
   {
     "ItemCode": "203550029",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
-  },
-  {
-    "ItemCode": "304760260",
-    "ItemName": "LOMO LISO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "200201032",
@@ -43012,10 +42996,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
@@ -44024,15 +44004,35 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "100754005",
     "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
+  },
+  {
+    "ItemCode": "304760260",
+    "ItemName": "LOMO LISO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   }
 ]
