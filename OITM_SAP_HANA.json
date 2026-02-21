@@ -23860,10 +23860,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "200305016",
-    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "204300034",
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.3 CAJA 7X2,3 KG"
   },
@@ -28352,10 +28348,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
@@ -32336,10 +32328,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
@@ -34952,10 +34940,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "100304022",
-    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -35772,10 +35756,6 @@
     "ItemName": "MOSTAZA DIJON 1X370 GR"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -35818,10 +35798,6 @@
   {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "200051006",
-    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "200051005",
@@ -43368,10 +43344,6 @@
     "ItemName": "DETERGENTE OMO MATIC POLVO 1X800 GR"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -43908,10 +43880,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
@@ -44004,10 +43972,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "400003001",
-    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -44034,5 +43998,41 @@
   {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "400003001",
+    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
+  },
+  {
+    "ItemCode": "200305016",
+    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "200051006",
+    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100304022",
+    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
   }
 ]
