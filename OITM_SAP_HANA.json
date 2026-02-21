@@ -27904,10 +27904,6 @@
     "ItemName": "KIMBO PORTA SACHET 6 UN"
   },
   {
-    "ItemCode": "304760317",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
     "ItemCode": "104820006",
     "ItemName": "VINAGRE DE VINO BLANCO PET TRAVERSO 12 X 1 LT"
   },
@@ -35384,10 +35380,6 @@
     "ItemName": "MERMELADA DE GUINDA 1X250 GR"
   },
   {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
     "ItemCode": "200302027",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
@@ -38552,10 +38544,6 @@
     "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
@@ -39272,10 +39260,6 @@
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
-  },
-  {
     "ItemCode": "203550032",
     "ItemName": "HELADO VITTORE FRAMBUESA 6X460 ML"
   },
@@ -39636,10 +39620,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -39870,10 +39850,6 @@
   {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "100558002",
@@ -43392,14 +43368,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -43434,10 +43402,6 @@
   {
     "ItemCode": "304440012",
     "ItemName": "QUESO GAUDA EN BARRA NOAL (3,7 KG APROX)"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "102480009",
@@ -43510,10 +43474,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "100004006",
@@ -44034,5 +43994,45 @@
   {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "304760317",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   }
 ]
