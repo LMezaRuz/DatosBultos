@@ -23340,10 +23340,6 @@
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
-    "ItemCode": "204790010",
-    "ItemName": "BROCOLI IQF 20X500 GR"
-  },
-  {
     "ItemCode": "202910045",
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
@@ -23546,10 +23542,6 @@
   {
     "ItemCode": "200100098",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6 X 460 ML."
-  },
-  {
-    "ItemCode": "204790015",
-    "ItemName": "COLIFLOR IQF 20X500 GR"
   },
   {
     "ItemCode": "203210023",
@@ -31776,10 +31768,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "303660004",
     "ItemName": "NECTAR SELECCION DE FRAMBUESA WATTS 6X1,6 LT"
   },
@@ -35402,10 +35390,6 @@
   {
     "ItemCode": "100356016",
     "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
-  },
-  {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
     "ItemCode": "204380015",
@@ -43336,18 +43320,6 @@
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
     "ItemCode": "204090002",
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
@@ -43976,10 +43948,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -44034,5 +44002,37 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "204790010",
+    "ItemName": "BROCOLI IQF 20X500 GR"
+  },
+  {
+    "ItemCode": "204790015",
+    "ItemName": "COLIFLOR IQF 20X500 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   }
 ]
