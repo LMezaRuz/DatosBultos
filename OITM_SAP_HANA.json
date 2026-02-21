@@ -31684,10 +31684,6 @@
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
     "ItemCode": "101201044",
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -35052,10 +35048,6 @@
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "100250002",
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
   },
@@ -36984,10 +36976,6 @@
     "ItemName": "AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
   },
   {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
     "ItemCode": "101357003",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
@@ -38024,10 +38012,6 @@
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
@@ -38646,10 +38630,6 @@
   {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
     "ItemCode": "103110002",
@@ -42740,10 +42720,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "102930010",
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
@@ -43512,10 +43488,6 @@
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -43648,10 +43620,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "204530007",
     "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   },
@@ -43708,10 +43676,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
@@ -43722,10 +43686,6 @@
   {
     "ItemCode": "100654006",
     "ItemName": "PINA CUBITOS 24X560 WASIL"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "101452001",
@@ -43802,10 +43762,6 @@
   {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "101354019",
@@ -43932,10 +43888,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "200460046",
-    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
-  },
-  {
     "ItemCode": "303850003",
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
@@ -44024,15 +43976,63 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
+    "ItemCode": "200460046",
+    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   }
 ]
