@@ -24460,10 +24460,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
   {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "102680006",
     "ItemName": "HELADO SOFT SABOR NARANJA 1 UN X 800 GR"
   },
@@ -32496,10 +32492,6 @@
     "ItemName": "REJILLA PASTELERA X 72 UN"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -35648,18 +35640,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101451005",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
-    "ItemCode": "100251003",
-    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
@@ -35986,10 +35966,6 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
     "ItemCode": "400251005",
@@ -39696,14 +39672,6 @@
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
   {
-    "ItemCode": "304760347",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760351",
-    "ItemName": "PLATEADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -43292,10 +43260,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "101004002",
-    "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -43486,14 +43450,6 @@
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "101356003",
@@ -44034,5 +43990,49 @@
   {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "101451005",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "304760347",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760351",
+    "ItemName": "PLATEADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101004002",
+    "ItemName": "LECHE EVAPORADA 24X390 GR"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100251003",
+    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   }
 ]
