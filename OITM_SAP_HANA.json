@@ -23696,10 +23696,6 @@
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
   {
-    "ItemCode": "104190001",
-    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
-  },
-  {
     "ItemCode": "202730073",
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
@@ -35012,10 +35008,6 @@
     "ItemName": "QUESO EDAM QUILLAYES BOLA (325 GR APROX.)"
   },
   {
-    "ItemCode": "204300056",
-    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
     "ItemCode": "300001003",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
@@ -39052,10 +39044,6 @@
     "ItemName": "GUANTE DE POLITILENO 1X100 UN"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -39194,10 +39182,6 @@
   {
     "ItemCode": "101009043",
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
-  },
-  {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
     "ItemCode": "101009024",
@@ -43056,10 +43040,6 @@
     "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
     "ItemCode": "103070008",
     "ItemName": "FRUTILLAS AL JUGO SMART CHOICE 6 X 2.5 KG"
   },
@@ -43218,10 +43198,6 @@
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "200003006",
@@ -43560,20 +43536,8 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100851003",
@@ -43708,10 +43672,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304760339",
     "ItemName": "SOBRECOSTILLA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -43802,10 +43762,6 @@
   {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100450003",
@@ -44016,10 +43972,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -44034,5 +43986,53 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "204300056",
+    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "104190001",
+    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   }
 ]
