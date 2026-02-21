@@ -27352,10 +27352,6 @@
     "ItemName": "LIMONETA SACHET  MINI PORCION OSKU 300 x 8 cc."
   },
   {
-    "ItemCode": "100355046",
-    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400003003",
     "ItemName": "DESODORANTE AMBIENTAL SURTIDO 1X360 ML"
   },
@@ -34192,10 +34188,6 @@
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
   },
   {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101305008",
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
@@ -35552,10 +35544,6 @@
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
@@ -35570,10 +35558,6 @@
   {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "100854012",
@@ -35878,10 +35862,6 @@
   {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "100902001",
@@ -39122,10 +39102,6 @@
   {
     "ItemCode": "203210111",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "200051026",
-    "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
   {
     "ItemCode": "204140018",
@@ -43644,10 +43620,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
@@ -43662,10 +43634,6 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "101008003",
@@ -43844,10 +43812,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "300150001",
     "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
@@ -43968,10 +43932,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44034,5 +43994,45 @@
   {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "200051026",
+    "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355046",
+    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
