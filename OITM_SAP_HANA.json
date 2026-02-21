@@ -38588,10 +38588,6 @@
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "202730015",
-    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
-  },
-  {
     "ItemCode": "102680017",
     "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
   },
@@ -39354,10 +39350,6 @@
   {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
-    "ItemCode": "202730020",
-    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
   },
   {
     "ItemCode": "103880016",
@@ -43692,14 +43684,6 @@
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
@@ -44034,5 +44018,21 @@
   {
     "ItemCode": "304760361",
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202730020",
+    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "202730015",
+    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
