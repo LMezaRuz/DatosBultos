@@ -24464,10 +24464,6 @@
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "103580001",
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
@@ -34920,10 +34916,6 @@
     "ItemName": "CURRY 1X250 GR."
   },
   {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "200201001",
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
@@ -35396,10 +35388,6 @@
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -35574,10 +35562,6 @@
   {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "101402006",
@@ -43240,10 +43224,6 @@
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "103810002",
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
@@ -43254,10 +43234,6 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
   },
   {
     "ItemCode": "101201016",
@@ -43392,10 +43368,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
@@ -43426,10 +43398,6 @@
   {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "200500036",
@@ -43472,10 +43440,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "101354016",
-    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
@@ -43510,10 +43474,6 @@
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "100302032",
@@ -44034,5 +43994,45 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101354016",
+    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   }
 ]
