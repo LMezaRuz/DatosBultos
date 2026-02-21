@@ -32148,10 +32148,6 @@
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
@@ -35402,10 +35398,6 @@
   {
     "ItemCode": "400005003",
     "ItemName": "GUANTE DE POLITILENO 1X100 UN"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "100304009",
@@ -38754,10 +38746,6 @@
   {
     "ItemCode": "200303015",
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRI OIKOS NAT S/AZUCAR 48X150 CAJA"
   },
   {
     "ItemCode": "202910044",
@@ -42852,14 +42840,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
-  },
-  {
     "ItemCode": "202820018",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
@@ -43588,10 +43568,6 @@
     "ItemName": "PESTO 1X190 GR"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -44034,5 +44010,29 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRI OIKOS NAT S/AZUCAR 48X150 CAJA"
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   }
 ]
