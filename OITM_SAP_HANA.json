@@ -34744,10 +34744,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
@@ -35728,20 +35724,12 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "100850015",
@@ -35922,10 +35910,6 @@
   {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
     "ItemCode": "200100010",
@@ -44034,5 +44018,21 @@
   {
     "ItemCode": "200500079",
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   }
 ]
