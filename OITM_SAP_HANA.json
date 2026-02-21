@@ -35464,10 +35464,6 @@
     "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "101350003",
     "ItemName": "LIMONETA SACHET 300X10 CC"
   },
@@ -35594,10 +35590,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "200500036",
-    "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
     "ItemCode": "101353011",
@@ -38684,10 +38676,6 @@
     "ItemName": "CEREALCHOC DISPLAY 6X20X18 GR"
   },
   {
-    "ItemCode": "200461006",
-    "ItemName": "HAMBURGUESA GARBANZOS (FALAFEL) 40x100 gr"
-  },
-  {
     "ItemCode": "103200000",
     "ItemName": "AVE PIMENTON POUCH 24X500 GR"
   },
@@ -40106,10 +40094,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "304470001",
@@ -43744,10 +43728,6 @@
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -44034,5 +44014,25 @@
   {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "200461006",
+    "ItemName": "HAMBURGUESA GARBANZOS (FALAFEL) 40x100 gr"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200500036",
+    "ItemName": "POROTO GRANADO 15X1 KG"
   }
 ]
