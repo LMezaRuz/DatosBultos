@@ -23708,10 +23708,6 @@
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
   {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "104190001",
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
@@ -28300,10 +28296,6 @@
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "303660005",
-    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100555002",
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
@@ -30720,10 +30712,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "300154011",
     "ItemName": "HORNITO PANADERIA BOLSA 10X1KG"
   },
@@ -31158,10 +31146,6 @@
   {
     "ItemCode": "203900005",
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
-  },
-  {
-    "ItemCode": "204530007",
-    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   },
   {
     "ItemCode": "103910025",
@@ -35224,10 +35208,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -38180,10 +38160,6 @@
     "ItemName": "MILO ACTIV-GO 1X300g"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
-  },
-  {
     "ItemCode": "400104014",
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
@@ -39416,10 +39392,6 @@
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
   {
-    "ItemCode": "304440020",
-    "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -39778,10 +39750,6 @@
   {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "204790004",
-    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
   {
     "ItemCode": "204300050",
@@ -42968,10 +42936,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
@@ -43536,10 +43500,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400005007",
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
@@ -43618,10 +43578,6 @@
   {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
-    "ItemCode": "300405004",
-    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
     "ItemCode": "304460007",
@@ -44034,5 +43990,49 @@
   {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "303660005",
+    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "300405004",
+    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204530007",
+    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
+  },
+  {
+    "ItemCode": "304440020",
+    "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
+  },
+  {
+    "ItemCode": "204790004",
+    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   }
 ]
