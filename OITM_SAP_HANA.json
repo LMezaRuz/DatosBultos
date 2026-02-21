@@ -28080,10 +28080,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -28102,10 +28098,6 @@
   {
     "ItemCode": "103750000",
     "ItemName": "LECHE CON PLATANO 12X1 LT"
-  },
-  {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
     "ItemCode": "104670003",
@@ -38572,10 +38564,6 @@
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
   },
   {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -42924,10 +42912,6 @@
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -43952,10 +43936,6 @@
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
@@ -44034,5 +44014,25 @@
   {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   }
 ]
