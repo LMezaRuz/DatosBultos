@@ -27768,10 +27768,6 @@
     "ItemName": "PASTELERA DE CHOCLO WASIL 16X380 GR"
   },
   {
-    "ItemCode": "204100002",
-    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
-  },
-  {
     "ItemCode": "103910024",
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
@@ -28266,10 +28262,6 @@
   {
     "ItemCode": "304760339",
     "ItemName": "SOBRECOSTILLA TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100854015",
-    "ItemName": "TIKA PATAGONIA 14 X 150 GR"
   },
   {
     "ItemCode": "302890006",
@@ -35344,10 +35336,6 @@
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
-  },
-  {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
@@ -37286,10 +37274,6 @@
   {
     "ItemCode": "104660014",
     "ItemName": "SYRUP MONIN HOLIDAY CHEER COLLECTION 5X50 ML"
-  },
-  {
-    "ItemCode": "304760362",
-    "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
   },
   {
     "ItemCode": "304760262",
@@ -43152,10 +43136,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "202730053",
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
@@ -43968,14 +43948,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "203430014",
-    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
@@ -44034,5 +44006,33 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "304760362",
+    "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "100854015",
+    "ItemName": "TIKA PATAGONIA 14 X 150 GR"
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430014",
+    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204100002",
+    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   }
 ]
