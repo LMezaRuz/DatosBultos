@@ -35548,10 +35548,6 @@
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "100557001",
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
   },
@@ -36280,20 +36276,8 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "204380023",
-    "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "200301003",
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380020",
-    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "203210062",
@@ -36598,10 +36582,6 @@
   {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "300407001",
@@ -40156,10 +40136,6 @@
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
@@ -40202,10 +40178,6 @@
   {
     "ItemCode": "202730012",
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "204380015",
@@ -40590,10 +40562,6 @@
   {
     "ItemCode": "203900007",
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "304850009",
@@ -44034,5 +44002,37 @@
   {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380023",
+    "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380020",
+    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   }
 ]
