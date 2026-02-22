@@ -27552,10 +27552,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -28024,10 +28020,6 @@
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
   {
-    "ItemCode": "400301102",
-    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
-  },
-  {
     "ItemCode": "103810002",
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
@@ -28298,10 +28290,6 @@
   {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
   {
     "ItemCode": "304760339",
@@ -31762,10 +31750,6 @@
   {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "300300010",
@@ -37516,10 +37500,6 @@
     "ItemName": "PREPARADO HELADO CALO BLUE ICE 12X1 LT"
   },
   {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
     "ItemCode": "200452001",
     "ItemName": "PEPPERONI LAMINADO SUGARDALE 2X5,67 KG NAL"
   },
@@ -37726,10 +37706,6 @@
   {
     "ItemCode": "303010003",
     "ItemName": "CHIPS DE CHOCOLATE SICAO SEMI AMARGO 20 KG (ILD-DR-7174600-A14)"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "102970003",
@@ -43540,10 +43516,6 @@
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
   {
-    "ItemCode": "100754007",
-    "ItemName": "CHANCACA 1X400 GR"
-  },
-  {
     "ItemCode": "100801003",
     "ItemName": "MANI SALADO 1X1 KG"
   },
@@ -44034,5 +44006,33 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "100754007",
+    "ItemName": "CHANCACA 1X400 GR"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "400301102",
+    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
   }
 ]
