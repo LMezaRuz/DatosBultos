@@ -24160,10 +24160,6 @@
     "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "100900009",
     "ItemName": "PAPA NATURAL SACO 1X25 KG"
   },
@@ -34624,10 +34620,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
-    "ItemCode": "400251006",
-    "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -35936,10 +35928,6 @@
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "203210058",
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
@@ -36066,10 +36054,6 @@
   {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "400005006",
@@ -39168,10 +39152,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
-    "ItemCode": "202720028",
-    "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
-  },
-  {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
@@ -39760,10 +39740,6 @@
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
   {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
     "ItemCode": "302970004",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
@@ -40064,10 +40040,6 @@
     "ItemName": "MUFFIN RELLENO DE CARAMELO 20X95 GR"
   },
   {
-    "ItemCode": "202730048",
-    "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
-  },
-  {
     "ItemCode": "202730044",
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
@@ -40252,10 +40224,6 @@
     "ItemName": "SERVILLETA MESA BURDEO PREMIUM 12 PQTE X 50 UN (SE70036)"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "101009037",
     "ItemName": "LECHE MOMENTS CAPUCCINO 18X200 CC"
   },
@@ -40410,10 +40378,6 @@
   {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "400001007",
@@ -43932,10 +43896,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -44034,5 +43994,45 @@
   {
     "ItemCode": "100950002",
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "202730048",
+    "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "400251006",
+    "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "202720028",
+    "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
+  },
+  {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   }
 ]
