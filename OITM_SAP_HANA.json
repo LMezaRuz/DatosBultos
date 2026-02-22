@@ -23464,10 +23464,6 @@
     "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
   },
   {
-    "ItemCode": "203430016",
-    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
@@ -23910,10 +23906,6 @@
   {
     "ItemCode": "104670063",
     "ItemName": "TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "102780002",
-    "ItemName": "CAFE MOLIDO 1X1 KG"
   },
   {
     "ItemCode": "202910028",
@@ -27756,10 +27748,6 @@
     "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
   },
   {
-    "ItemCode": "204700006",
-    "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
@@ -27778,10 +27766,6 @@
   {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
   {
     "ItemCode": "103910036",
@@ -27882,10 +27866,6 @@
   {
     "ItemCode": "203430018",
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
     "ItemCode": "101007032",
@@ -35176,10 +35156,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -35202,10 +35178,6 @@
   {
     "ItemCode": "100352006",
     "ItemName": "CAFE ARMONIA (100% ARABICA) CAPSULA ESPRESSO POINT 1X100 UN"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "100350004",
@@ -35358,10 +35330,6 @@
   {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "101304002",
@@ -35856,10 +35824,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "304460000",
     "ItemName": "QUESO MOZZARELLA PAMPA CHEESE BARRA KG (4,5 KG APROX.)"
   },
@@ -35942,14 +35906,6 @@
   {
     "ItemCode": "200201003",
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "100202016",
@@ -36346,10 +36302,6 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE BLANCA SOPROLE 12X1 LT."
-  },
-  {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
   {
     "ItemCode": "104670004",
@@ -44034,5 +43986,53 @@
   {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "204700006",
+    "ItemName": "RED VELVET 10 PORCIONES"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "102780002",
+    "ItemName": "CAFE MOLIDO 1X1 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430016",
+    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   }
 ]
