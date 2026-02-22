@@ -35664,10 +35664,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
@@ -35788,10 +35784,6 @@
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "304760110",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200003002",
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
@@ -35894,10 +35886,6 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
-    "ItemCode": "400251005",
-    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
   {
     "ItemCode": "101450006",
@@ -38140,10 +38128,6 @@
     "ItemName": "LECHE BLANCA COLUN 12X1 LT."
   },
   {
-    "ItemCode": "304760316",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
     "ItemCode": "500001086",
     "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
   },
@@ -38858,10 +38842,6 @@
   {
     "ItemCode": "304760360",
     "ItemName": "ABASTERO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760346",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "101302001",
@@ -43012,10 +42992,6 @@
     "ItemName": "CHOCOLATE NEUCOBER BLANCO 29% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "204310009",
     "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
@@ -43310,10 +43286,6 @@
   {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "400251015",
@@ -43620,10 +43592,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
@@ -43702,10 +43670,6 @@
   {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "101354019",
@@ -44034,5 +43998,41 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "400251005",
+    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "304760316",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "304760110",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760346",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
