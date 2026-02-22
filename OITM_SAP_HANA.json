@@ -24180,10 +24180,6 @@
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
@@ -28422,10 +28418,6 @@
   {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204140004",
@@ -33760,10 +33752,6 @@
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
-    "ItemCode": "300152010",
-    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
-  },
-  {
     "ItemCode": "100151001",
     "ItemName": "CEREAL VIVO CHECK 1X360 GR"
   },
@@ -34062,10 +34050,6 @@
   {
     "ItemCode": "200100037",
     "ItemName": "HELADO PUDU LIMON MENTA Y JENGIBRE 1X5 LT"
-  },
-  {
-    "ItemCode": "200304006",
-    "ItemName": "OSTION C/CORAL 1x1 KG"
   },
   {
     "ItemCode": "400011017",
@@ -34578,10 +34562,6 @@
   {
     "ItemCode": "100002001",
     "ItemName": "ACEITE MARAVILLA  300 X 8 CC"
-  },
-  {
-    "ItemCode": "400005015",
-    "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
   {
     "ItemCode": "200201009",
@@ -36292,10 +36272,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
@@ -36404,10 +36380,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400251005",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
@@ -36426,10 +36398,6 @@
   {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "200051008",
@@ -39214,10 +39182,6 @@
   {
     "ItemCode": "203210123",
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "203210107",
@@ -43892,10 +43856,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -44008,10 +43968,6 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -44034,5 +43990,49 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200304006",
+    "ItemName": "OSTION C/CORAL 1x1 KG"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300152010",
+    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "400005015",
+    "ItemName": "GORRO CLIP BLANCO  1X100 UN."
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
