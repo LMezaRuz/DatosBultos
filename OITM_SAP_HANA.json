@@ -20116,10 +20116,6 @@
     "ItemName": "TARIFA SERVICIOS $1419"
   },
   {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "104820020",
     "ItemName": "VINAGRE DE VINO BLANCO PET TRAVERSO 12 X 500 ML 4% ACIDEZ"
   },
@@ -39212,10 +39208,6 @@
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
-    "ItemCode": "400250003",
-    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
-  },
-  {
     "ItemCode": "203200021",
     "ItemName": "MECHADA AHUMADA DE POLLO 12X1 KG"
   },
@@ -43608,10 +43600,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
@@ -43802,10 +43790,6 @@
   {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
     "ItemCode": "101305002",
@@ -44034,5 +44018,21 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "400250003",
+    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
   }
 ]
