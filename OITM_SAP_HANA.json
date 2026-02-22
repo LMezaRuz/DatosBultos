@@ -15860,10 +15860,6 @@
     "ItemName": "TARIFA SERVICIOS $1692"
   },
   {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
     "ItemCode": "MAQ001712",
     "ItemName": "TARIFA SERVICIOS $1712"
   },
@@ -31888,10 +31884,6 @@
     "ItemName": "CAPUCCINO LONCO 12X1"
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "300154011",
     "ItemName": "HORNITO PANADERIA BOLSA 10X1KG"
   },
@@ -31910,10 +31902,6 @@
   {
     "ItemCode": "400100011",
     "ItemName": "BOLSAS ZIPLOC SANDWICH 16x14cm 1x50 un."
-  },
-  {
-    "ItemCode": "400011005",
-    "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
     "ItemCode": "100350008",
@@ -33504,10 +33492,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 7X400 GR"
   },
   {
-    "ItemCode": "400012005",
-    "ItemName": "ATOMIZADOR 1X1000 CC."
-  },
-  {
     "ItemCode": "100900002",
     "ItemName": "MAIZENA 1X 250Gr"
   },
@@ -33954,10 +33938,6 @@
   {
     "ItemCode": "200500019",
     "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
-    "ItemCode": "400010025",
-    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
     "ItemCode": "200500047",
@@ -34966,10 +34946,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
     "ItemCode": "304760358",
@@ -36526,10 +36502,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "200051008",
@@ -38940,10 +38912,6 @@
     "ItemName": "PIZZA FAMILIAR PEPPERONI MASA A LA PIEDRA 4X410 GR"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "104670084",
     "ItemName": "TE SUPERIOR PURE CEYLON 20X250 GR"
   },
@@ -39738,10 +39706,6 @@
   {
     "ItemCode": "304760112",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "400250004",
-    "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
   {
     "ItemCode": "103180007",
@@ -40708,10 +40672,6 @@
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100855012",
     "ItemName": "PANCHITOS 1X500 GR."
   },
@@ -40722,10 +40682,6 @@
   {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "400250003",
@@ -43972,10 +43928,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
@@ -44034,5 +43986,53 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011005",
+    "ItemName": "ESPONJA DE ACERO 1X1 UN"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400010025",
+    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
+  },
+  {
+    "ItemCode": "400012005",
+    "ItemName": "ATOMIZADOR 1X1000 CC."
+  },
+  {
+    "ItemCode": "400250004",
+    "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
