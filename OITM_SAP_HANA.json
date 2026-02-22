@@ -24552,14 +24552,6 @@
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
   {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
-    "ItemCode": "200454024",
-    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
-  },
-  {
     "ItemCode": "200303008",
     "ItemName": "CROQUETAS DE MERLUZA GAYI NAC CONG 30 UN X 400 GR"
   },
@@ -34608,10 +34600,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
     "ItemCode": "101300002",
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
@@ -39884,10 +39872,6 @@
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -43884,16 +43868,8 @@
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100202005",
@@ -44034,5 +44010,29 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
+  },
+  {
+    "ItemCode": "200454024",
+    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
+  },
+  {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   }
 ]
