@@ -28416,10 +28416,6 @@
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -37532,10 +37528,6 @@
     "ItemName": "HELADO VITTORE MENTA CHIPS 6X220 ML"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -43584,10 +43576,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
   },
@@ -43694,10 +43682,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "101358003",
@@ -43836,10 +43820,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -43856,10 +43836,6 @@
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -43874,18 +43850,6 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "400011012",
@@ -44034,5 +43998,41 @@
   {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ POUCH PACK 6X3 KG NACIONAL"
   }
 ]
