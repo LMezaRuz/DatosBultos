@@ -35516,10 +35516,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
     "ItemCode": "200302027",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
@@ -35948,10 +35944,6 @@
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
@@ -36026,10 +36018,6 @@
   {
     "ItemCode": "304760300",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760347",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "200002011",
@@ -38676,10 +38664,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -39740,10 +39724,6 @@
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
-    "ItemCode": "304760107",
-    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
@@ -40130,10 +40110,6 @@
   {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "104010003",
@@ -44024,6 +44000,10 @@
     "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
   },
   {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -44032,7 +44012,27 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "304760107",
+    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "304760347",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   }
 ]
