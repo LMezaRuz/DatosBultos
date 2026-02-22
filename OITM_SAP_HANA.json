@@ -23912,10 +23912,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1,6 KG"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "104670063",
     "ItemName": "TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
   },
@@ -24054,10 +24050,6 @@
   {
     "ItemCode": "103750002",
     "ItemName": "LECHE SEMI DESCREMADA VAINILLA LONCOLECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "101100064",
@@ -24318,10 +24310,6 @@
   {
     "ItemCode": "103480001",
     "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
-  },
-  {
-    "ItemCode": "102960002",
-    "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
   {
     "ItemCode": "303870001",
@@ -32464,10 +32452,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
   {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
   },
@@ -36030,10 +36014,6 @@
   {
     "ItemCode": "101354014",
     "ItemName": "MOSTAZA DIJON 1X370 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "103880017",
@@ -40132,10 +40112,6 @@
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
-  },
-  {
     "ItemCode": "202730076",
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
@@ -44034,5 +44010,29 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
+  },
+  {
+    "ItemCode": "102960002",
+    "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   }
 ]
