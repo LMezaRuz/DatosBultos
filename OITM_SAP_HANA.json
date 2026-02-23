@@ -27212,10 +27212,6 @@
     "ItemName": "CAFE KIMBO POD CAPRI 1X50 UU."
   },
   {
-    "ItemCode": "100350013",
-    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
-  },
-  {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
@@ -28018,10 +28014,6 @@
   {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
-    "ItemCode": "304760271",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "300351030",
@@ -42424,10 +42416,6 @@
     "ItemName": "QUESO GOUDA PAMPA CHEESE 1X5 KG (APROX.)"
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
@@ -43336,10 +43324,6 @@
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "303870006",
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
@@ -43584,10 +43568,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
   },
@@ -43698,10 +43678,6 @@
   {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100351004",
@@ -44034,5 +44010,29 @@
   {
     "ItemCode": "200462118",
     "ItemName": "LOMO LISO PORCIONADO 250G (6 BOLSAS X 4 UN) (MM)"
+  },
+  {
+    "ItemCode": "100350013",
+    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "304760271",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
   }
 ]
