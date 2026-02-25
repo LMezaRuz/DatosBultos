@@ -20344,10 +20344,6 @@
     "ItemName": "SAL FINA EN POTE 12X850 GR"
   },
   {
-    "ItemCode": "103580000",
-    "ItemName": "HUEVO COLOR EXTRA 1X180 UN"
-  },
-  {
     "ItemCode": "200100090",
     "ItemName": "HELADO PUDU VAINILLA 1X460 ML"
   },
@@ -24470,10 +24466,6 @@
   {
     "ItemCode": "304450006",
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "104570009",
@@ -31336,10 +31328,6 @@
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
   {
-    "ItemCode": "101150008",
-    "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
@@ -36574,10 +36562,6 @@
   {
     "ItemCode": "104210028",
     "ItemName": "SPAGHETTI SIN GLUTEN LUCCHETTI 25X400 GR"
-  },
-  {
-    "ItemCode": "300156003",
-    "ItemName": "YOGURT FRUTILLA 1X1 LT"
   },
   {
     "ItemCode": "200462119",
@@ -43224,10 +43208,6 @@
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
@@ -43262,10 +43242,6 @@
   {
     "ItemCode": "204710000",
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "100102012",
@@ -43516,10 +43492,6 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -43546,10 +43518,6 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "200302008",
@@ -43896,10 +43864,6 @@
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "104040015",
     "ItemName": "CHIPOTLES ADOBO 12X800 GR"
   },
@@ -43928,10 +43892,6 @@
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
@@ -43940,16 +43900,8 @@
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "101353019",
@@ -44058,5 +44010,53 @@
   {
     "ItemCode": "304760346",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "101150008",
+    "ItemName": "SAL DOGGIS 6 x  1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "300156003",
+    "ItemName": "YOGURT FRUTILLA 1X1 LT"
+  },
+  {
+    "ItemCode": "103580000",
+    "ItemName": "HUEVO COLOR EXTRA 1X180 UN"
   }
 ]
