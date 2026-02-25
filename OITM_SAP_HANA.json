@@ -31948,10 +31948,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
@@ -35082,10 +35078,6 @@
   {
     "ItemCode": "100303004",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
-  },
-  {
-    "ItemCode": "300351022",
-    "ItemName": "PATE DE CERDO 16x125 GRS"
   },
   {
     "ItemCode": "100654003",
@@ -44058,5 +44050,13 @@
   {
     "ItemCode": "103580000",
     "ItemName": "HUEVO COLOR EXTRA 1X180 UN"
+  },
+  {
+    "ItemCode": "300351022",
+    "ItemName": "PATE DE CERDO 16x125 GRS"
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
   }
 ]
