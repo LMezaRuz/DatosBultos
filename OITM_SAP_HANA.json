@@ -24296,10 +24296,6 @@
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
@@ -28316,10 +28312,6 @@
     "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "102960002",
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
@@ -31176,10 +31168,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "200401007",
-    "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
-  },
-  {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
@@ -32054,10 +32042,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
     "ItemCode": "200305008",
@@ -38380,10 +38364,6 @@
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
   {
-    "ItemCode": "204010000",
-    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
-  },
-  {
     "ItemCode": "204150017",
     "ItemName": "PAN MOLDE MULTIGRANO SIN GLUTEN 4X400 GR"
   },
@@ -39474,10 +39454,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "303880000",
-    "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
   {
     "ItemCode": "303850010",
@@ -43920,10 +43896,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "204010001",
-    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
-  },
-  {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
   },
@@ -44058,5 +44030,33 @@
   {
     "ItemCode": "304760354",
     "ItemName": "FILETE AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200401007",
+    "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "204010001",
+    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "204010000",
+    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "303880000",
+    "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   }
 ]
