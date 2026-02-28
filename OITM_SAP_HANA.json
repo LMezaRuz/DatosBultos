@@ -24056,10 +24056,6 @@
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "202730029",
     "ItemName": "REJILLA DE MANZANA 46X110 GR"
   },
@@ -31144,10 +31140,6 @@
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "101400005",
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   },
@@ -31514,10 +31506,6 @@
   {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
-  },
-  {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
   {
     "ItemCode": "400301047",
@@ -34948,10 +34936,6 @@
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
@@ -37568,10 +37552,6 @@
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
     "ItemCode": "204790038",
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
   },
@@ -38376,10 +38356,6 @@
     "ItemName": "YOGURT BOLSA CALAN DAMASCO 12x1 NUEVA CAJA"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "204710000",
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
@@ -38394,10 +38370,6 @@
   {
     "ItemCode": "101201025",
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "202730015",
-    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
   {
     "ItemCode": "104010039",
@@ -43084,10 +43056,6 @@
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
@@ -43404,10 +43372,6 @@
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
@@ -43430,10 +43394,6 @@
   {
     "ItemCode": "101353014",
     "ItemName": "MAYONESA SACHET HELLMANNS 528X7.4 GR."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "302890006",
@@ -43478,10 +43438,6 @@
   {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
     "ItemCode": "101356002",
@@ -44106,5 +44062,49 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "202730015",
+    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   }
 ]
