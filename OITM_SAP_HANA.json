@@ -30628,10 +30628,6 @@
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
   {
-    "ItemCode": "100651010",
-    "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
     "ItemCode": "101200002",
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -38316,10 +38312,6 @@
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
-    "ItemCode": "304760348",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304440006",
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
   },
@@ -38370,10 +38362,6 @@
   {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
-  },
-  {
-    "ItemCode": "103200000",
-    "ItemName": "AVE PIMENTON POUCH 24X500 GR"
   },
   {
     "ItemCode": "104040029",
@@ -39124,10 +39112,6 @@
     "ItemName": "QUESO MANTECOSO LAS PARCELAS DE VALDIVIA LAMINA GRUESA 20X210 GR"
   },
   {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
     "ItemCode": "202730012",
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
@@ -39466,10 +39450,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
     "ItemCode": "200003003",
@@ -43780,10 +43760,6 @@
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -43944,10 +43920,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ 10X1 KG TRAVERSO"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44106,5 +44078,33 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ 10X1 KG TRAVERSO"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "304760348",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100651010",
+    "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "103200000",
+    "ItemName": "AVE PIMENTON POUCH 24X500 GR"
   }
 ]
