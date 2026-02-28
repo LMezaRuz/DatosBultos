@@ -23312,10 +23312,6 @@
     "ItemName": "FILETE PARAGUAY CAT V LOCAL  (CAJA DE 20 KG APROX)"
   },
   {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -28072,10 +28068,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
-    "ItemCode": "400005013",
-    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
-  },
-  {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
@@ -30444,10 +30436,6 @@
     "ItemName": "ETIQUETA SEGURIDAD LOVDO 2 PIZZA GYN X 1000 UN"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -30528,16 +30516,8 @@
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "400252006",
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
   {
     "ItemCode": "100302005",
@@ -31782,10 +31762,6 @@
   {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "400012005",
@@ -39264,10 +39240,6 @@
     "ItemName": "PULPA DE MELON TUNA LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "202730040",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
   },
@@ -42948,10 +42920,6 @@
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
@@ -43050,10 +43018,6 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
     "ItemCode": "104420000",
@@ -43194,10 +43158,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "204300009",
@@ -43680,10 +43640,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -44106,5 +44062,49 @@
   {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "400005013",
+    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   }
 ]
