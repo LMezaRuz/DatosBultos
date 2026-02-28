@@ -23820,10 +23820,6 @@
     "ItemName": "CAFE AMALFI COMPATIBLE NESPRESSO 1X50 UN"
   },
   {
-    "ItemCode": "204380022",
-    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "203430016",
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
@@ -30146,10 +30142,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100751048",
@@ -37420,10 +37412,6 @@
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
   },
   {
-    "ItemCode": "200303016",
-    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
@@ -38108,10 +38096,6 @@
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
-    "ItemCode": "202820021",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG SMARTCHOICE"
-  },
-  {
     "ItemCode": "103480029",
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
@@ -38540,10 +38524,6 @@
     "ItemName": "HUACHALOMO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760362",
-    "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
-  },
-  {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
   },
@@ -38706,10 +38686,6 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
   {
     "ItemCode": "304760302",
@@ -43752,10 +43728,6 @@
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -43814,10 +43786,6 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380029",
-    "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "203430007",
@@ -44106,5 +44074,37 @@
   {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204380029",
+    "ItemName": "MORA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204380022",
+    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "304760362",
+    "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
+  },
+  {
+    "ItemCode": "200303016",
+    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "202820021",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG SMARTCHOICE"
   }
 ]
