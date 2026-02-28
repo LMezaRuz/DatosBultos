@@ -23928,20 +23928,12 @@
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
-    "ItemCode": "204140013",
-    "ItemName": "PAN FRICA REBANADO 75X115GR"
-  },
-  {
     "ItemCode": "202730025",
     "ItemName": "MINI ROLL DE CANELA 260X35 GR TDP"
   },
   {
     "ItemCode": "202910025",
     "ItemName": "COSTILLAR DE CERDO ALEMAN LOCAL 10 KG APROX."
-  },
-  {
-    "ItemCode": "200302029",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
   },
   {
     "ItemCode": "103480004",
@@ -28364,10 +28356,6 @@
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
     "ItemCode": "204300009",
     "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
   },
@@ -32346,10 +32334,6 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101402003",
@@ -36344,10 +36328,6 @@
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -39400,10 +39380,6 @@
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
@@ -40212,10 +40188,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
@@ -40350,10 +40322,6 @@
   {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
   },
   {
     "ItemCode": "101150032",
@@ -43672,10 +43640,6 @@
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44106,5 +44070,41 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
+  },
+  {
+    "ItemCode": "204140013",
+    "ItemName": "PAN FRICA REBANADO 75X115GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200302029",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   }
 ]
