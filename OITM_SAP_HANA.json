@@ -27576,10 +27576,6 @@
     "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
   },
   {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "101007010",
     "ItemName": "LECHE 0% MG TKF 1X1 KG"
   },
@@ -28022,10 +28018,6 @@
   {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
     "ItemCode": "104010004",
@@ -36800,10 +36792,6 @@
     "ItemName": "ACEITE VEGETAL CRISTAL 12X900 ML"
   },
   {
-    "ItemCode": "102630002",
-    "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
-  },
-  {
     "ItemCode": "102930014",
     "ItemName": "CEREAL VIVO SHOT CHECK 21X 30 GR"
   },
@@ -37450,10 +37438,6 @@
   {
     "ItemCode": "200460018",
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
-  },
-  {
-    "ItemCode": "203200021",
-    "ItemName": "MECHADA AHUMADA DE POLLO 12X1 KG"
   },
   {
     "ItemCode": "102970007",
@@ -38288,10 +38272,6 @@
     "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
   },
   {
-    "ItemCode": "202730081",
-    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
-  },
-  {
     "ItemCode": "202730082",
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
   },
@@ -38402,10 +38382,6 @@
   {
     "ItemCode": "202820016",
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
-  },
-  {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
     "ItemCode": "104090003",
@@ -39108,10 +39084,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO CALO 2X1,92 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "204300068",
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
   },
@@ -39382,14 +39354,6 @@
   {
     "ItemCode": "202730049",
     "ItemName": "MUFFIN RELLENO DE CARAMELO 20X95 GR"
-  },
-  {
-    "ItemCode": "202730038",
-    "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
-  },
-  {
-    "ItemCode": "202730043",
-    "ItemName": "MUFFIN RELLENO DE FRUTOS ROJOS 20X95 GR"
   },
   {
     "ItemCode": "202730013",
@@ -43624,10 +43588,6 @@
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
   {
-    "ItemCode": "204790046",
-    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
-  },
-  {
     "ItemCode": "100303001",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   },
@@ -43912,10 +43872,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
@@ -44106,5 +44062,49 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "203200021",
+    "ItemName": "MECHADA AHUMADA DE POLLO 12X1 KG"
+  },
+  {
+    "ItemCode": "204790046",
+    "ItemName": "CHOCLO GRANO CUKIT 10X1 KG"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "102630002",
+    "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
+  },
+  {
+    "ItemCode": "202730038",
+    "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
+  },
+  {
+    "ItemCode": "202730043",
+    "ItemName": "MUFFIN RELLENO DE FRUTOS ROJOS 20X95 GR"
+  },
+  {
+    "ItemCode": "202730081",
+    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   }
 ]
