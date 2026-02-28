@@ -27852,10 +27852,6 @@
     "ItemName": "CAFE AMALFI COMPATIBLE NESPRESSO 1X50 UN"
   },
   {
-    "ItemCode": "100101016",
-    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
     "ItemCode": "200454024",
     "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
@@ -30256,10 +30252,6 @@
     "ItemName": "DETERGENTE OMO MATIC POLVO 1X800 GR"
   },
   {
-    "ItemCode": "200500018",
-    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
-  },
-  {
     "ItemCode": "304850010",
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
@@ -31144,10 +31136,6 @@
     "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "300151003",
     "ItemName": "PACK PROBIOTICO MANZANA UNV 6X90 ML"
   },
@@ -31296,10 +31284,6 @@
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "102710014",
     "ItemName": "BEBIDA VEGETAL AVENA SABOR CHOCOLATE LONCOLECHE 6X1 LT"
   },
@@ -31354,10 +31338,6 @@
   {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "103210006",
@@ -31726,10 +31706,6 @@
   {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
   {
     "ItemCode": "100850015",
@@ -36584,10 +36560,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO 71/90 10X1 KG"
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "100355005",
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
@@ -39434,10 +39406,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
     "ItemCode": "204150013",
@@ -42960,10 +42928,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
@@ -43384,10 +43348,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101201027",
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
@@ -43490,10 +43450,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "400011008",
@@ -44092,8 +44048,16 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+    "ItemCode": "200500018",
+    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "200002007",
@@ -44106,5 +44070,41 @@
   {
     "ItemCode": "204790004",
     "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "100101016",
+    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   }
 ]
