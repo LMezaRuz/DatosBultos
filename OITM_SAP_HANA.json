@@ -35608,10 +35608,6 @@
     "ItemName": "CAFE NAPOLI CAPSULA NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100352005",
-    "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -42656,10 +42652,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -43840,10 +43832,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
@@ -44106,5 +44094,17 @@
   {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100352005",
+    "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
