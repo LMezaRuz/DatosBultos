@@ -34928,10 +34928,6 @@
     "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "101007014",
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
   },
@@ -38432,10 +38428,6 @@
     "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760341",
-    "ItemName": "HUACHALOMO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
   },
@@ -38550,10 +38542,6 @@
   {
     "ItemCode": "101201026",
     "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "304760355",
@@ -41856,10 +41844,6 @@
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
   {
-    "ItemCode": "202910004",
-    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
-  },
-  {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
@@ -43076,14 +43060,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "200003001",
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
@@ -43150,10 +43126,6 @@
   {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
     "ItemCode": "100100003",
@@ -43688,10 +43660,6 @@
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -43828,14 +43796,6 @@
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "204380022",
-    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "304760362",
     "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
   },
@@ -43882,10 +43842,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "101002005",
@@ -44106,5 +44062,49 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "304760341",
+    "ItemName": "HUACHALOMO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910004",
+    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380022",
+    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   }
 ]
