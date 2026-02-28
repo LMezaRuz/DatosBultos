@@ -24164,10 +24164,6 @@
     "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
   },
   {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
     "ItemCode": "303750002",
     "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
@@ -31732,10 +31728,6 @@
     "ItemName": "TIKA CHILOE  48 UN X 35 GRS"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
@@ -38160,10 +38152,6 @@
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "204010002",
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
@@ -39304,10 +39292,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "204530011",
-    "ItemName": "PORCION SALMON ATLANTICO SIN PIEL CAJA 5 KG APROX (CAMANCHACA)"
-  },
-  {
     "ItemCode": "202730011",
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
@@ -39366,10 +39350,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "303850010",
-    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   },
   {
     "ItemCode": "101150032",
@@ -43112,10 +43092,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "200307011",
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
@@ -43234,10 +43210,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "300200001",
@@ -43712,10 +43684,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100557010",
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
   },
@@ -44106,5 +44074,37 @@
   {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "204530011",
+    "ItemName": "PORCION SALMON ATLANTICO SIN PIEL CAJA 5 KG APROX (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "303850010",
+    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   }
 ]
