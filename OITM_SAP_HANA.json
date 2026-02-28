@@ -23372,10 +23372,6 @@
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
   {
-    "ItemCode": "100352005",
-    "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "103930005",
     "ItemName": "AJO EN POLVO 1X200 GR"
   },
@@ -27628,10 +27624,6 @@
     "ItemName": "CAFE KIMBO EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100352008",
-    "ItemName": "CAFE NAPOLI CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "100355046",
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
@@ -30726,10 +30718,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
     "ItemCode": "200100001",
@@ -37788,10 +37776,6 @@
     "ItemName": "ZEROZOTTI 6X750 ML"
   },
   {
-    "ItemCode": "102840013",
-    "ItemName": "CAFE KIMBO AMALFI EN CAPSULAS COMPATIBLE CON DOLCE GUSTO 1X16 UN"
-  },
-  {
     "ItemCode": "102930009",
     "ItemName": "CEREALCHOC DISPLAY 6X20X18 GR"
   },
@@ -38032,10 +38016,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
@@ -38206,10 +38186,6 @@
   {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
     "ItemCode": "302970004",
@@ -39166,10 +39142,6 @@
   {
     "ItemCode": "704920003",
     "ItemName": "PALTA HASS CALIBRE 10-18 PREMADURA CAJA 10KG"
-  },
-  {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
   },
   {
     "ItemCode": "100852005",
@@ -44106,5 +44078,33 @@
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100352008",
+    "ItemName": "CAFE NAPOLI CAPSULA NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352005",
+    "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "102840013",
+    "ItemName": "CAFE KIMBO AMALFI EN CAPSULAS COMPATIBLE CON DOLCE GUSTO 1X16 UN"
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   }
 ]
