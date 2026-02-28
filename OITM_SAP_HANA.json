@@ -31516,10 +31516,6 @@
     "ItemName": "YERBA MATE 1x500 G."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
@@ -43332,10 +43328,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
-  },
-  {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
@@ -43984,10 +43976,6 @@
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
     "ItemCode": "101150038",
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
@@ -44018,10 +44006,6 @@
   {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "203210110",
@@ -44106,5 +44090,21 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
   }
 ]
