@@ -31576,10 +31576,6 @@
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "101150012",
     "ItemName": "CONDIMENTO PARA SALSA DE TOMATE JUAN MAESTRO 5X1 KG"
   },
@@ -32142,10 +32138,6 @@
   {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "101305002",
@@ -35956,10 +35948,6 @@
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
@@ -36218,10 +36206,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "101351007",
@@ -39838,10 +39822,6 @@
   {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "202990004",
@@ -43536,20 +43516,12 @@
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "104620002",
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101012003",
@@ -43570,10 +43542,6 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
     "ItemCode": "300351022",
@@ -43832,10 +43800,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
   },
@@ -44020,10 +43984,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -44092,10 +44052,6 @@
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
@@ -44106,5 +44062,49 @@
   {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
