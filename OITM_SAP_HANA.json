@@ -27628,10 +27628,6 @@
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
@@ -30492,10 +30488,6 @@
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -30514,10 +30506,6 @@
   {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
     "ItemCode": "101452004",
@@ -30584,10 +30572,6 @@
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
-  },
-  {
     "ItemCode": "400301075",
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -30598,10 +30582,6 @@
   {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
     "ItemCode": "101150008",
@@ -31334,14 +31314,6 @@
   {
     "ItemCode": "400301015",
     "ItemName": "VASO  SHAKES DOGGIS 12 OZ X 2000 UN"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
   {
     "ItemCode": "101401004",
@@ -42324,10 +42296,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
     "ItemCode": "101355023",
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
@@ -44106,5 +44074,37 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   }
 ]
