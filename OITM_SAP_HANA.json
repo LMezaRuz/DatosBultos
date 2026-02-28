@@ -23828,10 +23828,6 @@
     "ItemName": "CAFE AMALFI COMPATIBLE NESPRESSO 1X50 UN"
   },
   {
-    "ItemCode": "202910028",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
-  },
-  {
     "ItemCode": "204380022",
     "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   },
@@ -31336,10 +31332,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "300001012",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 7X400 GR"
   },
@@ -34988,10 +34980,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "400012008",
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
@@ -38464,10 +38452,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "304760346",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -38942,10 +38926,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "304760311",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "304760342",
@@ -42548,10 +42528,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101150038",
-    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
@@ -42926,10 +42902,6 @@
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "200460027",
@@ -43620,10 +43592,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -43674,10 +43642,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100050007",
@@ -44048,10 +44012,6 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -44084,20 +44044,40 @@
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101150038",
+    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "100302032",
@@ -44106,5 +44086,25 @@
   {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "202910028",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
+  },
+  {
+    "ItemCode": "304760311",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   }
 ]
