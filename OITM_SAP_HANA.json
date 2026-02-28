@@ -30832,10 +30832,6 @@
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "303850010",
-    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
-  },
-  {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
   },
@@ -32070,10 +32066,6 @@
   {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "102530001",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
     "ItemCode": "100353006",
@@ -37816,10 +37808,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
   },
@@ -39250,10 +39238,6 @@
   {
     "ItemCode": "104670002",
     "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100300006",
@@ -43112,10 +43096,6 @@
     "ItemName": "CHURRASCO DE VACUNO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -43134,10 +43114,6 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
     "ItemCode": "101201023",
@@ -44106,5 +44082,29 @@
   {
     "ItemCode": "302960000",
     "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "102530001",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "303850010",
+    "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   }
 ]
