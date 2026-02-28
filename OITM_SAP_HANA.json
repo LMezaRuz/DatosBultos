@@ -30456,10 +30456,6 @@
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
@@ -38904,10 +38900,6 @@
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
@@ -39082,14 +39074,6 @@
   {
     "ItemCode": "204790045",
     "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
     "ItemCode": "104070007",
@@ -43468,10 +43452,6 @@
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "103200000",
     "ItemName": "AVE PIMENTON POUCH 24X500 GR"
   },
@@ -44106,5 +44086,25 @@
   {
     "ItemCode": "304760311",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   }
 ]
