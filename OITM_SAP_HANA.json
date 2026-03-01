@@ -28332,10 +28332,6 @@
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
-    "ItemCode": "204300009",
-    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "102480005",
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
@@ -31154,10 +31150,6 @@
   {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
-  },
-  {
-    "ItemCode": "204300050",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
   },
   {
     "ItemCode": "300157034",
@@ -37972,10 +37964,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
   {
-    "ItemCode": "204300068",
-    "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
-  },
-  {
     "ItemCode": "304760278",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
   },
@@ -39682,10 +39670,6 @@
   {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
-    "ItemCode": "400102003",
-    "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
   {
     "ItemCode": "300157001",
@@ -43288,10 +43272,6 @@
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
   {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
-  },
-  {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
@@ -44106,5 +44086,25 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400102003",
+    "ItemName": "BROCHETAS 25 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "204300050",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
+  },
+  {
+    "ItemCode": "204300009",
+    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "204300068",
+    "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
   }
 ]
