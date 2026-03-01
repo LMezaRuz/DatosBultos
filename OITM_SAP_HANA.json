@@ -23408,10 +23408,6 @@
     "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
   },
   {
-    "ItemCode": "104670001",
-    "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "104670021",
     "ItemName": "TE LIPTON VERDE 48X20 UN"
   },
@@ -28020,10 +28016,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "104670038",
-    "ItemName": "TE TWININGS DARJEELING 1X25 UN"
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -28138,10 +28130,6 @@
   {
     "ItemCode": "302890025",
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
-  },
-  {
-    "ItemCode": "104670049",
-    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
   {
     "ItemCode": "104670047",
@@ -31142,10 +31130,6 @@
   {
     "ItemCode": "100202007",
     "ItemName": "ENDULZANTE STEVIA LIQUIDO 1X270 ML"
-  },
-  {
-    "ItemCode": "100202016",
-    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
   {
     "ItemCode": "600002025",
@@ -43528,16 +43512,8 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200001001",
@@ -44106,5 +44082,29 @@
   {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "104670049",
+    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
+  },
+  {
+    "ItemCode": "104670001",
+    "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670038",
+    "ItemName": "TE TWININGS DARJEELING 1X25 UN"
+  },
+  {
+    "ItemCode": "100202016",
+    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   }
 ]
