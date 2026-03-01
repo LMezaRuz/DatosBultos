@@ -31512,20 +31512,8 @@
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
   },
   {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
-  },
-  {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
     "ItemCode": "200201006",
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
-  },
-  {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
   {
     "ItemCode": "101401002",
@@ -39256,10 +39244,6 @@
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
     "ItemCode": "304760302",
     "ItemName": "GANSO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -43344,10 +43328,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
-  },
-  {
     "ItemCode": "101007021",
     "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -43752,10 +43732,6 @@
     "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "102560016",
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -44106,5 +44082,29 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   }
 ]
