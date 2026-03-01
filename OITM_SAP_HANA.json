@@ -43116,10 +43116,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -43366,10 +43362,6 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400252003",
@@ -44096,15 +44088,23 @@
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
   },
   {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO 15X400 GR"
-  },
-  {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO 15X400 GR"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
