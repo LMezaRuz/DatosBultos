@@ -34964,10 +34964,6 @@
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
   {
-    "ItemCode": "300152009",
-    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -35246,10 +35242,6 @@
   {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "101202001",
@@ -42840,10 +42832,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
   {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -43136,10 +43124,6 @@
     "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "200500053",
     "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
   },
@@ -43286,10 +43270,6 @@
   {
     "ItemCode": "104010002",
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "101354019",
@@ -43936,10 +43916,6 @@
     "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "104020005",
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
@@ -43964,10 +43940,6 @@
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -43980,10 +43952,6 @@
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -43994,10 +43962,6 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "100003002",
@@ -44106,5 +44070,41 @@
   {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "300152009",
+    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
