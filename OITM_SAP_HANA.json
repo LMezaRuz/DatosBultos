@@ -30056,10 +30056,6 @@
     "ItemName": "PULPA DE JUGO DE LIMON MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
@@ -31486,10 +31482,6 @@
   {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
-  },
-  {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
     "ItemCode": "100701010",
@@ -41880,10 +41872,6 @@
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "100751001",
     "ItemName": "MERMELADA DE CIRUELA 1X250 GR"
   },
@@ -41934,10 +41922,6 @@
   {
     "ItemCode": "103910047",
     "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO 15X400 GR"
   },
   {
     "ItemCode": "103700007",
@@ -42450,10 +42434,6 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101305005",
@@ -43532,10 +43512,6 @@
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
@@ -44106,5 +44082,29 @@
   {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO 15X400 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
