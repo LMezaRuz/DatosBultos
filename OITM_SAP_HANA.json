@@ -30784,10 +30784,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
@@ -31058,10 +31054,6 @@
   {
     "ItemCode": "300353016",
     "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL (20 KG APROX)"
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101201044",
@@ -31606,10 +31598,6 @@
   {
     "ItemCode": "204530011",
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL CAJA 5 KG APROX (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
     "ItemCode": "204150002",
@@ -32222,10 +32210,6 @@
   {
     "ItemCode": "200452001",
     "ItemName": "PEPPERONI LAMINADO SUGARDALE 2X5,67 KG NAL"
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
     "ItemCode": "101201011",
@@ -35170,10 +35154,6 @@
   {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
-  },
-  {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
     "ItemCode": "400100001",
@@ -43488,10 +43468,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101007021",
     "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -43832,10 +43808,6 @@
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "400251003",
     "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
   },
@@ -44106,5 +44078,33 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   }
 ]
