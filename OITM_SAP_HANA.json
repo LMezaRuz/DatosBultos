@@ -27444,10 +27444,6 @@
     "ItemName": "MAYONESA HELLMANNS DELI MINI PORCION 528x7 G."
   },
   {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
-  },
-  {
     "ItemCode": "200202005",
     "ItemName": "PAN MOLDE BLANCO IDEAL S/G X 750 GRS"
   },
@@ -28154,10 +28150,6 @@
   {
     "ItemCode": "104560001",
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "103910019",
@@ -32032,10 +32024,6 @@
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -32366,10 +32354,6 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "400301022",
@@ -34964,10 +34948,6 @@
     "ItemName": "POPS COLORES 1X160 UN"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "200500023",
     "ItemName": "COLIFLOR IQF 7X1 KG."
   },
@@ -36026,10 +36006,6 @@
   {
     "ItemCode": "100304011",
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
     "ItemCode": "101357005",
@@ -39112,10 +39088,6 @@
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "203210106",
-    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
     "ItemCode": "204300070",
     "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. 1X20KG."
   },
@@ -39550,10 +39522,6 @@
   {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "304760350",
@@ -43676,10 +43644,6 @@
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "103210000",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
@@ -44106,5 +44070,41 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "203210106",
+    "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   }
 ]
