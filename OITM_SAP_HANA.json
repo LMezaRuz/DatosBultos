@@ -22532,10 +22532,6 @@
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
   {
-    "ItemCode": "101003004",
-    "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
-  },
-  {
     "ItemCode": "101354022",
     "ItemName": "MOSTAZA HEINZ SACHET 500X6 GR"
   },
@@ -24036,10 +24032,6 @@
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
   {
-    "ItemCode": "100852002",
-    "ItemName": "GALLETA KUKY CLASICA 1X 120g"
-  },
-  {
     "ItemCode": "100852003",
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
@@ -24138,10 +24130,6 @@
   {
     "ItemCode": "104290007",
     "ItemName": "CREMA DE ZAPALLO WASIL 16X380 G"
-  },
-  {
-    "ItemCode": "303850000",
-    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
     "ItemCode": "104210002",
@@ -35156,10 +35144,6 @@
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
@@ -36772,10 +36756,6 @@
     "ItemName": "ACHIOTE EN PASTA 60X100"
   },
   {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
   },
@@ -37882,10 +37862,6 @@
   {
     "ItemCode": "304440019",
     "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
     "ItemCode": "103090001",
@@ -42056,10 +42032,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
@@ -42266,10 +42238,6 @@
   {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "100852020",
@@ -42550,10 +42518,6 @@
   {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
     "ItemCode": "303850001",
@@ -42932,10 +42896,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "101200021",
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
@@ -43224,10 +43184,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -43314,10 +43270,6 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "304760112",
@@ -44106,5 +44058,53 @@
   {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101003004",
+    "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
+  },
+  {
+    "ItemCode": "100852002",
+    "ItemName": "GALLETA KUKY CLASICA 1X 120g"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "303850000",
+    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   }
 ]
