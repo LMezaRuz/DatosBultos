@@ -35408,10 +35408,6 @@
     "ItemName": "SALSA GLASE HAMBURGUESA DE VACUNO 10X1 KG."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "101201028",
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
@@ -38640,10 +38636,6 @@
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO 15X400 GR"
-  },
-  {
     "ItemCode": "304340004",
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
@@ -39314,10 +39306,6 @@
   {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
     "ItemCode": "204050012",
@@ -44106,5 +44094,17 @@
   {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO 15X400 GR"
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
