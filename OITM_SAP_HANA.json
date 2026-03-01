@@ -24128,10 +24128,6 @@
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
-    "ItemCode": "202730029",
-    "ItemName": "REJILLA DE MANZANA 46X110 GR"
-  },
-  {
     "ItemCode": "202730034",
     "ItemName": "TRENZA DE MAPLE Y NUEZ PECAN 60X98GR"
   },
@@ -24252,10 +24248,6 @@
     "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
     "ItemCode": "204700006",
     "ItemName": "RED VELVET 10 PORCIONES"
   },
@@ -24310,10 +24302,6 @@
   {
     "ItemCode": "104610008",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
-  },
-  {
-    "ItemCode": "101201037",
-    "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
   },
   {
     "ItemCode": "103750003",
@@ -30840,10 +30828,6 @@
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
   {
-    "ItemCode": "103200000",
-    "ItemName": "AVE PIMENTON POUCH 24X500 GR"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
@@ -31658,14 +31642,6 @@
   {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
   {
     "ItemCode": "400301015",
@@ -36116,10 +36092,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
@@ -36130,10 +36102,6 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "303850001",
@@ -38332,10 +38300,6 @@
     "ItemName": "TE EXCLUSIVE SELECTION REFRESHING LEMON LIPTON 6X25 BLS"
   },
   {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
-  },
-  {
     "ItemCode": "202820020",
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
@@ -39458,10 +39422,6 @@
   {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
-  },
-  {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "203900009",
@@ -43396,10 +43356,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "100601001",
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
@@ -43776,10 +43732,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -44106,5 +44058,53 @@
   {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103200000",
+    "ItemName": "AVE PIMENTON POUCH 24X500 GR"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "202730029",
+    "ItemName": "REJILLA DE MANZANA 46X110 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201037",
+    "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   }
 ]
