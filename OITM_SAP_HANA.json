@@ -24368,10 +24368,6 @@
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "101100052",
     "ItemName": "CORBATA LUCCHETTI 1X5 KG"
   },
@@ -43548,18 +43544,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "104670006",
-    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
-    "ItemCode": "100352004",
-    "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -43630,10 +43614,6 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
     "ItemCode": "200302009",
@@ -44052,10 +44032,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
@@ -44110,5 +44086,29 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "104670006",
+    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "100352004",
+    "ItemName": "CAFE INTENSO COMPATIBLE NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   }
 ]
