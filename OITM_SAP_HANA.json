@@ -26548,10 +26548,6 @@
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
   },
   {
-    "ItemCode": "100002011",
-    "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X250 GR"
-  },
-  {
     "ItemCode": "100003007",
     "ItemName": "ACEITE CHEF MAIZ  2X10 LT"
   },
@@ -26574,10 +26570,6 @@
   {
     "ItemCode": "101010007",
     "ItemName": "LECHE S/LACTOSA DESC LCO 12X1 LTS"
-  },
-  {
-    "ItemCode": "100002009",
-    "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X500"
   },
   {
     "ItemCode": "100005003",
@@ -32968,18 +32960,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "400050001",
     "ItemName": "CARBON PREMIUM 2KL"
   },
@@ -39196,10 +39176,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -39226,10 +39202,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100005004",
-    "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
     "ItemCode": "100050004",
@@ -42044,10 +42016,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -43840,10 +43808,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
@@ -44110,5 +44074,41 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100005004",
+    "ItemName": "ACEITE DE SESAMO 1X500 ML"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100002009",
+    "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X500"
+  },
+  {
+    "ItemCode": "100002011",
+    "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X250 GR"
   }
 ]
