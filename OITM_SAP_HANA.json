@@ -27220,10 +27220,6 @@
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "300152002",
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
@@ -41356,10 +41352,6 @@
     "ItemName": "HELADO VITTORE FRUTILLA A LA CREMA 6 X 460 ML."
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "200200011",
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
@@ -43220,10 +43212,6 @@
     "ItemName": "LIMONETA SACHET  MINI PORCION OSKU 300 x 8 cc."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -43472,10 +43460,6 @@
     "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
@@ -43496,10 +43480,6 @@
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
   {
-    "ItemCode": "400301102",
-    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
-  },
-  {
     "ItemCode": "101150055",
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
@@ -43510,10 +43490,6 @@
   {
     "ItemCode": "400301031",
     "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "101150049",
@@ -43730,14 +43706,6 @@
   {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
     "ItemCode": "204790020",
@@ -43992,10 +43960,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "400010022",
-    "ItemName": "CAFIZA 1 X 1 UN"
-  },
-  {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
@@ -44018,18 +43982,6 @@
   {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "300405004",
-    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "101100039",
@@ -44100,15 +44052,63 @@
     "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "304760308",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
     "ItemCode": "204390007",
     "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "400010022",
+    "ItemName": "CAFIZA 1 X 1 UN"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "400301102",
+    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300405004",
+    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
   }
 ]
