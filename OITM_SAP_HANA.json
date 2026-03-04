@@ -31304,10 +31304,6 @@
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "101400005",
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   },
@@ -35752,10 +35748,6 @@
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "200303004",
     "ItemName": "MERLUZA IMP. (MERLUCCIUS PRODUCTUS) 10X1 KG"
   },
@@ -39444,10 +39436,6 @@
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
   },
@@ -39784,10 +39772,6 @@
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101354017",
     "ItemName": "MOSTAZA DIJON FUERTE 1X210 GR"
   },
@@ -39922,10 +39906,6 @@
   {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101200002",
@@ -43756,10 +43736,6 @@
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "104040021",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X200 GR"
   },
@@ -43794,10 +43770,6 @@
   {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "101353007",
@@ -44118,5 +44090,33 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
