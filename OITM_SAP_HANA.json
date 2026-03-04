@@ -26708,10 +26708,6 @@
     "ItemName": "CORDERO ENTERO"
   },
   {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
-  },
-  {
     "ItemCode": "300150004",
     "ItemName": "SALCHICHA 1X1 KILO"
   },
@@ -29696,10 +29692,6 @@
     "ItemName": "SALSA MOSTAZA UNIFOOD 12 X 1 KG"
   },
   {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
     "ItemCode": "203210090",
     "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
   },
@@ -30538,10 +30530,6 @@
   {
     "ItemCode": "100557018",
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100600007",
@@ -33968,10 +33956,6 @@
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
-  },
-  {
     "ItemCode": "300353114",
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
   },
@@ -34302,10 +34286,6 @@
   {
     "ItemCode": "200460012",
     "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
   },
   {
     "ItemCode": "400007001",
@@ -37314,10 +37294,6 @@
   {
     "ItemCode": "400251007",
     "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
-  },
-  {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
   },
   {
     "ItemCode": "203210101",
@@ -41548,10 +41524,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
@@ -42132,14 +42104,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "204790031",
-    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "300404024",
-    "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
-  },
-  {
     "ItemCode": "304450018",
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR 10 KG (APROX)"
   },
@@ -42300,10 +42264,6 @@
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE KIMBO EN CAPSULA NAPOLI COMPATIBLE ESPRESSO POINT 1X100 UN"
-  },
-  {
     "ItemCode": "100352012",
     "ItemName": "CAFE DESCAFEINADO CAPSULA ESPRESSO POINT 1X100 UN"
   },
@@ -42318,10 +42278,6 @@
   {
     "ItemCode": "104600000",
     "ItemName": "SERVILLETA TECNOPAPEL LUNCH UNIVERSAL 20 X 500 UN"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100450003",
@@ -43066,10 +43022,6 @@
   {
     "ItemCode": "100355046",
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "303850003",
@@ -44118,5 +44070,53 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE KIMBO EN CAPSULA NAPOLI COMPATIBLE ESPRESSO POINT 1X100 UN"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790031",
+    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300404024",
+    "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   }
 ]
