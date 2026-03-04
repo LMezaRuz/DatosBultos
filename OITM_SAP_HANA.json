@@ -22516,10 +22516,6 @@
     "ItemName": "BEBIDA VEGETAL DE ALMENDRA ORASI BARISTA 12 X 1 LT"
   },
   {
-    "ItemCode": "103000001",
-    "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
-  },
-  {
     "ItemCode": "103190003",
     "ItemName": "PULLED PORK 12X1,2 KG"
   },
@@ -23362,10 +23358,6 @@
   {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
-    "ItemCode": "204700014",
-    "ItemName": "PASTEL SELVA NEGRA PLANCHA 2,5 KG"
   },
   {
     "ItemCode": "204380002",
@@ -30092,10 +30084,6 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "200452004",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
   },
@@ -30394,10 +30382,6 @@
   {
     "ItemCode": "100304026",
     "ItemName": "JUGO NECTAR  VIVO PIÑA 12x1 lt."
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "102710015",
@@ -36764,10 +36748,6 @@
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
     "ItemCode": "104320012",
     "ItemName": "PANNA COTTA TKF 10X1 KG"
   },
@@ -36830,10 +36810,6 @@
   {
     "ItemCode": "202730068",
     "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
-  },
-  {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
     "ItemCode": "304760351",
@@ -37866,10 +37842,6 @@
   {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "303850013",
@@ -42460,10 +42432,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -42474,10 +42442,6 @@
   {
     "ItemCode": "101100033",
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
-  },
-  {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
     "ItemCode": "101050001",
@@ -42782,10 +42746,6 @@
   {
     "ItemCode": "200201002",
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "200201006",
@@ -43876,10 +43836,6 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -43966,10 +43922,6 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "101350003",
-    "ItemName": "LIMONETA SACHET 300X10 CC"
   },
   {
     "ItemCode": "103700007",
@@ -44118,5 +44070,53 @@
   {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
+  },
+  {
+    "ItemCode": "103000001",
+    "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
+  },
+  {
+    "ItemCode": "101350003",
+    "ItemName": "LIMONETA SACHET 300X10 CC"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "204700014",
+    "ItemName": "PASTEL SELVA NEGRA PLANCHA 2,5 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   }
 ]
