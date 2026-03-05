@@ -18456,10 +18456,6 @@
     "ItemName": "COGOTE DE VACUNO 97VL CONG. IMP. BRASIL APROX 20,00 KG"
   },
   {
-    "ItemCode": "204750018",
-    "ItemName": "RECORTE DE PROLIJADO DE FILETE"
-  },
-  {
     "ItemCode": "204790036",
     "ItemName": "COL DE BRUSELAS CONGELADAS 1X1 UN"
   },
@@ -19998,10 +19994,6 @@
   {
     "ItemCode": "104820020",
     "ItemName": "VINAGRE DE VINO BLANCO PET TRAVERSO 12 X 500 ML 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "204750009",
-    "ItemName": "RECORTE DE PROLIJADO (MM)"
   },
   {
     "ItemCode": "100102021",
@@ -22124,10 +22116,6 @@
     "ItemName": "CARNE DE SOYA 1X1 KILO"
   },
   {
-    "ItemCode": "203210071",
-    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
-  },
-  {
     "ItemCode": "LOG_104670024",
     "ItemName": "[LOG] TE LIPTON AMAZING GREY 12X10BLS"
   },
@@ -23702,10 +23690,6 @@
   {
     "ItemCode": "100152002",
     "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "100356001",
@@ -27072,10 +27056,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT V BRASIL (20 KG APROX)"
   },
   {
-    "ItemCode": "300353014",
-    "ItemName": "FILETE AL VACIO CAT V BRASIL (20 KG APROX)"
-  },
-  {
     "ItemCode": "300353060",
     "ItemName": "CHOCLILLO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -27954,10 +27934,6 @@
   {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "200203013",
@@ -36484,10 +36460,6 @@
     "ItemName": "POLLO ENTERO CONG. CALIBRE 2.1 KG. (16 KG)"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "203210105",
     "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
   },
@@ -37162,10 +37134,6 @@
   {
     "ItemCode": "104480000",
     "ItemName": "QUESO RALLADO PARMESANO 4X500 GR"
-  },
-  {
-    "ItemCode": "204750020",
-    "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
   {
     "ItemCode": "304110015",
@@ -39004,10 +38972,6 @@
     "ItemName": "KETCHUP VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
   },
   {
-    "ItemCode": "103880029",
-    "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
-  },
-  {
     "ItemCode": "103810011",
     "ItemName": "CLORO LIQUIDO TRADICIONAL 4X4 KG"
   },
@@ -39654,10 +39618,6 @@
   {
     "ItemCode": "204140017",
     "ItemName": "PAN MOLDE MIGA INTEGRAL 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "204140018",
-    "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
   },
   {
     "ItemCode": "104210013",
@@ -43988,10 +43948,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO DESHUESADO CONG. MARINADO 10X2 KG."
   },
   {
-    "ItemCode": "204300054",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
-  },
-  {
     "ItemCode": "204300069",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. INTERF. 1X20 KG."
   },
@@ -44118,5 +44074,49 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "204140018",
+    "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
+  },
+  {
+    "ItemCode": "204750020",
+    "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
+  },
+  {
+    "ItemCode": "300353014",
+    "ItemName": "FILETE AL VACIO CAT V BRASIL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "204750018",
+    "ItemName": "RECORTE DE PROLIJADO DE FILETE"
+  },
+  {
+    "ItemCode": "203210071",
+    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
+  },
+  {
+    "ItemCode": "204750009",
+    "ItemName": "RECORTE DE PROLIJADO (MM)"
+  },
+  {
+    "ItemCode": "103880029",
+    "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "204300054",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   }
 ]
