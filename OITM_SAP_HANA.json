@@ -27528,10 +27528,6 @@
     "ItemName": "PLATANOS KG."
   },
   {
-    "ItemCode": "101353007",
-    "ItemName": "MAYONESA HELLMANNS VEGANA 1 X 940 GR"
-  },
-  {
     "ItemCode": "400011020",
     "ItemName": "TRAPERO DESINFECTANTE C/OJAL 1X10 UN (1100744)"
   },
@@ -31654,10 +31650,6 @@
   {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "102970010",
@@ -36116,10 +36108,6 @@
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
@@ -36142,10 +36130,6 @@
   {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "100751051",
@@ -40420,10 +40404,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
   },
   {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
     "ItemCode": "200201010",
     "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
   },
@@ -43652,10 +43632,6 @@
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
@@ -43670,10 +43646,6 @@
   {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "304760347",
@@ -44056,24 +44028,8 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "304760344",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "202910049",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
-  },
-  {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
   },
   {
     "ItemCode": "100552005",
@@ -44118,5 +44074,49 @@
   {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "202910049",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101353007",
+    "ItemName": "MAYONESA HELLMANNS VEGANA 1 X 940 GR"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   }
 ]
