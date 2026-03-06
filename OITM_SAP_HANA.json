@@ -15872,10 +15872,6 @@
     "ItemName": "RACK ESTRUCTURAL SCL"
   },
   {
-    "ItemCode": "EQC02-000121",
-    "ItemName": "CELULAR"
-  },
-  {
     "ItemCode": "MAQ01-000158",
     "ItemName": "TRASPALETA 3000 KG"
   },
@@ -31640,10 +31636,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "300151003",
     "ItemName": "PACK PROBIOTICO MANZANA UNV 6X90 ML"
   },
@@ -36642,10 +36634,6 @@
   {
     "ItemCode": "204050013",
     "ItemName": "GYOZAS DE CERDO ARTESANAL 5X30 UN"
-  },
-  {
-    "ItemCode": "204100013",
-    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
   },
   {
     "ItemCode": "204170000",
@@ -44184,10 +44172,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "INS02-000073",
-    "ItemName": "PUNTO DE RED"
-  },
-  {
     "ItemCode": "101150083",
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
@@ -44286,5 +44270,21 @@
   {
     "ItemCode": "MAQ01-000156",
     "ItemName": "TRASPALETA MANUAL"
+  },
+  {
+    "ItemCode": "204100013",
+    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
+  },
+  {
+    "ItemCode": "EQC02-000121",
+    "ItemName": "CELULAR"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "INS02-000073",
+    "ItemName": "PUNTO DE RED"
   }
 ]
