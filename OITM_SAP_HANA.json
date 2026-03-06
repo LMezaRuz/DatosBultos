@@ -26716,10 +26716,6 @@
     "ItemName": "CREMA DE CHOCLO 20X79 GR"
   },
   {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "600002013",
     "ItemName": "PAPAS KG."
   },
@@ -31372,10 +31368,6 @@
     "ItemName": "MOPA ALGODON CON MANGO 1X1 UN. (1201495)"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "400100008",
     "ItemName": "ROLLO PREPICADO REUTILIZABLE 1X106 MT (TO70036)"
   },
@@ -32836,14 +32828,6 @@
     "ItemName": "SPAGUETTI 1X5 KG"
   },
   {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
-  },
-  {
-    "ItemCode": "600001006",
-    "ItemName": "UVA KG."
-  },
-  {
     "ItemCode": "100751072",
     "ItemName": "MERMELADA DE FRUTILLA GOLD EN GALON 1X5 KG"
   },
@@ -33186,10 +33170,6 @@
   {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
     "ItemCode": "101403008",
@@ -35788,10 +35768,6 @@
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
     "ItemCode": "303870002",
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
   },
@@ -36126,10 +36102,6 @@
   {
     "ItemCode": "203190031",
     "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
-  },
-  {
-    "ItemCode": "300351006",
-    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
     "ItemCode": "104560007",
@@ -39424,10 +39396,6 @@
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
-    "ItemCode": "200050009",
-    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
@@ -40396,10 +40364,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -40450,10 +40414,6 @@
   {
     "ItemCode": "100350015",
     "ItemName": "CAPSULA SAP VERGNANO (ESPRESSO POINT)  1 X 100 UN"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "100351003",
@@ -44286,5 +44246,45 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "200050009",
+    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
+  },
+  {
+    "ItemCode": "300351006",
+    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "600001006",
+    "ItemName": "UVA KG."
   }
 ]
