@@ -34408,10 +34408,6 @@
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "200100008",
     "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
   },
@@ -34726,10 +34722,6 @@
   {
     "ItemCode": "203210102",
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
-    "ItemCode": "200500075",
-    "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
   },
   {
     "ItemCode": "304760356",
@@ -43692,10 +43684,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "204790000",
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
@@ -43762,10 +43750,6 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
     "ItemCode": "101003001",
@@ -43870,10 +43854,6 @@
   {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100201015",
@@ -44050,10 +44030,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "100559004",
@@ -44286,5 +44262,29 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "200500075",
+    "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   }
 ]
