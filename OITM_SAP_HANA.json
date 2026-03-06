@@ -27732,10 +27732,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "101201056",
     "ItemName": "FLAN CON LECHE FRUTILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -31118,10 +31114,6 @@
   {
     "ItemCode": "400251006",
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "200302010",
@@ -42788,10 +42780,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6 X 460 ML."
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
@@ -43194,10 +43182,6 @@
   {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100852009",
@@ -43772,10 +43756,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -44060,10 +44040,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
@@ -44286,5 +44262,29 @@
   {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
