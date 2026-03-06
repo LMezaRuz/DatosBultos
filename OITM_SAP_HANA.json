@@ -15872,104 +15872,8 @@
     "ItemName": "RACK ESTRUCTURAL SCL"
   },
   {
-    "ItemCode": "INS02-000073",
-    "ItemName": "PUNTO DE RED"
-  },
-  {
-    "ItemCode": "INS02-000074",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000075",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000076",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000077",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000078",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000079",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000080",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000081",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000082",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000083",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000084",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000085",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000086",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000087",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000088",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000089",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000090",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000091",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000092",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000093",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
-    "ItemCode": "INS02-000094",
-    "ItemName": "DETECTOR DE HUMO"
-  },
-  {
     "ItemCode": "EQC02-000121",
     "ItemName": "CELULAR"
-  },
-  {
-    "ItemCode": "MAQ01-000156",
-    "ItemName": "TRASPALETA MANUAL"
-  },
-  {
-    "ItemCode": "MAQ01-000157",
-    "ItemName": "TRASPALETA MANUAL"
   },
   {
     "ItemCode": "MAQ01-000158",
@@ -42308,10 +42212,6 @@
     "ItemName": "SPAGHETTI  20 UN X 400 G"
   },
   {
-    "ItemCode": "101150083",
-    "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
-  },
-  {
     "ItemCode": "101404005",
     "ItemName": "TOMATE TRITURADO 6X3 KG"
   },
@@ -44140,10 +44040,6 @@
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -44276,15 +44172,119 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "INS02-000073",
+    "ItemName": "PUNTO DE RED"
+  },
+  {
+    "ItemCode": "101150083",
+    "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "INS02-000075",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000076",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000077",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000078",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000079",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000080",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000081",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000082",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000083",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000084",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000085",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000086",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000087",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000088",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000089",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000090",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000091",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000092",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000093",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000094",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "INS02-000074",
+    "ItemName": "DETECTOR DE HUMO"
+  },
+  {
+    "ItemCode": "MAQ01-000157",
+    "ItemName": "TRASPALETA MANUAL"
+  },
+  {
+    "ItemCode": "MAQ01-000156",
+    "ItemName": "TRASPALETA MANUAL"
   }
 ]
