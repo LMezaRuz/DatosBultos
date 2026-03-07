@@ -31524,10 +31524,6 @@
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "100754006",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
-  },
-  {
     "ItemCode": "103910017",
     "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
   },
@@ -32234,10 +32230,6 @@
   {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
   {
     "ItemCode": "100803002",
@@ -35690,10 +35682,6 @@
   {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
     "ItemCode": "100001007",
@@ -39864,10 +39852,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -39946,10 +39930,6 @@
   {
     "ItemCode": "204300050",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
-  },
-  {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
     "ItemCode": "103520001",
@@ -44128,10 +44108,6 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "103070007",
     "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
   },
@@ -44202,10 +44178,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "204380022",
@@ -44286,5 +44258,33 @@
   {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "100754006",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   }
 ]
