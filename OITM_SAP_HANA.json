@@ -27392,10 +27392,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "600001012",
     "ItemName": "PLATANOS KG."
   },
@@ -31676,10 +31672,6 @@
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
   {
-    "ItemCode": "102480005",
-    "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -34788,10 +34780,6 @@
     "ItemName": "TIKA NATIVAS ANDINA SAL DE MAR 48X35 GR"
   },
   {
-    "ItemCode": "300152010",
-    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
-  },
-  {
     "ItemCode": "100300013",
     "ItemName": "AGUA MINERAL CON GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
@@ -35918,10 +35906,6 @@
   {
     "ItemCode": "100304011",
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
     "ItemCode": "100500002",
@@ -39796,10 +39780,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "103520016",
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
   },
@@ -39940,10 +39920,6 @@
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -39954,14 +39930,6 @@
   {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
-  },
-  {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
-  },
-  {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
     "ItemCode": "202720029",
@@ -44240,10 +44208,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -44286,5 +44250,41 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "300152010",
+    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
+  },
+  {
+    "ItemCode": "102480005",
+    "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   }
 ]
