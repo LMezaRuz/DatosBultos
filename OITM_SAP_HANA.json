@@ -28548,14 +28548,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CARAMEL MACCHIATO 18X250"
   },
   {
-    "ItemCode": "102680016",
-    "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
-  },
-  {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -32592,10 +32584,6 @@
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "100754005",
     "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
@@ -36618,10 +36606,6 @@
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
     "ItemCode": "101352012",
@@ -40664,10 +40648,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "204380036",
     "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
   },
@@ -40682,10 +40662,6 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "102680017",
-    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
   },
   {
     "ItemCode": "204180026",
@@ -44124,16 +44100,8 @@
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "403130001",
@@ -44178,10 +44146,6 @@
   {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100003006",
@@ -44286,5 +44250,41 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "102680017",
+    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
+  },
+  {
+    "ItemCode": "102680016",
+    "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
