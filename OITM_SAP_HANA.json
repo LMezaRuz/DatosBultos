@@ -28024,10 +28024,6 @@
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
     "ItemCode": "104670010",
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
@@ -31308,10 +31304,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -32126,10 +32118,6 @@
   {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "200456022",
@@ -35264,10 +35252,6 @@
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -35702,10 +35686,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "200201001",
@@ -38728,10 +38708,6 @@
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "204300056",
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
@@ -39090,10 +39066,6 @@
   {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
-  },
-  {
-    "ItemCode": "400005017",
-    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
     "ItemCode": "103630004",
@@ -39662,10 +39634,6 @@
   {
     "ItemCode": "203200029",
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
     "ItemCode": "104560004",
@@ -43076,10 +43044,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -43732,10 +43696,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
@@ -44286,5 +44246,45 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "400005017",
+    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   }
 ]
