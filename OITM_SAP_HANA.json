@@ -23744,10 +23744,6 @@
     "ItemName": "COLUDA DE VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "103070007",
-    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
-  },
-  {
     "ItemCode": "203210070",
     "ItemName": "FILETE DE VACUNO PORCIONADO TR 5X200 GR (5 KG)(MM)"
   },
@@ -32472,10 +32468,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
@@ -32526,10 +32518,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100653003",
@@ -32588,20 +32576,12 @@
     "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "203300000",
@@ -35728,10 +35708,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
   },
@@ -35950,10 +35926,6 @@
   {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
-    "ItemCode": "101356003",
-    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
     "ItemCode": "100356001",
@@ -36412,16 +36384,8 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "304760345",
@@ -36710,10 +36674,6 @@
   {
     "ItemCode": "101303003",
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "400102004",
@@ -40278,10 +40238,6 @@
   {
     "ItemCode": "202730073",
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "304470001",
@@ -44286,5 +44242,49 @@
   {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "103070007",
+    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101356003",
+    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
