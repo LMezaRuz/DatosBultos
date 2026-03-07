@@ -23380,10 +23380,6 @@
     "ItemName": "MAQUINA DE GRANO LA CIMBALI 2 GRUPOS"
   },
   {
-    "ItemCode": "203210072",
-    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
-  },
-  {
     "ItemCode": "204310016",
     "ItemName": "TARTALETA DE MANZANA Y ALMENDRAS OLD-FASHION 18X150 GR"
   },
@@ -30752,10 +30748,6 @@
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
   {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "100152002",
     "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
   },
@@ -35544,10 +35536,6 @@
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "101201053",
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -36154,10 +36142,6 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
   {
     "ItemCode": "101403004",
@@ -39392,10 +39376,6 @@
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
@@ -39550,10 +39530,6 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "204790044",
@@ -43484,10 +43460,6 @@
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -43790,10 +43762,6 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "100050008",
@@ -44286,5 +44254,37 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "203210072",
+    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   }
 ]
