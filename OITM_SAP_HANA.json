@@ -28404,10 +28404,6 @@
     "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "203210058",
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
@@ -28490,10 +28486,6 @@
   {
     "ItemCode": "104020005",
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
-  },
-  {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
     "ItemCode": "200302029",
@@ -30854,10 +30846,6 @@
   {
     "ItemCode": "100751049",
     "ItemName": "MERMELADA DE FRUTILLA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "100903007",
@@ -43884,10 +43872,6 @@
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -44056,20 +44040,12 @@
     "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100150003",
@@ -44108,10 +44084,6 @@
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -44146,10 +44118,6 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "101100027",
@@ -44194,10 +44162,6 @@
   {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100101009",
@@ -44286,5 +44250,41 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   }
 ]
