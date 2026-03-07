@@ -28288,10 +28288,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "103600004",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
@@ -28354,10 +28350,6 @@
   {
     "ItemCode": "204380002",
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
-  },
-  {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "204790008",
@@ -31858,10 +31850,6 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
   {
     "ItemCode": "101200002",
@@ -35908,10 +35896,6 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
@@ -36252,10 +36236,6 @@
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
@@ -36278,10 +36258,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100005004",
-    "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
     "ItemCode": "101351012",
@@ -43684,10 +43660,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -43750,10 +43722,6 @@
   {
     "ItemCode": "103650002",
     "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "103480004",
@@ -43886,10 +43854,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "101050003",
@@ -44286,5 +44250,41 @@
   {
     "ItemCode": "101009020",
     "ItemName": "LECHE MOMENTS MOCACCINO 18x200 CC"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "100005004",
+    "ItemName": "ACEITE DE SESAMO 1X500 ML"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   }
 ]
