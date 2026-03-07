@@ -27532,10 +27532,6 @@
     "ItemName": "TE TWININGS VERDE 1 X10 UN"
   },
   {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
     "ItemCode": "300154004",
     "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
   },
@@ -35764,10 +35760,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "101202005",
-    "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
     "ItemCode": "200308002",
     "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
@@ -39298,10 +39290,6 @@
   {
     "ItemCode": "202730048",
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
-  },
-  {
-    "ItemCode": "200460051",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
   {
     "ItemCode": "304760313",
@@ -43716,10 +43704,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "104190000",
-    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
-  },
-  {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
   },
@@ -44108,14 +44092,6 @@
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
@@ -44200,10 +44176,6 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -44252,10 +44224,6 @@
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
@@ -44286,5 +44254,37 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "104190000",
+    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101202005",
+    "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "200460051",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   }
 ]
