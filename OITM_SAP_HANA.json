@@ -35960,32 +35960,12 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
-    "ItemCode": "100654003",
-    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "100050004",
     "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "103940019",
-    "ItemName": "MOSTAZA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
-  },
-  {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "300351008",
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "100002004",
@@ -39852,20 +39832,12 @@
     "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "203200029",
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "200306001",
@@ -43212,10 +43184,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
@@ -43320,14 +43288,6 @@
     "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204380019",
     "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
   },
@@ -43350,10 +43310,6 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
     "ItemCode": "104010050",
@@ -43688,10 +43644,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "300403009",
-    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
@@ -43706,10 +43658,6 @@
   {
     "ItemCode": "200201001",
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "200308001",
@@ -44000,10 +43948,6 @@
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "400252006",
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
@@ -44286,5 +44230,61 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100654003",
+    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
+  },
+  {
+    "ItemCode": "300403009",
+    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "103940019",
+    "ItemName": "MOSTAZA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   }
 ]
