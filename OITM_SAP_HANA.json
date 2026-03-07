@@ -24388,10 +24388,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
   },
   {
-    "ItemCode": "103520006",
-    "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
-  },
-  {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   },
@@ -38452,10 +38448,6 @@
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
   },
   {
-    "ItemCode": "302590002",
-    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -38554,10 +38546,6 @@
   {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "204790044",
@@ -42848,10 +42836,6 @@
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
@@ -42922,10 +42906,6 @@
   {
     "ItemCode": "101353020",
     "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "101350004",
@@ -43186,10 +43166,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "101355008",
@@ -44136,10 +44112,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -44286,5 +44258,33 @@
   {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "103520006",
+    "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
+  },
+  {
+    "ItemCode": "302590002",
+    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
