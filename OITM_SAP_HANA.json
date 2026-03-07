@@ -39080,10 +39080,6 @@
     "ItemName": "VINAGRE DE MANZANA 12X500 CC."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "200201032",
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
@@ -39240,10 +39236,6 @@
     "ItemName": "JUGO EN POLVO ZUKO NARANJA PLATANO 10X15 GR"
   },
   {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
     "ItemCode": "202730013",
     "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
   },
@@ -39354,10 +39346,6 @@
   {
     "ItemCode": "103850003",
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
-  },
-  {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
     "ItemCode": "200455004",
@@ -43444,10 +43432,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
@@ -43664,10 +43648,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "100601001",
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
@@ -43710,10 +43690,6 @@
   {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "103880018",
@@ -43898,10 +43874,6 @@
   {
     "ItemCode": "304760317",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "100002003",
@@ -44286,5 +44258,33 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   }
 ]
