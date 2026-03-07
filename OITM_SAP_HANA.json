@@ -27524,10 +27524,6 @@
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
-  },
-  {
     "ItemCode": "400301072",
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
@@ -27670,10 +27666,6 @@
   {
     "ItemCode": "104610008",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
-  },
-  {
-    "ItemCode": "104570009",
-    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
   {
     "ItemCode": "403250022",
@@ -31188,10 +31180,6 @@
     "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
   },
   {
-    "ItemCode": "101350003",
-    "ItemName": "LIMONETA SACHET 300X10 CC"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -31332,10 +31320,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "300405005",
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
@@ -31370,10 +31354,6 @@
   {
     "ItemCode": "100750007",
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "300157028",
@@ -31798,10 +31778,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "101150037",
-    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
   },
   {
     "ItemCode": "101150042",
@@ -35388,10 +35364,6 @@
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "101200007",
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -35474,10 +35446,6 @@
   {
     "ItemCode": "100651005",
     "ItemName": "DURAZNOS EN MITADES 1X3 KG."
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "400012005",
@@ -38888,10 +38856,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -39494,10 +39458,6 @@
   {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "202820019",
@@ -43784,10 +43744,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
@@ -44284,7 +44240,51 @@
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101150037",
+    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101350003",
+    "ItemName": "LIMONETA SACHET 300X10 CC"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
+  },
+  {
+    "ItemCode": "104570009",
+    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   }
 ]
