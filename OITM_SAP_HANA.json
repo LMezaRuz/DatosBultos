@@ -31776,10 +31776,6 @@
     "ItemName": "HELADO VITTORE DULCE DE LECHE CHIPS 6 X 460 ML."
   },
   {
-    "ItemCode": "101150009",
-    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
-  },
-  {
     "ItemCode": "101201052",
     "ItemName": "JALEA NARANJA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -32154,10 +32150,6 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "100700004",
@@ -36776,10 +36768,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "204090001",
-    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
@@ -38764,10 +38752,6 @@
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
   },
   {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8 X 1 KG"
-  },
-  {
     "ItemCode": "203190045",
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
@@ -39256,10 +39240,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
   {
-    "ItemCode": "304760272",
-    "ItemName": "ASADO CARNICERO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
     "ItemCode": "104520005",
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
   },
@@ -39282,10 +39262,6 @@
   {
     "ItemCode": "304760263",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760342",
-    "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "103010006",
@@ -40164,10 +40140,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
-  },
-  {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
   },
@@ -40666,10 +40638,6 @@
   {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "304760353",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "104600004",
@@ -44286,5 +44254,37 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101150009",
+    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8 X 1 KG"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "204090001",
+    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
+  },
+  {
+    "ItemCode": "304760342",
+    "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760272",
+    "ItemName": "ASADO CARNICERO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760353",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   }
 ]
