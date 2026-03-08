@@ -24032,10 +24032,6 @@
     "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "203430016",
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
@@ -35780,10 +35776,6 @@
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "200454024",
     "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
@@ -38196,10 +38188,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "103810009",
     "ItemName": "CONTROLADOR DE OLORES GNZY RENEW PLUS 1X5 LT"
   },
@@ -39598,10 +39586,6 @@
   {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "103210008",
@@ -43104,10 +43088,6 @@
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
@@ -43190,10 +43170,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101050002",
@@ -43314,10 +43290,6 @@
   {
     "ItemCode": "203210103",
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
     "ItemCode": "100201010",
@@ -43772,10 +43744,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION 1X420 GR"
   },
@@ -44160,14 +44128,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -44206,10 +44166,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
     "ItemCode": "200051001",
@@ -44286,5 +44242,49 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   }
 ]
