@@ -28016,16 +28016,8 @@
     "ItemName": "CREMA LISTA LIGHT SIN LACTOSA LONCOLECHE 6X200 ML"
   },
   {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
     "ItemCode": "100304048",
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "100302003",
@@ -43724,10 +43716,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -44220,10 +44208,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -44286,5 +44270,21 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
