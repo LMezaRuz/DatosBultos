@@ -27868,10 +27868,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
   },
@@ -28010,10 +28006,6 @@
   {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "101100057",
@@ -34944,10 +34936,6 @@
     "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
   },
   {
-    "ItemCode": "400005015",
-    "ItemName": "GORRO CLIP BLANCO  1X100 UN."
-  },
-  {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
@@ -35194,10 +35182,6 @@
   {
     "ItemCode": "100751025",
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
-  },
-  {
-    "ItemCode": "101100066",
-    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "100251004",
@@ -39122,10 +39106,6 @@
   {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
-    "ItemCode": "104070007",
-    "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
   {
     "ItemCode": "300157001",
@@ -43240,10 +43220,6 @@
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "101100054",
-    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
@@ -43580,10 +43556,6 @@
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -43738,10 +43710,6 @@
   {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100559006",
@@ -43926,10 +43894,6 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "200500053",
@@ -44286,5 +44250,41 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101100066",
+    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "400005015",
+    "ItemName": "GORRO CLIP BLANCO  1X100 UN."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101100054",
+    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "104070007",
+    "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   }
 ]
