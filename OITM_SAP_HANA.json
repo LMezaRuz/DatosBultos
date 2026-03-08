@@ -28284,10 +28284,6 @@
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
-    "ItemCode": "103440002",
-    "ItemName": "COMPOTA DE MANZANA MANGO PLATANO WATT'S 36X90 GR"
-  },
-  {
     "ItemCode": "204300054",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG SEARA"
   },
@@ -28564,14 +28560,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "103440000",
-    "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
-  },
-  {
-    "ItemCode": "300154034",
-    "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
     "ItemCode": "101009040",
     "ItemName": "LECHE LONCOLECHE BREAK CARAMEL MACCHIATO 18X250"
   },
@@ -28588,16 +28576,8 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "303870002",
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "103910040",
@@ -36320,10 +36300,6 @@
     "ItemName": "MARGARINA SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "101200001",
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -36342,10 +36318,6 @@
   {
     "ItemCode": "100304011",
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100304012",
@@ -44286,5 +44258,33 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103440000",
+    "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
+  },
+  {
+    "ItemCode": "103440002",
+    "ItemName": "COMPOTA DE MANZANA MANGO PLATANO WATT'S 36X90 GR"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "300154034",
+    "ItemName": "MARGARINA CALO 12X450"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   }
 ]
