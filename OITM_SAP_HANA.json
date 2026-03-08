@@ -39236,10 +39236,6 @@
     "ItemName": "KIMBO GRANO BARISTA INTENSO 80%ROBUSTA 20% ARABICA 6X1KG"
   },
   {
-    "ItemCode": "200002011",
-    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
     "ItemCode": "101201028",
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
@@ -43280,10 +43276,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200460037",
     "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
   },
@@ -43678,10 +43670,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "100557018",
-    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
   {
     "ItemCode": "104070010",
@@ -44286,5 +44274,17 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100557018",
+    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
+  },
+  {
+    "ItemCode": "200002011",
+    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   }
 ]
