@@ -31596,10 +31596,6 @@
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100751044",
     "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
   },
@@ -32144,10 +32140,6 @@
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -32214,10 +32206,6 @@
   {
     "ItemCode": "101201014",
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
   {
     "ItemCode": "101201041",
@@ -36340,10 +36328,6 @@
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -40114,10 +40098,6 @@
   {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "203900007",
@@ -43932,10 +43912,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -44286,5 +44262,29 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   }
 ]
