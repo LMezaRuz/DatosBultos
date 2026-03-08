@@ -28548,10 +28548,6 @@
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "204300033",
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.4 CAJA 7X2,4 KG"
   },
@@ -31230,10 +31226,6 @@
   {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
   {
     "ItemCode": "101353020",
@@ -35612,10 +35604,6 @@
     "ItemName": "MERMELADA DE DURAZNO PORCION 192X20 GR."
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "100558001",
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
   },
@@ -36784,20 +36772,12 @@
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "300153001",
@@ -44286,5 +44266,25 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
