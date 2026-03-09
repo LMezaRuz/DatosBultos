@@ -31092,10 +31092,6 @@
     "ItemName": "CAPUCCINO LONCO 12X1"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "200201006",
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
   },
@@ -31986,10 +31982,6 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101009033",
@@ -35284,10 +35276,6 @@
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
@@ -35694,10 +35682,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
     "ItemCode": "100651002",
@@ -42592,10 +42576,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -42738,10 +42718,6 @@
   {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "103880008",
@@ -42910,10 +42886,6 @@
   {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
     "ItemCode": "400011008",
@@ -43448,10 +43420,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -43658,10 +43626,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "200302029",
@@ -43922,14 +43886,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100101004",
@@ -44256,18 +44212,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "203210109",
-    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "304760207",
-    "ItemName": "LOMO LISO VACIO CAT-V BRASIL FRIBOI (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
-  },
-  {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
@@ -44286,5 +44230,61 @@
   {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "304760207",
+    "ItemName": "LOMO LISO VACIO CAT-V BRASIL FRIBOI (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "203210109",
+    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   }
 ]
