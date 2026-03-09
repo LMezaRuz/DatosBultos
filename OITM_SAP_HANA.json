@@ -28340,10 +28340,6 @@
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "204300068",
-    "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
-  },
-  {
     "ItemCode": "203200004",
     "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
   },
@@ -32004,10 +32000,6 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "202910047",
-    "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -35356,10 +35348,6 @@
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
   },
   {
-    "ItemCode": "304760353",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -35370,10 +35358,6 @@
   {
     "ItemCode": "204380002",
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "100352004",
@@ -38560,10 +38544,6 @@
     "ItemName": "HABAS 15X1 KG"
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "104010052",
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
@@ -38670,10 +38650,6 @@
   {
     "ItemCode": "303870008",
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
-  },
-  {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
     "ItemCode": "304760110",
@@ -39298,10 +39274,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "304760361",
-    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "202820022",
@@ -42820,10 +42792,6 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100751026",
-    "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -43272,10 +43240,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -43308,10 +43272,6 @@
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
-    "ItemCode": "304760349",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
   },
@@ -43322,10 +43282,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "200003004",
@@ -43450,10 +43406,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "103700007",
@@ -44284,7 +44236,55 @@
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
   {
+    "ItemCode": "100751026",
+    "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
+  },
+  {
+    "ItemCode": "304760349",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "304760361",
+    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204300068",
+    "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
+  },
+  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "304760353",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "202910047",
+    "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
