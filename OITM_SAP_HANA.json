@@ -27524,10 +27524,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "104570009",
-    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
     "ItemCode": "100251012",
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
@@ -27598,10 +27594,6 @@
   {
     "ItemCode": "101007011",
     "ItemName": "LECHE VAINILLA BAJA EN AZUCAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "103070000",
@@ -28138,10 +28130,6 @@
   {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "101355004",
@@ -30612,10 +30600,6 @@
     "ItemName": "PAPEL TERMICO MAMUT ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "400301021",
-    "ItemName": "CAJA DELIVERY MEDIANA JUAN MAESTRO 1 X 250 UN"
-  },
-  {
     "ItemCode": "400301023",
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
@@ -31680,10 +31664,6 @@
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -32478,10 +32458,6 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "400301072",
-    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
     "ItemCode": "400301048",
@@ -38216,10 +38192,6 @@
     "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
   },
   {
-    "ItemCode": "203550030",
-    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
-  },
-  {
     "ItemCode": "203550031",
     "ItemName": "HELADO VITTORE MENTA CHIPS 6X220 ML"
   },
@@ -40010,10 +39982,6 @@
   {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "304760343",
@@ -44318,5 +44286,37 @@
   {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
+  },
+  {
+    "ItemCode": "203550030",
+    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "400301021",
+    "ItemName": "CAJA DELIVERY MEDIANA JUAN MAESTRO 1 X 250 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "400301072",
+    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "104570009",
+    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   }
 ]
