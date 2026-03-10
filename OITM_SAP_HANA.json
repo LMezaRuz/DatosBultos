@@ -24072,10 +24072,6 @@
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
   },
   {
-    "ItemCode": "103090003",
-    "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
-  },
-  {
     "ItemCode": "304450006",
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
   },
@@ -31172,10 +31168,6 @@
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -31538,10 +31530,6 @@
   {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
     "ItemCode": "304760305",
@@ -32332,10 +32320,6 @@
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
   {
-    "ItemCode": "304760165",
-    "ItemName": "LOMO VETADO LOCAL (NV) KG"
-  },
-  {
     "ItemCode": "400100011",
     "ItemName": "BOLSAS ZIPLOC SANDWICH 16x14cm 1x50 un."
   },
@@ -32448,10 +32432,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "300403006",
-    "ItemName": "QUESO CREMA COLUN 1X200 GR"
-  },
-  {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
@@ -32530,10 +32510,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "300353083",
-    "ItemName": "GUATA CALLO TROZADA KG."
   },
   {
     "ItemCode": "400301020",
@@ -35068,10 +35044,6 @@
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
   },
   {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
     "ItemCode": "100558006",
     "ItemName": "PIMIENTA NEGRA MOLIDA GOURMET 1X15 GR"
   },
@@ -35114,10 +35086,6 @@
   {
     "ItemCode": "100355013",
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
     "ItemCode": "100355017",
@@ -39290,10 +39258,6 @@
   {
     "ItemCode": "101009004",
     "ItemName": "LECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "302890025",
-    "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
   {
     "ItemCode": "200461008",
@@ -44318,5 +44282,41 @@
   {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "300353083",
+    "ItemName": "GUATA CALLO TROZADA KG."
+  },
+  {
+    "ItemCode": "304760165",
+    "ItemName": "LOMO VETADO LOCAL (NV) KG"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "300403006",
+    "ItemName": "QUESO CREMA COLUN 1X200 GR"
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "302890025",
+    "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
+  },
+  {
+    "ItemCode": "103090003",
+    "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
   }
 ]
