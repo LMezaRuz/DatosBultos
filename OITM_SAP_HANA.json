@@ -30308,10 +30308,6 @@
     "ItemName": "ETIQUETA CIRCULAR HUMMUS (10 rollos de 1000 UND)"
   },
   {
-    "ItemCode": "101305008",
-    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -30808,10 +30804,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "400251007",
-    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
-  },
-  {
     "ItemCode": "204380030",
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
@@ -31086,10 +31078,6 @@
   {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
   {
     "ItemCode": "204140006",
@@ -31846,10 +31834,6 @@
   {
     "ItemCode": "204790010",
     "ItemName": "BROCOLI IQF 20X500 GR"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "204090004",
@@ -38232,10 +38216,6 @@
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "202820016",
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
   },
@@ -39410,18 +39390,6 @@
   {
     "ItemCode": "202820021",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG SMARTCHOICE"
-  },
-  {
-    "ItemCode": "100901003",
-    "ItemName": "HARINA ORO 5 SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "202720035",
@@ -43144,10 +43112,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -44044,14 +44008,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
@@ -44064,20 +44020,12 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "400301047",
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "101355004",
@@ -44318,5 +44266,57 @@
   {
     "ItemCode": "202910028",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100901003",
+    "ItemName": "HARINA ORO 5 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "400251007",
+    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "101305008",
+    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   }
 ]
