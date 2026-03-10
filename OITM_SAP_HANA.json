@@ -24112,10 +24112,6 @@
     "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
   },
   {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "202730029",
     "ItemName": "REJILLA DE MANZANA 46X110 GR"
   },
@@ -32156,10 +32152,6 @@
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
     "ItemCode": "204180004",
     "ItemName": "PAPA PREFRITA 10 PUNTOS 20X500 GR"
   },
@@ -32526,10 +32518,6 @@
   {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101150053",
@@ -35892,10 +35880,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
@@ -36224,20 +36208,12 @@
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "100559009",
     "ItemName": "SAL LOBOS SACHET 2.000X1 G"
   },
   {
     "ItemCode": "100754007",
     "ItemName": "CHANCACA 1X400 GR"
-  },
-  {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
   {
     "ItemCode": "300001009",
@@ -39276,10 +39252,6 @@
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -40186,10 +40158,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101452001",
@@ -44318,5 +44286,37 @@
   {
     "ItemCode": "600002032",
     "ItemName": "PIMIENTO MORRÓN AMARILLO KG."
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   }
 ]
