@@ -43704,10 +43704,6 @@
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44348,11 +44344,15 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
