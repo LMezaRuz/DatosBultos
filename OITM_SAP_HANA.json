@@ -35604,10 +35604,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
@@ -38076,14 +38072,6 @@
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
@@ -38108,16 +38096,8 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
     "ItemCode": "103010009",
     "ItemName": "COBERTURA CHOCOLATE AMARGO GANACHE SICAO 1X 10KG"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
   {
     "ItemCode": "102970012",
@@ -42804,10 +42784,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO CONG. S/MARINAR 2X7,5KG"
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "302970005",
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
@@ -43038,14 +43014,6 @@
   {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
-    "ItemCode": "202730007",
-    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
-    "ItemCode": "202730020",
-    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
   },
   {
     "ItemCode": "202730072",
@@ -43450,10 +43418,6 @@
   {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "100152004",
@@ -44354,5 +44318,41 @@
   {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "202730007",
+    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
+  },
+  {
+    "ItemCode": "202730020",
+    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   }
 ]
