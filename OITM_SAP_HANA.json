@@ -39052,10 +39052,6 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "101008007",
-    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -43632,38 +43628,6 @@
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
-    "ItemCode": "203430014",
-    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
-  },
-  {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
   },
@@ -43804,10 +43768,6 @@
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -43850,10 +43810,6 @@
   {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
-  },
-  {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
     "ItemCode": "100303001",
@@ -44086,10 +44042,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "100559004",
@@ -44354,5 +44306,53 @@
   {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "203430014",
+    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101008007",
+    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   }
 ]
