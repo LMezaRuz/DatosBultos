@@ -30988,10 +30988,6 @@
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
   {
-    "ItemCode": "300152007",
-    "ItemName": "GRASA PAMPERO BLOQUE 10X1"
-  },
-  {
     "ItemCode": "101009030",
     "ItemName": "CAPUCCINO LONCO 12X1"
   },
@@ -43828,10 +43824,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -44044,18 +44036,6 @@
     "ItemName": "TE EXCLUSIVE SELECTION GREEN TEA AND INTENSE MINT LIPTON 6X25 BLS"
   },
   {
-    "ItemCode": "101012003",
-    "ItemName": "MILO EN POLVO 15X1 KG"
-  },
-  {
-    "ItemCode": "102930006",
-    "ItemName": "CEREAL CHOCAPIC 18X330 GR"
-  },
-  {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "304760238",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -44070,14 +44050,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "100201002",
@@ -44166,14 +44138,6 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
-    "ItemCode": "300405004",
-    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
     "ItemCode": "200305006",
@@ -44354,5 +44318,41 @@
   {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "300152007",
+    "ItemName": "GRASA PAMPERO BLOQUE 10X1"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101012003",
+    "ItemName": "MILO EN POLVO 15X1 KG"
+  },
+  {
+    "ItemCode": "102930006",
+    "ItemName": "CEREAL CHOCAPIC 18X330 GR"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "300405004",
+    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   }
 ]
