@@ -35344,10 +35344,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "100654002",
-    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -35506,10 +35502,6 @@
   {
     "ItemCode": "100201004",
     "ItemName": "AZUCAR GRANULADA IANSA SACHET 1X60X5 GRS."
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
     "ItemCode": "100300015",
@@ -37612,10 +37604,6 @@
     "ItemName": "DECORACION FIESTA 25X80 GR"
   },
   {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
-  },
-  {
     "ItemCode": "103630005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
   },
@@ -38286,10 +38274,6 @@
   {
     "ItemCode": "304760367",
     "ItemName": "ASADO DEL CARNICERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
-  },
-  {
-    "ItemCode": "202910006",
-    "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
   {
     "ItemCode": "203210103",
@@ -39834,10 +39818,6 @@
   {
     "ItemCode": "204180029",
     "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
-  },
-  {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
     "ItemCode": "104560003",
@@ -44016,10 +43996,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "100401002",
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
@@ -44354,5 +44330,29 @@
   {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
+  },
+  {
+    "ItemCode": "202910006",
+    "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "100654002",
+    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   }
 ]
