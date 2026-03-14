@@ -24268,10 +24268,6 @@
     "ItemName": "ROLLITO DE PASAS 66X96 GR"
   },
   {
-    "ItemCode": "104020000",
-    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
-  },
-  {
     "ItemCode": "600002032",
     "ItemName": "PIMIENTO MORRÓN AMARILLO KG."
   },
@@ -28060,10 +28056,6 @@
     "ItemName": "PULPA DE FRUTILLA LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "204380018",
-    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "103910033",
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
@@ -28214,10 +28206,6 @@
   {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
-    "ItemCode": "204150013",
-    "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
     "ItemCode": "103520009",
@@ -32220,10 +32208,6 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
-    "ItemCode": "302590002",
-    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
-  },
-  {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
@@ -35736,10 +35720,6 @@
     "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100900006",
-    "ItemName": "CHUÑO 1X500 GR"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -39204,10 +39184,6 @@
     "ItemName": "CACAO CALLEBAUT EN POLVO 6 X 1 KG (DCP-22PLARO-EO-89B)"
   },
   {
-    "ItemCode": "300001002",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -39690,10 +39666,6 @@
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   },
   {
     "ItemCode": "102610006",
@@ -43448,10 +43420,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "202730026",
     "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   },
@@ -43770,10 +43738,6 @@
   {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100100003",
@@ -44288,10 +44252,6 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
   },
@@ -44370,5 +44330,45 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "104020000",
+    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
+  },
+  {
+    "ItemCode": "302590002",
+    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
+  },
+  {
+    "ItemCode": "204150013",
+    "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "204380018",
+    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "300001002",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
+  },
+  {
+    "ItemCode": "100900006",
+    "ItemName": "CHUÑO 1X500 GR"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
