@@ -27308,10 +27308,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   },
   {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
-  },
-  {
     "ItemCode": "400301031",
     "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   },
@@ -28428,10 +28424,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
     "ItemCode": "103760006",
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
   },
@@ -28646,10 +28638,6 @@
   {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "200351020",
@@ -32664,10 +32652,6 @@
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
   },
@@ -35764,10 +35748,6 @@
     "ItemName": "OREGANO ENTERO 1X20 GR"
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
@@ -35814,10 +35794,6 @@
   {
     "ItemCode": "100250002",
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "100557019",
@@ -36658,10 +36634,6 @@
   {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
     "ItemCode": "101050001",
@@ -39964,10 +39936,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "304760352",
     "ItemName": "PALANCA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -40588,10 +40556,6 @@
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "300154030",
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
@@ -40686,10 +40650,6 @@
   {
     "ItemCode": "200460046",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "102610000",
@@ -44316,10 +44276,6 @@
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
@@ -44370,5 +44326,49 @@
   {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   }
 ]
