@@ -31956,10 +31956,6 @@
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -35754,10 +35750,6 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
   },
   {
     "ItemCode": "200304006",
@@ -43288,14 +43280,6 @@
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
     "ItemCode": "200454023",
     "ItemName": "CHULETA DE CENTRO 180 GR 6X900 GR (MM)"
   },
@@ -43736,10 +43720,6 @@
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
   {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -43992,10 +43972,6 @@
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
   },
@@ -44140,10 +44116,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -44228,10 +44200,6 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -44254,10 +44222,6 @@
   {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
   {
     "ItemCode": "103070006",
@@ -44370,5 +44334,41 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
