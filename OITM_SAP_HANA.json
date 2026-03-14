@@ -26952,10 +26952,6 @@
     "ItemName": "NAPOLITANA MIXTA (MASA HOJA CON JAMON Y QUESO) 66 UN X 140 GR"
   },
   {
-    "ItemCode": "101007019",
-    "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
-  },
-  {
     "ItemCode": "400301041",
     "ItemName": "CAJA DELIVERY COSTILLITAS MAMUT 1 X 100 UN"
   },
@@ -27770,10 +27766,6 @@
   {
     "ItemCode": "204310011",
     "ItemName": "OPERA 6 X 750 GR"
-  },
-  {
-    "ItemCode": "102490000",
-    "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
   {
     "ItemCode": "203210042",
@@ -31644,10 +31636,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -31694,10 +31682,6 @@
   {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
     "ItemCode": "100701016",
@@ -32126,10 +32110,6 @@
   {
     "ItemCode": "101150061",
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "101201036",
@@ -43884,10 +43864,6 @@
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -44244,10 +44220,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -44370,5 +44342,33 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "102490000",
+    "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "101007019",
+    "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   }
 ]
