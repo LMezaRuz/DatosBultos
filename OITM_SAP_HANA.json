@@ -24348,10 +24348,6 @@
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
   },
   {
-    "ItemCode": "104670010",
-    "ItemName": "TE TWININGS VERDE 1X50 UN"
-  },
-  {
     "ItemCode": "104670049",
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
@@ -28476,10 +28472,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
     "ItemCode": "203900005",
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
@@ -30536,10 +30528,6 @@
     "ItemName": "CONDIMENTO CAJUN GYN 5 UN X 1 KG"
   },
   {
-    "ItemCode": "200500019",
-    "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
     "ItemCode": "200500018",
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
@@ -30632,10 +30620,6 @@
     "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "200250013",
     "ItemName": "PAPAS PREFRITAS 12MM MARQUISE 4X2,5 KG"
   },
@@ -30666,10 +30650,6 @@
   {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
     "ItemCode": "200402012",
@@ -30838,10 +30818,6 @@
   {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
-  },
-  {
-    "ItemCode": "200051018",
-    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200002009",
@@ -31054,10 +31030,6 @@
   {
     "ItemCode": "400005003",
     "ItemName": "GUANTE DE POLITILENO 1X100 UN"
-  },
-  {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200050003",
@@ -32332,10 +32304,6 @@
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
@@ -32458,10 +32426,6 @@
   {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
     "ItemCode": "103910029",
@@ -35930,10 +35894,6 @@
   {
     "ItemCode": "100351002",
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100202005",
@@ -44128,16 +44088,8 @@
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "200456031",
@@ -44370,5 +44322,53 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "200051018",
+    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200500019",
+    "ItemName": "ESPARRAGOS 9X1 KG."
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "104670010",
+    "ItemName": "TE TWININGS VERDE 1X50 UN"
   }
 ]
