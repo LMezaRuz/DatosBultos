@@ -28460,10 +28460,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "200351020",
     "ItemName": "AJI DE GALLINA C/ARROZ BLANCO 12 UN X 350 GRS"
   },
@@ -31856,10 +31852,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "100751042",
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
   },
@@ -32334,14 +32326,6 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "101401004",
-    "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
   {
     "ItemCode": "200301004",
@@ -39896,10 +39880,6 @@
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
@@ -44132,10 +44112,6 @@
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
     "ItemCode": "100557018",
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
@@ -44360,15 +44336,39 @@
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "100304035",
     "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
   {
     "ItemCode": "103650023",
     "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "101401004",
+    "ItemName": "CHOCLO DULCE WASIL 16X340"
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
   }
 ]
