@@ -23184,10 +23184,6 @@
     "ItemName": "ALCUZA ACEITE SANTIAGO (GESTION MKT)"
   },
   {
-    "ItemCode": "103070002",
-    "ItemName": "HABAS 16X380 GR"
-  },
-  {
     "ItemCode": "104060001",
     "ItemName": "CARAMELO MENTA 12X430 GR"
   },
@@ -26994,10 +26990,6 @@
   {
     "ItemCode": "300353052",
     "ItemName": "POSTA PALETA KG"
-  },
-  {
-    "ItemCode": "101401008",
-    "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
   {
     "ItemCode": "300405005",
@@ -31884,10 +31876,6 @@
     "ItemName": "LENTEJAS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "100751042",
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
   },
@@ -32374,10 +32362,6 @@
   {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "101401004",
@@ -44370,5 +44354,21 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "101401008",
+    "ItemName": "POROTOS GRANADOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "103070002",
+    "ItemName": "HABAS 16X380 GR"
   }
 ]
