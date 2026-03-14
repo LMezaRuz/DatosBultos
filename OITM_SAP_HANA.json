@@ -22972,10 +22972,6 @@
     "ItemName": "BOLSA PAPEL KRAFT CINNABON 1 X  1000 UN"
   },
   {
-    "ItemCode": "203210072",
-    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
-  },
-  {
     "ItemCode": "103670004",
     "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
   },
@@ -30500,10 +30496,6 @@
     "ItemName": "DELICREAM VAINILLA C/COCO RALLADO TKF 1X1 KG."
   },
   {
-    "ItemCode": "100450002",
-    "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
-  },
-  {
     "ItemCode": "200250016",
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
@@ -31252,10 +31244,6 @@
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
   {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
@@ -31538,10 +31526,6 @@
   {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
-    "ItemCode": "100753002",
-    "ItemName": "NUTELLA UNIDAD 1X350 GR."
   },
   {
     "ItemCode": "100654006",
@@ -35628,10 +35612,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
   },
@@ -35720,10 +35700,6 @@
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
-    "ItemCode": "101357005",
-    "ItemName": "SALSA DE SOYA 1X500 CC."
-  },
-  {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
@@ -35790,10 +35766,6 @@
   {
     "ItemCode": "100557001",
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "200051019",
@@ -35872,10 +35844,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -35918,10 +35886,6 @@
   {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "100002004",
@@ -36034,10 +35998,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
     "ItemCode": "101351004",
@@ -43840,10 +43800,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "300152009",
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
@@ -44220,10 +44176,6 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "303850011",
     "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   },
@@ -44370,5 +44322,53 @@
   {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100450002",
+    "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "203210072",
+    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
+  },
+  {
+    "ItemCode": "101357005",
+    "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100753002",
+    "ItemName": "NUTELLA UNIDAD 1X350 GR."
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
