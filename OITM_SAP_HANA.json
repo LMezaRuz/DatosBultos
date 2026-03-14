@@ -28272,10 +28272,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -35330,10 +35326,6 @@
   {
     "ItemCode": "100800001",
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
-  },
-  {
-    "ItemCode": "300400008",
-    "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
     "ItemCode": "300153010",
@@ -42984,10 +42976,6 @@
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100001001",
-    "ItemName": "ACEITE DE OLIVA 300X8CC"
-  },
-  {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
@@ -43208,10 +43196,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100854009",
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
@@ -43278,10 +43262,6 @@
   {
     "ItemCode": "204710002",
     "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "101452004",
@@ -43972,10 +43952,6 @@
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -44044,10 +44020,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -44094,10 +44066,6 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "101351012",
@@ -44150,10 +44118,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "300250001",
@@ -44370,5 +44334,41 @@
   {
     "ItemCode": "101006001",
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100001001",
+    "ItemName": "ACEITE DE OLIVA 300X8CC"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300400008",
+    "ItemName": "QUESO RICOTTA 1X1 KG."
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   }
 ]
