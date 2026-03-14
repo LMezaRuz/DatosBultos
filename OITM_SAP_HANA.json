@@ -32192,10 +32192,6 @@
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -32326,10 +32322,6 @@
   {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "101201016",
@@ -35356,10 +35348,6 @@
     "ItemName": "SOFRITO CON AJO FOOD SERVICE 20UN X 500 GRS"
   },
   {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
@@ -35632,10 +35620,6 @@
     "ItemName": "CURRY 1X250 GR."
   },
   {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100351002",
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
   },
@@ -35902,10 +35886,6 @@
   {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "100351004",
@@ -38880,10 +38860,6 @@
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
   },
   {
-    "ItemCode": "200460014",
-    "ItemName": "TRUTRO ENTERO DE POLLO CONG  700 GR"
-  },
-  {
     "ItemCode": "300157005",
     "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
   },
@@ -38926,10 +38902,6 @@
   {
     "ItemCode": "300403006",
     "ItemName": "QUESO CREMA COLUN 1X200 GR"
-  },
-  {
-    "ItemCode": "304760342",
-    "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
     "ItemCode": "104670077",
@@ -44370,5 +44342,33 @@
   {
     "ItemCode": "103070002",
     "ItemName": "HABAS 16X380 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "200460014",
+    "ItemName": "TRUTRO ENTERO DE POLLO CONG  700 GR"
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
+  },
+  {
+    "ItemCode": "304760342",
+    "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   }
 ]
