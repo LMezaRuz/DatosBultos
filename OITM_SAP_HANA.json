@@ -32052,10 +32052,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -39276,10 +39272,6 @@
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
@@ -39514,10 +39506,6 @@
   {
     "ItemCode": "202820019",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
     "ItemCode": "200203008",
@@ -42956,10 +42944,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "200303024",
-    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -44036,10 +44020,6 @@
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "204380018",
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
@@ -44142,10 +44122,6 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "303850001",
@@ -44268,26 +44244,6 @@
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 20X500 GRS"
-  },
-  {
-    "ItemCode": "202820011",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 10X1 KG"
-  },
-  {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
@@ -44370,5 +44326,49 @@
   {
     "ItemCode": "302960001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "200303024",
+    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 20X500 GRS"
+  },
+  {
+    "ItemCode": "202820011",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 10X1 KG"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   }
 ]
