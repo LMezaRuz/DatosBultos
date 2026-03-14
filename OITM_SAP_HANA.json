@@ -28420,10 +28420,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "104020005",
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
@@ -31498,10 +31494,6 @@
   {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
-  },
-  {
-    "ItemCode": "100304035",
-    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
   {
     "ItemCode": "300154009",
@@ -39032,10 +39024,6 @@
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "304760303",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -43432,10 +43420,6 @@
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
-    "ItemCode": "204790007",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
-  },
-  {
     "ItemCode": "204140009",
     "ItemName": "HALLULLA PRECOCIDA CONGELADA 85 GR CAJA 8 KG"
   },
@@ -43596,10 +43580,6 @@
     "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
@@ -43702,10 +43682,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "204790005",
@@ -44224,10 +44200,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
@@ -44328,10 +44300,6 @@
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
   {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
-  },
-  {
     "ItemCode": "103070002",
     "ItemName": "HABAS 16X380 GR"
   },
@@ -44360,6 +44328,18 @@
     "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
   },
   {
+    "ItemCode": "200454023",
+    "ItemName": "CHULETA DE CENTRO 180 GR 6X900 GR (MM)"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -44368,7 +44348,27 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "200454023",
-    "ItemName": "CHULETA DE CENTRO 180 GR 6X900 GR (MM)"
+    "ItemCode": "204790007",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "100304035",
+    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
   }
 ]
