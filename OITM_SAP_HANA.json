@@ -31444,10 +31444,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100700007",
     "ItemName": "CREMA DE TOMATE (REND. 14 LT) TKF 1 X 1 KG"
   },
@@ -31850,10 +31846,6 @@
   {
     "ItemCode": "101150041",
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
     "ItemCode": "100201014",
@@ -32346,10 +32338,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
     "ItemCode": "400251006",
@@ -35852,10 +35840,6 @@
     "ItemName": "JUGO DE MANZANA JUMEX 12X460 ML."
   },
   {
-    "ItemCode": "300400010",
-    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
   },
@@ -35966,10 +35950,6 @@
   {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "100751026",
@@ -36666,10 +36646,6 @@
   {
     "ItemCode": "100551005",
     "ItemName": "AJO EN POLVO GOURMET 1X15 GR"
-  },
-  {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
   },
   {
     "ItemCode": "101354010",
@@ -38752,10 +38728,6 @@
     "ItemName": "CEREALBAR CHIPS DE CHOCOLATE 6X20X21 GR."
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "404160002",
     "ItemName": "VIRUTILLA FINA PARA OLLA GRANDE 3 PAQ 40 UN"
   },
@@ -39222,10 +39194,6 @@
   {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "204090009",
@@ -40712,20 +40680,12 @@
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
     "ItemCode": "101201018",
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
-  },
-  {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
   {
     "ItemCode": "200460046",
@@ -44224,10 +44184,6 @@
     "ItemName": "COBERTURA CHOCOLATE AMARGO GANACHE SICAO 1X 10KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "304760264",
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL IMP. BOA CARNE 20 KG (APROX)"
   },
@@ -44312,16 +44268,8 @@
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100500002",
@@ -44348,10 +44296,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -44370,5 +44314,61 @@
   {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
+  },
+  {
+    "ItemCode": "300400010",
+    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   }
 ]
