@@ -27172,10 +27172,6 @@
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
   {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
     "ItemCode": "104670047",
     "ItemName": "TE TWININGS ROOIBOS 1X25 UN"
   },
@@ -38212,10 +38208,6 @@
     "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "304760362",
     "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
   },
@@ -38572,10 +38564,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG SMARTCHOICE"
   },
   {
-    "ItemCode": "202720035",
-    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
@@ -38732,10 +38720,6 @@
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
   {
-    "ItemCode": "202730078",
-    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
-  },
-  {
     "ItemCode": "203190049",
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
@@ -38790,14 +38774,6 @@
   {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
-    "ItemCode": "200200020",
-    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
     "ItemCode": "304760352",
@@ -38890,14 +38866,6 @@
   {
     "ItemCode": "304760287",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "202730009",
-    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
     "ItemCode": "204300050",
@@ -43084,14 +43052,6 @@
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
-    "ItemCode": "202730072",
-    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
@@ -44370,5 +44330,45 @@
   {
     "ItemCode": "300001002",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
+  },
+  {
+    "ItemCode": "202720035",
+    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
+  },
+  {
+    "ItemCode": "202730078",
+    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
+  },
+  {
+    "ItemCode": "202730072",
+    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
+  },
+  {
+    "ItemCode": "202730009",
+    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "200200020",
+    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
   }
 ]
