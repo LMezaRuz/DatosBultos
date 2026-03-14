@@ -31688,10 +31688,6 @@
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
@@ -35012,10 +35008,6 @@
     "ItemName": "POPS COLORES 1X160 UN"
   },
   {
-    "ItemCode": "300001011",
-    "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
-  },
-  {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
   },
@@ -35246,10 +35238,6 @@
   {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "300351020",
@@ -35534,10 +35522,6 @@
   {
     "ItemCode": "100800001",
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
-  },
-  {
-    "ItemCode": "300153010",
-    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
   {
     "ItemCode": "101001005",
@@ -35978,10 +35962,6 @@
   {
     "ItemCode": "100551005",
     "ItemName": "AJO EN POLVO GOURMET 1X15 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "200308002",
@@ -43880,10 +43860,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -44024,10 +44000,6 @@
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -44038,10 +44010,6 @@
   {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "101150016",
@@ -44370,5 +44338,37 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
+  },
+  {
+    "ItemCode": "300001011",
+    "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "300153010",
+    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
   }
 ]
