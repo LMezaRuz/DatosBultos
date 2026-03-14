@@ -23728,10 +23728,6 @@
     "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
   },
   {
-    "ItemCode": "101150076",
-    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
-  },
-  {
     "ItemCode": "200458003",
     "ItemName": "GRASA DE VACUNO CONGELADA (APROX 20KG)"
   },
@@ -27264,10 +27260,6 @@
     "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
   },
   {
-    "ItemCode": "101150077",
-    "ItemName": "CONDIMENTO CEBOLLA PIMENTON TOMMY BEANS 5 UN X 1 KG"
-  },
-  {
     "ItemCode": "103910017",
     "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
   },
@@ -28522,10 +28514,6 @@
   {
     "ItemCode": "304430002",
     "ItemName": "QUESO CREMA GREENBAY 10X1,36 KG"
-  },
-  {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
   },
   {
     "ItemCode": "100201016",
@@ -31834,10 +31822,6 @@
   {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
     "ItemCode": "100803001",
@@ -35732,10 +35716,6 @@
     "ItemName": "CARBON PREMIUM 2KL"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "101200014",
     "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
@@ -37904,10 +37884,6 @@
     "ItemName": "LECHE CON CHOLATE SIN LACTOSA COLUN 1X1 LT."
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "102540020",
     "ItemName": "AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
   },
@@ -39634,10 +39610,6 @@
   {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
   },
   {
     "ItemCode": "202730073",
@@ -44112,10 +44084,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -44154,10 +44122,6 @@
   {
     "ItemCode": "101150055",
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
-  },
-  {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
     "ItemCode": "101353038",
@@ -44370,5 +44334,41 @@
   {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
+  },
+  {
+    "ItemCode": "101150077",
+    "ItemName": "CONDIMENTO CEBOLLA PIMENTON TOMMY BEANS 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101150076",
+    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
