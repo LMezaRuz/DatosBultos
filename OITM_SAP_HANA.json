@@ -27864,10 +27864,6 @@
     "ItemName": "GOLDEN CHICKEN PICANTE SADIA 16X300 GR"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
   },
@@ -31712,10 +31708,6 @@
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
   {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
     "ItemCode": "204380018",
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
@@ -31910,10 +31902,6 @@
   {
     "ItemCode": "203210106",
     "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "101201021",
@@ -38496,10 +38484,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "204300076",
     "ItemName": "NUGGET DE POLLO 15X400 GR"
   },
@@ -43644,10 +43628,6 @@
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "400301020",
     "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
   },
@@ -44370,5 +44350,25 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   }
 ]
