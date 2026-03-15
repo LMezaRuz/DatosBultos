@@ -27116,10 +27116,6 @@
     "ItemName": "GALLETA NAVIDAD 1X180 GR"
   },
   {
-    "ItemCode": "101100052",
-    "ItemName": "CORBATA LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "200100106",
     "ItemName": "HELADO VITTORE FRUTILLA AL AGUA 6 X 460 ML."
   },
@@ -35660,10 +35656,6 @@
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -39640,16 +39632,8 @@
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
   {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
     "ItemCode": "203210102",
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
     "ItemCode": "101354016",
@@ -43748,10 +43732,6 @@
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -43964,10 +43944,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -43986,10 +43962,6 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
     "ItemCode": "101355006",
@@ -44370,5 +44342,33 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101100052",
+    "ItemName": "CORBATA LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   }
 ]
