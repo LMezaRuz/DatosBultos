@@ -31752,10 +31752,6 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
@@ -31790,10 +31786,6 @@
   {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "400011009",
@@ -35720,10 +35712,6 @@
     "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "100557020",
     "ItemName": "NUEZ MOSCADA MOLIDA 1x5 g."
   },
@@ -36362,10 +36350,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
     "ItemCode": "400251001",
@@ -39212,10 +39196,6 @@
     "ItemName": "MUFFIN RELLENO DE CARAMELO 20X95 GR"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "104670080",
     "ItemName": "TE LIPTON BLACK PEACH MANGO 12 X 20 BLS"
   },
@@ -40446,10 +40426,6 @@
   {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "303870006",
@@ -44352,10 +44328,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
@@ -44370,5 +44342,33 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   }
 ]
