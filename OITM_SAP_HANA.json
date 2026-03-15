@@ -24180,10 +24180,6 @@
     "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "102740003",
     "ItemName": "BOLSAS ZIPLOC MEDIANA (18 X 20 CM) 1X1 UN"
   },
@@ -30664,10 +30660,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "203210072",
     "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   },
@@ -32714,10 +32706,6 @@
   {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "101010002",
@@ -35600,10 +35588,6 @@
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "100302002",
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
@@ -36046,10 +36030,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "104010002",
@@ -36686,10 +36666,6 @@
   {
     "ItemCode": "300156010",
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100201002",
@@ -39936,10 +39912,6 @@
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
@@ -39986,10 +39958,6 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "103990003",
@@ -40182,10 +40150,6 @@
   {
     "ItemCode": "304850042",
     "ItemName": "YOGURT NATURAL FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100556001",
@@ -44368,7 +44332,43 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   }
 ]
