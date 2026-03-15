@@ -28172,10 +28172,6 @@
     "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
   },
   {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "104020003",
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
@@ -30744,10 +30740,6 @@
     "ItemName": "MANDARINA KG."
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
   },
@@ -31514,10 +31506,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "200003002",
@@ -35668,10 +35656,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
     "ItemCode": "100351014",
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
@@ -35694,10 +35678,6 @@
   {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
-    "ItemCode": "100350001",
-    "ItemName": "CAFE KIMBO EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
   {
     "ItemCode": "304490000",
@@ -35802,10 +35782,6 @@
   {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "100555001",
@@ -43804,10 +43780,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "103010011",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 1X10 KG"
   },
@@ -44164,16 +44136,8 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790030",
@@ -44288,10 +44252,6 @@
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -44370,5 +44330,45 @@
   {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100350001",
+    "ItemName": "CAFE KIMBO EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
