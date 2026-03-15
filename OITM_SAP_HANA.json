@@ -24364,10 +24364,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "204380002",
-    "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
-  },
-  {
     "ItemCode": "104210002",
     "ItemName": "RIGATI LUCCHETTI 30 X 400 GRS"
   },
@@ -27176,10 +27172,6 @@
     "ItemName": "JAMON DE PAVO COCIDO LAMINADO 1 X 500G"
   },
   {
-    "ItemCode": "204380000",
-    "ItemName": "PULPA DE MELON TUNA LA CABAÑA 10X1 KG"
-  },
-  {
     "ItemCode": "204310003",
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
   },
@@ -27970,10 +27962,6 @@
   {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "103480002",
@@ -31352,10 +31340,6 @@
     "ItemName": "MOSTAZA PET TRAVERSO 24X350 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200455002",
     "ItemName": "GOLDEN CHICKEN PICANTE SADIA 16X300 GR"
   },
@@ -32040,10 +32024,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -32178,10 +32158,6 @@
   {
     "ItemCode": "300001003",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
     "ItemCode": "101452004",
@@ -32390,10 +32366,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101401008",
@@ -35340,10 +35312,6 @@
     "ItemName": "BROCOLI IQF 6X1 KG."
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
@@ -35486,10 +35454,6 @@
   {
     "ItemCode": "300353004",
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
     "ItemCode": "200453019",
@@ -36096,10 +36060,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "300403001",
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
@@ -36114,10 +36074,6 @@
   {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100751006",
@@ -44284,10 +44240,6 @@
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -44352,10 +44304,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
@@ -44370,5 +44318,57 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380000",
+    "ItemName": "PULPA DE MELON TUNA LA CABAÑA 10X1 KG"
+  },
+  {
+    "ItemCode": "204380002",
+    "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
