@@ -39232,10 +39232,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
     "ItemCode": "204710002",
     "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
   },
@@ -43904,14 +43900,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400005006",
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
@@ -44040,10 +44028,6 @@
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -44078,10 +44062,6 @@
   {
     "ItemCode": "400301035",
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "101350004",
@@ -44370,5 +44350,25 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   }
 ]
