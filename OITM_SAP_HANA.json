@@ -35812,10 +35812,6 @@
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
@@ -36150,10 +36146,6 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "102530001",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
     "ItemCode": "100251003",
@@ -43552,10 +43544,6 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "304110015",
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
@@ -43652,10 +43640,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -43678,10 +43662,6 @@
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
     "ItemCode": "203210103",
@@ -44370,5 +44350,25 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "102530001",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   }
 ]
