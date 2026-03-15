@@ -24228,10 +24228,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
   },
   {
-    "ItemCode": "103210000",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
-  },
-  {
     "ItemCode": "102560001",
     "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
@@ -30276,10 +30272,6 @@
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "200203007",
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
   },
@@ -30986,14 +30978,6 @@
   {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "101302002",
@@ -35414,10 +35398,6 @@
   {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
     "ItemCode": "400010015",
@@ -42888,10 +42868,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -43360,10 +43336,6 @@
     "ItemName": "REBOZADO DE POLLO SADIA 45X100 GR"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -43704,28 +43676,12 @@
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
-  },
-  {
-    "ItemCode": "101150070",
-    "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "200402019",
@@ -43968,10 +43924,6 @@
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -44162,10 +44114,6 @@
   {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "101450006",
@@ -44370,5 +44318,57 @@
   {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150070",
+    "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "103210000",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
