@@ -30488,10 +30488,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "200401007",
     "ItemName": "EMPANADA DE COSTILLA CON QUESO GYN 1X100 UN"
   },
@@ -30922,10 +30918,6 @@
   {
     "ItemCode": "200402012",
     "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
-  },
-  {
-    "ItemCode": "101451005",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
   {
     "ItemCode": "101201043",
@@ -39212,10 +39204,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -43480,10 +43468,6 @@
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -43860,10 +43844,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -44156,14 +44136,6 @@
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
@@ -44276,10 +44248,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -44370,5 +44338,37 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101451005",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
