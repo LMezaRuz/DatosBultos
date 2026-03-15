@@ -23552,10 +23552,6 @@
     "ItemName": "CUARTOS DE ALCACHOFAS SMART CHOICE 6 X 2.5 KG"
   },
   {
-    "ItemCode": "204150019",
-    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
     "ItemCode": "103150000",
     "ItemName": "ESTRAGON DESHIDRATADO GOURMET 1X5 GR"
   },
@@ -35636,10 +35632,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -43292,10 +43284,6 @@
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -43308,16 +43296,8 @@
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "204380000",
@@ -43558,10 +43538,6 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "101358003",
@@ -44032,10 +44008,6 @@
     "ItemName": "SUCEDANEO QUESO CHEDDAR LAMINADO LORELEY 2X1,92 KG"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
@@ -44244,10 +44216,6 @@
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
@@ -44370,5 +44338,37 @@
   {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "204150019",
+    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   }
 ]
