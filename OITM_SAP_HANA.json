@@ -23900,10 +23900,6 @@
     "ItemName": "MAQUINA AUTOMÁTICA RHEA 2 VASOS"
   },
   {
-    "ItemCode": "204300009",
-    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
   },
@@ -31250,10 +31246,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "204530007",
-    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   },
   {
     "ItemCode": "101403002",
@@ -39688,10 +39680,6 @@
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
-    "ItemCode": "101201047",
-    "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
@@ -43532,10 +43520,6 @@
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
   {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
     "ItemCode": "103810009",
     "ItemName": "CONTROLADOR DE OLORES GNZY RENEW PLUS 1X5 LT"
   },
@@ -43944,10 +43928,6 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "304760345",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -44324,10 +44304,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -44386,5 +44362,29 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101201047",
+    "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
+  },
+  {
+    "ItemCode": "204530007",
+    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
+  },
+  {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
+  },
+  {
+    "ItemCode": "204300009",
+    "ItemName": "POLLO ENTERO CONG. CALIBRE 2.3 KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   }
 ]
