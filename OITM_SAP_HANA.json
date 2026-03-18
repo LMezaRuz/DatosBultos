@@ -23220,10 +23220,6 @@
     "ItemName": "HARINA INTEGRAL FINA YANINE 1X25 KG"
   },
   {
-    "ItemCode": "102710003",
-    "ItemName": "BEBIDA VEGETAL LONCOLECHE DE AVENA 6X1 LT"
-  },
-  {
     "ItemCode": "AFMQC0002",
     "ItemName": "MAQUINA CAFE VETRO VISAC 2 GRUPOS NEGRA"
   },
@@ -23274,10 +23270,6 @@
   {
     "ItemCode": "102480004",
     "ItemName": "ACEITE CHEF DE OLIVA EXTRA VIRGEN CON MARAVILLA 12 X 1 LT"
-  },
-  {
-    "ItemCode": "104560001",
-    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
     "ItemCode": "AFACC0002",
@@ -27972,10 +27964,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
-  },
-  {
     "ItemCode": "102700003",
     "ItemName": "SPRITE 6X3 LT"
   },
@@ -30712,10 +30700,6 @@
     "ItemName": "HELADO PUDU AVELLANAS 1X5 LT"
   },
   {
-    "ItemCode": "101009022",
-    "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
-  },
-  {
     "ItemCode": "101201049",
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
@@ -32354,10 +32338,6 @@
   {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "100152005",
@@ -35404,10 +35384,6 @@
     "ItemName": "PATE DE JAMON 16X125 GRS"
   },
   {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
     "ItemCode": "400010025",
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
@@ -35826,10 +35802,6 @@
   {
     "ItemCode": "200500041",
     "ItemName": "SOFRITO CON AJO FOOD SERVICE 20UN X 500 GRS"
-  },
-  {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
     "ItemCode": "100303001",
@@ -36410,10 +36382,6 @@
   {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "100003006",
@@ -44390,5 +44358,37 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "104560001",
+    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
+  },
+  {
+    "ItemCode": "101009022",
+    "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
+  },
+  {
+    "ItemCode": "102710003",
+    "ItemName": "BEBIDA VEGETAL LONCOLECHE DE AVENA 6X1 LT"
   }
 ]
