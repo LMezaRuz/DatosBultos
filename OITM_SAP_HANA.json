@@ -35044,10 +35044,6 @@
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   },
   {
-    "ItemCode": "100250002",
-    "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
-  },
-  {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
@@ -43868,10 +43864,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -44200,10 +44192,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -44312,52 +44300,16 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "103070007",
-    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100101002",
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "103700001",
-    "ItemName": "JARABE DE REMOJO 4X5 LT"
-  },
-  {
-    "ItemCode": "101000009",
-    "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "100101005",
@@ -44372,14 +44324,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "104560001",
-    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
-  },
-  {
-    "ItemCode": "101009022",
-    "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
-  },
-  {
     "ItemCode": "202730045",
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
@@ -44388,7 +44332,63 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "103070007",
+    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "103700001",
+    "ItemName": "JARABE DE REMOJO 4X5 LT"
+  },
+  {
+    "ItemCode": "101000009",
+    "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "104560001",
+    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
+  },
+  {
+    "ItemCode": "101009022",
+    "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
+  },
+  {
     "ItemCode": "102710003",
     "ItemName": "BEBIDA VEGETAL LONCOLECHE DE AVENA 6X1 LT"
+  },
+  {
+    "ItemCode": "100250002",
+    "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
   }
 ]
