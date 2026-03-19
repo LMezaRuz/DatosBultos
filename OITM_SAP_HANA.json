@@ -28584,10 +28584,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -35942,10 +35938,6 @@
   {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
-    "ItemCode": "101100033",
-    "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
     "ItemCode": "300403009",
@@ -44390,5 +44382,13 @@
   {
     "ItemCode": "200402019",
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "101100033",
+    "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   }
 ]
