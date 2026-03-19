@@ -23736,10 +23736,6 @@
     "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
   },
   {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "102970008",
     "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
   },
@@ -28264,10 +28260,6 @@
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "100302005",
     "ItemName": "COCA COLA LIGHT 6 X 1,5 LTS"
   },
@@ -30576,10 +30568,6 @@
     "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "101007011",
     "ItemName": "LECHE VAINILLA BAJA EN AZUCAR TKF 1X1 KG"
   },
@@ -31990,10 +31978,6 @@
   {
     "ItemCode": "101200002",
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "101201049",
@@ -35964,10 +35948,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "203210103",
-    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
@@ -39048,10 +39028,6 @@
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "204180029",
     "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
   },
@@ -39452,10 +39428,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "202730020",
     "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
   },
@@ -39530,10 +39502,6 @@
   {
     "ItemCode": "400252008",
     "ItemName": "TOALLA JUMBO PREMIUM D/H 6 X 150 MTS TO70021"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "403130002",
@@ -39766,10 +39734,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100201007",
@@ -40422,10 +40386,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
     "ItemCode": "300405004",
@@ -44390,5 +44350,45 @@
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "203210103",
+    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   }
 ]
