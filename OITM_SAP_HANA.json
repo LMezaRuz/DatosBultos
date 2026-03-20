@@ -23316,10 +23316,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLON 16X100 UN"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -27852,10 +27848,6 @@
     "ItemName": "CREMA DE ACAI 2X5 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
@@ -30960,10 +30952,6 @@
     "ItemName": "DETERGENTE ROPA BIO FRESCURA 1X 800 KG"
   },
   {
-    "ItemCode": "300152009",
-    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
-  },
-  {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
@@ -32142,10 +32130,6 @@
   {
     "ItemCode": "102680002",
     "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
-    "ItemCode": "101007022",
-    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "100900005",
@@ -43456,10 +43440,6 @@
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -44180,14 +44160,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
@@ -44406,5 +44378,33 @@
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "300152009",
+    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101007022",
+    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   }
 ]
