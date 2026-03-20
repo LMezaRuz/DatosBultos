@@ -27140,10 +27140,6 @@
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
-    "ItemCode": "400301025",
-    "ItemName": "CAJA CHICA LOVDO GYN 1 X 50 UN"
-  },
-  {
     "ItemCode": "400301089",
     "ItemName": "ENVASE CONICO EXTRA GRANDE BARRIO CHICKEN GYN 1X300 UN"
   },
@@ -27888,10 +27884,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "204300034",
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.3 CAJA 7X2,3 KG"
   },
@@ -28010,14 +28002,6 @@
   {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "204010001",
-    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
-  },
-  {
-    "ItemCode": "204010000",
-    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
   },
   {
     "ItemCode": "304760278",
@@ -35696,10 +35680,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
   },
   {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
     "ItemCode": "203190046",
     "ItemName": "TRIMMING 80/20 DE CERDO CONGELADO (22 KG APROX)"
   },
@@ -37332,10 +37312,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
   },
   {
-    "ItemCode": "103930009",
-    "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
-  },
-  {
     "ItemCode": "103480024",
     "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
   },
@@ -38588,10 +38564,6 @@
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
-    "ItemCode": "104210000",
-    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
     "ItemCode": "100251012",
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
@@ -38666,14 +38638,6 @@
   {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
-  },
-  {
-    "ItemCode": "400301023",
-    "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
-  },
-  {
-    "ItemCode": "103250007",
-    "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
   },
   {
     "ItemCode": "304760396",
@@ -43220,10 +43184,6 @@
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
@@ -43828,10 +43788,6 @@
     "ItemName": "MANI SALADO 1X1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200051026",
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
@@ -44152,10 +44108,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -44324,10 +44276,6 @@
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "300404007",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
@@ -44362,10 +44310,6 @@
   {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "200203013",
@@ -44406,5 +44350,61 @@
   {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "104210000",
+    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "103930009",
+    "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
+  },
+  {
+    "ItemCode": "204010001",
+    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "204010000",
+    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "400301025",
+    "ItemName": "CAJA CHICA LOVDO GYN 1 X 50 UN"
+  },
+  {
+    "ItemCode": "400301023",
+    "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
+  },
+  {
+    "ItemCode": "103250007",
+    "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   }
 ]
