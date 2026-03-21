@@ -27976,10 +27976,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   },
   {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   },
@@ -31036,10 +31032,6 @@
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "101007022",
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -32050,14 +32042,6 @@
   {
     "ItemCode": "101200022",
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100902002",
@@ -35104,10 +35088,6 @@
     "ItemName": "JAMON PAVO COCIDO LAMINADO 12x125 gr"
   },
   {
-    "ItemCode": "200460012",
-    "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
-  },
-  {
     "ItemCode": "300352003",
     "ItemName": "PULPA DE CERDO KG (NV)"
   },
@@ -35158,10 +35138,6 @@
   {
     "ItemCode": "400005007",
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
-  },
-  {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "400102002",
@@ -35530,18 +35506,6 @@
   {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100558001",
@@ -38798,10 +38762,6 @@
   {
     "ItemCode": "304760239",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760348",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "202730020",
@@ -42880,10 +42840,6 @@
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "200453013",
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
@@ -43142,10 +43098,6 @@
   {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "101001005",
@@ -43656,10 +43608,6 @@
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
@@ -43702,10 +43650,6 @@
   {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "204380032",
@@ -44406,5 +44350,61 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "200460012",
+    "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "304760348",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   }
 ]
