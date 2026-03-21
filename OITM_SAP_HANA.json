@@ -27372,10 +27372,6 @@
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
   },
   {
-    "ItemCode": "200453013",
-    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
     "ItemCode": "300353112",
     "ItemName": "PUNTA GANSO KG."
   },
@@ -27602,10 +27598,6 @@
   {
     "ItemCode": "600002012",
     "ItemName": "COLIFLOR 1x1 un."
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
     "ItemCode": "100750007",
@@ -28638,10 +28630,6 @@
   {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "300353098",
@@ -30916,10 +30904,6 @@
     "ItemName": "PALANCA AL VACIO CAT V BRASIL (20 KG APROX)"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
   },
@@ -32678,14 +32662,6 @@
   {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "200301004",
@@ -36664,16 +36640,8 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200500039",
@@ -38696,10 +38664,6 @@
     "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
   },
   {
-    "ItemCode": "202820016",
-    "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
-  },
-  {
     "ItemCode": "200305015",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
@@ -40176,10 +40140,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
@@ -40222,10 +40182,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "203200036",
@@ -44244,10 +44200,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
@@ -44262,10 +44214,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "304440020",
@@ -44406,5 +44354,57 @@
   {
     "ItemCode": "200456009",
     "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "202820016",
+    "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "200453013",
+    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   }
 ]
