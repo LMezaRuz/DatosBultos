@@ -27952,10 +27952,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "202730053",
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
@@ -30462,10 +30458,6 @@
   {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
-  },
-  {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "204390004",
@@ -35204,10 +35196,6 @@
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "100151020",
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
   },
@@ -35830,10 +35818,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
     "ItemCode": "300001011",
@@ -38596,10 +38580,6 @@
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
@@ -39004,10 +38984,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -39122,10 +39098,6 @@
   {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "101202005",
@@ -39350,10 +39322,6 @@
   {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "303870001",
@@ -42712,10 +42680,6 @@
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
     "ItemCode": "304840004",
     "ItemName": "YOGURT YOGU YOGU SABOR MORA BOLSA 20X500 GR"
   },
@@ -42786,10 +42750,6 @@
   {
     "ItemCode": "100851001",
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "100251003",
@@ -42994,10 +42954,6 @@
   {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101357005",
@@ -44406,5 +44362,49 @@
   {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   }
 ]
