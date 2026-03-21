@@ -36120,10 +36120,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
     "ItemCode": "101353014",
     "ItemName": "MAYONESA SACHET HELLMANNS 528X7.4 GR."
   },
@@ -38080,10 +38076,6 @@
     "ItemName": "COBERTURA CHOCOLATE DE LECHE SICAO 1X10 KG"
   },
   {
-    "ItemCode": "500001086",
-    "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
-  },
-  {
     "ItemCode": "102930013",
     "ItemName": "CEREAL TRIX 10X800 GR"
   },
@@ -39240,10 +39232,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760358",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760356",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -39438,10 +39426,6 @@
   {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
-  },
-  {
-    "ItemCode": "203900009",
-    "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
   {
     "ItemCode": "204100016",
@@ -39702,10 +39686,6 @@
   {
     "ItemCode": "103940023",
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "104070008",
@@ -44104,10 +44084,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -44238,10 +44214,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
     "ItemCode": "103700006",
@@ -44406,5 +44378,33 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "203900009",
+    "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
+  },
+  {
+    "ItemCode": "304760358",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "500001086",
+    "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   }
 ]
