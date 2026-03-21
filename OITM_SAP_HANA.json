@@ -31808,10 +31808,6 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
@@ -43808,10 +43804,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
@@ -44300,10 +44292,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -44406,5 +44394,17 @@
   {
     "ItemCode": "400251005",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
   }
 ]
