@@ -23484,10 +23484,6 @@
     "ItemName": "SERVILLETA TECNOPAPEL LUNCH UNIVERSAL 20 X 500 UN"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "KIMBO GRANO BARISTA INTENSO 80%ROBUSTA 20% ARABICA 6X1KG"
-  },
-  {
     "ItemCode": "304450000",
     "ItemName": "QUESO MANTECOSO TROZADO LAS PARCELAS 16X350 GR"
   },
@@ -28432,10 +28428,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
@@ -31144,10 +31136,6 @@
     "ItemName": "PESTO 1X190 GR"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "101007022",
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -32026,10 +32014,6 @@
   {
     "ItemCode": "200203008",
     "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
     "ItemCode": "101200002",
@@ -35734,10 +35718,6 @@
   {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "100351002",
@@ -43356,10 +43336,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -43888,10 +43864,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
@@ -43958,10 +43930,6 @@
   {
     "ItemCode": "500001086",
     "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
     "ItemCode": "103700004",
@@ -44344,10 +44312,6 @@
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
   {
-    "ItemCode": "304760347",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "100557019",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
@@ -44406,5 +44370,41 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "304760347",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "KIMBO GRANO BARISTA INTENSO 80%ROBUSTA 20% ARABICA 6X1KG"
   }
 ]
