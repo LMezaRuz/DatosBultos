@@ -43900,10 +43900,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -44138,10 +44134,6 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "303850001",
-    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
   {
     "ItemCode": "101050002",
@@ -44406,5 +44398,13 @@
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "303850001",
+    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   }
 ]
