@@ -24408,10 +24408,6 @@
     "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
-    "ItemCode": "204090001",
-    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -31632,10 +31628,6 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
@@ -31714,10 +31706,6 @@
   {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA 12X500 CC."
-  },
-  {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
     "ItemCode": "101451003",
@@ -42596,10 +42584,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -42778,10 +42762,6 @@
   {
     "ItemCode": "203900009",
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "200454023",
@@ -43212,10 +43192,6 @@
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
@@ -43356,16 +43332,8 @@
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "304420001",
@@ -44404,7 +44372,39 @@
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
   {
+    "ItemCode": "204090001",
+    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
+  },
+  {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
