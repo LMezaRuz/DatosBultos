@@ -31464,10 +31464,6 @@
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
@@ -43184,10 +43180,6 @@
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -43336,10 +43328,6 @@
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
@@ -43398,14 +43386,6 @@
   {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "200307010",
@@ -43580,10 +43560,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -43626,10 +43602,6 @@
   {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "104210017",
@@ -43868,10 +43840,6 @@
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -43918,10 +43886,6 @@
   {
     "ItemCode": "100352006",
     "ItemName": "CAFE ARMONIA (100% ARABICA) CAPSULA ESPRESSO POINT 1X100 UN"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "100752001",
@@ -44016,14 +43980,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "200050007",
     "ItemName": "FRUTILLA IQF 15X1 KG."
   },
@@ -44110,10 +44066,6 @@
   {
     "ItemCode": "202990003",
     "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "100356001",
@@ -44320,10 +44272,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
@@ -44406,5 +44354,57 @@
   {
     "ItemCode": "103480029",
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   }
 ]
