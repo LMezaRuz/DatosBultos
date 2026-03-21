@@ -24036,10 +24036,6 @@
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "202730034",
     "ItemName": "TRENZA DE MAPLE Y NUEZ PECAN 60X98GR"
   },
@@ -24422,10 +24418,6 @@
   {
     "ItemCode": "202730053",
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "104660008",
@@ -28216,10 +28208,6 @@
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
@@ -28410,10 +28398,6 @@
   {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "100751054",
@@ -30480,10 +30464,6 @@
     "ItemName": "SPRITE ZERO 6X1,5 LT"
   },
   {
-    "ItemCode": "100101016",
-    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
     "ItemCode": "100351005",
     "ItemName": "CAFE NESTLE DOLCA 1X170 GR"
   },
@@ -32230,10 +32210,6 @@
   {
     "ItemCode": "101200022",
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101305001",
@@ -38024,10 +38000,6 @@
     "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
   },
   {
-    "ItemCode": "102480008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
-  },
-  {
     "ItemCode": "102540019",
     "ItemName": "AGUA SIN GAS RIZOLA 6X1.5 LT"
   },
@@ -43808,10 +43780,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -43842,10 +43810,6 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "300156001",
@@ -43890,10 +43854,6 @@
   {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "400301073",
@@ -43966,10 +43926,6 @@
   {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101357006",
@@ -44400,11 +44356,55 @@
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "100101016",
+    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+    "ItemCode": "102480008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   }
 ]
