@@ -35052,10 +35052,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100700011",
     "ItemName": "CREMA DE ESPARRAGOS 1X1 KG."
   },
@@ -35820,16 +35816,8 @@
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100050001",
@@ -36010,14 +35998,6 @@
   {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
     "ItemCode": "101304002",
@@ -44148,10 +44128,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204100013",
     "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
   },
@@ -44406,5 +44382,29 @@
   {
     "ItemCode": "400005014",
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
