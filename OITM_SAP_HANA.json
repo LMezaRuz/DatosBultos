@@ -31552,10 +31552,6 @@
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
   {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
   },
@@ -43124,10 +43120,6 @@
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100303004",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
@@ -44100,10 +44092,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "100352007",
     "ItemName": "CAFE KIMBO EN CAPSULA NAPOLI COMPATIBLE ESPRESSO POINT 1X100 UN"
   },
@@ -44406,5 +44394,17 @@
   {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   }
 ]
