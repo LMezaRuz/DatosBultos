@@ -31588,10 +31588,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
@@ -31714,10 +31710,6 @@
   {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
     "ItemCode": "101150061",
@@ -35420,10 +35412,6 @@
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
-    "ItemCode": "100356001",
-    "ItemName": "TE BRASIL 1X100 UN."
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -38360,10 +38348,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "202990003",
-    "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
-  },
-  {
     "ItemCode": "202990004",
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
   },
@@ -38846,10 +38830,6 @@
   {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
     "ItemCode": "304760238",
@@ -43152,10 +43132,6 @@
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
@@ -43200,10 +43176,6 @@
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -43226,10 +43198,6 @@
   {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "101354005",
@@ -43700,10 +43668,6 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
@@ -43948,14 +43912,6 @@
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
@@ -44166,14 +44122,6 @@
   {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
   {
     "ItemCode": "101002005",
@@ -44406,5 +44354,57 @@
   {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "202990003",
+    "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100356001",
+    "ItemName": "TE BRASIL 1X100 UN."
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
   }
 ]
