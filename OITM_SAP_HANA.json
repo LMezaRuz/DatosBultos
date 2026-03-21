@@ -24536,10 +24536,6 @@
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
   {
-    "ItemCode": "200303024",
-    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
-  },
-  {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   },
@@ -31720,10 +31716,6 @@
     "ItemName": "LIMONETA SACHET 300X10 CC"
   },
   {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
   },
@@ -35948,10 +35940,6 @@
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -39784,10 +39772,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
@@ -43432,10 +43416,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "304440020",
-    "ItemName": "QUESO GAUDA PAMPA CHEESE 1X5 KG (APROX.)"
-  },
-  {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
@@ -44060,10 +44040,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "203900009",
-    "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
-  },
-  {
     "ItemCode": "500001086",
     "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
   },
@@ -44406,5 +44382,29 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "304440020",
+    "ItemName": "QUESO GAUDA PAMPA CHEESE 1X5 KG (APROX.)"
+  },
+  {
+    "ItemCode": "203900009",
+    "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "200303024",
+    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   }
 ]
