@@ -24328,10 +24328,6 @@
     "ItemName": "CAFE MOLIDO 1X1 KG"
   },
   {
-    "ItemCode": "103020000",
-    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -27652,10 +27648,6 @@
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
-    "ItemCode": "104210008",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "100304046",
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
@@ -28090,10 +28082,6 @@
   {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "100559008",
@@ -35456,10 +35444,6 @@
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
   {
-    "ItemCode": "100101018",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
@@ -37032,10 +37016,6 @@
     "ItemName": "AJI CREMA TRAVERSO VINTAGE 10X450 GR"
   },
   {
-    "ItemCode": "103650028",
-    "ItemName": "NECTAR NARANJA LIGHT WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103720005",
     "ItemName": "LECHE SEMIDESCREMADA SABOR FRUTILLA LONCOLECHE 6X115 ML"
   },
@@ -37694,10 +37674,6 @@
   {
     "ItemCode": "103010010",
     "ItemName": "COBERTURA CHOCOLATE DE LECHE SICAO 1X10 KG"
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "102930013",
@@ -39408,20 +39384,12 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103650021",
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
     "ItemCode": "103650023",
     "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
     "ItemCode": "102780008",
@@ -43136,10 +43104,6 @@
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -43634,10 +43598,6 @@
   {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "100101007",
@@ -44280,10 +44240,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -44406,5 +44362,49 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "103650028",
+    "ItemName": "NECTAR NARANJA LIGHT WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "104210008",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100101018",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "103020000",
+    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   }
 ]
