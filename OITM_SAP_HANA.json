@@ -35420,10 +35420,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
@@ -38932,10 +38928,6 @@
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
   },
   {
-    "ItemCode": "203210107",
-    "ItemName": "SMASH BURGER 35X150 GR"
-  },
-  {
     "ItemCode": "203210108",
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
@@ -38954,10 +38946,6 @@
   {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
-  },
-  {
-    "ItemCode": "204790037",
-    "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
     "ItemCode": "304850044",
@@ -44300,10 +44288,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100350003",
     "ItemName": "CAFE KIMBO EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   },
@@ -44406,5 +44390,21 @@
   {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204790037",
+    "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210107",
+    "ItemName": "SMASH BURGER 35X150 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   }
 ]
