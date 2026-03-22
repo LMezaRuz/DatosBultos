@@ -24028,10 +24028,6 @@
     "ItemName": "QUESO CREMA CALO 10X1.36 KG"
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "203900002",
     "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
   },
@@ -38488,10 +38484,6 @@
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
@@ -42280,10 +42272,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
@@ -42330,14 +42318,6 @@
   {
     "ItemCode": "300154014",
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100050003",
@@ -44340,10 +44320,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44406,5 +44382,29 @@
   {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   }
 ]
