@@ -26956,10 +26956,6 @@
     "ItemName": "BRETZEL CREMA 40 UN X 125 GR"
   },
   {
-    "ItemCode": "101352013",
-    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
-  },
-  {
     "ItemCode": "101353023",
     "ItemName": "MAYONESA HELLMANNS DELI MINI PORCION 528x7 G."
   },
@@ -32032,10 +32028,6 @@
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
@@ -32216,10 +32208,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "204180029",
     "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
   },
@@ -32242,10 +32230,6 @@
   {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
   {
     "ItemCode": "100302028",
@@ -36008,10 +35992,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "100001008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
@@ -38890,10 +38870,6 @@
   {
     "ItemCode": "304850009",
     "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "304850010",
@@ -44344,10 +44320,6 @@
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "101150032",
-    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -44392,19 +44364,47 @@
     "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
   },
   {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+    "ItemCode": "101150032",
+    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+    "ItemCode": "101352013",
+    "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   }
 ]
