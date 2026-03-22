@@ -30704,10 +30704,6 @@
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
   {
-    "ItemCode": "200301002",
-    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
-  },
-  {
     "ItemCode": "100700005",
     "ItemName": "CREMA DE ARVEJAS CON JAMON (REND. 14 LT) TKF 1X1 KG"
   },
@@ -32326,10 +32322,6 @@
   {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
-    "ItemCode": "200302009",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "100350009",
@@ -39268,10 +39260,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
   },
@@ -44012,10 +44000,6 @@
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
@@ -44406,5 +44390,21 @@
   {
     "ItemCode": "102780003",
     "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "200301002",
+    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
+  },
+  {
+    "ItemCode": "200302009",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
   }
 ]
