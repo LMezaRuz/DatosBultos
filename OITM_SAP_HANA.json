@@ -43640,10 +43640,6 @@
     "ItemName": "PALA PLASTICA 1X1 UN."
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
@@ -43692,10 +43688,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "203430015",
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
@@ -43706,10 +43698,6 @@
   {
     "ItemCode": "203430017",
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
   {
     "ItemCode": "100350005",
@@ -43862,10 +43850,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "400012007",
@@ -44380,10 +44364,6 @@
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
@@ -44400,11 +44380,31 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   }
 ]
