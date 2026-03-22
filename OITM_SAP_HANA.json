@@ -23596,14 +23596,6 @@
     "ItemName": "PAN PETIT MULTICEREALES 200X40 GR"
   },
   {
-    "ItemCode": "204700002",
-    "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
-  },
-  {
-    "ItemCode": "204700007",
-    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
-  },
-  {
     "ItemCode": "204790029",
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
@@ -24014,10 +24006,6 @@
   {
     "ItemCode": "104520005",
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
-  },
-  {
-    "ItemCode": "204380020",
-    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "100304022",
@@ -27976,10 +27964,6 @@
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -28322,10 +28306,6 @@
   {
     "ItemCode": "203190008",
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
-  },
-  {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "103910033",
@@ -36176,10 +36156,6 @@
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -43584,10 +43560,6 @@
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -43712,14 +43684,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204310005",
     "ItemName": "TIRAMISU 6X700 GR"
   },
@@ -43746,10 +43710,6 @@
   {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
-    "ItemCode": "302590002",
-    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
   {
     "ItemCode": "100250001",
@@ -43918,10 +43878,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "101004002",
@@ -44406,5 +44362,49 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204380020",
+    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "302590002",
+    "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "204700002",
+    "ItemName": "CHEESECAKE DE FRAMBUESA 14 POR"
+  },
+  {
+    "ItemCode": "204700007",
+    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   }
 ]
