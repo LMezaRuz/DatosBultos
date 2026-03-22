@@ -30744,10 +30744,6 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "101353027",
-    "ItemName": "MAYONESA JB 10X950 GR"
-  },
-  {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
@@ -35256,10 +35252,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
   },
@@ -35614,10 +35606,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
     "ItemCode": "400005009",
@@ -38996,10 +38984,6 @@
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "204390004",
-    "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
-  },
-  {
     "ItemCode": "204300050",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
   },
@@ -39158,10 +39142,6 @@
   {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "100050007",
@@ -43784,10 +43764,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -43944,14 +43920,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -43974,10 +43942,6 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "200455011",
@@ -44406,5 +44370,41 @@
   {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "204390004",
+    "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
+  },
+  {
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "101353027",
+    "ItemName": "MAYONESA JB 10X950 GR"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   }
 ]
