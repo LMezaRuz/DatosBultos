@@ -31276,10 +31276,6 @@
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "100051001",
     "ItemName": "CHUCRUT TRAVERSO 1 UN X 200 GRS"
   },
@@ -36028,10 +36024,6 @@
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
-    "ItemCode": "204100013",
-    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
-  },
-  {
     "ItemCode": "104090003",
     "ItemName": "LOCOS COCIDOS CALIBRE 12 EN FRASCO 12X1 KG"
   },
@@ -36504,10 +36496,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -36702,10 +36690,6 @@
   {
     "ItemCode": "204140009",
     "ItemName": "HALLULLA PRECOCIDA CONGELADA 85 GR CAJA 8 KG"
-  },
-  {
-    "ItemCode": "200454024",
-    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
   {
     "ItemCode": "204170000",
@@ -39728,10 +39712,6 @@
     "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "304850010",
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
@@ -39894,10 +39874,6 @@
   {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
     "ItemCode": "101008003",
@@ -40586,10 +40562,6 @@
   {
     "ItemCode": "102840013",
     "ItemName": "CAFE KIMBO AMALFI EN CAPSULAS COMPATIBLE CON DOLCE GUSTO 1X16 UN"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "303870006",
@@ -44406,5 +44378,33 @@
   {
     "ItemCode": "303870008",
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204100013",
+    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "200454024",
+    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   }
 ]
