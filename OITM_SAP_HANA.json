@@ -34628,10 +34628,6 @@
     "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "101150010",
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
@@ -37526,10 +37522,6 @@
   {
     "ItemCode": "202820019",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
-    "ItemCode": "103940020",
-    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "102600001",
@@ -42416,10 +42408,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -43896,14 +43884,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET CACHANTUN 1,6 LITROS"
   },
   {
-    "ItemCode": "101352012",
-    "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "304760292",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
@@ -43930,10 +43910,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
   },
   {
     "ItemCode": "300406003",
@@ -44134,10 +44110,6 @@
   {
     "ItemCode": "104670079",
     "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "203900006",
@@ -44406,5 +44378,33 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "103940020",
+    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "101352012",
+    "ItemName": "KETCHUP JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   }
 ]
