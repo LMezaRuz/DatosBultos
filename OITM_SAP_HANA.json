@@ -24352,16 +24352,8 @@
     "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "202730029",
-    "ItemName": "REJILLA DE MANZANA 46X110 GR"
-  },
-  {
     "ItemCode": "102630000",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "403130000",
@@ -31888,10 +31880,6 @@
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
@@ -35748,10 +35736,6 @@
     "ItemName": "CANELA EN RAMA 1X250 GR"
   },
   {
-    "ItemCode": "202730026",
-    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
-  },
-  {
     "ItemCode": "100152006",
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
@@ -35774,10 +35758,6 @@
   {
     "ItemCode": "204140013",
     "ItemName": "PAN FRICA REBANADO 75X115GR"
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "204790021",
@@ -35898,10 +35878,6 @@
   {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
-  },
-  {
-    "ItemCode": "200201007",
-    "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
   {
     "ItemCode": "100751012",
@@ -39992,16 +39968,8 @@
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
     "ItemCode": "102780008",
     "ItemName": "CAFE KIMBO EN GRANO TOP SELECTION (100% ARABICA)"
-  },
-  {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "101354010",
@@ -40062,10 +40030,6 @@
   {
     "ItemCode": "202730040",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
-  },
-  {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
   {
     "ItemCode": "202730007",
@@ -44180,10 +44144,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "400012007",
     "ItemName": "MOPA ALGODON CON MANGO 1X1 UN. (1201495)"
   },
@@ -44332,10 +44292,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
@@ -44406,5 +44362,49 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "202730029",
+    "ItemName": "REJILLA DE MANZANA 46X110 GR"
+  },
+  {
+    "ItemCode": "200201007",
+    "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
+  },
+  {
+    "ItemCode": "202730026",
+    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   }
 ]
