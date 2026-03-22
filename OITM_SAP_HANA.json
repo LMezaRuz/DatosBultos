@@ -36180,10 +36180,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
@@ -36294,10 +36290,6 @@
   {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "100200001",
@@ -39258,10 +39250,6 @@
   {
     "ItemCode": "202730006",
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
-  },
-  {
-    "ItemCode": "304760353",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "204180001",
@@ -44064,10 +44052,6 @@
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
@@ -44406,5 +44390,21 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "304760353",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   }
 ]
