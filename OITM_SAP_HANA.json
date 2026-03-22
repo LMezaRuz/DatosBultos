@@ -27652,10 +27652,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
@@ -32220,10 +32216,6 @@
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
   },
@@ -35808,20 +35800,12 @@
     "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
   },
   {
-    "ItemCode": "104210000",
-    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
     "ItemCode": "203210115",
     "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
   },
   {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
-    "ItemCode": "101150016",
-    "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "203210109",
@@ -39426,10 +39410,6 @@
   {
     "ItemCode": "204300056",
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
-    "ItemCode": "101150032",
-    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
   {
     "ItemCode": "104040029",
@@ -43460,10 +43440,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -43972,10 +43948,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
@@ -44380,10 +44352,6 @@
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
@@ -44406,5 +44374,37 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "104210000",
+    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101150016",
+    "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101150032",
+    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   }
 ]
