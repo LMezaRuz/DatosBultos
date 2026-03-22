@@ -43664,10 +43664,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
     "ItemCode": "400250006",
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
@@ -43722,10 +43718,6 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "200002006",
@@ -43886,10 +43878,6 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "400105004",
@@ -44132,10 +44120,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   },
@@ -44158,10 +44142,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "400011010",
@@ -44368,24 +44348,12 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
   {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "300153002",
@@ -44406,5 +44374,37 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   }
 ]
