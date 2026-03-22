@@ -24408,10 +24408,6 @@
     "ItemName": "BASE PARA APANAR 1X1 KG."
   },
   {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
-  },
-  {
     "ItemCode": "304850023",
     "ItemName": "YOGHURT ACTIVIA TROZO FRUTILLA SEMILLAS 24X140 GR"
   },
@@ -24502,10 +24498,6 @@
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200453013",
-    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
     "ItemCode": "203430018",
@@ -31104,10 +31096,6 @@
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
   {
-    "ItemCode": "100700006",
-    "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "200454023",
     "ItemName": "CHULETA DE CENTRO 180 GR 6X900 GR (MM)"
   },
@@ -31974,10 +31962,6 @@
   {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
-  },
-  {
-    "ItemCode": "200460051",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
   {
     "ItemCode": "204300073",
@@ -36004,10 +35988,6 @@
     "ItemName": "KETCHUP SACHET CAROZZI 500X8 GR."
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -36026,10 +36006,6 @@
   {
     "ItemCode": "100401002",
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "300001011",
@@ -36258,10 +36234,6 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "100851001",
@@ -37622,10 +37594,6 @@
   {
     "ItemCode": "203190032",
     "ItemName": "CARNE AL ROJO 5 KG(MM)"
-  },
-  {
-    "ItemCode": "202800000",
-    "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
   },
   {
     "ItemCode": "704920007",
@@ -40444,10 +40412,6 @@
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
@@ -40666,10 +40630,6 @@
   {
     "ItemCode": "203480000",
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "300404006",
@@ -44280,10 +44240,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "300154014",
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
@@ -44406,5 +44362,49 @@
   {
     "ItemCode": "203190007",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100700006",
+    "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "202800000",
+    "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "200460051",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
+  },
+  {
+    "ItemCode": "200453013",
+    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   }
 ]
