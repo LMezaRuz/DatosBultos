@@ -23052,10 +23052,6 @@
     "ItemName": "GOMITAS FRUGELE 12 UN X 430 GR"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "103760000",
     "ItemName": "LECHE ENTERA SIN LACTOSA  1X1 LT"
   },
@@ -27996,10 +27992,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
-    "ItemCode": "300157015",
-    "ItemName": "YOGURT PLATANO BATIDO SOPROLE 1X120 GR."
-  },
-  {
     "ItemCode": "300157013",
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
@@ -30244,10 +30236,6 @@
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200002009",
-    "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
-  },
-  {
     "ItemCode": "200203006",
     "ItemName": "BAGUETTE MULTICEREAL PRECOCIDO 50X140 GR"
   },
@@ -30422,10 +30410,6 @@
   {
     "ItemCode": "101353009",
     "ItemName": "MAYONESA SACHET CAROZZI 500X8 GR."
-  },
-  {
-    "ItemCode": "204300071",
-    "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. IQF 12X1KG."
   },
   {
     "ItemCode": "100751009",
@@ -38428,10 +38412,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
@@ -43412,10 +43392,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -43798,14 +43774,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100800002",
@@ -44404,7 +44372,39 @@
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
+    "ItemCode": "200002009",
+    "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
+  },
+  {
+    "ItemCode": "300157015",
+    "ItemName": "YOGURT PLATANO BATIDO SOPROLE 1X120 GR."
+  },
+  {
     "ItemCode": "200460046",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204300071",
+    "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. IQF 12X1KG."
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   }
 ]
