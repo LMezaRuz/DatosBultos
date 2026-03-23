@@ -28216,10 +28216,6 @@
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
@@ -34612,10 +34608,6 @@
     "ItemName": "MARGARINA SOPROLE PAN 1X125 GR."
   },
   {
-    "ItemCode": "300401001",
-    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
-  },
-  {
     "ItemCode": "200500038",
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
   },
@@ -37972,10 +37964,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "102600001",
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
   },
@@ -38090,10 +38078,6 @@
   {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
-  },
-  {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
   {
     "ItemCode": "202800001",
@@ -38830,10 +38814,6 @@
   {
     "ItemCode": "304760316",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "304760360",
@@ -43196,10 +43176,6 @@
     "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
-    "ItemCode": "101402001",
-    "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -43522,10 +43498,6 @@
   {
     "ItemCode": "300353111",
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
-    "ItemCode": "204790004",
-    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
   {
     "ItemCode": "100300014",
@@ -44380,10 +44352,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -44404,7 +44372,39 @@
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
+    "ItemCode": "204790004",
+    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "101402001",
+    "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
     "ItemCode": "200460046",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "300401001",
+    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   }
 ]
