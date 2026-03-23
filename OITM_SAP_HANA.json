@@ -27756,10 +27756,6 @@
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
-  },
-  {
     "ItemCode": "100555004",
     "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
@@ -30780,10 +30776,6 @@
     "ItemName": "CHORITOS NATURAL 24x190 gr"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "101300002",
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
@@ -31926,10 +31918,6 @@
   {
     "ItemCode": "104520000",
     "ItemName": "SAL SACHET BIOSAL LIGHT 2000X1 GR"
-  },
-  {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "100202005",
@@ -35396,10 +35384,6 @@
     "ItemName": "VOLCAN DE CHOCOLATE PREMIUM 14X100 GR"
   },
   {
-    "ItemCode": "100251004",
-    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
-  },
-  {
     "ItemCode": "100751012",
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
@@ -38440,10 +38424,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
   },
   {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "300157044",
     "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
   },
@@ -39262,10 +39242,6 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "100552005",
@@ -42876,10 +42852,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
     "ItemCode": "101150051",
     "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
@@ -43236,10 +43208,6 @@
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100600002",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -43298,10 +43266,6 @@
   {
     "ItemCode": "101354016",
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "103830005",
@@ -43392,10 +43356,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "100650001",
-    "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
-  },
-  {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
@@ -43438,10 +43398,6 @@
   {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "400012001",
@@ -44316,10 +44272,6 @@
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -44406,5 +44358,53 @@
   {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "100650001",
+    "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "100251004",
+    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   }
 ]
