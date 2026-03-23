@@ -35100,10 +35100,6 @@
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 20 KG (APROX)"
   },
   {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
-  },
-  {
     "ItemCode": "204140013",
     "ItemName": "PAN FRICA REBANADO 75X115GR"
   },
@@ -42684,14 +42680,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -42738,10 +42726,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "304760361",
-    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "304430000",
@@ -43864,10 +43848,6 @@
     "ItemName": "COUS COUS 1X1 KG"
   },
   {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "104820013",
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
   },
@@ -44406,5 +44386,25 @@
   {
     "ItemCode": "304760344",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760361",
+    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
   }
 ]
