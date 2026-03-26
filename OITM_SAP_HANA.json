@@ -31032,10 +31032,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X10 LT."
   },
   {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
@@ -32162,10 +32158,6 @@
   {
     "ItemCode": "103000001",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "204700007",
@@ -36368,10 +36360,6 @@
     "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -39110,10 +39098,6 @@
   {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
     "ItemCode": "100302006",
@@ -42312,10 +42296,6 @@
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
     "ItemCode": "100653006",
     "ItemName": "CEREZAS AL JUGO CON CAROZO 24X580 GR."
   },
@@ -42388,20 +42368,12 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
   {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "203200032",
@@ -42502,10 +42474,6 @@
   {
     "ItemCode": "100201014",
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "104660008",
@@ -43180,10 +43148,6 @@
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "300157013",
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
@@ -43728,10 +43692,6 @@
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
   },
@@ -43780,14 +43740,6 @@
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "104020000",
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
@@ -43826,10 +43778,6 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "101001005",
@@ -44114,10 +44062,6 @@
   {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "101002004",
@@ -44430,5 +44374,61 @@
   {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
   }
 ]
