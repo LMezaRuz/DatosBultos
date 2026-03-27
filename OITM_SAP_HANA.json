@@ -23140,10 +23140,6 @@
     "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
   },
   {
-    "ItemCode": "302890012",
-    "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
-  },
-  {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
@@ -23730,10 +23726,6 @@
   {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
-    "ItemCode": "101007032",
-    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
     "ItemCode": "101100062",
@@ -28128,10 +28120,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -30592,10 +30580,6 @@
     "ItemName": "SOPA DE COSTILLA 20X60 GR"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "101354018",
     "ItemName": "MOSTAZA HEINZ - EZ SQUEEZE 12 X 14 OZ (396 GR)"
   },
@@ -32338,10 +32322,6 @@
   {
     "ItemCode": "300152008",
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
-  },
-  {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
     "ItemCode": "100356001",
@@ -35140,10 +35120,6 @@
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS  6X1,6 LT"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "400105002",
     "ItemName": "ALUSAFOIL ALUMINIO 1 X 7,5 MTS"
   },
@@ -36016,10 +35992,6 @@
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -36454,10 +36426,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "100854011",
-    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
   {
     "ItemCode": "100852017",
@@ -39134,10 +39102,6 @@
   {
     "ItemCode": "103730007",
     "ItemName": "LECHE EN POLVO DESCREMADA LONCO LECHE 20X760 GR"
-  },
-  {
-    "ItemCode": "304430001",
-    "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
     "ItemCode": "103110003",
@@ -44352,10 +44316,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44442,5 +44402,45 @@
   {
     "ItemCode": "100352006",
     "ItemName": "CAFE ARMONIA (100% ARABICA) CAPSULA ESPRESSO POINT 1X100 UN"
+  },
+  {
+    "ItemCode": "302890012",
+    "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101007032",
+    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "304430001",
+    "ItemName": "QUESO CREMA CALO 1X100 GR"
+  },
+  {
+    "ItemCode": "100854011",
+    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
