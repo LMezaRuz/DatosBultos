@@ -26292,10 +26292,6 @@
     "ItemName": "CAFE KIMBO EN CAPSULA BARISTA ESPRESSO DESCAFEINADO 1X10 UN"
   },
   {
-    "ItemCode": "204390007",
-    "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
-  },
-  {
     "ItemCode": "204310015",
     "ItemName": "LINGOTE DE FRAMBUESA Y NOUGAT 27X66 GR"
   },
@@ -39320,10 +39316,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -39470,10 +39462,6 @@
   {
     "ItemCode": "104520008",
     "ItemName": "SAL BIOSAL 30 X 125 GR"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051028",
@@ -42820,10 +42808,6 @@
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -43472,10 +43456,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100202005",
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
   },
@@ -43832,10 +43812,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
@@ -43874,10 +43850,6 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
     "ItemCode": "100601001",
@@ -44376,10 +44348,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
@@ -44442,5 +44410,37 @@
   {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "204390007",
+    "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
   }
 ]
