@@ -39344,10 +39344,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "103910033",
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
@@ -40354,10 +40350,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
-  },
-  {
-    "ItemCode": "202820011",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 10X1 KG"
   },
   {
     "ItemCode": "100557021",
@@ -43956,26 +43948,6 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "100905002",
-    "ItemName": "SEMOLA 1x500 g."
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100751025",
-    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "304760112",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -44070,14 +44042,6 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
     "ItemCode": "100300006",
@@ -44196,10 +44160,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -44254,10 +44214,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "100600003",
@@ -44442,5 +44398,49 @@
   {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "202820011",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100-200 10X1 KG"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100905002",
+    "ItemName": "SEMOLA 1x500 g."
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100751025",
+    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
