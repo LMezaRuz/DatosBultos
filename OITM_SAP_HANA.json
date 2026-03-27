@@ -23648,10 +23648,6 @@
     "ItemName": "SAL LOBOS SACHET 2.000X1 G"
   },
   {
-    "ItemCode": "101000008",
-    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
-  },
-  {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
   },
@@ -32456,10 +32452,6 @@
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
   {
-    "ItemCode": "300200001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
-  },
-  {
     "ItemCode": "400005008",
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
@@ -39880,10 +39872,6 @@
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -40122,10 +40110,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
     "ItemCode": "202620000",
@@ -40794,10 +40778,6 @@
   {
     "ItemCode": "204300067",
     "ItemName": "MEDIA PECHUGA DESHUES. MARINADA DE POLLO INTERF. IMP. 1X12 KG"
-  },
-  {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204750021",
@@ -42940,10 +42920,6 @@
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "203900009",
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
@@ -43280,10 +43256,6 @@
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "101354006",
     "ItemName": "MOSTAZA PET TRAVERSO 24X350 GR"
   },
@@ -43302,10 +43274,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "100905001",
@@ -43858,10 +43826,6 @@
   {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
     "ItemCode": "101000001",
@@ -44442,5 +44406,41 @@
   {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "300200001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "101000008",
+    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   }
 ]
