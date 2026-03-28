@@ -27412,10 +27412,6 @@
     "ItemName": "MERLUZA APANADA PECECITO EL GOLFO 25X400 GR"
   },
   {
-    "ItemCode": "100700005",
-    "ItemName": "CREMA DE ARVEJAS CON JAMON (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204790038",
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
   },
@@ -27606,10 +27602,6 @@
   {
     "ItemCode": "300351008",
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
-  },
-  {
-    "ItemCode": "101202002",
-    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
   {
     "ItemCode": "200201005",
@@ -28570,10 +28562,6 @@
   {
     "ItemCode": "304760368",
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
-  },
-  {
-    "ItemCode": "100700001",
-    "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "400251006",
@@ -31690,10 +31678,6 @@
   {
     "ItemCode": "100751024",
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
-  },
-  {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "400005013",
@@ -43812,10 +43796,6 @@
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
   },
   {
-    "ItemCode": "103990003",
-    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
-  },
-  {
     "ItemCode": "203230002",
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
   },
@@ -44196,10 +44176,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
@@ -44234,10 +44210,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100904003",
@@ -44442,5 +44414,33 @@
   {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100700005",
+    "ItemName": "CREMA DE ARVEJAS CON JAMON (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100700001",
+    "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103990003",
+    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
+  },
+  {
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101202002",
+    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   }
 ]
