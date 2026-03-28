@@ -23104,10 +23104,6 @@
     "ItemName": "FIDEOS INSTANTANEOS DE POLLO TRAVERSO 12X65 GR"
   },
   {
-    "ItemCode": "104660003",
-    "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
-  },
-  {
     "ItemCode": "104670063",
     "ItemName": "TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
   },
@@ -34272,10 +34268,6 @@
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
   },
   {
-    "ItemCode": "100355024",
-    "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
-  },
-  {
     "ItemCode": "100401002",
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
@@ -34848,10 +34840,6 @@
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
@@ -35370,10 +35358,6 @@
   {
     "ItemCode": "400252001",
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
     "ItemCode": "400050001",
@@ -42184,10 +42168,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -43156,10 +43136,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -43302,10 +43278,6 @@
   {
     "ItemCode": "104610007",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE 12 DISPL X 16 UN X 45GR."
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "103880030",
@@ -44128,10 +44100,6 @@
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -44258,10 +44226,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "203200030",
@@ -44442,5 +44406,41 @@
   {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "104660003",
+    "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
+  },
+  {
+    "ItemCode": "100355024",
+    "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
