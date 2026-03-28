@@ -27220,10 +27220,6 @@
     "ItemName": "TOMATICAN WASIL 16X380 G"
   },
   {
-    "ItemCode": "204790044",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "104670059",
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
@@ -28398,10 +28394,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
-  },
-  {
-    "ItemCode": "300157040",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
   },
   {
     "ItemCode": "200002014",
@@ -29680,10 +29672,6 @@
     "ItemName": "LECHE VAINILLA BAJA EN AZUCAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
-  },
-  {
     "ItemCode": "100400001",
     "ItemName": "CERVEZA LATA 473 ML X 24 UN"
   },
@@ -29994,10 +29982,6 @@
   {
     "ItemCode": "101403005",
     "ItemName": "PALMITO RODAJA 24 X 400 GRS"
-  },
-  {
-    "ItemCode": "300157041",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
   },
   {
     "ItemCode": "200203006",
@@ -31598,10 +31582,6 @@
   {
     "ItemCode": "101009038",
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
   },
   {
     "ItemCode": "300157036",
@@ -39496,10 +39476,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -42956,10 +42932,6 @@
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
-    "ItemCode": "204180027",
-    "ItemName": "PAPAS NOISETTES / DUQUESAS 4X2,5 KG"
-  },
-  {
     "ItemCode": "103010006",
     "ItemName": "COBERTURA NEUCOBER BLANCO 12X1 KG"
   },
@@ -43260,20 +43232,12 @@
     "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "300153012",
@@ -44442,5 +44406,41 @@
   {
     "ItemCode": "104010018",
     "ItemName": "SALSA DE OSTRA 12X510 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "300157040",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157041",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "204790044",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204180027",
+    "ItemName": "PAPAS NOISETTES / DUQUESAS 4X2,5 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
