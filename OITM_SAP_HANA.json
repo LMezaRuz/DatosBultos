@@ -23192,10 +23192,6 @@
     "ItemName": "LECHE EN POLVO CALO CRECER 4+ 10X800 GR"
   },
   {
-    "ItemCode": "101007032",
-    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES CALO 12X1 LT"
   },
@@ -30296,10 +30292,6 @@
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "100355007",
     "ItemName": "SYRUP MORA MONIN 1X750 ML"
   },
@@ -35352,10 +35344,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101304002",
-    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
   },
@@ -38800,10 +38788,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "104670081",
     "ItemName": "TE LIPTON GREEN INTENSE MINT 12 X 20 BLS"
   },
@@ -39264,10 +39248,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
   {
-    "ItemCode": "303870002",
-    "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
-  },
-  {
     "ItemCode": "100303001",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   },
@@ -39390,10 +39370,6 @@
   {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
     "ItemCode": "101100064",
@@ -39790,10 +39766,6 @@
   {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
-    "ItemCode": "101004002",
-    "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
   {
     "ItemCode": "304760238",
@@ -42260,10 +42232,6 @@
     "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
   {
-    "ItemCode": "300404019",
-    "ItemName": "QUESO GAUDA LAMINADO CALO 12X1 KG"
-  },
-  {
     "ItemCode": "302890038",
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
   },
@@ -42806,10 +42774,6 @@
   {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
-  },
-  {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
     "ItemCode": "203550030",
@@ -44136,10 +44100,6 @@
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -44442,5 +44402,45 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101007032",
+    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
+  },
+  {
+    "ItemCode": "101004002",
+    "ItemName": "LECHE EVAPORADA 24X390 GR"
+  },
+  {
+    "ItemCode": "300404019",
+    "ItemName": "QUESO GAUDA LAMINADO CALO 12X1 KG"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "101304002",
+    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
+  },
+  {
+    "ItemCode": "303870002",
+    "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   }
 ]
