@@ -31076,10 +31076,6 @@
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
@@ -31098,10 +31094,6 @@
   {
     "ItemCode": "100751042",
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
     "ItemCode": "204010002",
@@ -34656,10 +34648,6 @@
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
   {
-    "ItemCode": "400251003",
-    "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -35126,10 +35114,6 @@
   {
     "ItemCode": "300404004",
     "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
-  },
-  {
-    "ItemCode": "100852011",
-    "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
   {
     "ItemCode": "100852009",
@@ -43512,16 +43496,8 @@
     "ItemName": "CAFE KIMBO EN GRANO TOP SELECTION (100% ARABICA)"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "400250001",
@@ -43534,10 +43510,6 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
     "ItemCode": "101351003",
@@ -43766,10 +43738,6 @@
   {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "101100021",
@@ -44084,10 +44052,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -44168,10 +44132,6 @@
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "102480005",
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
@@ -44190,10 +44150,6 @@
   {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
     "ItemCode": "100102015",
@@ -44250,10 +44206,6 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "204180029",
@@ -44442,5 +44394,53 @@
   {
     "ItemCode": "200500053",
     "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "100852011",
+    "ItemName": "GALLETA DE LIMON 1X140 GR."
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "400251003",
+    "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   }
 ]
