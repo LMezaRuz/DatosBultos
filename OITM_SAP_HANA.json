@@ -28008,10 +28008,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "400012008",
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
@@ -31332,10 +31328,6 @@
     "ItemName": "JALEA LIMON DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
@@ -31970,10 +31962,6 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "103910020",
@@ -35598,10 +35586,6 @@
   {
     "ItemCode": "202820019",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
     "ItemCode": "304850035",
@@ -42756,10 +42740,6 @@
     "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "302890038",
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
   },
@@ -43844,10 +43824,6 @@
     "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. IQF 12X1KG."
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100300009",
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
@@ -44268,10 +44244,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLON 16X100 UN"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
@@ -44384,10 +44356,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -44442,5 +44410,37 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   }
 ]
