@@ -23472,10 +23472,6 @@
     "ItemName": "SALERO LOBOS 15X500 GR"
   },
   {
-    "ItemCode": "104600000",
-    "ItemName": "SERVILLETA TECNOPAPEL LUNCH UNIVERSAL 20 X 500 UN"
-  },
-  {
     "ItemCode": "104620006",
     "ItemName": "FIDEOS INSTANTANEOS DE CARNE TRAVERSO 12X65 GR"
   },
@@ -24114,10 +24110,6 @@
   {
     "ItemCode": "203430007",
     "ItemName": "MANGO EN CUBOS 10X 1 KG"
-  },
-  {
-    "ItemCode": "204700007",
-    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
   {
     "ItemCode": "302890006",
@@ -43732,10 +43724,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100751010",
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
@@ -43822,14 +43810,6 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "200308003",
@@ -44030,10 +44010,6 @@
   {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
-  },
-  {
-    "ItemCode": "204180029",
-    "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
   },
   {
     "ItemCode": "203430015",
@@ -44442,5 +44418,29 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "204180029",
+    "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "204700007",
+    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "104600000",
+    "ItemName": "SERVILLETA TECNOPAPEL LUNCH UNIVERSAL 20 X 500 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   }
 ]
