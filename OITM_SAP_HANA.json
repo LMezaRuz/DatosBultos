@@ -27796,10 +27796,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100800001",
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
@@ -29982,10 +29978,6 @@
   {
     "ItemCode": "200203006",
     "ItemName": "BAGUETTE MULTICEREAL PRECOCIDO 50X140 GR"
-  },
-  {
-    "ItemCode": "200453013",
-    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
     "ItemCode": "400301007",
@@ -35628,10 +35620,6 @@
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "200462002",
     "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
   },
@@ -39728,10 +39716,6 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
   },
@@ -41588,10 +41572,6 @@
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 12 X 20 BLS"
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "203190032",
     "ItemName": "CARNE AL ROJO 5 KG(MM)"
   },
@@ -43116,10 +43096,6 @@
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
@@ -43662,10 +43638,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
   {
     "ItemCode": "204380026",
@@ -44442,5 +44414,33 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "200453013",
+    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   }
 ]
