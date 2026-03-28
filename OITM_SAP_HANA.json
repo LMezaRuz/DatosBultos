@@ -31996,10 +31996,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "304760346",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -44432,15 +44428,19 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
   }
 ]
