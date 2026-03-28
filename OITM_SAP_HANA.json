@@ -24536,10 +24536,6 @@
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
@@ -32028,10 +32024,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "101402003",
     "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
   },
@@ -36044,10 +36036,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
@@ -36678,10 +36666,6 @@
   {
     "ItemCode": "400003003",
     "ItemName": "DESODORANTE AMBIENTAL SURTIDO 1X360 ML"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "304760108",
@@ -38966,10 +38950,6 @@
   {
     "ItemCode": "104560007",
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
-  },
-  {
-    "ItemCode": "103810010",
-    "ItemName": "ALCOHOL HIGIENIZANTE 70° DEFORT 2X5 LT"
   },
   {
     "ItemCode": "103730007",
@@ -44442,5 +44422,25 @@
   {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
+  },
+  {
+    "ItemCode": "103810010",
+    "ItemName": "ALCOHOL HIGIENIZANTE 70° DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   }
 ]
