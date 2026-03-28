@@ -27708,10 +27708,6 @@
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -28286,10 +28282,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "200002014",
@@ -31060,10 +31052,6 @@
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
   {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -31474,10 +31462,6 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
     "ItemCode": "300001010",
@@ -39352,10 +39336,6 @@
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -44442,5 +44422,25 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   }
 ]
