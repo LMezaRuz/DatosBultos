@@ -30884,10 +30884,6 @@
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
   {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100701009",
     "ItemName": "SOPA DE POLLO CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
@@ -31466,10 +31462,6 @@
   {
     "ItemCode": "101100012",
     "ItemName": "RIGATI TRICOLOR CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
     "ItemCode": "100101007",
@@ -38544,10 +38536,6 @@
     "ItemName": "PULLED PORK 8 X 1 KG"
   },
   {
-    "ItemCode": "203190045",
-    "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "203190051",
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
@@ -39028,10 +39016,6 @@
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "104210009",
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
@@ -39270,10 +39254,6 @@
   {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "100001007",
@@ -43152,14 +43132,6 @@
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
@@ -44442,5 +44414,33 @@
   {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "203190045",
+    "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   }
 ]
