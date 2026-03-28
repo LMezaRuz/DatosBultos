@@ -27384,10 +27384,6 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO TR 5X200 GR (5 KG)(MM)"
   },
   {
-    "ItemCode": "200201006",
-    "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
-  },
-  {
     "ItemCode": "203430015",
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
@@ -27634,10 +27630,6 @@
   {
     "ItemCode": "104670091",
     "ItemName": "TE EXCLUSIVE SELECTION DELICATE MINT LIPTON 6X25 BLS"
-  },
-  {
-    "ItemCode": "200201002",
-    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
     "ItemCode": "100302032",
@@ -28100,10 +28092,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
   },
   {
-    "ItemCode": "202730015",
-    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -28190,10 +28178,6 @@
   {
     "ItemCode": "202730053",
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
-  },
-  {
-    "ItemCode": "204380018",
-    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "403130001",
@@ -29954,10 +29938,6 @@
   {
     "ItemCode": "100855003",
     "ItemName": "CURRY 1X200 GR"
-  },
-  {
-    "ItemCode": "101353007",
-    "ItemName": "MAYONESA HELLMANNS VEGANA 1 X 940 GR"
   },
   {
     "ItemCode": "100356007",
@@ -35956,10 +35936,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -36346,10 +36322,6 @@
   {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
-    "ItemCode": "202820001",
-    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
     "ItemCode": "101357005",
@@ -39532,10 +39504,6 @@
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
@@ -39606,10 +39574,6 @@
   {
     "ItemCode": "200303012",
     "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
-  },
-  {
-    "ItemCode": "202730072",
-    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
   },
   {
     "ItemCode": "300154004",
@@ -40542,10 +40506,6 @@
   {
     "ItemCode": "102710015",
     "ItemName": "BEBIDA VEGETAL SOYA LONCOLECHE 6X1 LT"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "200460028",
@@ -43632,10 +43592,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
     "ItemCode": "101006001",
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
   },
@@ -44164,10 +44120,6 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -44442,5 +44394,53 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "202730015",
+    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
+  },
+  {
+    "ItemCode": "200201002",
+    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
+  },
+  {
+    "ItemCode": "200201006",
+    "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
+  },
+  {
+    "ItemCode": "202730072",
+    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
+  },
+  {
+    "ItemCode": "101353007",
+    "ItemName": "MAYONESA HELLMANNS VEGANA 1 X 940 GR"
+  },
+  {
+    "ItemCode": "204380018",
+    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "202820001",
+    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   }
 ]
