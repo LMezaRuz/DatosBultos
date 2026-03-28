@@ -24392,10 +24392,6 @@
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
-    "ItemCode": "102780005",
-    "ItemName": "CAFE KIMBO MOLIDO DESCAFEINADO 1X226.8 GR"
-  },
-  {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
@@ -35440,10 +35436,6 @@
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
@@ -35578,10 +35570,6 @@
   {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
     "ItemCode": "103910020",
@@ -36408,10 +36396,6 @@
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
   },
   {
-    "ItemCode": "100852019",
-    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
     "ItemCode": "100852020",
     "ItemName": "GALLETA OBSESION 1X85 GR"
   },
@@ -36426,10 +36410,6 @@
   {
     "ItemCode": "100852016",
     "ItemName": "GALLETA FRAC SABORES 36x110 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "300404004",
@@ -36464,16 +36444,8 @@
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
-    "ItemCode": "100851001",
-    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
     "ItemCode": "100751005",
     "ItemName": "MERMELADA DE GUINDA 1X250 GR"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "100651002",
@@ -40868,10 +40840,6 @@
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
     "ItemCode": "103480014",
     "ItemName": "GALLETON ALMENDRA NUTRA BIEN PACK 4X40 GR"
   },
@@ -44104,10 +44072,6 @@
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -44388,10 +44352,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
@@ -44442,5 +44402,45 @@
   {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "100852019",
+    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
+  },
+  {
+    "ItemCode": "100851001",
+    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
+  },
+  {
+    "ItemCode": "102780005",
+    "ItemName": "CAFE KIMBO MOLIDO DESCAFEINADO 1X226.8 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
