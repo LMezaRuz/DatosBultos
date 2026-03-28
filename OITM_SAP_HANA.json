@@ -24296,10 +24296,6 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -42684,10 +42680,6 @@
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
@@ -44224,14 +44216,6 @@
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "200051026",
     "ItemName": "JUGO DE LIMON VITAFRUTTA 10X1 KG"
   },
@@ -44340,10 +44324,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -44442,5 +44422,25 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
   }
 ]
