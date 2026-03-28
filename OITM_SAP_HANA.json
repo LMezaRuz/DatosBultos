@@ -30132,10 +30132,6 @@
     "ItemName": "POSTA NEGRA NACIONAL  V KG"
   },
   {
-    "ItemCode": "200002001",
-    "ItemName": "EMPANADA PINO COCKTAIL  100X70 GR"
-  },
-  {
     "ItemCode": "100151002",
     "ItemName": "CEREAL GOLD 1X750 GR"
   },
@@ -35506,10 +35502,6 @@
   {
     "ItemCode": "100300008",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "302890027",
@@ -44060,10 +44052,6 @@
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
@@ -44442,5 +44430,17 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "200002001",
+    "ItemName": "EMPANADA PINO COCKTAIL  100X70 GR"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   }
 ]
