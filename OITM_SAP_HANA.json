@@ -32120,10 +32120,6 @@
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
@@ -35360,10 +35356,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
@@ -35890,10 +35882,6 @@
   {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "200455001",
@@ -44442,5 +44430,17 @@
   {
     "ItemCode": "102960001",
     "ItemName": "CACAO CALLEBAUT EN POLVO 6 X 1 KG (DCP-22PLARO-EO-89B)"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
