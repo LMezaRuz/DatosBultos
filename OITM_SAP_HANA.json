@@ -24360,10 +24360,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "204140008",
-    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
-  },
-  {
     "ItemCode": "204870006",
     "ItemName": "PATAS DE VACUNO TRADICION (20KGS APROX)"
   },
@@ -28052,10 +28048,6 @@
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -31268,10 +31260,6 @@
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
   {
-    "ItemCode": "102780002",
-    "ItemName": "CAFE MOLIDO 1X1 KG"
-  },
-  {
     "ItemCode": "304760360",
     "ItemName": "ABASTERO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -31314,10 +31302,6 @@
   {
     "ItemCode": "203900009",
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
-  },
-  {
-    "ItemCode": "100351017",
-    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
     "ItemCode": "200302001",
@@ -42884,10 +42868,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "303850000",
-    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -43960,20 +43940,12 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
   {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "101001005",
@@ -44104,16 +44076,8 @@
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "104010002",
@@ -44344,16 +44308,8 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100002003",
@@ -44442,5 +44398,49 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "204140008",
+    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "303850000",
+    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "100351017",
+    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "102780002",
+    "ItemName": "CAFE MOLIDO 1X1 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   }
 ]
