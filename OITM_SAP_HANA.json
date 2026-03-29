@@ -27468,10 +27468,6 @@
     "ItemName": "CHAMPINON ENTERO WASIL 24X400"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "100852007",
     "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
   },
@@ -31350,10 +31346,6 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
     "ItemCode": "300353049",
@@ -39560,10 +39552,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
-  },
-  {
     "ItemCode": "200201019",
     "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
   },
@@ -42792,10 +42780,6 @@
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12x1 NUEVA CAJA"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "100351014",
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
@@ -43062,10 +43046,6 @@
   {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
-  },
-  {
-    "ItemCode": "200304007",
-    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
     "ItemCode": "100854012",
@@ -43748,10 +43728,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
@@ -43846,10 +43822,6 @@
   {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "101351003",
@@ -43970,10 +43942,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "102710013",
@@ -44128,10 +44096,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "104090001",
-    "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
-  },
-  {
     "ItemCode": "303850003",
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
@@ -44178,10 +44142,6 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "400252005",
@@ -44348,10 +44308,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
@@ -44442,5 +44398,49 @@
   {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "200304007",
+    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "104090001",
+    "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   }
 ]
