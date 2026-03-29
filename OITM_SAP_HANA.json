@@ -31768,10 +31768,6 @@
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "600002022",
     "ItemName": "ZAPALLO ITALIANO 1x1 un."
   },
@@ -34980,10 +34976,6 @@
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
   {
-    "ItemCode": "400104014",
-    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
-  },
-  {
     "ItemCode": "400301020",
     "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
   },
@@ -35342,10 +35334,6 @@
   {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
   {
     "ItemCode": "202730018",
@@ -42940,14 +42928,6 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
@@ -42962,10 +42942,6 @@
   {
     "ItemCode": "101150004",
     "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "200203013",
@@ -43242,10 +43218,6 @@
   {
     "ItemCode": "403250022",
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "103140000",
@@ -44232,10 +44204,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44442,5 +44410,37 @@
   {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "400104014",
+    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   }
 ]
