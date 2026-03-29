@@ -28620,10 +28620,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "104210015",
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
@@ -42916,10 +42912,6 @@
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
   {
-    "ItemCode": "300153012",
-    "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -44236,10 +44228,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -44442,5 +44430,17 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "300153012",
+    "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   }
 ]
