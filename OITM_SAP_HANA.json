@@ -27904,10 +27904,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
@@ -31030,10 +31026,6 @@
   {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
   {
     "ItemCode": "202720026",
@@ -43004,20 +42996,12 @@
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "202620000",
@@ -43552,10 +43536,6 @@
     "ItemName": "CAFE MOLIDO 1X1 KG"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -43642,10 +43622,6 @@
   {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
     "ItemCode": "100102012",
@@ -44436,11 +44412,35 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
