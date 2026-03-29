@@ -27712,10 +27712,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -30054,10 +30050,6 @@
   {
     "ItemCode": "200307007",
     "ItemName": "ATLANTIC SALMON IQF FILETE TRIM D (INDUSTRIAL) KG"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "100351006",
@@ -44380,10 +44372,6 @@
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -44442,5 +44430,17 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
   }
 ]
