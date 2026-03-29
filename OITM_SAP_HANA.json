@@ -31564,10 +31564,6 @@
     "ItemName": "MORAS RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "100352007",
     "ItemName": "CAFE KIMBO EN CAPSULA NAPOLI COMPATIBLE ESPRESSO POINT 1X100 UN"
   },
@@ -35522,10 +35518,6 @@
   {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
-    "ItemCode": "101354016",
-    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
   },
   {
     "ItemCode": "302890027",
@@ -42904,10 +42896,6 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
     "ItemCode": "304760382",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
   },
@@ -42990,10 +42978,6 @@
   {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "101002003",
@@ -43520,10 +43504,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
@@ -43550,10 +43530,6 @@
   {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "103940024",
@@ -43594,10 +43570,6 @@
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
     "ItemCode": "300001003",
@@ -43824,10 +43796,6 @@
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -43844,20 +43812,12 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "100902001",
@@ -44078,10 +44038,6 @@
   {
     "ItemCode": "203210090",
     "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "304460002",
@@ -44356,10 +44312,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "400005014",
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
   },
@@ -44442,5 +44394,53 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101354016",
+    "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   }
 ]
