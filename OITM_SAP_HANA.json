@@ -24428,10 +24428,6 @@
     "ItemName": "TRUTRO CORTO DE POLLO IMP. CONG. 1X20KG."
   },
   {
-    "ItemCode": "103990003",
-    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
-  },
-  {
     "ItemCode": "400301051",
     "ItemName": "TAPA POCILLO  2 OZ X 2500 UN"
   },
@@ -35000,10 +34996,6 @@
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -43068,10 +43060,6 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -43816,10 +43804,6 @@
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -44058,10 +44042,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101351003",
@@ -44376,10 +44356,6 @@
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101200015",
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
   },
@@ -44442,5 +44418,29 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "103990003",
+    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   }
 ]
