@@ -36112,10 +36112,6 @@
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -43380,10 +43376,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
@@ -43512,10 +43504,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA ADOBADA 10X2 KG"
   },
   {
-    "ItemCode": "200305016",
-    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
@@ -43530,10 +43518,6 @@
   {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "204180022",
@@ -43690,10 +43674,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
     "ItemCode": "104010004",
@@ -44228,18 +44208,6 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
-    "ItemCode": "100600003",
-    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100356005",
-    "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
-  },
-  {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -44296,38 +44264,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "101300002",
-    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
-  },
-  {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "104670006",
-    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
@@ -44342,10 +44278,6 @@
   {
     "ItemCode": "102560021",
     "ItemName": "AJI PEBRE SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100600007",
@@ -44442,5 +44374,73 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101300002",
+    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670006",
+    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100600003",
+    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
+  },
+  {
+    "ItemCode": "100356005",
+    "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "200305016",
+    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
