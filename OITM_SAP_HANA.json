@@ -24800,10 +24800,6 @@
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "102840013",
     "ItemName": "CAFE KIMBO AMALFI EN CAPSULAS COMPATIBLE CON DOLCE GUSTO 1X16 UN"
   },
@@ -38904,10 +38900,6 @@
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
   {
-    "ItemCode": "202910007",
-    "ItemName": "COSTILLAR CRIOLLO CON AJI DIEZ PUNTOS (8 X 1.3 KG APROX.)"
-  },
-  {
     "ItemCode": "202910040",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
   },
@@ -40128,10 +40120,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "200303017",
     "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
   },
@@ -40310,10 +40298,6 @@
   {
     "ItemCode": "300158002",
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
-  },
-  {
-    "ItemCode": "200500053",
-    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
   },
   {
     "ItemCode": "101353022",
@@ -42960,10 +42944,6 @@
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
   {
-    "ItemCode": "100050004",
-    "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "102780002",
     "ItemName": "CAFE MOLIDO 1X1 KG"
   },
@@ -43222,10 +43202,6 @@
   {
     "ItemCode": "302890025",
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
-  },
-  {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   },
   {
     "ItemCode": "100654002",
@@ -43696,10 +43672,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
     "ItemCode": "200303024",
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
@@ -44056,10 +44028,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44152,10 +44120,6 @@
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "202820001",
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -44166,10 +44130,6 @@
   {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "300153003",
@@ -44442,5 +44402,45 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "100050004",
+    "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "200500053",
+    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "202910007",
+    "ItemName": "COSTILLAR CRIOLLO CON AJI DIEZ PUNTOS (8 X 1.3 KG APROX.)"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   }
 ]
