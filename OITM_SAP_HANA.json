@@ -25272,10 +25272,6 @@
     "ItemName": "COBERTURA NEUCOBER LECHE 12X1 KG"
   },
   {
-    "ItemCode": "104010053",
-    "ItemName": "SALSA DE AJI DULCE 12X730 ML"
-  },
-  {
     "ItemCode": "104030001",
     "ItemName": "ALCUZA ACEITE SANTIAGO (GESTION MKT)"
   },
@@ -40324,10 +40320,6 @@
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
   {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -44048,10 +44040,6 @@
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
@@ -44442,5 +44430,17 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104010053",
+    "ItemName": "SALSA DE AJI DULCE 12X730 ML"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   }
 ]
