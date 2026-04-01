@@ -26476,10 +26476,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "304420007",
-    "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
-  },
-  {
     "ItemCode": "304420008",
     "ItemName": "SUCEDANEO QUESO CHEDDAR LAMINADO LORELEY 2X1,92 KG"
   },
@@ -30896,10 +30892,6 @@
     "ItemName": "ENVASE RECTANGULAR DE ALUMINIO V-40 C/TAPA 1 X 20 UN"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
@@ -30942,10 +30934,6 @@
   {
     "ItemCode": "100754002",
     "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
-  },
-  {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
   },
   {
     "ItemCode": "100754003",
@@ -38332,10 +38320,6 @@
     "ItemName": "ATLANTIC SALMON IQF PORCION S/PIEL (S21206) (BLUMAR)"
   },
   {
-    "ItemCode": "200305015",
-    "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
-  },
-  {
     "ItemCode": "200306001",
     "ItemName": "PULPO ENTERO DEL NORTE (OCTOPUS MIMUS) NAC KG"
   },
@@ -39318,10 +39302,6 @@
   {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "103180007",
@@ -43232,10 +43212,6 @@
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "200303024",
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
@@ -43322,10 +43298,6 @@
   {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "400001007",
@@ -44100,10 +44072,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
@@ -44142,10 +44110,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "400105001",
@@ -44442,5 +44406,41 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "200305015",
+    "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "304420007",
+    "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   }
 ]
