@@ -28160,10 +28160,6 @@
     "ItemName": "RED VELVET 10 PORCIONES"
   },
   {
-    "ItemCode": "100751010",
-    "ItemName": "MERMELADA DE MORA 1X1 KG"
-  },
-  {
     "ItemCode": "103760006",
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
   },
@@ -35956,10 +35952,6 @@
     "ItemName": "GALLETA DIN DON 1X115 GR"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
     "ItemCode": "400301071",
     "ItemName": "SACO GRANDE KRAFT MAMUT 1 X 250 UN"
   },
@@ -36166,10 +36158,6 @@
   {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "203300000",
@@ -39202,10 +39190,6 @@
   {
     "ItemCode": "101009004",
     "ItemName": "LECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "103880016",
-    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
   {
     "ItemCode": "101100016",
@@ -42356,10 +42340,6 @@
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
@@ -42586,10 +42566,6 @@
   {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "400005010",
@@ -43992,10 +43968,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
@@ -44442,5 +44414,33 @@
   {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "103880016",
+    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "100751010",
+    "ItemName": "MERMELADA DE MORA 1X1 KG"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   }
 ]
