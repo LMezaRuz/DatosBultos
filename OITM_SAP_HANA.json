@@ -30884,10 +30884,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "103020000",
-    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
-  },
-  {
     "ItemCode": "200201032",
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
@@ -32338,14 +32334,6 @@
   {
     "ItemCode": "100801003",
     "ItemName": "MANI SALADO 1X1 KG"
-  },
-  {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "100001005",
@@ -42700,10 +42688,6 @@
     "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "202730081",
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
@@ -42986,10 +42970,6 @@
   {
     "ItemCode": "103650023",
     "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "204790004",
-    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
   {
     "ItemCode": "100352003",
@@ -44048,10 +44028,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202910016",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -44352,10 +44328,6 @@
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "200302026",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -44442,5 +44414,33 @@
   {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "202910016",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "204790004",
+    "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
+  },
+  {
+    "ItemCode": "103020000",
+    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   }
 ]
