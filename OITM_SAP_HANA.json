@@ -30576,10 +30576,6 @@
     "ItemName": "PULPA DE MELON TUNA LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "204380002",
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
   },
@@ -31586,10 +31582,6 @@
   {
     "ItemCode": "100151015",
     "ItemName": "CEREAL ZUCOSOS NESTLE 1X800GR"
-  },
-  {
-    "ItemCode": "203510004",
-    "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
     "ItemCode": "103440004",
@@ -39472,10 +39464,6 @@
     "ItemName": "JUREL NAC. NATURAL EN CONSERVA 24 X 425 GRS SAN JOSE"
   },
   {
-    "ItemCode": "200462002",
-    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
-  },
-  {
     "ItemCode": "300351015",
     "ItemName": "PRIETAS 1x250 g."
   },
@@ -42140,10 +42128,6 @@
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
-    "ItemCode": "304760112",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200200011",
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
@@ -42388,10 +42372,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
@@ -42630,10 +42610,6 @@
   {
     "ItemCode": "100802002",
     "ItemName": "MIX TROPICAL FRUTISA 1X80 GR"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "203430014",
@@ -43360,10 +43336,6 @@
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
     "ItemCode": "101350005",
     "ItemName": "LIMONETA SACHET  MINI PORCION OSKU 300 x 8 cc."
   },
@@ -43512,10 +43484,6 @@
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
@@ -43614,10 +43582,6 @@
   {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
     "ItemCode": "104520000",
@@ -44356,10 +44320,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -44428,6 +44388,46 @@
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
+    "ItemCode": "103020000",
+    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
+  },
+  {
+    "ItemCode": "304760112",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "203510004",
+    "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
+  },
+  {
+    "ItemCode": "200462002",
+    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -44440,7 +44440,7 @@
     "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
   {
-    "ItemCode": "103020000",
-    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
