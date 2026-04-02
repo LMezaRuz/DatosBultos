@@ -27880,10 +27880,6 @@
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
   },
   {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "200305016",
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
@@ -30878,10 +30874,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "100800001",
-    "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
     "ItemCode": "304450017",
@@ -39892,10 +39884,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -41920,10 +41908,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
-    "ItemCode": "101301001",
-    "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
-  },
-  {
     "ItemCode": "204530006",
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
@@ -42106,10 +42090,6 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "104580000",
@@ -42838,10 +42818,6 @@
   {
     "ItemCode": "100352003",
     "ItemName": "CAFE BARISTA (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "300157029",
@@ -43864,10 +43840,6 @@
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "104010052",
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
@@ -44412,10 +44384,6 @@
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
     "ItemCode": "100751010",
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
@@ -44442,5 +44410,37 @@
   {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "101301001",
+    "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
+  },
+  {
+    "ItemCode": "100800001",
+    "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   }
 ]
