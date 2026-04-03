@@ -36208,10 +36208,6 @@
     "ItemName": "MINI MUFFIN 1X147 UN"
   },
   {
-    "ItemCode": "200200032",
-    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
-  },
-  {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
@@ -37898,10 +37894,6 @@
   {
     "ItemCode": "200201017",
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
-  },
-  {
-    "ItemCode": "200201019",
-    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
   },
   {
     "ItemCode": "200203008",
@@ -43828,10 +43820,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   },
@@ -44462,5 +44450,17 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "200201019",
+    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+  },
+  {
+    "ItemCode": "200200032",
+    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   }
 ]
