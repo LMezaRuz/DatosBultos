@@ -27960,10 +27960,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
   },
   {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
     "ItemCode": "102680001",
     "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
   },
@@ -28392,10 +28388,6 @@
     "ItemName": "HABAS 16X380 GR"
   },
   {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "103910049",
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
@@ -28462,14 +28454,6 @@
   {
     "ItemCode": "103910060",
     "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103910020",
@@ -32212,10 +32196,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
@@ -32274,10 +32254,6 @@
   {
     "ItemCode": "104620002",
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "400007016",
@@ -39904,10 +39880,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -40358,10 +40330,6 @@
   {
     "ItemCode": "100700003",
     "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "100302029",
@@ -44376,10 +44344,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -44432,10 +44396,6 @@
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "103650024",
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATT’S SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   }
 ]
