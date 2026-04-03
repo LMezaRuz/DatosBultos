@@ -31808,10 +31808,6 @@
     "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   },
   {
-    "ItemCode": "101100052",
-    "ItemName": "CORBATA LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "204300076",
     "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
   },
@@ -31982,14 +31978,6 @@
   {
     "ItemCode": "103480002",
     "ItemName": "GALLETA MINI DULCITAS  30X40 GR"
-  },
-  {
-    "ItemCode": "101100060",
-    "ItemName": "CORBATAS LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "103180002",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
     "ItemCode": "103480003",
@@ -40316,10 +40304,6 @@
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
@@ -43744,10 +43728,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100601001",
-    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -44462,5 +44442,25 @@
   {
     "ItemCode": "300001012",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 7X400 GR"
+  },
+  {
+    "ItemCode": "100601001",
+    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
+  },
+  {
+    "ItemCode": "103180002",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
+  },
+  {
+    "ItemCode": "101100060",
+    "ItemName": "CORBATAS LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100052",
+    "ItemName": "CORBATA LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   }
 ]
