@@ -32324,10 +32324,6 @@
     "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
   {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
     "ItemCode": "103180007",
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
@@ -44184,16 +44180,8 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "100558002",
@@ -44368,10 +44356,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44410,10 +44394,6 @@
   {
     "ItemCode": "204300073",
     "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "104600003",
@@ -44462,5 +44442,25 @@
   {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   }
 ]
