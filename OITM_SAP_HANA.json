@@ -39624,10 +39624,6 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "101201021",
-    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
@@ -39702,10 +39698,6 @@
   {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201019",
-    "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
   {
     "ItemCode": "100701008",
@@ -39822,10 +39814,6 @@
   {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
-  },
-  {
-    "ItemCode": "101201022",
-    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "100250007",
@@ -40042,10 +40030,6 @@
   {
     "ItemCode": "100101001",
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
   {
     "ItemCode": "101201018",
@@ -40268,10 +40252,6 @@
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -40350,10 +40330,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101357002",
@@ -43824,10 +43800,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
@@ -44076,10 +44048,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -44160,10 +44128,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
@@ -44238,10 +44202,6 @@
   {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "200455004",
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201021",
+    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201019",
+    "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201022",
+    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   }
 ]
