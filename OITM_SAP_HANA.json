@@ -27700,10 +27700,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "200100111",
-    "ItemName": "HELADO VITTORE FRUTILLA A LA CREMA 6 X 460 ML."
-  },
-  {
     "ItemCode": "104910000",
     "ItemName": "TRISOL TEXTURAS 8X1 KG"
   },
@@ -28250,10 +28246,6 @@
   {
     "ItemCode": "200100107",
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6 X 460 ML."
-  },
-  {
-    "ItemCode": "200100104",
-    "ItemName": "HELADO VITTORE CHOCOLATE SUIZO 6 X 460 ML."
   },
   {
     "ItemCode": "102520000",
@@ -31498,10 +31490,6 @@
   {
     "ItemCode": "204390005",
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
-  },
-  {
-    "ItemCode": "400301102",
-    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
   },
   {
     "ItemCode": "103540000",
@@ -38868,10 +38856,6 @@
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "100202014",
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
@@ -43384,10 +43368,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -43704,20 +43684,12 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "100001003",
@@ -43900,20 +43872,12 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201021",
-    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201019",
@@ -44188,10 +44152,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -44448,10 +44408,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -44462,5 +44418,49 @@
   {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101201021",
+    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "400301102",
+    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "200100104",
+    "ItemName": "HELADO VITTORE CHOCOLATE SUIZO 6 X 460 ML."
+  },
+  {
+    "ItemCode": "200100111",
+    "ItemName": "HELADO VITTORE FRUTILLA A LA CREMA 6 X 460 ML."
   }
 ]
