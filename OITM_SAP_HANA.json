@@ -27368,28 +27368,12 @@
     "ItemName": "TE LIPTON BREAKFAST TEA 12 X 20 BLS"
   },
   {
-    "ItemCode": "104670077",
-    "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
-  },
-  {
     "ItemCode": "104670078",
     "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
   },
   {
-    "ItemCode": "104670079",
-    "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "104670080",
-    "ItemName": "TE LIPTON BLACK PEACH MANGO 12 X 20 BLS"
-  },
-  {
     "ItemCode": "104670081",
     "ItemName": "TE LIPTON GREEN INTENSE MINT 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "104670082",
-    "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
   },
   {
     "ItemCode": "104670083",
@@ -30508,10 +30492,6 @@
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760297",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760294",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
@@ -32518,10 +32498,6 @@
   {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
-  },
-  {
-    "ItemCode": "204530007",
-    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   },
   {
     "ItemCode": "304850032",
@@ -38008,10 +37984,6 @@
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
   {
-    "ItemCode": "100850001",
-    "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
-  },
-  {
     "ItemCode": "100851002",
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
@@ -38800,10 +38772,6 @@
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
   {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
   },
@@ -39330,10 +39298,6 @@
   {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
     "ItemCode": "101358012",
@@ -44124,10 +44088,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "104670077",
+    "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "104670080",
+    "ItemName": "TE LIPTON BLACK PEACH MANGO 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "104670079",
+    "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "104670082",
+    "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "100850001",
+    "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
+  },
+  {
+    "ItemCode": "304760297",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "204530007",
+    "ItemName": "SALMON EN PORCION CON PIEL GOLFO 20X500 GR"
   }
 ]
