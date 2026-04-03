@@ -29924,10 +29924,6 @@
     "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "102680012",
     "ItemName": "HELADO SOFT SABOR MANJAR 10X800 GR"
   },
@@ -30022,10 +30018,6 @@
   {
     "ItemCode": "204000005",
     "ItemName": "OSOBUCO PIERNA VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
     "ItemCode": "101358014",
@@ -36184,10 +36176,6 @@
     "ItemName": "PACK PROBIOTICO MORA CALAN 6X90ML"
   },
   {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "101350005",
     "ItemName": "LIMONETA SACHET  MINI PORCION OSKU 300 x 8 cc."
   },
@@ -39300,10 +39288,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "101301001",
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
@@ -39892,10 +39876,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -39906,10 +39886,6 @@
   {
     "ItemCode": "101201039",
     "ItemName": "DELICREAM VAINILLA C/COCO RALLADO TKF 1X1 KG."
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "100102015",
@@ -40226,10 +40202,6 @@
   {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
     "ItemCode": "101305001",
@@ -43440,10 +43412,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
@@ -43928,10 +43896,6 @@
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "100852007",
     "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
   },
@@ -44098,10 +44062,6 @@
   {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "404600005",
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
