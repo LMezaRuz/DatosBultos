@@ -28120,16 +28120,8 @@
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
   {
     "ItemCode": "204790047",
@@ -28454,10 +28446,6 @@
   {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
     "ItemCode": "200454024",
@@ -30658,10 +30646,6 @@
   {
     "ItemCode": "104210002",
     "ItemName": "RIGATI LUCCHETTI 30 X 400 GRS"
-  },
-  {
-    "ItemCode": "202730076",
-    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
     "ItemCode": "202910025",
@@ -36644,10 +36628,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -39572,10 +39552,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
@@ -40264,10 +40240,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -40404,10 +40376,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101201036",
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
@@ -40454,10 +40422,6 @@
   {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101305001",
@@ -44380,10 +44344,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "103910061",
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATT’S SACHET 24X200 GR"
   },
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "202730076",
+    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
