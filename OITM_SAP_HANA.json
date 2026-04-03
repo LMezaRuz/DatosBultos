@@ -32448,10 +32448,6 @@
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
@@ -44076,10 +44072,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
@@ -44092,16 +44084,8 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "200200010",
@@ -44462,5 +44446,21 @@
   {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
