@@ -27712,10 +27712,6 @@
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
   },
   {
-    "ItemCode": "103910050",
-    "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
-  },
-  {
     "ItemCode": "103880022",
     "ItemName": "MAYONESA DELI KRAFT FLEX 4X18X90 GR"
   },
@@ -31244,10 +31240,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
   },
@@ -31702,10 +31694,6 @@
   {
     "ItemCode": "202910044",
     "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
-  },
-  {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "203900004",
@@ -36504,10 +36492,6 @@
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
@@ -37634,10 +37618,6 @@
   {
     "ItemCode": "100850011",
     "ItemName": "CARAMELO ARBOLITO 12X430 GR."
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
     "ItemCode": "300353003",
@@ -39882,10 +39862,6 @@
   {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "400007010",
@@ -44240,18 +44216,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -44278,10 +44242,6 @@
   {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "103700007",
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "103910050",
+    "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   }
 ]
