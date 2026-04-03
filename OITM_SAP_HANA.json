@@ -26216,10 +26216,6 @@
     "ItemName": "GYOZAS DE CERDO ARTESANAL 5X30 UN"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "204100001",
     "ItemName": "REINETA FILETE S/PIEL (BRAMA AUSTRALIS) 2X 5 KG"
   },
@@ -30432,20 +30428,12 @@
     "ItemName": "AJI CREMA TRAVERSO VINTAGE 10X450 GR"
   },
   {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
-  },
-  {
     "ItemCode": "102680002",
     "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
   },
   {
     "ItemCode": "101009022",
     "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
-  },
-  {
-    "ItemCode": "102680016",
-    "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
   {
     "ItemCode": "102680021",
@@ -32578,10 +32566,6 @@
   {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "204380016",
@@ -36684,10 +36668,6 @@
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -39356,10 +39336,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101303004",
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
@@ -39736,10 +39712,6 @@
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
@@ -39886,10 +39858,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "101305007",
@@ -40476,14 +40444,6 @@
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
-    "ItemCode": "100852011",
-    "ItemName": "GALLETA DE LIMON 1X140 GR."
-  },
-  {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
@@ -40498,10 +40458,6 @@
   {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "300408001",
@@ -44188,10 +44144,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
@@ -44258,10 +44210,6 @@
   {
     "ItemCode": "101201052",
     "ItemName": "JALEA NARANJA DIET (REND. 3 KG) TKF 1 X 60 GRS"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "304760109",
@@ -44380,10 +44328,6 @@
     "ItemName": "AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
   },
   {
-    "ItemCode": "100851001",
-    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -44462,5 +44406,61 @@
   {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "100852011",
+    "ItemName": "GALLETA DE LIMON 1X140 GR."
+  },
+  {
+    "ItemCode": "100851001",
+    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "102680016",
+    "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   }
 ]
