@@ -36712,10 +36712,6 @@
     "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
@@ -39850,10 +39846,6 @@
   {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "200051028",
@@ -43844,10 +43836,6 @@
     "ItemName": "HARINA ORO 5 SACO 1X25 KG."
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -44156,10 +44144,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -44444,10 +44428,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44462,5 +44442,25 @@
   {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
