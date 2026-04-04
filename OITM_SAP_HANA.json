@@ -29960,10 +29960,6 @@
     "ItemName": "LECHE DESCREMADA UHT COLUN 6X200 CC"
   },
   {
-    "ItemCode": "300400023",
-    "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
     "ItemCode": "302890038",
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
   },
@@ -31498,10 +31494,6 @@
   {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "204380017",
@@ -35932,10 +35924,6 @@
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "300403009",
-    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
@@ -39830,10 +39818,6 @@
   {
     "ItemCode": "101200022",
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "101150026",
@@ -43908,10 +43892,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
   },
@@ -44000,16 +43980,8 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "204380025",
-    "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380023",
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "200051020",
@@ -44176,10 +44148,6 @@
     "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -44344,10 +44312,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
   },
@@ -44462,5 +44426,41 @@
   {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "300403009",
+    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "204380025",
+    "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "300400023",
+    "ItemName": "QUESO REGGIANITO HUILCO EN PIEZA (4,5 KG APROX.)"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   }
 ]
