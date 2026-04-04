@@ -30652,10 +30652,6 @@
     "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "204090004",
-    "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
-  },
-  {
     "ItemCode": "204150018",
     "ItemName": "PAN DE QUESO HORNEADO 10X240 GR"
   },
@@ -30894,10 +30890,6 @@
   {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
-    "ItemCode": "200304007",
-    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
     "ItemCode": "204790029",
@@ -37812,10 +37804,6 @@
     "ItemName": "HELADO SAN FCO. LUCUMA MANJAR (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "200305006",
-    "ItemName": "PINZAS DE JAIBA 10X1 KG"
-  },
-  {
     "ItemCode": "200452001",
     "ItemName": "PEPPERONI LAMINADO SUGARDALE 2X5,67 KG NAL"
   },
@@ -38752,10 +38740,6 @@
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
   {
-    "ItemCode": "200307008",
-    "ItemName": "CONGRIO FILETE AL VACIO KG"
-  },
-  {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
@@ -39462,10 +39446,6 @@
   {
     "ItemCode": "300157024",
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100202016",
@@ -43720,10 +43700,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
     "ItemCode": "202820010",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   },
@@ -43930,10 +43906,6 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "100101004",
@@ -44462,5 +44434,33 @@
   {
     "ItemCode": "203230036",
     "ItemName": "EMPANADA DE QUESO 6X180 GR (4 REINAS)"
+  },
+  {
+    "ItemCode": "204090004",
+    "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
+  },
+  {
+    "ItemCode": "200307008",
+    "ItemName": "CONGRIO FILETE AL VACIO KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "200304007",
+    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
+  },
+  {
+    "ItemCode": "200305006",
+    "ItemName": "PINZAS DE JAIBA 10X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   }
 ]
