@@ -27608,10 +27608,6 @@
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "303000002",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
@@ -27846,10 +27842,6 @@
   {
     "ItemCode": "103740002",
     "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
-  },
-  {
-    "ItemCode": "102560001",
-    "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
   {
     "ItemCode": "202910032",
@@ -38352,10 +38344,6 @@
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
@@ -39280,10 +39268,6 @@
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -39610,10 +39594,6 @@
   {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "400011001",
@@ -39960,10 +39940,6 @@
     "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -40158,10 +40134,6 @@
   {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "202820001",
@@ -44462,5 +44434,33 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
+  },
+  {
+    "ItemCode": "102560001",
+    "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   }
 ]
