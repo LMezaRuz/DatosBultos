@@ -31652,10 +31652,6 @@
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
   {
-    "ItemCode": "303850011",
-    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
-  },
-  {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
@@ -38060,10 +38056,6 @@
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
   {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -38866,10 +38858,6 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200308004",
@@ -44216,10 +44204,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44462,5 +44446,21 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "303850011",
+    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   }
 ]
