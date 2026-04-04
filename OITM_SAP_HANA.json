@@ -28208,10 +28208,6 @@
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -31744,10 +31740,6 @@
     "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
   },
   {
-    "ItemCode": "203190023",
-    "ItemName": "MEDALLON DE PULPA MARINADA CAJA 18 KG APROX (TF)"
-  },
-  {
     "ItemCode": "102560016",
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -32346,10 +32338,6 @@
   {
     "ItemCode": "103810002",
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
     "ItemCode": "300154028",
@@ -38264,10 +38252,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
     "ItemCode": "104020005",
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
@@ -39182,10 +39166,6 @@
   {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "204790045",
-    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
   },
   {
     "ItemCode": "100351003",
@@ -43516,10 +43496,6 @@
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -44008,10 +43984,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -44432,10 +44404,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "204790047",
     "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
   },
@@ -44462,5 +44430,37 @@
   {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "204790045",
+    "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "203190023",
+    "ItemName": "MEDALLON DE PULPA MARINADA CAJA 18 KG APROX (TF)"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   }
 ]
