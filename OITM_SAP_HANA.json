@@ -39444,10 +39444,6 @@
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
@@ -40018,10 +40014,6 @@
   {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "200300004",
@@ -43420,10 +43412,6 @@
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100101002",
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
@@ -44300,10 +44288,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "204790047",
     "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
   },
@@ -44462,5 +44446,21 @@
   {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
