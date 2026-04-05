@@ -27584,10 +27584,6 @@
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "303000002",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
@@ -27898,10 +27894,6 @@
   {
     "ItemCode": "600002041",
     "ItemName": "CIRUELA KG."
-  },
-  {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790005",
@@ -32032,10 +32024,6 @@
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
@@ -35422,10 +35410,6 @@
   {
     "ItemCode": "300353054",
     "ItemName": "PUNTA PICANA  KG (NV)"
-  },
-  {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   },
   {
     "ItemCode": "100350006",
@@ -42936,10 +42920,6 @@
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "100552002",
     "ItemName": "CANELA MOLIDA GOURMET 1X15 GR"
   },
@@ -43234,14 +43214,6 @@
   {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "200500053",
-    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "101351003",
@@ -43852,10 +43824,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
@@ -43904,10 +43872,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -43938,10 +43902,6 @@
   {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "100450001",
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
+  },
+  {
+    "ItemCode": "200500053",
+    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
