@@ -27744,10 +27744,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "204310014",
     "ItemName": "LINGOTE DE PRALINE Y CARAMELO 27X72 GR"
   },
@@ -32194,10 +32190,6 @@
   {
     "ItemCode": "104670006",
     "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
-    "ItemCode": "104190000",
-    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
   {
     "ItemCode": "104670049",
@@ -38652,14 +38644,6 @@
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100353005",
-    "ItemName": "INFUSION MANZANILLA 1X20 UN"
-  },
-  {
-    "ItemCode": "100353006",
-    "ItemName": "INFUSION MENTA 1X20 UN"
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
@@ -39274,10 +39258,6 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "100401001",
-    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
     "ItemCode": "100150003",
@@ -40206,10 +40186,6 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
     "ItemCode": "101150049",
@@ -43932,10 +43908,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "101353022",
-    "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -44396,10 +44368,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -44462,5 +44430,37 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "104190000",
+    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
+  },
+  {
+    "ItemCode": "100401001",
+    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
+  },
+  {
+    "ItemCode": "101353022",
+    "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "100353006",
+    "ItemName": "INFUSION MENTA 1X20 UN"
+  },
+  {
+    "ItemCode": "100353005",
+    "ItemName": "INFUSION MANZANILLA 1X20 UN"
   }
 ]
