@@ -38808,10 +38808,6 @@
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
@@ -43316,10 +43312,6 @@
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
-  },
-  {
     "ItemCode": "101305008",
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
@@ -44462,5 +44454,13 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
   }
 ]
