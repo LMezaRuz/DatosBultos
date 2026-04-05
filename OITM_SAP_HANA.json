@@ -35608,10 +35608,6 @@
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
-    "ItemCode": "101150037",
-    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
-  },
-  {
     "ItemCode": "101009010",
     "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
   },
@@ -35722,10 +35718,6 @@
   {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
   {
     "ItemCode": "300353007",
@@ -37210,10 +37202,6 @@
   {
     "ItemCode": "100201001",
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "100558006",
@@ -42480,10 +42468,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "MAQ001155",
     "ItemName": "TARIFA SERVICIOS $1155"
   },
@@ -42638,10 +42622,6 @@
   {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "200003004",
@@ -42950,10 +42930,6 @@
   {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "101355004",
@@ -43604,10 +43580,6 @@
     "ItemName": "TAPAPECHO KG (NV)"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
@@ -44136,16 +44108,8 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101100052",
@@ -44154,10 +44118,6 @@
   {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100752001",
@@ -44462,5 +44422,45 @@
   {
     "ItemCode": "100401002",
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101150037",
+    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   }
 ]
