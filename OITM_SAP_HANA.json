@@ -38048,10 +38048,6 @@
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -39658,10 +39654,6 @@
   {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "300157027",
@@ -43504,10 +43496,6 @@
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
@@ -43754,10 +43742,6 @@
   {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "204790018",
@@ -44008,10 +43992,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -44162,10 +44142,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "300401005",
@@ -44348,10 +44324,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -44460,7 +44432,35 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   }
 ]
