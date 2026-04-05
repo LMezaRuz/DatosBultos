@@ -30592,10 +30592,6 @@
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
@@ -31768,10 +31764,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
   },
@@ -32426,10 +32418,6 @@
   {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "101401009",
@@ -36586,10 +36574,6 @@
   {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
-    "ItemCode": "100355017",
-    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
     "ItemCode": "101305002",
@@ -44204,10 +44188,6 @@
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -44266,10 +44246,6 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "400001007",
@@ -44462,5 +44438,29 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100355017",
+    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   }
 ]
