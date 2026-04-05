@@ -27396,10 +27396,6 @@
     "ItemName": "TE SUPERIOR PURE CEYLON 20X250 GR"
   },
   {
-    "ItemCode": "104670092",
-    "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
-  },
-  {
     "ItemCode": "104820004",
     "ItemName": "VINAGRE ROSADO TRAVERSO 24X250 CC"
   },
@@ -28238,10 +28234,6 @@
   {
     "ItemCode": "202730040",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
-  },
-  {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
     "ItemCode": "202730029",
@@ -30788,10 +30780,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103670022",
     "ItemName": "KETCHUP VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
   },
@@ -31142,10 +31130,6 @@
   {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
-  },
-  {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "103580001",
@@ -32410,10 +32394,6 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "200307010",
@@ -36552,10 +36532,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
   },
@@ -37932,10 +37908,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -38174,10 +38146,6 @@
   {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "101201019",
@@ -40634,10 +40602,6 @@
   {
     "ItemCode": "101150063",
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "400301077",
@@ -43776,10 +43740,6 @@
     "ItemName": "REPOLLO MORADO UNIDAD"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -44172,10 +44132,6 @@
     "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -44462,5 +44418,49 @@
   {
     "ItemCode": "101150026",
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "104670092",
+    "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   }
 ]
