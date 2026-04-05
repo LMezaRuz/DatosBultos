@@ -28164,10 +28164,6 @@
     "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
   {
-    "ItemCode": "202720025",
-    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -29922,10 +29918,6 @@
   {
     "ItemCode": "400301055",
     "ItemName": "ETIQUETA CREMOSO DE VAINILLA GYN 1X1000 UN"
-  },
-  {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
   },
   {
     "ItemCode": "101401002",
@@ -42836,10 +42828,6 @@
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
@@ -43198,18 +43186,6 @@
   {
     "ItemCode": "100302037",
     "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "100052002",
@@ -44462,5 +44438,29 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "202720025",
+    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
