@@ -15460,10 +15460,6 @@
     "ItemName": "TARIFA SERVICIOS $1600"
   },
   {
-    "ItemCode": "100202002",
-    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
-  },
-  {
     "ItemCode": "MAQ001692",
     "ItemName": "TARIFA SERVICIOS $1692"
   },
@@ -30172,10 +30168,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "204310021",
     "ItemName": "POSTRE MANJAR CHOCOLATE SIN GLUTEN CONGELADO 8X130 GR"
   },
@@ -43688,10 +43680,6 @@
     "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -43922,10 +43910,6 @@
   {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
-  },
-  {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
     "ItemCode": "100002010",
@@ -44412,10 +44396,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
@@ -44462,5 +44442,25 @@
   {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100202002",
+    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   }
 ]
