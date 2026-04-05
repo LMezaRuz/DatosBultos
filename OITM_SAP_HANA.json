@@ -25208,14 +25208,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "102680023",
-    "ItemName": "HELADO SOFT AGUA SABOR FRUTOS DEL BOSQUE 10X800 GR"
-  },
-  {
-    "ItemCode": "102680024",
-    "ItemName": "HELADO SOFT AGUA SABOR MARACUYA 10X800 GR"
-  },
-  {
     "ItemCode": "100300009",
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
@@ -27254,10 +27246,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
     "ItemCode": "102560021",
@@ -32196,10 +32184,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
@@ -32238,10 +32222,6 @@
   {
     "ItemCode": "400007016",
     "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
-  },
-  {
-    "ItemCode": "103810001",
-    "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
     "ItemCode": "300001012",
@@ -36384,10 +36364,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS CUKIT 20X500 GR"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "100651009",
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
@@ -38394,10 +38370,6 @@
   {
     "ItemCode": "100701016",
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100701009",
-    "ItemName": "SOPA DE POLLO CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "100701011",
@@ -43492,10 +43464,6 @@
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
   {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
-  },
-  {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
   },
@@ -44416,10 +44384,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -44462,5 +44426,41 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "102680024",
+    "ItemName": "HELADO SOFT AGUA SABOR MARACUYA 10X800 GR"
+  },
+  {
+    "ItemCode": "102680023",
+    "ItemName": "HELADO SOFT AGUA SABOR FRUTOS DEL BOSQUE 10X800 GR"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "103810001",
+    "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100701009",
+    "ItemName": "SOPA DE POLLO CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   }
 ]
