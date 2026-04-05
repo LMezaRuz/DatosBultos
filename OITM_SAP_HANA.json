@@ -28380,10 +28380,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
   },
   {
-    "ItemCode": "203510007",
-    "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
-  },
-  {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
@@ -35928,10 +35924,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
     "ItemCode": "300403001",
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
@@ -39448,16 +39440,8 @@
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "300157002",
-    "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
   {
     "ItemCode": "100102005",
@@ -42784,10 +42768,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
   },
@@ -43324,10 +43304,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
@@ -43506,10 +43482,6 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100803002",
@@ -43896,10 +43868,6 @@
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
@@ -44268,10 +44236,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -44318,10 +44282,6 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
     "ItemCode": "101100063",
@@ -44386,10 +44346,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101354019",
@@ -44462,5 +44418,49 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "203510007",
+    "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
+  },
+  {
+    "ItemCode": "300157002",
+    "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   }
 ]
