@@ -27876,10 +27876,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 25X200 GR"
   },
   {
-    "ItemCode": "204100010",
-    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "202730044",
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
@@ -43620,10 +43616,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
   {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
-  },
-  {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
@@ -43978,10 +43970,6 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "400100005",
@@ -44462,5 +44450,17 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "204100010",
+    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   }
 ]
