@@ -35556,10 +35556,6 @@
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
   {
-    "ItemCode": "101002007",
-    "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
-  },
-  {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
   },
@@ -42864,10 +42860,6 @@
     "ItemName": "MERLUZA AUSTRAL FILETE (AUSTRALIS) C/P S/E 1X10 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
@@ -43784,10 +43776,6 @@
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -44116,24 +44104,12 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "300154015",
     "ItemName": "MARGARINA SOPROLE PAN 1X250 GR."
   },
   {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
     "ItemCode": "101200022",
@@ -44158,10 +44134,6 @@
   {
     "ItemCode": "104670006",
     "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "104670007",
@@ -44462,5 +44434,33 @@
   {
     "ItemCode": "400252006",
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101002007",
+    "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
