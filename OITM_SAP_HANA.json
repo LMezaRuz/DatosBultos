@@ -27104,10 +27104,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 228X75 GRS."
   },
   {
-    "ItemCode": "103810007",
-    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
-  },
-  {
     "ItemCode": "103810011",
     "ItemName": "CLORO LIQUIDO TRADICIONAL 4X4 KG"
   },
@@ -27330,10 +27326,6 @@
   {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
-  },
-  {
-    "ItemCode": "200500062",
-    "ItemName": "PURE DE PALTA 8X500 G."
   },
   {
     "ItemCode": "104010051",
@@ -31006,10 +30998,6 @@
   {
     "ItemCode": "104620007",
     "ItemName": "FIDEOS INSTANTANEOS DE POLLO TRAVERSO 12X65 GR"
-  },
-  {
-    "ItemCode": "303850000",
-    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
     "ItemCode": "202910045",
@@ -37272,10 +37260,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "100558006",
     "ItemName": "PIMIENTA NEGRA MOLIDA GOURMET 1X15 GR"
   },
@@ -38332,10 +38316,6 @@
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -39260,10 +39240,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "400301078",
     "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
   },
@@ -39406,10 +39382,6 @@
   {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101354010",
@@ -42948,10 +42920,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
@@ -44448,10 +44416,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -44462,5 +44426,41 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "103810007",
+    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
+  },
+  {
+    "ItemCode": "200500062",
+    "ItemName": "PURE DE PALTA 8X500 G."
+  },
+  {
+    "ItemCode": "303850000",
+    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   }
 ]
