@@ -28444,10 +28444,6 @@
     "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "102480004",
     "ItemName": "ACEITE CHEF DE OLIVA EXTRA VIRGEN CON MARAVILLA 12 X 1 LT"
   },
@@ -31396,10 +31392,6 @@
     "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
   },
   {
-    "ItemCode": "103830008",
-    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
-  },
-  {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
@@ -32742,10 +32734,6 @@
   {
     "ItemCode": "102930006",
     "ItemName": "CEREAL CHOCAPIC 18X330 GR"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "204180017",
@@ -43988,10 +43976,6 @@
     "ItemName": "REPOLLO MORADO UNIDAD"
   },
   {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -44400,10 +44384,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -44462,5 +44442,25 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "103830008",
+    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   }
 ]
