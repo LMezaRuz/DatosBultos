@@ -31908,10 +31908,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
@@ -32226,10 +32222,6 @@
   {
     "ItemCode": "300154028",
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
   },
   {
     "ItemCode": "101150032",
@@ -38952,10 +38944,6 @@
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -43072,10 +43060,6 @@
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
@@ -44462,5 +44446,21 @@
   {
     "ItemCode": "104910010",
     "ItemName": "XANTANA TEXTURAS 24 X 600 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN DE PECHUGA DE POLLO EMPANIZADO 10X1 KG (GP)"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   }
 ]
