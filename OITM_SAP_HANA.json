@@ -35388,10 +35388,6 @@
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -37460,10 +37456,6 @@
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "300157032",
-    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -37538,10 +37530,6 @@
   {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
-  },
-  {
-    "ItemCode": "100852009",
-    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   },
   {
     "ItemCode": "200305006",
@@ -38844,10 +38832,6 @@
     "ItemName": "YOG. GRI OIKOS SABOR CHIMYA 48X110 CAJA"
   },
   {
-    "ItemCode": "300157028",
-    "ItemName": "YOG. GRI OIKOS SABOR FRUTILLA 48X110 CAJA"
-  },
-  {
     "ItemCode": "300157034",
     "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
   },
@@ -38978,10 +38962,6 @@
   {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
-  },
-  {
-    "ItemCode": "100852002",
-    "ItemName": "GALLETA KUKY CLASICA 1X 120g"
   },
   {
     "ItemCode": "100303002",
@@ -42748,10 +42728,6 @@
     "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -42762,10 +42738,6 @@
   {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "104670017",
@@ -44224,10 +44196,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
@@ -44294,10 +44262,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "204380021",
@@ -44462,5 +44426,41 @@
   {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100852009",
+    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
+  },
+  {
+    "ItemCode": "100852002",
+    "ItemName": "GALLETA KUKY CLASICA 1X 120g"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOG. GRI OIKOS SABOR FRUTILLA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
