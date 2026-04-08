@@ -27656,10 +27656,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
     "ItemCode": "100750011",
     "ItemName": "MANJAR CALO PASTELETO ARTESANAL 2X5KG"
   },
@@ -29336,10 +29332,6 @@
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG"
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -29870,10 +29862,6 @@
   {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "204300045",
-    "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
   },
   {
     "ItemCode": "102560020",
@@ -31094,10 +31082,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
     "ItemCode": "204300068",
@@ -36876,10 +36860,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "103940026",
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
@@ -36934,10 +36914,6 @@
   {
     "ItemCode": "103840002",
     "ItemName": "MANTECA CRUCINA 20X400 G"
-  },
-  {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
     "ItemCode": "104040030",
@@ -42364,10 +42340,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
-    "ItemCode": "300001008",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
     "ItemCode": "300001009",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
   },
@@ -42690,10 +42662,6 @@
   {
     "ItemCode": "304760345",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760349",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "304760351",
@@ -43074,10 +43042,6 @@
   {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "403130002",
@@ -44546,5 +44510,41 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "204300045",
+    "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
+  },
+  {
+    "ItemCode": "304760349",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "300001008",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   }
 ]
