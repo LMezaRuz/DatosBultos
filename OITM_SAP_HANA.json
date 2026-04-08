@@ -38772,10 +38772,6 @@
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100001004",
-    "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
     "ItemCode": "200453014",
     "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
@@ -43812,10 +43808,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "302890007",
-    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100450007",
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
@@ -44146,10 +44138,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "204380015",
@@ -44500,10 +44488,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "104670004",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
@@ -44540,11 +44524,27 @@
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "302890007",
+    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100001004",
+    "ItemName": "ACEITE DE OLIVA 1X250 ML"
+  },
+  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
