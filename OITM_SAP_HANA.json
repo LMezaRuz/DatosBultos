@@ -31644,10 +31644,6 @@
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -44540,11 +44536,15 @@
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
     "ItemCode": "202620000",
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   }
 ]
