@@ -30008,10 +30008,6 @@
     "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "102930010",
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
@@ -30042,10 +30038,6 @@
   {
     "ItemCode": "100251012",
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "300401001",
@@ -36324,10 +36316,6 @@
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "103760007",
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
@@ -36402,10 +36390,6 @@
   {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "101007032",
-    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
     "ItemCode": "100754005",
@@ -42780,10 +42764,6 @@
     "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
   },
   {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
     "ItemCode": "200458002",
     "ItemName": "PAVITA SADIA CONGELADA X KG (CAJA 15 KG APROX)"
   },
@@ -43214,10 +43194,6 @@
   {
     "ItemCode": "203210106",
     "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
-  },
-  {
-    "ItemCode": "203210108",
-    "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
   {
     "ItemCode": "203210109",
@@ -44504,14 +44480,6 @@
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
@@ -44554,5 +44522,37 @@
   {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "203210108",
+    "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "101007032",
+    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   }
 ]
