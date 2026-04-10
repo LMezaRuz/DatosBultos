@@ -31000,10 +31000,6 @@
     "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "304110001",
-    "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
-  },
-  {
     "ItemCode": "300154012",
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
@@ -31022,10 +31018,6 @@
   {
     "ItemCode": "102780003",
     "ItemName": "CAFE KIMBO MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
   {
     "ItemCode": "200305016",
@@ -31062,10 +31054,6 @@
   {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
     "ItemCode": "101305005",
@@ -35684,10 +35672,6 @@
     "ItemName": "LAUREL EN HOJAS 1X15 GR"
   },
   {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "100855003",
     "ItemName": "CURRY 1X200 GR"
   },
@@ -35798,10 +35782,6 @@
   {
     "ItemCode": "200460045",
     "ItemName": "MILANESA DE POLLO CRUDO CONG. 4 X 2.5 KG"
-  },
-  {
-    "ItemCode": "300400010",
-    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
     "ItemCode": "300401001",
@@ -37026,10 +37006,6 @@
   {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "202730072",
@@ -41232,10 +41208,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "300001002",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
@@ -41266,10 +41238,6 @@
   {
     "ItemCode": "101009009",
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
-  },
-  {
-    "ItemCode": "100750006",
-    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
   },
   {
     "ItemCode": "300405004",
@@ -41964,10 +41932,6 @@
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "400301085",
     "ItemName": "ENVASE SNACK BARRIO CHICKEN GYN 1X400 UN"
   },
@@ -42052,16 +42016,8 @@
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
-    "ItemCode": "100303002",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
-  },
-  {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
-    "ItemCode": "100303003",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
   {
     "ItemCode": "100751024",
@@ -42490,10 +42446,6 @@
   {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "100551001",
-    "ItemName": "AJO EN POLVO 1X250 GR"
   },
   {
     "ItemCode": "104620001",
@@ -43620,10 +43572,6 @@
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -43690,10 +43638,6 @@
   {
     "ItemCode": "101201028",
     "ItemName": "LECHE ASADA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
     "ItemCode": "101355003",
@@ -44562,5 +44506,61 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "100750006",
+    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "304110001",
+    "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
+  },
+  {
+    "ItemCode": "300400010",
+    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100551001",
+    "ItemName": "AJO EN POLVO 1X250 GR"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100303003",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303002",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
   }
 ]
