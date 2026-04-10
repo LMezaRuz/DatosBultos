@@ -39960,10 +39960,6 @@
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
   },
@@ -39982,10 +39978,6 @@
   {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
-    "ItemCode": "103480029",
-    "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
   {
     "ItemCode": "104670057",
@@ -40664,10 +40656,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
   },
   {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
     "ItemCode": "100653004",
     "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
   },
@@ -40878,10 +40866,6 @@
   {
     "ItemCode": "100851001",
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
-    "ItemCode": "100851002",
-    "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
   {
     "ItemCode": "100852001",
@@ -44240,10 +44224,6 @@
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -44554,5 +44534,25 @@
   {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100851002",
+    "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
+  },
+  {
+    "ItemCode": "103480029",
+    "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   }
 ]
