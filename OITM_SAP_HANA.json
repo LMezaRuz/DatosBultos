@@ -28352,10 +28352,6 @@
     "ItemName": "CREME BRULEE TKF 10 X 1 KG"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "300404023",
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
   },
@@ -28538,10 +28534,6 @@
   {
     "ItemCode": "103850003",
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "103910025",
@@ -30424,10 +30416,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101007018",
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
@@ -31518,10 +31506,6 @@
   {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "203210090",
-    "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
   },
   {
     "ItemCode": "101451005",
@@ -36028,10 +36012,6 @@
     "ItemName": "ACELGA 1X1 UN"
   },
   {
-    "ItemCode": "100350006",
-    "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
-  },
-  {
     "ItemCode": "100754010",
     "ItemName": "DULCE MEMBRILLO 1X500 GR"
   },
@@ -38704,10 +38684,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "400005014",
-    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -38886,10 +38862,6 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "400005003",
-    "ItemName": "GUANTE DE POLITILENO 1X100 UN"
   },
   {
     "ItemCode": "103940020",
@@ -40812,20 +40784,12 @@
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "400201001",
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
   {
     "ItemCode": "400011012",
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "302890048",
@@ -40846,10 +40810,6 @@
   {
     "ItemCode": "400012003",
     "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "400010017",
@@ -44552,7 +44512,47 @@
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
   {
+    "ItemCode": "203210090",
+    "ItemName": "CARNE MECHADA DE VACUNO BRISKET AHUMADA 12X1 KG (68R)"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "100350006",
+    "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
+  },
+  {
+    "ItemCode": "400005003",
+    "ItemName": "GUANTE DE POLITILENO 1X100 UN"
+  },
+  {
     "ItemCode": "400005017",
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "400005014",
+    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
   }
 ]
