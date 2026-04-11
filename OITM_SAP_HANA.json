@@ -28264,10 +28264,6 @@
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
   },
   {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
     "ItemCode": "400251006",
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
@@ -31888,10 +31884,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
   },
   {
-    "ItemCode": "100754003",
-    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -31962,10 +31954,6 @@
   {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "304440006",
@@ -32706,10 +32694,6 @@
   {
     "ItemCode": "101007033",
     "ItemName": "LECHE POLVO SUPER CALO 20X850GR"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "102710003",
@@ -35752,10 +35736,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101150061",
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
   },
@@ -36122,10 +36102,6 @@
   {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "104670011",
@@ -39864,20 +39840,12 @@
     "ItemName": "YOG. GRI OIKOS TROZO FRUTILLA 48X110 CAJA"
   },
   {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "101009043",
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
   },
   {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103730009",
@@ -40104,20 +40072,12 @@
     "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009035",
     "ItemName": "LECHE MOMENTS MOCACCINO 18X200 CC"
   },
   {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "101009014",
@@ -44544,10 +44504,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760349",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760345",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -44562,5 +44518,49 @@
   {
     "ItemCode": "101006001",
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "100754003",
+    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATT’S SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "304760349",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   }
 ]
