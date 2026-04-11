@@ -27928,10 +27928,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
-  },
-  {
     "ItemCode": "101201052",
     "ItemName": "JALEA NARANJA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -28150,10 +28146,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "104010052",
@@ -31488,10 +31480,6 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "300151004",
     "ItemName": "PACK PROBIOTICO MORA CALAN 6X90ML"
   },
@@ -31506,10 +31494,6 @@
   {
     "ItemCode": "101009007",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "203190050",
@@ -31806,10 +31790,6 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
     "ItemCode": "300250001",
@@ -38820,10 +38800,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "204390008",
     "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
   },
@@ -42540,10 +42516,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
@@ -42986,10 +42958,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "300154003",
@@ -43948,10 +43916,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6 X 460 ML."
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "204790004",
     "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
   },
@@ -44080,10 +44044,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -44150,10 +44110,6 @@
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "400011012",
@@ -44230,10 +44186,6 @@
   {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "101352009",
@@ -44562,5 +44514,53 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
