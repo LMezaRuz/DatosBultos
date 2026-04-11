@@ -34928,10 +34928,6 @@
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "300001002",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
@@ -36150,10 +36146,6 @@
   {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
-    "ItemCode": "302890007",
-    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "300153011",
@@ -39602,10 +39594,6 @@
   {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "101355023",
@@ -43656,10 +43644,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380022",
-    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -43794,10 +43778,6 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "101402007",
@@ -44324,16 +44304,8 @@
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100351004",
@@ -44562,5 +44534,33 @@
   {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "204380022",
+    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "302890007",
+    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
