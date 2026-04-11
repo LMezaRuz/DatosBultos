@@ -23536,10 +23536,6 @@
     "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "102700014",
     "ItemName": "AGUA SABORIZADA 6X1,5 LT"
   },
@@ -23742,10 +23738,6 @@
   {
     "ItemCode": "101358012",
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
-  },
-  {
-    "ItemCode": "103480004",
-    "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
   },
   {
     "ItemCode": "300353128",
@@ -27172,10 +27164,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
-  },
-  {
     "ItemCode": "200100019",
     "ItemName": "CHOCLO TROZO 1 X 650 GR."
   },
@@ -27538,10 +27526,6 @@
   {
     "ItemCode": "100350006",
     "ItemName": "CAFE KIMBO PODS DESCAFEINADO 1X50 UN"
-  },
-  {
-    "ItemCode": "203430013",
-    "ItemName": "PALTA EN GAJOS RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "203430015",
@@ -31604,10 +31588,6 @@
     "ItemName": "CUBREVASO GENERICO 8/10 OZ 1 X 1000 UN"
   },
   {
-    "ItemCode": "100751044",
-    "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
-  },
-  {
     "ItemCode": "101009022",
     "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
   },
@@ -34848,10 +34828,6 @@
     "ItemName": "CARNE AL ROJO 5 KG(MM)"
   },
   {
-    "ItemCode": "103480003",
-    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
@@ -35418,10 +35394,6 @@
   {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "203210109",
@@ -38878,10 +38850,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "204090001",
@@ -42576,16 +42544,8 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "103700005",
-    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "101302001",
@@ -42606,10 +42566,6 @@
   {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
-  },
-  {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
     "ItemCode": "100557003",
@@ -43210,10 +43166,6 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "200500038",
@@ -44408,10 +44360,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -44462,10 +44410,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "400011012",
@@ -44562,5 +44506,61 @@
   {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100751044",
+    "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430013",
+    "ItemName": "PALTA EN GAJOS RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "103700005",
+    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "103480004",
+    "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
+  },
+  {
+    "ItemCode": "103480003",
+    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   }
 ]
