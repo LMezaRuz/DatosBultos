@@ -31752,14 +31752,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "104350002",
-    "ItemName": "GRANIZADO SABOR FRAMBUESA 10X1 KG"
-  },
-  {
-    "ItemCode": "104350008",
-    "ItemName": "GRANIZADO SABOR BLUE ICE 10X1 KG"
-  },
-  {
     "ItemCode": "101301001",
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
@@ -38224,10 +38216,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
   {
-    "ItemCode": "500001086",
-    "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
-  },
-  {
     "ItemCode": "202910047",
     "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
   },
@@ -39918,10 +39906,6 @@
   {
     "ItemCode": "101201030",
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100202014",
-    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
     "ItemCode": "100905001",
@@ -44184,16 +44168,8 @@
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051016",
@@ -44562,5 +44538,29 @@
   {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "104350002",
+    "ItemName": "GRANIZADO SABOR FRAMBUESA 10X1 KG"
+  },
+  {
+    "ItemCode": "104350008",
+    "ItemName": "GRANIZADO SABOR BLUE ICE 10X1 KG"
+  },
+  {
+    "ItemCode": "500001086",
+    "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
+  },
+  {
+    "ItemCode": "100202014",
+    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
