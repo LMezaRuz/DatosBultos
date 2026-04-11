@@ -31320,10 +31320,6 @@
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
   {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
     "ItemCode": "304760315",
     "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -38404,20 +38400,12 @@
     "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
-  },
-  {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
     "ItemCode": "102520000",
@@ -43264,10 +43252,6 @@
     "ItemName": "ESENCIA VAINILLA 1x100 cc"
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
   },
@@ -43662,10 +43646,6 @@
   {
     "ItemCode": "200402019",
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "101353019",
@@ -44104,10 +44084,6 @@
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -44332,10 +44308,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -44366,10 +44338,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101352012",
@@ -44548,10 +44516,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -44562,5 +44526,41 @@
   {
     "ItemCode": "204380002",
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   }
 ]
