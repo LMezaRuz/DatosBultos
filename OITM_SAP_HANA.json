@@ -31656,10 +31656,6 @@
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
@@ -43580,10 +43576,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -44348,10 +44340,6 @@
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -44492,10 +44480,6 @@
     "ItemName": "SUCEDANEO QUESO CHEDDAR LAMINADO LORELEY 2X1,92 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
@@ -44562,5 +44546,21 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   }
 ]
