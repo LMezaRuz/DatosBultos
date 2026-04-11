@@ -34776,10 +34776,6 @@
     "ItemName": "HIGADO VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "101006003",
     "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
   },
@@ -35128,20 +35124,12 @@
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
   {
-    "ItemCode": "200500038",
-    "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "300150001",
@@ -35970,10 +35958,6 @@
   {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
-  },
-  {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
     "ItemCode": "303660007",
@@ -43856,10 +43840,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -44562,5 +44542,25 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "200500038",
+    "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   }
 ]
