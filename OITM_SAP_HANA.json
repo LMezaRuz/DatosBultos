@@ -27732,10 +27732,6 @@
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
   },
@@ -34224,10 +34220,6 @@
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
   {
-    "ItemCode": "101351011",
-    "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
-  },
-  {
     "ItemCode": "200002012",
     "ItemName": "EMPANADA CARNE MONGOLIANA 40 GR 2X50 UN"
   },
@@ -35366,10 +35358,6 @@
   {
     "ItemCode": "104670011",
     "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100250007",
@@ -43256,10 +43244,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -43406,10 +43390,6 @@
   {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "101358003",
@@ -44452,10 +44432,6 @@
     "ItemName": "CARNE MOLIDA  1x1 kg"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
@@ -44482,10 +44458,6 @@
   {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "100201005",
@@ -44532,10 +44504,6 @@
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -44562,5 +44530,37 @@
   {
     "ItemCode": "304760355",
     "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101351011",
+    "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   }
 ]
