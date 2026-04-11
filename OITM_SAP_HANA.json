@@ -27876,10 +27876,6 @@
     "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   },
   {
-    "ItemCode": "100852001",
-    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
-  },
-  {
     "ItemCode": "100852004",
     "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   },
@@ -28422,10 +28418,6 @@
   {
     "ItemCode": "200462109",
     "ItemName": "CARNE MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "104520000",
@@ -32464,10 +32456,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
@@ -35156,10 +35144,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
@@ -35674,14 +35658,6 @@
   {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101300002",
@@ -36404,10 +36380,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -36468,14 +36440,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
@@ -36494,10 +36458,6 @@
   {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   },
   {
     "ItemCode": "203210014",
@@ -40500,10 +40460,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
@@ -40634,10 +40590,6 @@
   {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "101002004",
@@ -44352,10 +44304,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
@@ -44562,5 +44510,57 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100852001",
+    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   }
 ]
