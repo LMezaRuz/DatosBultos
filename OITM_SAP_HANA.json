@@ -23528,10 +23528,6 @@
     "ItemName": "BROCOLI IQF 6X1 KG."
   },
   {
-    "ItemCode": "200456022",
-    "ItemName": "CARNE MOLIDA  1x1 kg"
-  },
-  {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   },
@@ -39188,10 +39184,6 @@
     "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
   },
   {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
     "ItemCode": "104210002",
     "ItemName": "RIGATI LUCCHETTI 30 X 400 GRS"
   },
@@ -43016,10 +43008,6 @@
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44276,10 +44264,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -44428,10 +44412,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -44450,10 +44430,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "101100061",
@@ -44498,10 +44474,6 @@
   {
     "ItemCode": "204790004",
     "ItemName": "AROS DE CEBOLLA MC CAIN 10X1 KG"
-  },
-  {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "300407001",
@@ -44562,5 +44534,33 @@
   {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200456022",
+    "ItemName": "CARNE MOLIDA  1x1 kg"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   }
 ]
