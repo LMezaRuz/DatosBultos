@@ -24192,10 +24192,6 @@
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "200462002",
     "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
   },
@@ -31324,10 +31320,6 @@
     "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
   },
   {
-    "ItemCode": "400005001",
-    "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -31790,10 +31782,6 @@
   {
     "ItemCode": "100751043",
     "ItemName": "MERMELADA WATTS GOLD GUINDA 5 GALON"
-  },
-  {
-    "ItemCode": "101201042",
-    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
     "ItemCode": "304420003",
@@ -42880,10 +42868,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
   },
@@ -42974,10 +42958,6 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101402007",
@@ -43508,10 +43488,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "400012005",
-    "ItemName": "ATOMIZADOR 1X1000 CC."
-  },
-  {
     "ItemCode": "200003002",
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
@@ -43702,10 +43678,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100754002",
@@ -44428,10 +44400,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "202910028",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
   },
@@ -44562,5 +44530,37 @@
   {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "400005001",
+    "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101201042",
+    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "400012005",
+    "ItemName": "ATOMIZADOR 1X1000 CC."
   }
 ]
