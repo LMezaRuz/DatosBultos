@@ -24400,10 +24400,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "204380002",
-    "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
-  },
-  {
     "ItemCode": "100854016",
     "ItemName": "TIKA FURIOSAS 14 X 150 GR"
   },
@@ -37936,10 +37932,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 1X10 KG"
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "104520008",
     "ItemName": "SAL BIOSAL 30 X 125 GR"
   },
@@ -38226,10 +38218,6 @@
   {
     "ItemCode": "303870009",
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
-  },
-  {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
   {
     "ItemCode": "100050004",
@@ -42924,14 +42912,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -44120,10 +44100,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
@@ -44428,10 +44404,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -44562,5 +44534,33 @@
   {
     "ItemCode": "304440020",
     "ItemName": "QUESO GAUDA PAMPA CHEESE 1X5 KG (APROX.)"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380002",
+    "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
   }
 ]
