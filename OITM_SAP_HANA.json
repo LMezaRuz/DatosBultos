@@ -24128,10 +24128,6 @@
     "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "204790029",
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
@@ -28438,10 +28434,6 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
-    "ItemCode": "100900004",
-    "ItemName": "POLENTA 1X1 KG"
   },
   {
     "ItemCode": "100250004",
@@ -34904,10 +34896,6 @@
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
@@ -35544,10 +35532,6 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "101300002",
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
@@ -35594,10 +35578,6 @@
   {
     "ItemCode": "204290000",
     "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
-  },
-  {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
     "ItemCode": "101201021",
@@ -39302,10 +39282,6 @@
   {
     "ItemCode": "202820018",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
-    "ItemCode": "400251005",
-    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
   {
     "ItemCode": "202720036",
@@ -44012,10 +43988,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -44164,14 +44136,6 @@
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
@@ -44198,14 +44162,6 @@
   {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100303005",
@@ -44420,10 +44376,6 @@
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -44562,5 +44514,53 @@
   {
     "ItemCode": "103650023",
     "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "100900004",
+    "ItemName": "POLENTA 1X1 KG"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "400251005",
+    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
