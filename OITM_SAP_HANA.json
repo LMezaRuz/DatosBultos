@@ -27692,10 +27692,6 @@
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
   },
   {
-    "ItemCode": "200200032",
-    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
-  },
-  {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
   },
@@ -28202,10 +28198,6 @@
   {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
     "ItemCode": "101353020",
@@ -35580,10 +35572,6 @@
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
-    "ItemCode": "200200033",
-    "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
@@ -36258,10 +36246,6 @@
   {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "100550001",
@@ -39242,10 +39226,6 @@
   {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
-  },
-  {
-    "ItemCode": "202730074",
-    "ItemName": "MINI CROISSANT BLEND EUROPASTRY 546X24 GR (85042)"
   },
   {
     "ItemCode": "404680000",
@@ -43700,10 +43680,6 @@
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "202730077",
     "ItemName": "CRONUTS AZUCARADA 24X80 GR (89331)"
   },
@@ -44456,10 +44432,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
   },
@@ -44562,5 +44534,33 @@
   {
     "ItemCode": "101250002",
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "200200032",
+    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
+  },
+  {
+    "ItemCode": "202730074",
+    "ItemName": "MINI CROISSANT BLEND EUROPASTRY 546X24 GR (85042)"
+  },
+  {
+    "ItemCode": "200200033",
+    "ItemName": "REJILLA PASTELERA X 72 UN"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   }
 ]
