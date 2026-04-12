@@ -24180,10 +24180,6 @@
     "ItemName": "FRUTILLA IQF 15X1 KG."
   },
   {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "200453020",
     "ItemName": "COSTILLAR DE CERDO AHUMADO KG. (NV)"
   },
@@ -31348,10 +31344,6 @@
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "203230001",
     "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
   },
@@ -31794,10 +31786,6 @@
   {
     "ItemCode": "101009007",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "203190050",
@@ -34256,10 +34244,6 @@
     "ItemName": "CORBATA 1X5 KG"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "400105002",
     "ItemName": "ALUSAFOIL ALUMINIO 1 X 7,5 MTS"
   },
@@ -34938,10 +34922,6 @@
   {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "100555001",
-    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
   {
     "ItemCode": "100852016",
@@ -41896,10 +41876,6 @@
     "ItemName": "CHOCOLATE NEUCOBER LECHE 35% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "102970003",
-    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
-  },
-  {
     "ItemCode": "102970005",
     "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
   },
@@ -44004,10 +43980,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
@@ -44562,5 +44534,33 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100555001",
+    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "102970003",
+    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   }
 ]
