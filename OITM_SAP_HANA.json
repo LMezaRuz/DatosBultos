@@ -31228,10 +31228,6 @@
     "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
   },
   {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
     "ItemCode": "202730003",
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
@@ -31434,10 +31430,6 @@
   {
     "ItemCode": "304760356",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
   {
     "ItemCode": "300404008",
@@ -35490,10 +35482,6 @@
   {
     "ItemCode": "100701009",
     "ItemName": "SOPA DE POLLO CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "100701013",
@@ -43232,10 +43220,6 @@
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
   {
-    "ItemCode": "100302003",
-    "ItemName": "COCA COLA  6 X 1,5 LTS"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
@@ -43598,10 +43582,6 @@
   {
     "ItemCode": "304430002",
     "ItemName": "QUESO CREMA GREENBAY 10X1,36 KG"
-  },
-  {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
   {
     "ItemCode": "202730082",
@@ -44148,10 +44128,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -44562,5 +44538,29 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100302003",
+    "ItemName": "COCA COLA  6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   }
 ]
