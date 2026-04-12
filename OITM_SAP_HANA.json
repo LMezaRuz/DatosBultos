@@ -35640,10 +35640,6 @@
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "204180022",
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
@@ -35742,10 +35738,6 @@
   {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
-  },
-  {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
   {
     "ItemCode": "101305007",
@@ -37958,10 +37950,6 @@
   {
     "ItemCode": "100903007",
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
-  },
-  {
-    "ItemCode": "203610000",
-    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
   {
     "ItemCode": "202910047",
@@ -44296,10 +44284,6 @@
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "102970003",
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
@@ -44536,10 +44520,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100302003",
     "ItemName": "COCA COLA  6 X 1,5 LTS"
   },
@@ -44562,5 +44542,25 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "203610000",
+    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   }
 ]
