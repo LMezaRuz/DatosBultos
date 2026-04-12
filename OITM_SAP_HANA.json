@@ -27848,10 +27848,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "303660008",
-    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "202730074",
     "ItemName": "MINI CROISSANT BLEND EUROPASTRY 546X24 GR (85042)"
   },
@@ -38620,10 +38616,6 @@
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
   {
-    "ItemCode": "204300076",
-    "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
-  },
-  {
     "ItemCode": "204790048",
     "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
   },
@@ -39036,10 +39028,6 @@
     "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "101009043",
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
   },
@@ -39110,14 +39098,6 @@
   {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "303630000",
-    "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
   {
     "ItemCode": "204300073",
@@ -43056,10 +43036,6 @@
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
   {
-    "ItemCode": "104550013",
-    "ItemName": "SALSA DE SOYA LEE KUM KEE 1X18,9 LT"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -44562,5 +44538,29 @@
   {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "303630000",
+    "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660008",
+    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "204300076",
+    "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
+  },
+  {
+    "ItemCode": "104550013",
+    "ItemName": "SALSA DE SOYA LEE KUM KEE 1X18,9 LT"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   }
 ]
