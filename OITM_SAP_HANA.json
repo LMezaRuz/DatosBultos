@@ -31852,10 +31852,6 @@
     "ItemName": "MERMELADA WATTS GOLD GUINDA 5 GALON"
   },
   {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
@@ -39052,10 +39048,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "101004002",
-    "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
@@ -42940,10 +42932,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
@@ -43888,10 +43876,6 @@
     "ItemName": "CANELA EN RAMA 1X250 GR"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -44368,10 +44352,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -44544,10 +44524,6 @@
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS  6X1,6 LT"
   },
   {
-    "ItemCode": "102700014",
-    "ItemName": "AGUA SABORIZADA 6X1,5 LT"
-  },
-  {
     "ItemCode": "200200032",
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
@@ -44562,5 +44538,29 @@
   {
     "ItemCode": "300153014",
     "ItemName": "MANTEQUILLA MINI POTE COLUN 1 X 200 UN X 10 GR"
+  },
+  {
+    "ItemCode": "102700014",
+    "ItemName": "AGUA SABORIZADA 6X1,5 LT"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101004002",
+    "ItemName": "LECHE EVAPORADA 24X390 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   }
 ]
