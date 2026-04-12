@@ -28296,10 +28296,6 @@
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
   {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
   },
@@ -31430,10 +31426,6 @@
   {
     "ItemCode": "203230007",
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "100902002",
-    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "101450002",
@@ -42500,10 +42492,6 @@
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "400252002",
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
@@ -42908,16 +42896,8 @@
     "ItemName": "KETCHUP JB 10X1 KG"
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101008001",
@@ -43332,10 +43312,6 @@
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
@@ -43434,10 +43410,6 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "300351005",
@@ -43820,10 +43792,6 @@
     "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
@@ -43978,10 +43946,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "102660000",
@@ -44228,20 +44192,12 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "203190007",
@@ -44562,5 +44518,49 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100902002",
+    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
