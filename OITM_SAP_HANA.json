@@ -27252,10 +27252,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "200100019",
     "ItemName": "CHOCLO TROZO 1 X 650 GR."
   },
@@ -28346,10 +28342,6 @@
   {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
-  },
-  {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
     "ItemCode": "101354007",
@@ -31078,10 +31070,6 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
   {
     "ItemCode": "101202002",
@@ -35664,10 +35652,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "203200004",
-    "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
-  },
-  {
     "ItemCode": "400252008",
     "ItemName": "TOALLA JUMBO PREMIUM D/H 6 X 150 MTS TO70021"
   },
@@ -38500,10 +38484,6 @@
     "ItemName": "CEREZAS CON CAROZO WASIL 16X500 GR"
   },
   {
-    "ItemCode": "300404023",
-    "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
-  },
-  {
     "ItemCode": "101450007",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
@@ -39606,10 +39586,6 @@
   {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101351003",
@@ -41956,10 +41932,6 @@
     "ItemName": "GALLETA BISCOFF LOTUS DULCE 12X124 GR"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP KRAFT DISPENSER POUCH 6X2 KG"
   },
@@ -43364,10 +43336,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
@@ -43716,10 +43684,6 @@
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "203190043",
     "ItemName": "PULLED PORK 8 X 1 KG"
   },
@@ -44040,10 +44004,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -44108,10 +44068,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
@@ -44130,10 +44086,6 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "200462109",
@@ -44178,10 +44130,6 @@
   {
     "ItemCode": "203230000",
     "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "203900006",
@@ -44560,7 +44508,59 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
+    "ItemCode": "300404023",
+    "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203200004",
+    "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
