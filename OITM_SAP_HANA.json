@@ -28284,10 +28284,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "103600003",
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
@@ -31796,10 +31792,6 @@
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
   {
-    "ItemCode": "101150010",
-    "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "101150026",
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
@@ -32156,20 +32148,12 @@
     "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "101150075",
-    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
   },
   {
     "ItemCode": "303880000",
@@ -34484,10 +34468,6 @@
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "202730046",
     "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
   },
@@ -35402,10 +35382,6 @@
   {
     "ItemCode": "204390004",
     "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
     "ItemCode": "102530001",
@@ -39798,10 +39774,6 @@
   {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "200302019",
@@ -44420,14 +44392,6 @@
     "ItemName": "MAYONESA HELLMANNS DELI 10X970 GR"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "204710000",
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
@@ -44562,5 +44526,41 @@
   {
     "ItemCode": "102500000",
     "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101150075",
+    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "101150010",
+    "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   }
 ]
