@@ -31824,10 +31824,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -42764,10 +42760,6 @@
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
   {
-    "ItemCode": "100552005",
-    "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
     "ItemCode": "101100018",
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
@@ -43664,10 +43656,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
@@ -44324,10 +44312,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
   },
@@ -44394,10 +44378,6 @@
   {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "100200003",
@@ -44552,6 +44532,18 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "100552005",
+    "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -44560,7 +44552,15 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
