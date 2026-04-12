@@ -31488,10 +31488,6 @@
     "ItemName": "PULLED PORK 8 X 1 KG"
   },
   {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
     "ItemCode": "400102002",
     "ItemName": "PALOS PARA SUSHI 1X100 UN."
   },
@@ -31954,10 +31950,6 @@
   {
     "ItemCode": "103830001",
     "ItemName": "MANJAR LONCOLECHE PARA PASTELERIA 4 X 3 KG"
-  },
-  {
-    "ItemCode": "101357005",
-    "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
     "ItemCode": "204100016",
@@ -35402,10 +35394,6 @@
   {
     "ItemCode": "202720025",
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "100751026",
@@ -39716,10 +39704,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -42456,20 +42440,8 @@
     "ItemName": "ORIGINAL BBQ SAUCE 1 x 3.78 LTS"
   },
   {
-    "ItemCode": "103880029",
-    "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
-  },
-  {
-    "ItemCode": "102560018",
-    "ItemName": "AJI CREMA TRAVERSO VINTAGE 10X450 GR"
-  },
-  {
     "ItemCode": "102650001",
     "ItemName": "AZUCAR FLOR IANSA 1X25 KG"
-  },
-  {
-    "ItemCode": "103940019",
-    "ItemName": "MOSTAZA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
   },
   {
     "ItemCode": "102930009",
@@ -42562,10 +42534,6 @@
   {
     "ItemCode": "104170007",
     "ItemName": "PAPAS FRITAS SABOR CREMA CEBOLLA KRYZPO 8X6X37 GR"
-  },
-  {
-    "ItemCode": "104540005",
-    "ItemName": "SALSA BBQ TRAVERSO VINTAGE 10X450 GR"
   },
   {
     "ItemCode": "104570014",
@@ -43880,10 +43848,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -44472,14 +44436,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
@@ -44506,10 +44462,6 @@
   {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "101353009",
@@ -44562,5 +44514,53 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "102560018",
+    "ItemName": "AJI CREMA TRAVERSO VINTAGE 10X450 GR"
+  },
+  {
+    "ItemCode": "104540005",
+    "ItemName": "SALSA BBQ TRAVERSO VINTAGE 10X450 GR"
+  },
+  {
+    "ItemCode": "101357005",
+    "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "103880029",
+    "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
+  },
+  {
+    "ItemCode": "103940019",
+    "ItemName": "MOSTAZA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   }
 ]
