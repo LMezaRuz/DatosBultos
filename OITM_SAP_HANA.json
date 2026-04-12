@@ -23768,10 +23768,6 @@
     "ItemName": "CIRUELA KG."
   },
   {
-    "ItemCode": "101358012",
-    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
-  },
-  {
     "ItemCode": "300353128",
     "ItemName": "SOBRECOSTILLA PARAGUAY CAT V LOCAL  (CJ 20 KG APROX)"
   },
@@ -31084,10 +31080,6 @@
     "ItemName": "SYRUP MORA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
-  },
-  {
     "ItemCode": "100653004",
     "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
   },
@@ -31202,10 +31194,6 @@
   {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
-  },
-  {
-    "ItemCode": "203210111",
-    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
     "ItemCode": "203210110",
@@ -34908,10 +34896,6 @@
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
   {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -35334,10 +35318,6 @@
   {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100500001",
-    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
   {
     "ItemCode": "400011009",
@@ -36122,10 +36102,6 @@
   {
     "ItemCode": "300403013",
     "ItemName": "QUESO CREMA CALO 10X1.36 KG"
-  },
-  {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "100304010",
@@ -39456,10 +39432,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
@@ -39810,10 +39782,6 @@
   {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
-    "ItemCode": "202730076",
-    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
     "ItemCode": "101004002",
@@ -43588,10 +43556,6 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -44056,20 +44020,12 @@
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "101150032",
-    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100559008",
@@ -44562,5 +44518,49 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "203210111",
+    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "101150032",
+    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
+  },
+  {
+    "ItemCode": "101358012",
+    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100500001",
+    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
+  },
+  {
+    "ItemCode": "202730076",
+    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   }
 ]
