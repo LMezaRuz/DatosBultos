@@ -28320,10 +28320,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "CARNE MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "104040000",
     "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
   },
@@ -28406,10 +28402,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "104010052",
@@ -44556,11 +44548,19 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
+    "ItemCode": "200462109",
+    "ItemName": "CARNE MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
