@@ -23780,10 +23780,6 @@
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
   {
-    "ItemCode": "204530006",
-    "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
-  },
-  {
     "ItemCode": "300353128",
     "ItemName": "SOBRECOSTILLA PARAGUAY CAT V LOCAL  (CJ 20 KG APROX)"
   },
@@ -31120,16 +31116,8 @@
     "ItemName": "PAP LATA 6X350 CC"
   },
   {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
-  },
-  {
     "ItemCode": "100601004",
     "ItemName": "CHORITOS NATURAL 24x190 gr"
-  },
-  {
-    "ItemCode": "200307010",
-    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
   {
     "ItemCode": "200100010",
@@ -31702,10 +31690,6 @@
   {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
   {
     "ItemCode": "400301006",
@@ -34712,16 +34696,8 @@
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
-    "ItemCode": "101100064",
-    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "101200014",
@@ -39436,10 +39412,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -43228,10 +43200,6 @@
     "ItemName": "GALLETA DE VINO 1X160 GR."
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "103180004",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
@@ -44088,10 +44056,6 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
@@ -44130,10 +44094,6 @@
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "300001003",
@@ -44342,10 +44302,6 @@
   {
     "ItemCode": "101303004",
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "300001008",
@@ -44562,5 +44518,49 @@
   {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101100064",
+    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "204530006",
+    "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
+  },
+  {
+    "ItemCode": "200307010",
+    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   }
 ]
