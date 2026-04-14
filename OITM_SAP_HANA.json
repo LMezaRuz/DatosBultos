@@ -26984,10 +26984,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760380",
-    "ItemName": "ABASTERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
-  },
-  {
     "ItemCode": "304760242",
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -27030,10 +27026,6 @@
   {
     "ItemCode": "304760259",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760381",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
   },
   {
     "ItemCode": "304760243",
@@ -27258,10 +27250,6 @@
   {
     "ItemCode": "103480001",
     "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
-  },
-  {
-    "ItemCode": "304760372",
-    "ItemName": "PLATEADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
   },
   {
     "ItemCode": "203200021",
@@ -31756,10 +31744,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
   },
   {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
@@ -31978,10 +31962,6 @@
   {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
-    "ItemCode": "304760239",
-    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "200250041",
@@ -32320,10 +32300,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -32610,10 +32586,6 @@
   {
     "ItemCode": "400010004",
     "ItemName": "LIMPIA VIDRIOS GATILLO 1x500 CC."
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "400005009",
@@ -36408,10 +36380,6 @@
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
   },
   {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
-  },
-  {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
@@ -38792,10 +38760,6 @@
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "100250006",
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
   },
@@ -39324,18 +39288,6 @@
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "101009043",
-    "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
-  },
-  {
-    "ItemCode": "304850009",
-    "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
-  },
-  {
-    "ItemCode": "304850010",
-    "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
-  },
-  {
     "ItemCode": "100303005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
@@ -39494,10 +39446,6 @@
   {
     "ItemCode": "300351009",
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
-  },
-  {
-    "ItemCode": "400252001",
-    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
     "ItemCode": "300156001",
@@ -44562,5 +44510,57 @@
   {
     "ItemCode": "300156012",
     "ItemName": "YOGURT BOLSA CALAN DAMASCO 12x1 NUEVA CAJA"
+  },
+  {
+    "ItemCode": "304760239",
+    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760372",
+    "ItemName": "PLATEADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760380",
+    "ItemName": "ABASTERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
+  },
+  {
+    "ItemCode": "304760381",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
+  },
+  {
+    "ItemCode": "400252001",
+    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101009043",
+    "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "304850010",
+    "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
+  },
+  {
+    "ItemCode": "304850009",
+    "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
   }
 ]
