@@ -28472,10 +28472,6 @@
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
   },
   {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204530027",
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL STANDARD CAJA ENTRE 4,5 A 4,9 KG APROX (CAMANCHACA)"
   },
@@ -32856,10 +32852,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
   },
   {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
-  },
-  {
     "ItemCode": "103020000",
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
@@ -36350,10 +36342,6 @@
   {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "104210022",
@@ -40092,10 +40080,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
@@ -41444,10 +41428,6 @@
     "ItemName": "PINZAS DE JAIBA 10X1 KG"
   },
   {
-    "ItemCode": "200305016",
-    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
@@ -41470,10 +41450,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "200401007",
@@ -41860,10 +41836,6 @@
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8 X 1 KG"
-  },
-  {
     "ItemCode": "203190045",
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
@@ -41958,10 +41930,6 @@
   {
     "ItemCode": "203210096",
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
-  },
-  {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
     "ItemCode": "203210103",
@@ -44582,5 +44550,37 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8 X 1 KG"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "200305016",
+    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   }
 ]
