@@ -24932,10 +24932,6 @@
     "ItemName": "[LOG] TE LIPTON GREEN INTENSE MINT 6 X 25 BLS"
   },
   {
-    "ItemCode": "203210074",
-    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
-  },
-  {
     "ItemCode": "304760331",
     "ItemName": "HUACHALOMO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)(X-MAYOR)"
   },
@@ -30626,10 +30622,6 @@
   {
     "ItemCode": "300150005",
     "ItemName": "CREMA LISTA LIGHT SIN LACTOSA LONCOLECHE 6X200 ML"
-  },
-  {
-    "ItemCode": "100854017",
-    "ItemName": "TIKA CHILOE 14 X 150 GR"
   },
   {
     "ItemCode": "204090010",
@@ -37904,10 +37896,6 @@
     "ItemName": "COSTILLAR DE CERDO ALEMAN LOCAL 10 KG APROX."
   },
   {
-    "ItemCode": "100854009",
-    "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
-  },
-  {
     "ItemCode": "300153010",
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
@@ -38676,10 +38664,6 @@
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
   {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
-  },
-  {
     "ItemCode": "101201042",
     "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -38954,10 +38938,6 @@
   {
     "ItemCode": "203200021",
     "ItemName": "MECHADA AHUMADA DE POLLO 12X1 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "103910029",
@@ -43816,10 +43796,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
@@ -43890,10 +43866,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "100001002",
@@ -44308,10 +44280,6 @@
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -44428,10 +44396,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -44486,10 +44450,6 @@
   {
     "ItemCode": "300154030",
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "300152007",
@@ -44582,5 +44542,45 @@
   {
     "ItemCode": "203210085",
     "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210074",
+    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "100854009",
+    "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
+  },
+  {
+    "ItemCode": "100854017",
+    "ItemName": "TIKA CHILOE 14 X 150 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   }
 ]
