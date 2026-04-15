@@ -25256,10 +25256,6 @@
     "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
   },
   {
-    "ItemCode": "202910049",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760313",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -25278,14 +25274,6 @@
   {
     "ItemCode": "203210114",
     "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
-  },
-  {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
-  },
-  {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
   },
   {
     "ItemCode": "LOG_104670068",
@@ -29690,10 +29678,6 @@
   {
     "ItemCode": "200460014",
     "ItemName": "TRUTRO ENTERO DE POLLO CONG  700 GR"
-  },
-  {
-    "ItemCode": "202910052",
-    "ItemName": "PULPA PIERNA DE CERDO 95 VL IMP. BRASIL ECOFRIGO (20 KG APROX.)"
   },
   {
     "ItemCode": "100351015",
@@ -38288,10 +38272,6 @@
     "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
   },
   {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
-  },
-  {
     "ItemCode": "100250006",
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
   },
@@ -38310,10 +38290,6 @@
   {
     "ItemCode": "400005006",
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
     "ItemCode": "400301102",
@@ -38710,10 +38686,6 @@
   {
     "ItemCode": "101201014",
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201015",
-    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201012",
@@ -43524,18 +43496,6 @@
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
-    "ItemCode": "300152005",
-    "ItemName": "MANTECA IND AMASA VEGETAL 12X1KG"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "203200004",
     "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
   },
@@ -44582,5 +44542,45 @@
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101201015",
+    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "300152005",
+    "ItemName": "MANTECA IND AMASA VEGETAL 12X1KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "202910049",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910052",
+    "ItemName": "PULPA PIERNA DE CERDO 95 VL IMP. BRASIL ECOFRIGO (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
   }
 ]
