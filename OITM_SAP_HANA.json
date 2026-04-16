@@ -37140,10 +37140,6 @@
     "ItemName": "COSTILLAR DE CERDO AHUMADO KG. (NV)"
   },
   {
-    "ItemCode": "101008004",
-    "ItemName": "LECHE ENTERA UHT 6x200 ml."
-  },
-  {
     "ItemCode": "101009004",
     "ItemName": "LECHE CHOCOLATE 6X200 CC"
   },
@@ -38844,10 +38840,6 @@
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
   {
-    "ItemCode": "104610008",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
-  },
-  {
     "ItemCode": "104610007",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE 12 DISPL X 16 UN X 45GR."
   },
@@ -38942,10 +38934,6 @@
   {
     "ItemCode": "100355012",
     "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "104620000",
-    "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
   {
     "ItemCode": "104620002",
@@ -39202,14 +39190,6 @@
   {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "102700021",
@@ -44572,15 +44552,35 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "102980022",
-    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "102980022",
+    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
+  },
+  {
+    "ItemCode": "101008004",
+    "ItemName": "LECHE ENTERA UHT 6x200 ml."
+  },
+  {
+    "ItemCode": "104610008",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
+  },
+  {
+    "ItemCode": "104620000",
+    "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   }
 ]
