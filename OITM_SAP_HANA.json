@@ -37004,10 +37004,6 @@
     "ItemName": "SALSA DE NARANJA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "100853004",
-    "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
@@ -37934,10 +37930,6 @@
   {
     "ItemCode": "400050003",
     "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
-  },
-  {
-    "ItemCode": "100151005",
-    "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
   {
     "ItemCode": "400007016",
@@ -38894,10 +38886,6 @@
   {
     "ItemCode": "101150070",
     "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101150075",
-    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
   },
   {
     "ItemCode": "101150076",
@@ -40852,10 +40840,6 @@
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201026",
-    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201027",
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
@@ -40886,10 +40870,6 @@
   {
     "ItemCode": "101201038",
     "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
-  },
-  {
-    "ItemCode": "101201039",
-    "ItemName": "DELICREAM VAINILLA C/COCO RALLADO TKF 1X1 KG."
   },
   {
     "ItemCode": "101201041",
@@ -41130,10 +41110,6 @@
   {
     "ItemCode": "102970010",
     "ItemName": "CHOCOLATE DE LECHE 33% SICAO 1X10 KG"
-  },
-  {
-    "ItemCode": "102980022",
-    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
   {
     "ItemCode": "103010009",
@@ -41912,10 +41888,6 @@
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "202730056",
     "ItemName": "BROWNIE CON OREO 1800 GR (24 PORCIONES)"
   },
@@ -42428,10 +42400,6 @@
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
   {
-    "ItemCode": "100801001",
-    "ItemName": "PASAS MORENAS 1X1 KG"
-  },
-  {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
@@ -42722,10 +42690,6 @@
   {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
-  },
-  {
-    "ItemCode": "104210008",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "104670003",
@@ -44232,10 +44196,6 @@
     "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100701015",
-    "ItemName": "SOPA DE CARNE CON FIDEOS (REND 16 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100701011",
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
@@ -44524,6 +44484,50 @@
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
+    "ItemCode": "103070009",
+    "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
+  },
+  {
+    "ItemCode": "204000000",
+    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204750007",
+    "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
+  },
+  {
+    "ItemCode": "204000007",
+    "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204000005",
+    "ItemName": "OSOBUCO PIERNA VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "101150075",
+    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100151005",
+    "ItemName": "NESTUM 5 CEREALES 24X250 GR"
+  },
+  {
+    "ItemCode": "104210008",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100801001",
+    "ItemName": "PASAS MORENAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100701015",
+    "ItemName": "SOPA DE CARNE CON FIDEOS (REND 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100853004",
+    "ItemName": "GALLETA CRACKELET 1X85 GR."
+  },
+  {
     "ItemCode": "203510010",
     "ItemName": "HAMBURGUESA CHUCK ROLL 69X220 GR"
   },
@@ -44564,23 +44568,27 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
   },
   {
-    "ItemCode": "103070009",
-    "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
+    "ItemCode": "101201039",
+    "ItemName": "DELICREAM VAINILLA C/COCO RALLADO TKF 1X1 KG."
   },
   {
-    "ItemCode": "204000000",
-    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
+    "ItemCode": "MAQ001327",
+    "ItemName": "TARIFA SERVICIOS $1327"
   },
   {
-    "ItemCode": "204750007",
-    "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
+    "ItemCode": "101201026",
+    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "204000007",
-    "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "204000005",
-    "ItemName": "OSOBUCO PIERNA VACUNO CONG. KG (20 KG APROX.)"
+    "ItemCode": "MAQ001283",
+    "ItemName": "TARIFA SERVICIOS $1283"
+  },
+  {
+    "ItemCode": "102980022",
+    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   }
 ]
