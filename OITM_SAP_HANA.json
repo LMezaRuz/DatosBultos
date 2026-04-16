@@ -28172,10 +28172,6 @@
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
   {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "104010052",
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
@@ -31594,10 +31590,6 @@
   {
     "ItemCode": "101100020",
     "ItemName": "CORBATA 1X5 KG"
-  },
-  {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101100065",
@@ -37566,10 +37558,6 @@
   {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
     "ItemCode": "204380034",
@@ -43584,14 +43572,6 @@
     "ItemName": "GOLDEN CHICKEN PICANTE SADIA 16X300 GR"
   },
   {
-    "ItemCode": "202910014",
-    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "100401001",
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
@@ -44320,10 +44300,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
@@ -44582,5 +44558,29 @@
   {
     "ItemCode": "300157013",
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "202910014",
+    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
