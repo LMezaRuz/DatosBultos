@@ -30736,10 +30736,6 @@
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -30870,10 +30866,6 @@
   {
     "ItemCode": "303850012",
     "ItemName": "MANTEQUILLA LAS PARCELAS DE VALDIVIA POTE 24X200 GR"
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "204380002",
@@ -38056,10 +38048,6 @@
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
-    "ItemCode": "100600003",
-    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
@@ -41284,10 +41272,6 @@
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
-    "ItemCode": "101404001",
-    "ItemName": "TOMATE PELADO 6X2.5 KG"
-  },
-  {
     "ItemCode": "300353004",
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
@@ -42912,10 +42896,6 @@
     "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
   },
   {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -43058,10 +43038,6 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "101355008",
@@ -43634,10 +43610,6 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "103700004",
@@ -44766,5 +44738,33 @@
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100600003",
+    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "101404001",
+    "ItemName": "TOMATE PELADO 6X2.5 KG"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   }
 ]
