@@ -27404,10 +27404,6 @@
     "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
   },
   {
-    "ItemCode": "103760006",
-    "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
-  },
-  {
     "ItemCode": "102680021",
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
   },
@@ -27602,10 +27598,6 @@
   {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
-  },
-  {
-    "ItemCode": "204090006",
-    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
   {
     "ItemCode": "204100006",
@@ -37560,10 +37552,6 @@
     "ItemName": "ESPARRAGOS 9X1 KG."
   },
   {
-    "ItemCode": "300157049",
-    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
-  },
-  {
     "ItemCode": "100751048",
     "ItemName": "MERMELADA DE CIRUELA PORCION 192X20 GR."
   },
@@ -41496,20 +41484,12 @@
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
-    "ItemCode": "304850041",
-    "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
     "ItemCode": "303680000",
     "ItemName": "PACK PROBIOTICO MULTIFRUTA UNV 6X90 ML"
   },
   {
     "ItemCode": "300151004",
     "ItemName": "PACK PROBIOTICO MORA CALAN 6X90ML"
-  },
-  {
-    "ItemCode": "303750002",
-    "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
   {
     "ItemCode": "303750001",
@@ -43868,10 +43848,6 @@
     "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
   },
   {
-    "ItemCode": "300157047",
-    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
@@ -44098,10 +44074,6 @@
   {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
     "ItemCode": "203300000",
@@ -44572,10 +44544,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "103760006",
+    "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "304850041",
+    "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
+  },
+  {
+    "ItemCode": "300157049",
+    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157047",
+    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
+  },
+  {
+    "ItemCode": "303750002",
+    "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
+  },
+  {
+    "ItemCode": "204090006",
+    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   }
 ]
