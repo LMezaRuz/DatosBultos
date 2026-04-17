@@ -37880,10 +37880,6 @@
     "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
   },
   {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
@@ -43108,10 +43104,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -43286,10 +43278,6 @@
   {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "400012001",
@@ -44508,10 +44496,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
@@ -44748,7 +44732,23 @@
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
   },
   {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   }
 ]
