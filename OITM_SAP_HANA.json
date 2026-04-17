@@ -30264,16 +30264,8 @@
     "ItemName": "MANTEL ANTIGRASA BCH 35 X 35 CM 1 X 1000 UN"
   },
   {
-    "ItemCode": "204090010",
-    "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
-  },
-  {
     "ItemCode": "204100013",
     "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
-  },
-  {
-    "ItemCode": "204390008",
-    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
   },
   {
     "ItemCode": "400150010",
@@ -41656,10 +41648,6 @@
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -42086,10 +42074,6 @@
   {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "400005006",
-    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
     "ItemCode": "100852024",
@@ -43384,10 +43368,6 @@
     "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "202730015",
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
@@ -43946,10 +43926,6 @@
   {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100950001",
@@ -44766,5 +44742,29 @@
   {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204390008",
+    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
+  },
+  {
+    "ItemCode": "204090010",
+    "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
+  },
+  {
+    "ItemCode": "400005006",
+    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   }
 ]
