@@ -31244,10 +31244,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
   },
   {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
     "ItemCode": "300353127",
     "ItemName": "TAPAPECHO PARAGUAY CAT V - LOCAL  (CJ 20 KG APROX)"
   },
@@ -32386,10 +32382,6 @@
   {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "103910052",
@@ -38136,10 +38128,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
@@ -38242,10 +38230,6 @@
   {
     "ItemCode": "300351006",
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "101450003",
@@ -43852,10 +43836,6 @@
     "ItemName": "PULLED PORK 8 X 1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -44660,10 +44640,6 @@
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
-    "ItemCode": "102980022",
-    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -44750,5 +44726,29 @@
   {
     "ItemCode": "203200010",
     "ItemName": "DESPUNTE POLLO 1X1KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "102980022",
+    "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   }
 ]
