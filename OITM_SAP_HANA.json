@@ -27564,10 +27564,6 @@
     "ItemName": "CHURRASCO DE FILETE 5X1.04 KG MM (CAJA 5.2 KG)"
   },
   {
-    "ItemCode": "203210042",
-    "ItemName": "CHURRASCO DE VACUNO 10 PUNTOS 25X120 GR (UN)"
-  },
-  {
     "ItemCode": "203210070",
     "ItemName": "FILETE DE VACUNO PORCIONADO TR 5X200 GR (5 KG)(MM)"
   },
@@ -42864,10 +42860,6 @@
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -43756,10 +43748,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -44098,10 +44086,6 @@
   {
     "ItemCode": "101200015",
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "300405006",
@@ -44540,32 +44524,12 @@
     "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "300157033",
     "ItemName": "YOG. GRI OIKOS TROZO DURAZNO 48X110 CAJA"
-  },
-  {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
   {
     "ItemCode": "103910018",
@@ -44574,10 +44538,6 @@
   {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "100751051",
@@ -44620,16 +44580,8 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "304340004",
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "300157042",
@@ -44744,10 +44696,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
   },
@@ -44766,5 +44714,57 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "203210042",
+    "ItemName": "CHURRASCO DE VACUNO 10 PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
   }
 ]
