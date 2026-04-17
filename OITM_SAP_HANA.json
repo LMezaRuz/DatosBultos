@@ -27924,10 +27924,6 @@
     "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
   {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
-  },
-  {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
@@ -30546,10 +30542,6 @@
   {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "200455016",
-    "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
   },
   {
     "ItemCode": "203190006",
@@ -40708,10 +40700,6 @@
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "100352008",
-    "ItemName": "CAFE NAPOLI CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
   },
@@ -40866,10 +40854,6 @@
   {
     "ItemCode": "200500023",
     "ItemName": "COLIFLOR IQF 7X1 KG."
-  },
-  {
-    "ItemCode": "100851002",
-    "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
   {
     "ItemCode": "101303008",
@@ -41102,10 +41086,6 @@
   {
     "ItemCode": "300001009",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
-  },
-  {
-    "ItemCode": "100851001",
-    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
   {
     "ItemCode": "100300009",
@@ -42224,10 +42204,6 @@
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
@@ -43124,10 +43100,6 @@
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "203190050",
     "ItemName": "CHULETA VETADA PORCIONADA 7,5 KG (APROX)"
   },
@@ -43646,10 +43618,6 @@
   {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "300157014",
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "100352008",
+    "ItemName": "CAFE NAPOLI CAPSULA NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "200455016",
+    "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100851001",
+    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
+  },
+  {
+    "ItemCode": "100851002",
+    "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
