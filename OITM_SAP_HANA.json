@@ -30052,10 +30052,6 @@
     "ItemName": "TRUTRO ENTERO BLOQUE CONG. USA LOCAL 1X15KG APROX."
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "303000002",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
@@ -32406,10 +32402,6 @@
   {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
     "ItemCode": "100300006",
@@ -39496,10 +39488,6 @@
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "200201018",
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
@@ -40326,10 +40314,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "400005010",
-    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
     "ItemCode": "204090008",
@@ -43032,10 +43016,6 @@
     "ItemName": "FRUTILLA IQF 15X1 KG."
   },
   {
-    "ItemCode": "300401001",
-    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -43764,10 +43744,6 @@
     "ItemName": "MILO EN POLVO 1X300 GR"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
@@ -44380,16 +44356,8 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "400011017",
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "204090006",
@@ -44406,10 +44374,6 @@
   {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "204790006",
@@ -44456,10 +44420,6 @@
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
@@ -44494,14 +44454,6 @@
   {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100351011",
@@ -44766,5 +44718,53 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "300401001",
+    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "400005010",
+    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
