@@ -31220,10 +31220,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "204380030",
-    "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "101302003",
     "ItemName": "ESENCIA VAINILLA 1x100 cc"
   },
@@ -31558,10 +31554,6 @@
   {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "100900006",
@@ -32062,10 +32054,6 @@
   {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "303870008",
@@ -36500,10 +36488,6 @@
     "ItemName": "MANTEQUILLA MINI POTE COLUN 1 X 200 UN X 10 GR"
   },
   {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -39676,10 +39660,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
     "ItemCode": "100002013",
     "ItemName": "ACEITE CHEF MARAVILLA 30X500ML"
   },
@@ -40118,10 +40098,6 @@
   {
     "ItemCode": "200455016",
     "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "100851001",
@@ -42756,10 +42732,6 @@
     "ItemName": "CEBOLLA CUBO F/SERVICE 12 UN X 1 KG"
   },
   {
-    "ItemCode": "200051006",
-    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "100551005",
     "ItemName": "AJO EN POLVO GOURMET 1X15 GR"
   },
@@ -43262,10 +43234,6 @@
   {
     "ItemCode": "100304007",
     "ItemName": "JUGO DE MANZANA JUMEX 12X460 ML."
-  },
-  {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
     "ItemCode": "100401001",
@@ -44312,10 +44280,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
@@ -44522,18 +44486,6 @@
   {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "103650001",
-    "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "103650000",
-    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "103650002",
-    "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
   },
   {
     "ItemCode": "101351003",
@@ -44764,7 +44716,55 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "103650000",
+    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "103650002",
+    "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "103650001",
+    "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "204380030",
+    "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051006",
+    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   }
 ]
