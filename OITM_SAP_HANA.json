@@ -28492,10 +28492,6 @@
     "ItemName": "CAFE AMALFI EN PODS 1X50 UU."
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "104260002",
     "ItemName": "PIÑAS EN TROCITOS WASIL 6X3"
   },
@@ -30430,10 +30426,6 @@
   {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "204380029",
-    "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "300404021",
@@ -38860,10 +38852,6 @@
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "104210015",
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
@@ -41980,10 +41968,6 @@
     "ItemName": "NECTAR DE NARANJA LIGHT PET 1X1.5 LT."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100601003",
     "ItemName": "CHOLGAS EN ACEITE 24x190 gr"
   },
@@ -42350,10 +42334,6 @@
   {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
-  },
-  {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "101358012",
@@ -42968,10 +42948,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -43178,10 +43154,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "400011017",
@@ -43456,20 +43428,8 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "101100039",
@@ -43682,10 +43642,6 @@
   {
     "ItemCode": "102610007",
     "ItemName": "ARROZ IMP. LARGO FINO G1 COTIDIANO 10X1 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "101351007",
@@ -44472,10 +44428,6 @@
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -44558,10 +44510,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "100803003",
@@ -44654,10 +44602,6 @@
   {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051019",
@@ -44766,5 +44710,61 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "204380029",
+    "ItemName": "MORA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
   }
 ]
