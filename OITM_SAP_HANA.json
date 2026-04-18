@@ -28552,10 +28552,6 @@
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "204180022",
-    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
-  },
-  {
     "ItemCode": "104260002",
     "ItemName": "PIÑAS EN TROCITOS WASIL 6X3"
   },
@@ -32310,14 +32306,6 @@
   {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "100050007",
@@ -43372,10 +43360,6 @@
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -44360,10 +44344,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -44766,5 +44746,25 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204180022",
+    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
