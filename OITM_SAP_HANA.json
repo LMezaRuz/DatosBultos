@@ -31576,10 +31576,6 @@
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
@@ -31990,10 +31986,6 @@
   {
     "ItemCode": "104560007",
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
-  },
-  {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
     "ItemCode": "304850042",
@@ -40544,10 +40536,6 @@
     "ItemName": "KETCHUP HELLMANNS SQZ 24 UN X 400 GR"
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "202730078",
     "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   },
@@ -43828,10 +43816,6 @@
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "300405007",
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
@@ -44520,10 +44504,6 @@
     "ItemName": "SERVILLETA TECNOPAPEL LUNCH UNIVERSAL 20 X 500 UN"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300150001",
     "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
@@ -44766,5 +44746,25 @@
   {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
   }
 ]
