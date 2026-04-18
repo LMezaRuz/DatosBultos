@@ -42952,10 +42952,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100751012",
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
@@ -43078,10 +43074,6 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
     "ItemCode": "200452004",
@@ -43526,10 +43518,6 @@
   {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100050005",
@@ -44536,10 +44524,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
@@ -44766,5 +44750,21 @@
   {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
