@@ -31252,10 +31252,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "200460046",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
   },
@@ -31654,10 +31650,6 @@
   {
     "ItemCode": "100751001",
     "ItemName": "MERMELADA DE CIRUELA 1X250 GR"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "100651002",
@@ -44766,5 +44758,13 @@
   {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   }
 ]
