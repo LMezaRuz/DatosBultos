@@ -26392,10 +26392,6 @@
     "ItemName": "JAMON DE PAVO COCIDO LAMINADO 1 X 500G"
   },
   {
-    "ItemCode": "304140000",
-    "ItemName": "CIABATTA BD 50X145GR ."
-  },
-  {
     "ItemCode": "104670038",
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
   },
@@ -28488,24 +28484,12 @@
     "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
   },
   {
-    "ItemCode": "400301076",
-    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
     "ItemCode": "104320009",
     "ItemName": "CREME BRULEE TKF 10 X 1 KG"
   },
   {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
     "ItemCode": "304850023",
@@ -28522,10 +28506,6 @@
   {
     "ItemCode": "203190046",
     "ItemName": "TRIMMING 80/20 DE CERDO CONGELADO (22 KG APROX)"
-  },
-  {
-    "ItemCode": "400301073",
-    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
     "ItemCode": "103630005",
@@ -32286,10 +32266,6 @@
   {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
   {
     "ItemCode": "202730066",
@@ -39592,10 +39568,6 @@
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   },
   {
-    "ItemCode": "204300073",
-    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -43404,10 +43376,6 @@
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -44316,10 +44284,6 @@
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -44766,5 +44730,41 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "204300073",
+    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
+  },
+  {
+    "ItemCode": "400301073",
+    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301076",
+    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "304140000",
+    "ItemName": "CIABATTA BD 50X145GR ."
   }
 ]
