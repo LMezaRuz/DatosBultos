@@ -27880,10 +27880,6 @@
     "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "103580001",
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
@@ -28170,10 +28166,6 @@
   {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
     "ItemCode": "104930000",
@@ -39332,10 +39324,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100801003",
     "ItemName": "MANI SALADO 1X1 KG"
   },
@@ -42000,10 +41988,6 @@
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "203210096",
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
@@ -42840,10 +42824,6 @@
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -43414,10 +43394,6 @@
   {
     "ItemCode": "100304034",
     "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "100854011",
@@ -44204,10 +44180,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
@@ -44476,10 +44448,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -44544,16 +44512,8 @@
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "203200036",
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "300154003",
@@ -44766,5 +44726,45 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
