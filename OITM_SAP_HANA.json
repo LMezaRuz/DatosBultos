@@ -30076,10 +30076,6 @@
     "ItemName": "APIO 1X1 UN"
   },
   {
-    "ItemCode": "100151020",
-    "ItemName": "CEREAL FITNESS 16 X 600 GR"
-  },
-  {
     "ItemCode": "304760046",
     "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
@@ -32254,14 +32250,6 @@
   {
     "ItemCode": "204310003",
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
-  },
-  {
-    "ItemCode": "202730041",
-    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
-  },
-  {
-    "ItemCode": "202730042",
-    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
   },
   {
     "ItemCode": "202730067",
@@ -36256,10 +36244,6 @@
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
   {
-    "ItemCode": "300152008",
-    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
-  },
-  {
     "ItemCode": "101401008",
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
@@ -38712,10 +38696,6 @@
     "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "100850002",
     "ItemName": "CHOCOLATE CHOKITA 20 X 30 GR"
   },
@@ -39306,10 +39286,6 @@
   {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "200201010",
-    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
   },
   {
     "ItemCode": "200201019",
@@ -40050,10 +40026,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "202730069",
-    "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
     "ItemCode": "101351023",
@@ -42556,10 +42528,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "200201009",
-    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
-  },
-  {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300152008",
+    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100151020",
+    "ItemName": "CEREAL FITNESS 16 X 600 GR"
+  },
+  {
+    "ItemCode": "202730069",
+    "ItemName": "MINI TROPEZIENNE 48X32 GR"
+  },
+  {
+    "ItemCode": "200201009",
+    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
+  },
+  {
+    "ItemCode": "200201010",
+    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
+  },
+  {
+    "ItemCode": "202730041",
+    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730042",
+    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
   }
 ]
