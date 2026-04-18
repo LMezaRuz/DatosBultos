@@ -31404,10 +31404,6 @@
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
-  },
-  {
     "ItemCode": "300300010",
     "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
   },
@@ -31570,10 +31566,6 @@
   {
     "ItemCode": "100202007",
     "ItemName": "ENDULZANTE STEVIA LIQUIDO 1X270 ML"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100051004",
@@ -32042,10 +32034,6 @@
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100304010",
@@ -42932,10 +42920,6 @@
     "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200500034",
     "ItemName": "ARVEJAS CONGELADAS 15X1 KG"
   },
@@ -43576,10 +43560,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100302015",
-    "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -43630,10 +43610,6 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "101001004",
@@ -44204,10 +44180,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
@@ -44596,10 +44568,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -44618,10 +44586,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "200500032",
@@ -44766,5 +44730,41 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100302015",
+    "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   }
 ]
