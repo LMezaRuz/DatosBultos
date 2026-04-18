@@ -27624,10 +27624,6 @@
     "ItemName": "BAVAROISE DE FRUTOS DEL BOSQUE 6X800 GR"
   },
   {
-    "ItemCode": "204380020",
-    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "102840005",
     "ItemName": "CAFE KIMBO EN CAPSULA BARISTA ESPRESSO DESCAFEINADO 1X10 UN"
   },
@@ -30868,10 +30864,6 @@
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380017",
     "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
@@ -31650,10 +31642,6 @@
   {
     "ItemCode": "101007014",
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
-  },
-  {
-    "ItemCode": "104190001",
-    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
   {
     "ItemCode": "101002002",
@@ -38820,10 +38808,6 @@
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
   {
-    "ItemCode": "400008003",
-    "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
-  },
-  {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
@@ -38964,16 +38948,8 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "200051018",
-    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
-  },
-  {
-    "ItemCode": "200200018",
-    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
   },
   {
     "ItemCode": "100802001",
@@ -39326,10 +39302,6 @@
   {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
-  },
-  {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
     "ItemCode": "204790030",
@@ -43760,10 +43732,6 @@
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101353025",
     "ItemName": "MAYONESA JB 6X1,9 KG"
   },
@@ -43798,14 +43766,6 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "400250003",
@@ -44766,5 +44726,45 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380020",
+    "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "200051018",
+    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104190001",
+    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
+  },
+  {
+    "ItemCode": "200200018",
+    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
+  },
+  {
+    "ItemCode": "400008003",
+    "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   }
 ]
