@@ -39544,10 +39544,6 @@
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "103480001",
     "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
   },
@@ -42552,10 +42548,6 @@
     "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -43296,10 +43288,6 @@
     "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
@@ -43322,10 +43310,6 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "101100022",
@@ -44766,5 +44750,21 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   }
 ]
