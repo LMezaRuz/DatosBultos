@@ -35496,10 +35496,6 @@
     "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
@@ -35752,28 +35748,12 @@
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101201043",
-    "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101201042",
-    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101201041",
-    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "101201040",
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201014",
-    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201021",
@@ -39358,10 +39338,6 @@
   {
     "ItemCode": "101301001",
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
-  },
-  {
-    "ItemCode": "101201015",
-    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "100802001",
@@ -43348,10 +43324,6 @@
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201011",
-    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201018",
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
@@ -44152,10 +44124,6 @@
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
   {
-    "ItemCode": "202730076",
-    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "202730076",
+    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "101201015",
+    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201043",
+    "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201014",
+    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201042",
+    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201011",
+    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201041",
+    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   }
 ]
