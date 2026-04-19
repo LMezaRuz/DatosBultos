@@ -27876,10 +27876,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "203210112",
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
   },
@@ -28246,14 +28242,6 @@
   {
     "ItemCode": "304440020",
     "ItemName": "QUESO GAUDA PAMPA CHEESE 1X5 KG (APROX.)"
-  },
-  {
-    "ItemCode": "400104014",
-    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
-  },
-  {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
   {
     "ItemCode": "101150051",
@@ -30696,10 +30684,6 @@
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
@@ -32030,10 +32014,6 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
     "ItemCode": "104520008",
@@ -35618,10 +35598,6 @@
   {
     "ItemCode": "101352011",
     "ItemName": "KETCHUP JB 6X2 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "103910048",
@@ -39712,10 +39688,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "101404001",
-    "ItemName": "TOMATE PELADO 6X2.5 KG"
-  },
-  {
     "ItemCode": "103810002",
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
@@ -43744,10 +43716,6 @@
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -43962,10 +43930,6 @@
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101001005",
@@ -44224,10 +44188,6 @@
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "101150055",
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
@@ -44306,10 +44266,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "300408001",
@@ -44420,16 +44376,8 @@
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "400010018",
@@ -44676,10 +44624,6 @@
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -44766,5 +44710,61 @@
   {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101404001",
+    "ItemName": "TOMATE PELADO 6X2.5 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "400104014",
+    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   }
 ]
