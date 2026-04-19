@@ -26696,10 +26696,6 @@
     "ItemName": "HELADO SOFT SABOR PLATANO 10X800 GR"
   },
   {
-    "ItemCode": "204290000",
-    "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
-  },
-  {
     "ItemCode": "204790025",
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
@@ -30044,10 +30040,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "103810011",
     "ItemName": "CLORO LIQUIDO TRADICIONAL 4X4 KG"
   },
@@ -30234,10 +30226,6 @@
   {
     "ItemCode": "302890013",
     "ItemName": "PEPPERONI LAMINADO 1X500 GR"
-  },
-  {
-    "ItemCode": "304110015",
-    "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
   {
     "ItemCode": "304760005",
@@ -30952,10 +30940,6 @@
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
   },
@@ -31462,10 +31446,6 @@
   {
     "ItemCode": "203190043",
     "ItemName": "PULLED PORK 8 X 1 KG"
-  },
-  {
-    "ItemCode": "302970006",
-    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
   },
   {
     "ItemCode": "101100056",
@@ -36492,10 +36472,6 @@
     "ItemName": "CIABATTA BD 50X145GR ."
   },
   {
-    "ItemCode": "104010002",
-    "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
-  },
-  {
     "ItemCode": "300157045",
     "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
   },
@@ -40304,10 +40280,6 @@
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
   {
-    "ItemCode": "300401001",
-    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -43036,10 +43008,6 @@
     "ItemName": "EMPANADA CARNE MONGOLIANA 40 GR 2X50 UN"
   },
   {
-    "ItemCode": "100050001",
-    "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
-  },
-  {
     "ItemCode": "300351031",
     "ItemName": "CHORICILLO PF 1X1 KG."
   },
@@ -44416,10 +44384,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
-    "ItemCode": "204790000",
-    "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
-  },
-  {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
@@ -44766,5 +44730,41 @@
   {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "304110015",
+    "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
+  },
+  {
+    "ItemCode": "300401001",
+    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "204290000",
+    "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "302970006",
+    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
+  },
+  {
+    "ItemCode": "204790000",
+    "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
+  },
+  {
+    "ItemCode": "104010002",
+    "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
+  },
+  {
+    "ItemCode": "100050001",
+    "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   }
 ]
