@@ -35056,10 +35056,6 @@
     "ItemName": "POSTA ROSADA KG (NV)"
   },
   {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
     "ItemCode": "300353051",
     "ItemName": "PLATEADA KG (NV)"
   },
@@ -41800,10 +41796,6 @@
     "ItemName": "AJI DE COLOR GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -43440,10 +43432,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
     "ItemCode": "101200018",
     "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
@@ -43602,10 +43590,6 @@
   {
     "ItemCode": "103810001",
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "103880030",
@@ -44108,10 +44092,6 @@
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -44512,10 +44492,6 @@
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -44598,10 +44574,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
     "ItemCode": "103830005",
@@ -44732,10 +44704,6 @@
     "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "302960001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
   }
 ]
