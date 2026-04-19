@@ -27436,10 +27436,6 @@
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "104910015",
     "ItemName": "PECTINA NH (PARA GLASEAR) 14 X 1 KG"
   },
@@ -30888,10 +30884,6 @@
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
   {
-    "ItemCode": "204100010",
-    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "203430015",
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
@@ -31122,10 +31114,6 @@
   {
     "ItemCode": "104070010",
     "ItemName": "PEPINILLO DILL ENTERO 20-30 MAIFRE 10X1 KG"
-  },
-  {
-    "ItemCode": "103880018",
-    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "100151014",
@@ -31940,10 +31928,6 @@
     "ItemName": "UVA KG."
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "600002041",
     "ItemName": "CIRUELA KG."
   },
@@ -31962,10 +31946,6 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "304760109",
@@ -32282,10 +32262,6 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "304760355",
-    "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "102480008",
@@ -35698,10 +35674,6 @@
   {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "102560020",
@@ -44036,10 +44008,6 @@
     "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
   },
   {
-    "ItemCode": "300404007",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "204100010",
+    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "304760355",
+    "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300404007",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103880018",
+    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   }
 ]
