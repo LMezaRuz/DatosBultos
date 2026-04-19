@@ -28316,10 +28316,6 @@
     "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
   {
-    "ItemCode": "101150055",
-    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
-  },
-  {
     "ItemCode": "400301008",
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
@@ -32182,10 +32178,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "400301072",
-    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
     "ItemCode": "203190053",
@@ -36422,14 +36414,6 @@
   {
     "ItemCode": "100751043",
     "ItemName": "MERMELADA WATTS GOLD GUINDA 5 GALON"
-  },
-  {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "400301101",
@@ -42580,10 +42564,6 @@
     "ItemName": "OREGANO ENTERO GOURMET 1X50 GR"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "100854002",
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
@@ -44312,10 +44292,6 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
@@ -44406,10 +44382,6 @@
   {
     "ItemCode": "104010039",
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "101355004",
@@ -44576,10 +44548,6 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
@@ -44610,10 +44578,6 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "100701009",
@@ -44766,5 +44730,41 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "400301072",
+    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150055",
+    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   }
 ]
