@@ -28356,10 +28356,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
@@ -31738,10 +31734,6 @@
   {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "300404024",
@@ -39828,10 +39820,6 @@
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "203200029",
-    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
     "ItemCode": "400050001",
     "ItemName": "CARBON PREMIUM 2KL"
   },
@@ -39948,10 +39936,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -40002,10 +39986,6 @@
   {
     "ItemCode": "102500002",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
-  },
-  {
-    "ItemCode": "203210096",
-    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
     "ItemCode": "300403006",
@@ -43460,10 +43440,6 @@
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
@@ -43622,10 +43598,6 @@
   {
     "ItemCode": "100350001",
     "ItemName": "CAFE KIMBO EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
-  },
-  {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
     "ItemCode": "100752001",
@@ -44584,10 +44556,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -44766,5 +44734,37 @@
   {
     "ItemCode": "101150045",
     "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "203200029",
+    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
+  },
+  {
+    "ItemCode": "203210096",
+    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   }
 ]
