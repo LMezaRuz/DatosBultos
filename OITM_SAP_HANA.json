@@ -27948,10 +27948,6 @@
     "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "203210125",
     "ItemName": "CARNE MECHADA EN TROZO AHUMADA 5X1 KG"
   },
@@ -31878,10 +31874,6 @@
   {
     "ItemCode": "600001006",
     "ItemName": "UVA KG."
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "600002041",
@@ -40468,10 +40460,6 @@
     "ItemName": "VINAGRE DE MANZANA 12X500 CC."
   },
   {
-    "ItemCode": "102710013",
-    "ItemName": "BEBIDA VEGETAL LONCOLECHE DE ALMENDRAS 6X1LT"
-  },
-  {
     "ItemCode": "204700004",
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
@@ -44228,10 +44216,6 @@
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "400252006",
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
@@ -44576,10 +44560,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44644,10 +44624,6 @@
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "101008005",
     "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
@@ -44658,10 +44634,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
     "ItemCode": "100551002",
@@ -44686,10 +44658,6 @@
   {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100101006",
@@ -44760,11 +44728,43 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "102710013",
+    "ItemName": "BEBIDA VEGETAL LONCOLECHE DE ALMENDRAS 6X1LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
