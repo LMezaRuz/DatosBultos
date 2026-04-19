@@ -26908,10 +26908,6 @@
     "ItemName": "TE SUPERIOR PURE CEYLON 20X250 GR"
   },
   {
-    "ItemCode": "104670092",
-    "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
-  },
-  {
     "ItemCode": "104820004",
     "ItemName": "VINAGRE ROSADO TRAVERSO 24X250 CC"
   },
@@ -27964,10 +27960,6 @@
     "ItemName": "CARNE MECHADA EN TROZO AHUMADA 5X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "202730038",
     "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
   },
@@ -28226,10 +28218,6 @@
   {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "104930000",
@@ -31200,10 +31188,6 @@
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "300353127",
     "ItemName": "TAPAPECHO PARAGUAY CAT V - LOCAL  (CJ 20 KG APROX)"
   },
@@ -31274,10 +31258,6 @@
   {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "200300002",
@@ -44592,10 +44572,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -44756,15 +44732,39 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
+    "ItemCode": "104670092",
+    "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   }
 ]
