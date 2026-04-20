@@ -44048,10 +44048,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "100450006",
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
   },
@@ -44218,10 +44214,6 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "102780006",
-    "ItemName": "KIMBO GRANO BARISTA INTENSO 80%ROBUSTA 20% ARABICA 6X1KG"
   },
   {
     "ItemCode": "100803001",
@@ -44636,18 +44628,6 @@
     "ItemName": "PITCHER 12 ONZAS PARA LECHE"
   },
   {
-    "ItemCode": "104610006",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
-  },
-  {
-    "ItemCode": "104610009",
-    "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
-  },
-  {
-    "ItemCode": "103910023",
-    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -44766,5 +44746,25 @@
   {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "104610006",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
+  },
+  {
+    "ItemCode": "104610009",
+    "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
+  },
+  {
+    "ItemCode": "103910023",
+    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "KIMBO GRANO BARISTA INTENSO 80%ROBUSTA 20% ARABICA 6X1KG"
   }
 ]
