@@ -24176,10 +24176,6 @@
     "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
   },
   {
-    "ItemCode": "304760207",
-    "ItemName": "LOMO LISO VACIO CAT-V BRASIL FRIBOI (20 KG APROX)(X-MAYOR)"
-  },
-  {
     "ItemCode": "100750011",
     "ItemName": "MANJAR CALO PASTELETO ARTESANAL 2X5KG"
   },
@@ -25208,10 +25204,6 @@
     "ItemName": "[LOG] TE LIPTON BREAKFAST TEA 12 X 20 BLS"
   },
   {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
-  },
-  {
     "ItemCode": "LOG_104670081",
     "ItemName": "[LOG] TE LIPTON GREEN INTENSE MINT 12 X 20 BLS"
   },
@@ -26178,10 +26170,6 @@
   {
     "ItemCode": "304760106",
     "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
-  },
-  {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   },
   {
     "ItemCode": "304760300",
@@ -31132,10 +31120,6 @@
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "102930011",
     "ItemName": "CEREALBAR FRUTAS MAS YOGHURT  6X20X21 GR."
   },
@@ -31942,10 +31926,6 @@
   {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
-  },
-  {
-    "ItemCode": "203210109",
-    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
   },
   {
     "ItemCode": "203210111",
@@ -36260,10 +36240,6 @@
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
   {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
@@ -38928,10 +38904,6 @@
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400151006",
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
@@ -39238,10 +39210,6 @@
   {
     "ItemCode": "304760259",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
   },
   {
     "ItemCode": "101402007",
@@ -39566,10 +39534,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "100902007",
@@ -40356,20 +40320,12 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355053",
     "ItemName": "SYRUP COFFEE COLLECTION MONIN 5X50 ML"
   },
   {
     "ItemCode": "300404024",
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "100356005",
@@ -43744,10 +43700,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
@@ -44770,5 +44722,53 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210109",
+    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "304760207",
+    "ItemName": "LOMO LISO VACIO CAT-V BRASIL FRIBOI (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   }
 ]
