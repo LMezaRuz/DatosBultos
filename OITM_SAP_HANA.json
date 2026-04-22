@@ -26100,10 +26100,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "304760411",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
-  },
-  {
     "ItemCode": "304760412",
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
@@ -26580,10 +26576,6 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO 4X250 GR (5 KG) MM"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
@@ -26602,10 +26594,6 @@
   {
     "ItemCode": "300404019",
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X1 KG"
-  },
-  {
-    "ItemCode": "101009014",
-    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
   {
     "ItemCode": "303660003",
@@ -27500,10 +27488,6 @@
     "ItemName": "COSTILLAR DE CERDO BABY BACK"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "302890012",
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
@@ -27830,10 +27814,6 @@
   {
     "ItemCode": "200500019",
     "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
-    "ItemCode": "200454024",
-    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
   {
     "ItemCode": "100302032",
@@ -34318,10 +34298,6 @@
   {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101009015",
-    "ItemName": "LECHE VAINILLA 6X200CC"
   },
   {
     "ItemCode": "102960001",
@@ -41048,10 +41024,6 @@
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "300352001",
     "ItemName": "CHULETA CERDO KG (NV)"
   },
@@ -42012,10 +41984,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
@@ -42872,10 +42840,6 @@
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -42914,10 +42878,6 @@
   {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "200456050",
@@ -44388,10 +44348,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -44782,5 +44738,49 @@
   {
     "ItemCode": "202820016",
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
+  },
+  {
+    "ItemCode": "200454024",
+    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "101009015",
+    "ItemName": "LECHE VAINILLA 6X200CC"
+  },
+  {
+    "ItemCode": "101009014",
+    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "CARNE MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304760411",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   }
 ]
