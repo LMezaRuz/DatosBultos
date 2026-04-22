@@ -24916,10 +24916,6 @@
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12X180GR"
   },
   {
-    "ItemCode": "LOG_104670085",
-    "ItemName": "[LOG] TE LIPTON ENGLISH BREAKFAST 12 X 25 BLS"
-  },
-  {
     "ItemCode": "LOG_104670086",
     "ItemName": "[LOG] TE LIPTON ENGLISH BREAKFAST BLK 6 X 25 BLS"
   },
@@ -27142,22 +27138,6 @@
   {
     "ItemCode": "103910026",
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "LOG_102540021",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540020",
-    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540022",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
   },
   {
     "ItemCode": "103720000",
@@ -30378,10 +30358,6 @@
   {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES 12X1 LT"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "100202011",
@@ -35660,10 +35636,6 @@
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
@@ -35678,10 +35650,6 @@
   {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
     "ItemCode": "300353112",
@@ -36362,10 +36330,6 @@
   {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
-  },
-  {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
     "ItemCode": "300351030",
@@ -37302,10 +37266,6 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "100300009",
@@ -42008,10 +41968,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "202820001",
-    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "202820005",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
@@ -42758,10 +42714,6 @@
   {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200100003",
@@ -44276,10 +44228,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200201009",
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
   },
@@ -44700,10 +44648,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
@@ -44726,10 +44670,6 @@
   {
     "ItemCode": "204290000",
     "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200250011",
@@ -44782,5 +44722,65 @@
   {
     "ItemCode": "LOG_104670066",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
+  },
+  {
+    "ItemCode": "LOG_102540020",
+    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540021",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "202820001",
+    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "LOG_102540022",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "LOG_104670085",
+    "ItemName": "[LOG] TE LIPTON ENGLISH BREAKFAST 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   }
 ]
