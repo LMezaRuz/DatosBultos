@@ -25584,10 +25584,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
   },
   {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "104670038",
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
   },
@@ -25670,10 +25666,6 @@
   {
     "ItemCode": "202820012",
     "ItemName": "CAMARON NACIONAL BOLSA 1 KG (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
   },
   {
     "ItemCode": "202910036",
@@ -25782,10 +25774,6 @@
   {
     "ItemCode": "204380024",
     "ItemName": "PURE DE LUCUMA RIO ALTO 10X1 KG."
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
     "ItemCode": "204530008",
@@ -26006,10 +25994,6 @@
   {
     "ItemCode": "304760342",
     "ItemName": "ASADO CARNICERO TROZOS VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
   },
   {
     "ItemCode": "304760363",
@@ -27884,16 +27868,8 @@
     "ItemName": "MARGARINA SURENA LIGHT POTE 12X450 GR"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "204180029",
     "ItemName": "PAPAS PREFRITAS CRUNCH 10MM LUTOSA 6X2 KG"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910031",
@@ -29936,10 +29912,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "304140000",
     "ItemName": "CIABATTA BD 50X145GR ."
   },
@@ -30450,10 +30422,6 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
     "ItemCode": "400010009",
@@ -36834,10 +36802,6 @@
   {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "100557007",
@@ -44288,14 +44252,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -44782,5 +44738,49 @@
   {
     "ItemCode": "304760411",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   }
 ]
