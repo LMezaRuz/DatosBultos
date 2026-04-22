@@ -30240,10 +30240,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "203900006",
-    "ItemName": "COCTELITOS DE MERLUZA REBOZADOS EL GOLFO 30X400 GR"
-  },
-  {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
@@ -36152,10 +36148,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -36758,10 +36750,6 @@
   {
     "ItemCode": "400010025",
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
-  },
-  {
-    "ItemCode": "100356016",
-    "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   },
   {
     "ItemCode": "100304044",
@@ -41584,10 +41572,6 @@
     "ItemName": "TE LIPTON CAMOMILE 12 X 20 BLS"
   },
   {
-    "ItemCode": "104670062",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
-  },
-  {
     "ItemCode": "104670064",
     "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
   },
@@ -44164,10 +44148,6 @@
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "400005008",
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
@@ -44310,10 +44290,6 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
     "ItemCode": "101354005",
@@ -44580,10 +44556,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
@@ -44782,5 +44754,33 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "104670062",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
+  },
+  {
+    "ItemCode": "203900006",
+    "ItemName": "COCTELITOS DE MERLUZA REBOZADOS EL GOLFO 30X400 GR"
+  },
+  {
+    "ItemCode": "100356016",
+    "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   }
 ]
