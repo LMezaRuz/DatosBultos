@@ -26868,22 +26868,6 @@
     "ItemName": "SACO GRANDE KRAFT BARRIO CHICKEN 1 X 250 UN"
   },
   {
-    "ItemCode": "LOG_102540019",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540018",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540016",
-    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540017",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
     "ItemCode": "100251012",
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
@@ -35844,10 +35828,6 @@
     "ItemName": "MIX FRUTOS ROJOS 10X1 KG"
   },
   {
-    "ItemCode": "100350003",
-    "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
@@ -36990,10 +36970,6 @@
   {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
   {
     "ItemCode": "103600003",
@@ -41436,10 +41412,6 @@
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
-    "ItemCode": "104060006",
-    "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
@@ -42220,10 +42192,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -42528,10 +42496,6 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
@@ -42558,10 +42522,6 @@
   {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "101200007",
@@ -42890,10 +42850,6 @@
   {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
-    "ItemCode": "202730047",
-    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
     "ItemCode": "202730049",
@@ -44236,10 +44192,6 @@
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
   },
   {
-    "ItemCode": "202730041",
-    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
-  },
-  {
     "ItemCode": "202730040",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
   },
@@ -44334,10 +44286,6 @@
   {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "100102012",
@@ -44782,5 +44730,57 @@
   {
     "ItemCode": "100355015",
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100350003",
+    "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "104060006",
+    "ItemName": "CHANCACA IANSA 20X450GR"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "202730041",
+    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730047",
+    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "LOG_102540019",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540018",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540016",
+    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540017",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   }
 ]
