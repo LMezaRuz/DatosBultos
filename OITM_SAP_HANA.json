@@ -44684,10 +44684,6 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "LOG_102540022",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "LOG_102540023",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
   },
@@ -44782,5 +44778,9 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "LOG_102540022",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
   }
 ]
