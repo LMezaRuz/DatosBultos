@@ -26852,14 +26852,6 @@
     "ItemName": "CHUNCHULES DE VACUNO TRADICION 20 KG"
   },
   {
-    "ItemCode": "LOG_103650032",
-    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
-  },
-  {
-    "ItemCode": "LOG_103650031",
-    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
-  },
-  {
     "ItemCode": "304860009",
     "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
   },
@@ -41608,10 +41600,6 @@
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
@@ -44782,5 +44770,17 @@
   {
     "ItemCode": "LOG_102540022",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_103650031",
+    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
+  },
+  {
+    "ItemCode": "LOG_103650032",
+    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   }
 ]
