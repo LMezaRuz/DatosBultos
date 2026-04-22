@@ -24984,10 +24984,6 @@
     "ItemName": "[LOG] TE LIPTON PEPPERMINT INF 12 X 20 BLS"
   },
   {
-    "ItemCode": "LOG_104670062",
-    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 20 BLS"
-  },
-  {
     "ItemCode": "LOG_104670095",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
@@ -30370,10 +30366,6 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
   {
     "ItemCode": "300351017",
@@ -40956,10 +40948,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "204290000",
-    "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
-  },
-  {
     "ItemCode": "100854012",
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
@@ -42964,10 +42952,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -44320,10 +44304,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200201009",
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
   },
@@ -44500,10 +44480,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "LOG_104670061",
-    "ItemName": "[LOG] TE LIPTON CAMOMILE 12 X 20 BLS"
-  },
-  {
     "ItemCode": "LOG_104670067",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 50 BLS"
   },
@@ -44534,14 +44510,6 @@
   {
     "ItemCode": "LOG_104670077",
     "ItemName": "[LOG] TE LIPTON BLACK ORANGE 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "LOG_104670064",
-    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 50 BLS"
   },
   {
     "ItemCode": "LOG_104670057",
@@ -44782,5 +44750,37 @@
   {
     "ItemCode": "100356016",
     "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "204290000",
+    "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "LOG_104670064",
+    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 50 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670062",
+    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670061",
+    "ItemName": "[LOG] TE LIPTON CAMOMILE 12 X 20 BLS"
   }
 ]
