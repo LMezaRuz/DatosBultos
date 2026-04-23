@@ -30080,22 +30080,6 @@
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "102680002",
     "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
   },
@@ -30208,16 +30192,8 @@
     "ItemName": "QUESO MANTECOSO ALBAHACA RUEDA LPV 16X200 GR"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
     "ItemCode": "204380023",
@@ -30230,10 +30206,6 @@
   {
     "ItemCode": "103740002",
     "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
-  },
-  {
-    "ItemCode": "101009041",
-    "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
   },
   {
     "ItemCode": "103750004",
@@ -34328,10 +34300,6 @@
     "ItemName": "LECHE VAINILLA 6X200CC"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
@@ -34370,10 +34338,6 @@
   {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "100002008",
@@ -36158,14 +36122,6 @@
   {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
-    "ItemCode": "300157027",
-    "ItemName": "YOG. GRI OIKOS SAB NATURAL 48X110 CAJA"
-  },
-  {
-    "ItemCode": "300157028",
-    "ItemName": "YOG. GRI OIKOS SABOR FRUTILLA 48X110 CAJA"
   },
   {
     "ItemCode": "300154017",
@@ -41792,10 +41748,6 @@
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
   },
@@ -42738,10 +42690,6 @@
   {
     "ItemCode": "202720036",
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
-  },
-  {
-    "ItemCode": "300405007",
-    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
     "ItemCode": "300406007",
@@ -44200,10 +44148,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
@@ -44782,5 +44726,61 @@
   {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "300405007",
+    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "101009041",
+    "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOG. GRI OIKOS SABOR FRUTILLA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300157027",
+    "ItemName": "YOG. GRI OIKOS SAB NATURAL 48X110 CAJA"
   }
 ]
