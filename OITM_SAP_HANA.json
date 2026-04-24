@@ -27692,10 +27692,6 @@
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
   {
-    "ItemCode": "204310012",
-    "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
-  },
-  {
     "ItemCode": "204310013",
     "ItemName": "VOLCAN DE CHOCOLATE PREMIUM 14X100 GR"
   },
@@ -39400,10 +39396,6 @@
     "ItemName": "YOGURT BOLSA CALAN FRUTILLA 12x1 NUEVA CAJA"
   },
   {
-    "ItemCode": "300154034",
-    "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
     "ItemCode": "103180004",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
@@ -39418,10 +39410,6 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "300151002",
@@ -40548,10 +40536,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "304760349",
-    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -40606,10 +40590,6 @@
   {
     "ItemCode": "200002012",
     "ItemName": "EMPANADA CARNE MONGOLIANA 40 GR 2X50 UN"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "104560003",
@@ -44416,10 +44396,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "304760353",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -44448,16 +44424,8 @@
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "304760343",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
-    "ItemCode": "304760350",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "300157001",
@@ -44534,10 +44502,6 @@
   {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "102480008",
@@ -44656,40 +44620,12 @@
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
   {
-    "ItemCode": "304760348",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760355",
-    "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760120",
-    "ItemName": "GANSO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
   },
   {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
-    "ItemCode": "304760357",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760358",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760359",
-    "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760345",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "400005013",
@@ -44794,5 +44730,69 @@
   {
     "ItemCode": "104570015",
     "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
+  },
+  {
+    "ItemCode": "204310012",
+    "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "300154034",
+    "ItemName": "MARGARINA CALO 12X450"
+  },
+  {
+    "ItemCode": "304760353",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760343",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760350",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760349",
+    "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760348",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760355",
+    "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760120",
+    "ItemName": "GANSO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "304760357",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760358",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760359",
+    "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760345",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   }
 ]
