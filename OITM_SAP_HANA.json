@@ -32036,10 +32036,6 @@
     "ItemName": "PALTA HASS CALIBRE 10-18 PREMADURA CAJA 15 KG"
   },
   {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
-  },
-  {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
@@ -37652,10 +37648,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "100754002",
-    "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
-  },
-  {
     "ItemCode": "100355012",
     "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
   },
@@ -39006,10 +38998,6 @@
   {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "101004001",
@@ -43656,10 +43644,6 @@
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
@@ -43742,10 +43726,6 @@
   {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "100900001",
@@ -43966,10 +43946,6 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "100050003",
@@ -44368,10 +44344,6 @@
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -44568,24 +44540,8 @@
     "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "400250007",
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
-  },
-  {
-    "ItemCode": "304760353",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760343",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760350",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "304760346",
@@ -44636,12 +44592,88 @@
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "304760353",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760343",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760350",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "100754002",
+    "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
+  },
+  {
+    "ItemCode": "100500002",
+    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "101201049",
+    "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
+  },
+  {
+    "ItemCode": "101201048",
+    "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
+  },
+  {
+    "ItemCode": "101201028",
+    "ItemName": "LECHE ASADA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "100900004",
+    "ItemName": "POLENTA 1X1 KG"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
     "ItemCode": "100551002",
@@ -44650,6 +44682,10 @@
   {
     "ItemCode": "100552005",
     "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
     "ItemCode": "101304001",
@@ -44684,12 +44720,40 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "104620006",
@@ -44698,6 +44762,10 @@
   {
     "ItemCode": "104620007",
     "ItemName": "FIDEOS INSTANTANEOS DE POLLO TRAVERSO 12X65 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100751049",
@@ -44720,79 +44788,11 @@
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "100500002",
-    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
-  },
-  {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
-  },
-  {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "101201049",
-    "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
-    "ItemCode": "101201048",
-    "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
-    "ItemCode": "101201028",
-    "ItemName": "LECHE ASADA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "100900004",
-    "ItemName": "POLENTA 1X1 KG"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
     "ItemCode": "104670068",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 12X20 BLS"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   }
 ]
