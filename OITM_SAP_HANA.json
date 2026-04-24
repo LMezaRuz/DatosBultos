@@ -26780,10 +26780,6 @@
     "ItemName": "HELADO PUDU COCO PRESTIGIO 1X5 LT"
   },
   {
-    "ItemCode": "103110004",
-    "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
-  },
-  {
     "ItemCode": "304860009",
     "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
   },
@@ -28594,10 +28590,6 @@
   {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
-  },
-  {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
     "ItemCode": "200302017",
@@ -30904,10 +30896,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "303630000",
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
@@ -31608,10 +31596,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -32070,10 +32054,6 @@
   {
     "ItemCode": "100854011",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
-  },
-  {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
   {
     "ItemCode": "103070002",
@@ -36552,10 +36532,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
     "ItemCode": "203430018",
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
@@ -36726,10 +36702,6 @@
   {
     "ItemCode": "101001004",
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "100300007",
@@ -38414,10 +38386,6 @@
   {
     "ItemCode": "204100010",
     "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
     "ItemCode": "100558001",
@@ -44794,5 +44762,37 @@
   {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "103110004",
+    "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   }
 ]
