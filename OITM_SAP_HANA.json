@@ -28588,10 +28588,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "100355032",
     "ItemName": "SYRUP MANGO S/AZUCAR MONIN 1LT"
   },
@@ -38188,10 +38184,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
   {
-    "ItemCode": "400005010",
-    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
-  },
-  {
     "ItemCode": "400011019",
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
   },
@@ -39116,10 +39108,6 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100352003",
     "ItemName": "CAFE BARISTA (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
   },
@@ -39366,10 +39354,6 @@
   {
     "ItemCode": "100751050",
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "101250001",
@@ -44308,10 +44292,6 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
@@ -44704,10 +44684,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -44794,5 +44770,29 @@
   {
     "ItemCode": "400007009",
     "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "400005010",
+    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   }
 ]
