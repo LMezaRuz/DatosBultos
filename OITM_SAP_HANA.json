@@ -28580,10 +28580,6 @@
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "102980022",
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
@@ -30176,10 +30172,6 @@
     "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
   },
   {
-    "ItemCode": "101450002",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -30642,10 +30634,6 @@
   {
     "ItemCode": "102560016",
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "103520006",
@@ -31146,10 +31134,6 @@
   {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
-    "ItemCode": "102500000",
-    "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
   },
   {
     "ItemCode": "101007018",
@@ -31960,10 +31944,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
@@ -32616,16 +32596,8 @@
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100852020",
     "ItemName": "GALLETA OBSESION 1X85 GR"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100852019",
@@ -36464,10 +36436,6 @@
     "ItemName": "SERVILLETA TORK LUNCH NAPKIN BC 10 X 200 UN SE70044"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "303870006",
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
@@ -40098,10 +40066,6 @@
   {
     "ItemCode": "300001001",
     "ItemName": "CHOCOLATE CALLEBAUT EXTRA AMARGO 80% 8X2.5 KG"
-  },
-  {
-    "ItemCode": "200460046",
-    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
   },
   {
     "ItemCode": "100102011",
@@ -44652,10 +44616,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "404680001",
     "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
   },
@@ -44794,5 +44754,45 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "102500000",
+    "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
+  },
+  {
+    "ItemCode": "200460046",
+    "ItemName": "TRUTRO ENTERO INTERFOLIADO IMPORTADO 1X15 KG (FB)"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "101450002",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   }
 ]
