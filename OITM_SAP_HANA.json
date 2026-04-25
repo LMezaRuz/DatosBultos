@@ -26868,10 +26868,6 @@
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "304430002",
     "ItemName": "QUESO CREMA GREENBAY 10X1,36 KG"
   },
@@ -31876,10 +31872,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
-  },
-  {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
@@ -36172,10 +36164,6 @@
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
   {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
-  },
-  {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
   },
@@ -36494,10 +36482,6 @@
   {
     "ItemCode": "202720028",
     "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
-  },
-  {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
     "ItemCode": "100900006",
@@ -38146,10 +38130,6 @@
   {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "303850007",
@@ -44484,10 +44464,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -44794,5 +44770,29 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
   }
 ]
