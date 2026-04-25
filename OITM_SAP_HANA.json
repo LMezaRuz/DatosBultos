@@ -28068,10 +28068,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "204300020",
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 (APROX 15,4 KG)"
   },
@@ -28202,10 +28198,6 @@
   {
     "ItemCode": "304760416",
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
-  },
-  {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "304460004",
@@ -32518,10 +32510,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101010006",
-    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
   },
   {
     "ItemCode": "102780002",
@@ -38944,10 +38932,6 @@
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
@@ -39258,10 +39242,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
   {
     "ItemCode": "101305003",
@@ -39594,10 +39574,6 @@
   {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
-  },
-  {
-    "ItemCode": "202730076",
-    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
     "ItemCode": "400008003",
@@ -40212,10 +40188,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -40702,10 +40674,6 @@
   {
     "ItemCode": "300353004",
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "300151002",
@@ -44688,10 +44656,6 @@
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "204790010",
     "ItemName": "BROCOLI IQF 20X500 GR"
   },
@@ -44794,5 +44758,41 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101010006",
+    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "202730076",
+    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   }
 ]
