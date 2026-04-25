@@ -31200,10 +31200,6 @@
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -35672,10 +35668,6 @@
     "ItemName": "SACO GRANDE KRAFT MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -35830,10 +35822,6 @@
   {
     "ItemCode": "400150003",
     "ItemName": "KIMBO TAZA Y PLATO AMERICANO 6 UN"
-  },
-  {
-    "ItemCode": "300156002",
-    "ItemName": "YOGURT FRAMBUESA 1X1 LT"
   },
   {
     "ItemCode": "100351009",
@@ -39246,10 +39234,6 @@
   {
     "ItemCode": "100751042",
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "100300007",
@@ -43664,10 +43648,6 @@
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -44356,10 +44336,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -44696,10 +44672,6 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -44730,10 +44702,6 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "104670004",
@@ -44794,5 +44762,37 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300156002",
+    "ItemName": "YOGURT FRAMBUESA 1X1 LT"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
