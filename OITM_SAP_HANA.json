@@ -30900,10 +30900,6 @@
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "104520005",
-    "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
-  },
-  {
     "ItemCode": "204300068",
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
   },
@@ -38140,10 +38136,6 @@
     "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "202910028",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
   },
@@ -38178,10 +38170,6 @@
   {
     "ItemCode": "400102002",
     "ItemName": "PALOS PARA SUSHI 1X100 UN."
-  },
-  {
-    "ItemCode": "100559008",
-    "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
   },
   {
     "ItemCode": "100355008",
@@ -39342,10 +39330,6 @@
   {
     "ItemCode": "100751050",
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "100751042",
@@ -43796,10 +43780,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
-  },
-  {
     "ItemCode": "400250001",
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
@@ -43850,10 +43830,6 @@
   {
     "ItemCode": "104600003",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "200004004",
@@ -44220,10 +44196,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -44326,10 +44298,6 @@
   {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400102003",
@@ -44488,10 +44456,6 @@
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "200500017",
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
@@ -44542,10 +44506,6 @@
   {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101200021",
@@ -44676,14 +44636,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
@@ -44740,10 +44692,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -44758,10 +44706,6 @@
   {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "400005011",
@@ -44794,5 +44738,61 @@
   {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104520005",
+    "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "100559008",
+    "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   }
 ]
