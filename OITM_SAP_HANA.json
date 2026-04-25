@@ -31460,10 +31460,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
   {
-    "ItemCode": "300152007",
-    "ItemName": "GRASA PAMPERO BLOQUE 10X1"
-  },
-  {
     "ItemCode": "103910033",
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
@@ -36098,10 +36094,6 @@
   {
     "ItemCode": "102560001",
     "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "101150032",
@@ -44448,10 +44440,6 @@
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
   {
-    "ItemCode": "101007032",
-    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
   },
@@ -44794,5 +44782,17 @@
   {
     "ItemCode": "400010023",
     "ItemName": "RINZA 1X1 UN"
+  },
+  {
+    "ItemCode": "300152007",
+    "ItemName": "GRASA PAMPERO BLOQUE 10X1"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "101007032",
+    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   }
 ]
