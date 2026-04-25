@@ -29872,10 +29872,6 @@
     "ItemName": "PANCETA DE CERDO MADURADA CONG. (CAJA DE 13 A 19 KG)"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
@@ -30922,10 +30918,6 @@
   {
     "ItemCode": "203900002",
     "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
-  },
-  {
-    "ItemCode": "400151006",
-    "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
     "ItemCode": "400250002",
@@ -32348,10 +32340,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   },
@@ -32514,10 +32502,6 @@
   {
     "ItemCode": "101009038",
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
   },
   {
     "ItemCode": "100002012",
@@ -39108,10 +39092,6 @@
     "ItemName": "SALMON FILETE ATLANTICO TRIM D CONG VP PREMIUM 1X10 KG BM"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "102780008",
     "ItemName": "CAFE KIMBO EN GRANO TOP SELECTION (100% ARABICA) 6X1 KG"
   },
@@ -39322,10 +39302,6 @@
   {
     "ItemCode": "300152010",
     "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
     "ItemCode": "303750001",
@@ -43748,10 +43724,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
@@ -44472,10 +44444,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44586,10 +44554,6 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "101355003",
@@ -44704,10 +44668,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -44752,10 +44712,6 @@
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -44794,5 +44750,49 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "400151006",
+    "ItemName": "DISPENSADOR MONIN PUMP 750"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   }
 ]
