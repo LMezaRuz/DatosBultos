@@ -38904,10 +38904,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101201043",
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -39210,10 +39206,6 @@
   {
     "ItemCode": "101150063",
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "100550008",
@@ -39652,14 +39644,6 @@
     "ItemName": "JABON LIQUIDO 6X1000 ML  JA70005"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -39934,10 +39918,6 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101202001",
@@ -44268,10 +44248,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
@@ -44692,10 +44668,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -44794,5 +44766,33 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
