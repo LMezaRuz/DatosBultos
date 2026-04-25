@@ -30788,10 +30788,6 @@
     "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
   },
   {
-    "ItemCode": "101150004",
-    "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "101150010",
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
@@ -31962,10 +31958,6 @@
   {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
   {
     "ItemCode": "104570009",
@@ -38220,10 +38212,6 @@
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
-    "ItemCode": "203190045",
-    "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "200462002",
     "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
   },
@@ -38718,10 +38706,6 @@
   {
     "ItemCode": "203200029",
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
     "ItemCode": "103180007",
@@ -39538,10 +39522,6 @@
   {
     "ItemCode": "202730038",
     "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "304760252",
@@ -43776,10 +43756,6 @@
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
@@ -43922,14 +43898,6 @@
   {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "104090001",
@@ -44794,5 +44762,37 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "203190045",
+    "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "101150004",
+    "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   }
 ]
