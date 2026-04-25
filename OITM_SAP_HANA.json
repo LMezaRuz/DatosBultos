@@ -31800,10 +31800,6 @@
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "204000008",
     "ItemName": "CORAZON VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -38124,10 +38120,6 @@
     "ItemName": "SUPREMA DE POLLO 26X120 GR."
   },
   {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
     "ItemCode": "300400005",
     "ItemName": "QUESO EDAM QUILLAYES BOLA (325 GR APROX.)"
   },
@@ -39590,10 +39582,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "200100009",
@@ -43764,10 +43752,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -43946,10 +43930,6 @@
   {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "204380016",
@@ -44334,14 +44314,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "204380026",
@@ -44794,5 +44766,33 @@
   {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   }
 ]
