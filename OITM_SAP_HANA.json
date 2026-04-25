@@ -36096,10 +36096,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
-    "ItemCode": "400301020",
-    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
-  },
-  {
     "ItemCode": "100001007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
   },
@@ -37286,10 +37282,6 @@
   {
     "ItemCode": "200303002",
     "ItemName": "ROLLITO APANADOS MERLUZA 20X500 GR"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "100750001",
@@ -38834,10 +38826,6 @@
   {
     "ItemCode": "100352003",
     "ItemName": "CAFE BARISTA (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "101451005",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
   {
     "ItemCode": "103070007",
@@ -42952,10 +42940,6 @@
     "ItemName": "ACELGA FOOD SERVICE 8 UN X 1 KG"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
     "ItemCode": "300353001",
     "ItemName": "CHOCLILLO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -43374,10 +43358,6 @@
   {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "400250001",
@@ -44120,10 +44100,6 @@
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44304,10 +44280,6 @@
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "304760344",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -44342,10 +44314,6 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "303840001",
@@ -44794,5 +44762,37 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101451005",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "400301020",
+    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   }
 ]
