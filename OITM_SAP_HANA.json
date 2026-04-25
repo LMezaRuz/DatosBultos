@@ -25428,10 +25428,6 @@
     "ItemName": "CEREAL VIVO SHOT CHECK 21X 30 GR"
   },
   {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "102970001",
     "ItemName": "CHOCOLATE NEUCOBER LECHE 35% MONEDAS 6X1 KG"
   },
@@ -28442,10 +28438,6 @@
   {
     "ItemCode": "203210112",
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "204300042",
@@ -32234,10 +32226,6 @@
   {
     "ItemCode": "600001005",
     "ItemName": "PERA KG."
-  },
-  {
-    "ItemCode": "300351030",
-    "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
   {
     "ItemCode": "300353050",
@@ -39220,10 +39208,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "100600003",
-    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
     "ItemCode": "200460013",
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
@@ -44784,15 +44768,31 @@
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "300351030",
+    "ItemName": "LONGANIZA MODINGER 1x1 kg."
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100600003",
+    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   }
 ]
