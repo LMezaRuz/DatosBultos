@@ -27040,10 +27040,6 @@
     "ItemName": "HELADO VITTORE MENTA CHIPS 6 X 460 ML."
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "200100106",
     "ItemName": "HELADO VITTORE FRUTILLA AL AGUA 6 X 460 ML."
   },
@@ -27598,10 +27594,6 @@
   {
     "ItemCode": "101009039",
     "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
-  },
-  {
-    "ItemCode": "100700002",
-    "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "202820020",
@@ -31692,10 +31684,6 @@
     "ItemName": "MARGARINA CALO 6X900G"
   },
   {
-    "ItemCode": "100700003",
-    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
@@ -31758,10 +31746,6 @@
   {
     "ItemCode": "204700004",
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
-  },
-  {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100901003",
@@ -37508,10 +37492,6 @@
     "ItemName": "CARACOLES 1X5 KG"
   },
   {
-    "ItemCode": "300404004",
-    "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
-  },
-  {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
@@ -37702,10 +37682,6 @@
   {
     "ItemCode": "104670076",
     "ItemName": "INFUSION MANZANILLA CANELA Y MANZANA TWININGS 1X10 UN."
-  },
-  {
-    "ItemCode": "101100016",
-    "ItemName": "TALLARIN 87 1X5 KG"
   },
   {
     "ItemCode": "400012003",
@@ -39398,10 +39374,6 @@
   {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100303004",
@@ -44180,10 +44152,6 @@
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "101100039",
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
@@ -44378,10 +44346,6 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "403130001",
@@ -44652,10 +44616,6 @@
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44794,5 +44754,45 @@
   {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "300404004",
+    "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
+  },
+  {
+    "ItemCode": "101100016",
+    "ItemName": "TALLARIN 87 1X5 KG"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100700003",
+    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100700002",
+    "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   }
 ]
