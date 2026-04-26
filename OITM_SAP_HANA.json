@@ -39332,10 +39332,6 @@
     "ItemName": "COCA COLA LIGHT 6 X 1,5 LTS"
   },
   {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
     "ItemCode": "100300010",
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS 1 X 1,6 LT"
   },
@@ -39770,10 +39766,6 @@
   {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
     "ItemCode": "100002004",
@@ -44794,5 +44786,13 @@
   {
     "ItemCode": "304410001",
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
   }
 ]
