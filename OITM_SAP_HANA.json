@@ -28092,10 +28092,6 @@
     "ItemName": "COMPOTA DE PERA WATT'S 36X90"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -31310,10 +31306,6 @@
   {
     "ItemCode": "400104014",
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "102960001",
@@ -35764,10 +35756,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "101150009",
-    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
-  },
-  {
     "ItemCode": "100751042",
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
   },
@@ -35984,20 +35972,12 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
     "ItemCode": "400301020",
     "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
   },
   {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
     "ItemCode": "101401009",
@@ -38940,10 +38920,6 @@
     "ItemName": "CEBOLLA PERLA 6X1 KG"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -39490,10 +39466,6 @@
   {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
     "ItemCode": "101006004",
@@ -44120,10 +44092,6 @@
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "104010002",
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
@@ -44568,10 +44536,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -44794,5 +44758,41 @@
   {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "101150009",
+    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   }
 ]
