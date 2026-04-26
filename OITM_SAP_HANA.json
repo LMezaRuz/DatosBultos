@@ -28516,10 +28516,6 @@
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "103070007",
     "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
   },
@@ -38524,10 +38520,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "200200011",
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
@@ -43220,10 +43212,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
@@ -43450,10 +43438,6 @@
   {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "103670010",
@@ -43724,10 +43708,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
@@ -43980,10 +43960,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -44086,10 +44062,6 @@
   {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "200003001",
@@ -44794,5 +44766,33 @@
   {
     "ItemCode": "104080006",
     "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
