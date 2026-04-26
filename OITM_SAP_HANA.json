@@ -31764,10 +31764,6 @@
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   },
   {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
     "ItemCode": "202730015",
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
@@ -36012,10 +36008,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400150003",
     "ItemName": "KIMBO TAZA Y PLATO AMERICANO 6 UN"
   },
@@ -36458,10 +36450,6 @@
   {
     "ItemCode": "202910045",
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
-  },
-  {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
     "ItemCode": "300154032",
@@ -39816,10 +39804,6 @@
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
   },
   {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
-  },
-  {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
   },
@@ -39994,10 +39978,6 @@
   {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "202820010",
@@ -44140,10 +44120,6 @@
     "ItemName": "HELADO VITTORE FRUTILLA A LA CREMA 6 X 460 ML."
   },
   {
-    "ItemCode": "200200018",
-    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
-  },
-  {
     "ItemCode": "202800000",
     "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
   },
@@ -44664,10 +44640,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -44794,5 +44766,33 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "200200018",
+    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
   }
 ]
