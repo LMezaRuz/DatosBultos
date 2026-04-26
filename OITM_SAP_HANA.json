@@ -31320,10 +31320,6 @@
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
@@ -32066,10 +32062,6 @@
   {
     "ItemCode": "400003001",
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
-  },
-  {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
     "ItemCode": "101002007",
@@ -43060,10 +43052,6 @@
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "100304022",
     "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
   },
@@ -43074,10 +43062,6 @@
   {
     "ItemCode": "100002001",
     "ItemName": "ACEITE MARAVILLA  300 X 8 CC"
-  },
-  {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
   {
     "ItemCode": "100355018",
@@ -44196,10 +44180,6 @@
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -44604,10 +44584,6 @@
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
@@ -44630,26 +44606,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
-  },
-  {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "300404008",
@@ -44794,5 +44750,49 @@
   {
     "ItemCode": "103600004",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
