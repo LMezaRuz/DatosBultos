@@ -30644,10 +30644,6 @@
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
   {
-    "ItemCode": "304410001",
-    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
-  },
-  {
     "ItemCode": "104020003",
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
@@ -32278,10 +32274,6 @@
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
   {
     "ItemCode": "204380027",
@@ -38856,10 +38848,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "100558004",
-    "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
-  },
-  {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
@@ -39058,10 +39046,6 @@
   {
     "ItemCode": "202910006",
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
-  },
-  {
-    "ItemCode": "101202002",
-    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
   {
     "ItemCode": "100201016",
@@ -40032,10 +40016,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "100601001",
-    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -40376,10 +40356,6 @@
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
@@ -40446,10 +40422,6 @@
   {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
     "ItemCode": "300405006",
@@ -44272,16 +44244,8 @@
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "104600003",
@@ -44644,10 +44608,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -44752,10 +44712,6 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -44794,5 +44750,49 @@
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100601001",
+    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
+  },
+  {
+    "ItemCode": "101202002",
+    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100558004",
+    "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "304410001",
+    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   }
 ]
