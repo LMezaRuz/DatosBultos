@@ -31404,10 +31404,6 @@
     "ItemName": "POSTA ROSADA BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "104290008",
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
   },
@@ -31660,10 +31656,6 @@
     "ItemName": "MOSTAZA HEINZ SQUEEZZE 12X368 GR"
   },
   {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
     "ItemCode": "104670049",
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
@@ -31818,10 +31810,6 @@
   {
     "ItemCode": "302970006",
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
-  },
-  {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
   {
     "ItemCode": "400301101",
@@ -39024,10 +39012,6 @@
     "ItemName": "CAFE ARMONIA (100% ARABICA) EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
-  },
-  {
     "ItemCode": "202910007",
     "ItemName": "COSTILLAR CRIOLLO CON AJI DIEZ PUNTOS (8 X 1.3 KG APROX.)"
   },
@@ -39460,10 +39444,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "200460013",
-    "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -39710,10 +39690,6 @@
   {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
-  },
-  {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
     "ItemCode": "400005010",
@@ -43768,10 +43744,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -44254,10 +44226,6 @@
   {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "101352009",
@@ -44794,5 +44762,37 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM .(640 GR)"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "200460013",
+    "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   }
 ]
