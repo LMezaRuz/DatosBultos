@@ -30772,10 +30772,6 @@
     "ItemName": "CAFE DESCAFEINADO EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
@@ -31800,10 +31796,6 @@
     "ItemName": "MARGARINA CALO 6X900G"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "203190023",
     "ItemName": "MEDALLON DE PULPA MARINADA CAJA 18 KG APROX (TF)"
   },
@@ -32062,10 +32054,6 @@
   {
     "ItemCode": "304760005",
     "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "300353131",
@@ -32574,10 +32562,6 @@
   {
     "ItemCode": "102970013",
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "103840001",
@@ -36224,10 +36208,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
@@ -37554,10 +37534,6 @@
   {
     "ItemCode": "600001010",
     "ItemName": "MELON  KG."
-  },
-  {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
     "ItemCode": "300353113",
@@ -43872,10 +43848,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "100351009",
-    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -44688,10 +44660,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
@@ -44702,10 +44670,6 @@
   {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
-  },
-  {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
     "ItemCode": "100559006",
@@ -44794,5 +44758,41 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100351009",
+    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
