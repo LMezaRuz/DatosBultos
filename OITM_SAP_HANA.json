@@ -38628,10 +38628,6 @@
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
   },
   {
-    "ItemCode": "104010018",
-    "ItemName": "SALSA DE OSTRA 12X510 GR"
-  },
-  {
     "ItemCode": "102630001",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -38646,10 +38642,6 @@
   {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
     "ItemCode": "100152006",
@@ -39718,10 +39710,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "203200032",
@@ -44794,5 +44782,17 @@
   {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "104010018",
+    "ItemName": "SALSA DE OSTRA 12X510 GR"
   }
 ]
