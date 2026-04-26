@@ -32012,10 +32012,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "304760351",
     "ItemName": "PLATEADA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -38268,10 +38264,6 @@
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "203230005",
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
@@ -38384,10 +38376,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "300351006",
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
@@ -38418,10 +38406,6 @@
   {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
-  },
-  {
-    "ItemCode": "101008005",
-    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
   {
     "ItemCode": "100500002",
@@ -39320,10 +39304,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "600001006",
     "ItemName": "UVA KG."
   },
@@ -39354,10 +39334,6 @@
   {
     "ItemCode": "101002002",
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
-  },
-  {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
   {
     "ItemCode": "100002004",
@@ -43688,10 +43664,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -43812,10 +43784,6 @@
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -43854,10 +43822,6 @@
   {
     "ItemCode": "102780006",
     "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "202910045",
@@ -44364,10 +44328,6 @@
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -44418,14 +44378,6 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "400105005",
@@ -44506,10 +44458,6 @@
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100900003",
@@ -44776,10 +44724,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
@@ -44794,5 +44738,61 @@
   {
     "ItemCode": "200200012",
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101008005",
+    "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   }
 ]
