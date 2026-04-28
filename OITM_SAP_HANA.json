@@ -36196,10 +36196,6 @@
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
@@ -36350,10 +36346,6 @@
   {
     "ItemCode": "100900006",
     "ItemName": "CHUÑO 1X500 GR"
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "100751044",
@@ -37554,10 +37546,6 @@
   {
     "ItemCode": "204000019",
     "ItemName": "TRUTRO DE POLLO 1/4 EMPIRE 5X2,4 KG (KOSHER)"
-  },
-  {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "300152016",
@@ -43632,10 +43620,6 @@
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
@@ -43882,10 +43866,6 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "100101006",
@@ -44802,5 +44782,25 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
