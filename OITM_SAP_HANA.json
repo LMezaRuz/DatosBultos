@@ -34380,10 +34380,6 @@
     "ItemName": "FLAN VIVO CHOCOLATE C/CARAMELO 12X90 GR"
   },
   {
-    "ItemCode": "101357008",
-    "ItemName": "SALSA DE SOYA LA PRIMERA 6X1 LT."
-  },
-  {
     "ItemCode": "304760347",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -43764,48 +43760,8 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "101402006",
-    "ItemName": "ALCAPARRAS 1X110 GR"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100552003",
-    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
-  },
-  {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "101302002",
-    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "104080006",
-    "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
   {
     "ItemCode": "100002003",
@@ -44484,10 +44440,6 @@
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
@@ -44586,10 +44538,6 @@
   {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101305008",
@@ -44802,5 +44750,57 @@
   {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "100552003",
+    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "101302002",
+    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101357008",
+    "ItemName": "SALSA DE SOYA LA PRIMERA 6X1 LT."
+  },
+  {
+    "ItemCode": "101402006",
+    "ItemName": "ALCAPARRAS 1X110 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "104080006",
+    "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   }
 ]
