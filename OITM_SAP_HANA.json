@@ -25936,10 +25936,6 @@
     "ItemName": "TE LIPTON DARING EGL BKFST 12X10BLS"
   },
   {
-    "ItemCode": "202910037",
-    "ItemName": "TOCINO PICADO ESPECIAL DE CERDO 23 KG (APROX)"
-  },
-  {
     "ItemCode": "304760310",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -38456,10 +38452,6 @@
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
-    "ItemCode": "101007022",
-    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -39564,10 +39556,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
-  },
-  {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -40062,10 +40050,6 @@
   {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
-  },
-  {
-    "ItemCode": "100750003",
-    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
     "ItemCode": "104600004",
@@ -43152,10 +43136,6 @@
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100202014",
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
@@ -43792,14 +43772,6 @@
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101008005",
     "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
@@ -44100,10 +44072,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -44130,10 +44098,6 @@
   {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
     "ItemCode": "200452003",
@@ -44298,10 +44262,6 @@
   {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "101001004",
@@ -44676,10 +44636,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "103520009",
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
@@ -44808,10 +44764,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -44842,5 +44794,53 @@
   {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
+  },
+  {
+    "ItemCode": "100750003",
+    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "202910037",
+    "ItemName": "TOCINO PICADO ESPECIAL DE CERDO 23 KG (APROX)"
+  },
+  {
+    "ItemCode": "101007022",
+    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
   }
 ]
