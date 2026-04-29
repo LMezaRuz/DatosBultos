@@ -33784,10 +33784,6 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
@@ -40768,10 +40764,6 @@
     "ItemName": "COLIFLOR IQF 7X1 KG."
   },
   {
-    "ItemCode": "202730007",
-    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
     "ItemCode": "103600003",
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
@@ -41666,10 +41658,6 @@
   {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "200500032",
@@ -42980,10 +42968,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -43040,10 +43024,6 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -43098,10 +43078,6 @@
   {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
-    "ItemCode": "300353006",
-    "ItemName": "POSTA ROSADA CAT V BRASIL LOCAL (20 KG APROX)"
   },
   {
     "ItemCode": "300353007",
@@ -44684,10 +44660,6 @@
     "ItemName": "ABASTERO AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
     "ItemCode": "302960000",
     "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
@@ -44842,5 +44814,33 @@
   {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "300353006",
+    "ItemName": "POSTA ROSADA CAT V BRASIL LOCAL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "202730007",
+    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   }
 ]
