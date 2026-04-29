@@ -27816,10 +27816,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
   {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "102970012",
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
@@ -28272,10 +28268,6 @@
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
   },
   {
-    "ItemCode": "104670006",
-    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
     "ItemCode": "302890048",
     "ItemName": "VIENESAS MODINGER 1X1 KG"
   },
@@ -28454,10 +28446,6 @@
   {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "102480009",
@@ -43244,10 +43232,6 @@
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "200003005",
-    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
     "ItemCode": "100751024",
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
   },
@@ -43338,10 +43322,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
     "ItemCode": "101050003",
@@ -43706,10 +43686,6 @@
   {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100300007",
@@ -44672,10 +44648,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -44842,5 +44814,33 @@
   {
     "ItemCode": "304760238",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104670006",
+    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200003005",
+    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   }
 ]
