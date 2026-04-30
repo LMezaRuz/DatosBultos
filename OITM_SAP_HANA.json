@@ -26536,22 +26536,6 @@
     "ItemName": "PECHUGA DE POLLO DESHUESADA IMP. CONG. 18X907 GR  (KOSHER)"
   },
   {
-    "ItemCode": "LOG_102540019",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540018",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540016",
-    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540017",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
     "ItemCode": "LOG_103650031",
     "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
   },
@@ -32530,10 +32514,6 @@
   {
     "ItemCode": "204790025",
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "104680000",
@@ -40292,10 +40272,6 @@
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100500002",
-    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
     "ItemCode": "300157046",
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
@@ -44852,11 +44828,35 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+  },
+  {
     "ItemCode": "LOG_102540022",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
   },
   {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "LOG_102540018",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540016",
+    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540017",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
+    "ItemCode": "LOG_102540019",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "100500002",
+    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   }
 ]
