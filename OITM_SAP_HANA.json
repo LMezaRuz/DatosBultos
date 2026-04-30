@@ -39672,10 +39672,6 @@
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -44080,10 +44076,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
@@ -44094,10 +44086,6 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100751003",
@@ -44286,10 +44274,6 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "101302001",
@@ -44576,10 +44560,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "203550002",
     "ItemName": "FRANUI CHOCOLATE AMARGO 24X150 GR."
   },
@@ -44800,10 +44780,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "LOG_102540022",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
   },
@@ -44812,32 +44788,8 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "LOG_102540018",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540016",
-    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540017",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
-    "ItemCode": "LOG_102540019",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "LOG_103650031",
-    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
-  },
-  {
-    "ItemCode": "LOG_103650032",
-    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
   },
   {
     "ItemCode": "304430007",
@@ -44852,11 +44804,59 @@
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "LOG_102540019",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540018",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540016",
+    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540017",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+  },
+  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "LOG_103650031",
+    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
+  },
+  {
+    "ItemCode": "LOG_103650032",
+    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
   }
 ]
