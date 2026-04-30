@@ -26536,14 +26536,6 @@
     "ItemName": "PECHUGA DE POLLO DESHUESADA IMP. CONG. 18X907 GR  (KOSHER)"
   },
   {
-    "ItemCode": "LOG_103650031",
-    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
-  },
-  {
-    "ItemCode": "LOG_103650032",
-    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
-  },
-  {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
@@ -39732,10 +39724,6 @@
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
   {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
@@ -44858,5 +44846,17 @@
   {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "LOG_103650031",
+    "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
+  },
+  {
+    "ItemCode": "LOG_103650032",
+    "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   }
 ]
