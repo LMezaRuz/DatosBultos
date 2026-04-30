@@ -26596,16 +26596,8 @@
     "ItemName": "LECHE EVAPORADA SIN LACTOSA LONCO LECHE 6X200"
   },
   {
-    "ItemCode": "LOG_102540020",
-    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "101450003",
     "ItemName": "SUCEDANEO DE LIMON 300 X 8 CC."
-  },
-  {
-    "ItemCode": "LOG_102540021",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
   },
   {
     "ItemCode": "203190012",
@@ -27552,10 +27544,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
   {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "302890025",
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
@@ -28182,10 +28170,6 @@
   {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
     "ItemCode": "204170000",
@@ -31468,10 +31452,6 @@
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
   {
-    "ItemCode": "200200018",
-    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
-  },
-  {
     "ItemCode": "104820013",
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
   },
@@ -31570,10 +31550,6 @@
   {
     "ItemCode": "300353111",
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "304760182",
@@ -38268,10 +38244,6 @@
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "203210112",
-    "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
-  },
-  {
     "ItemCode": "204790006",
     "ItemName": "ARVEJAS DIEZ PUNTOS 25X200 GR"
   },
@@ -38738,10 +38710,6 @@
   {
     "ItemCode": "200460008",
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "101200021",
@@ -44024,10 +43992,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -44188,10 +44152,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
@@ -44262,10 +44222,6 @@
   {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "300156001",
@@ -44482,14 +44438,6 @@
   {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101305002",
@@ -44764,10 +44712,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "LOG_102540022",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -44798,10 +44742,6 @@
   {
     "ItemCode": "LOG_102540018",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
   },
   {
     "ItemCode": "101010002",
@@ -44858,5 +44798,65 @@
   {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "200200018",
+    "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540022",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540020",
+    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540021",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "203210112",
+    "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   }
 ]
