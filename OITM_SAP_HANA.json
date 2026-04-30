@@ -30632,10 +30632,6 @@
     "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
   },
   {
-    "ItemCode": "204300002",
-    "ItemName": "FILETILLO DE POLLO CONG. 6X2 KG IMP"
-  },
-  {
     "ItemCode": "203550030",
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
@@ -34250,10 +34246,6 @@
   {
     "ItemCode": "101009007",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
     "ItemCode": "100302014",
@@ -40572,10 +40564,6 @@
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400005009",
-    "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
     "ItemCode": "400005017",
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
@@ -40814,10 +40802,6 @@
   {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
-    "ItemCode": "100001007",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
   },
   {
     "ItemCode": "100300010",
@@ -41952,10 +41936,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   },
   {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -42588,10 +42568,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
@@ -43200,10 +43176,6 @@
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "304760107",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -43510,10 +43482,6 @@
   {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
-    "ItemCode": "101007022",
-    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "100101004",
@@ -43904,10 +43872,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -44082,10 +44046,6 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "101251002",
@@ -44724,10 +44684,6 @@
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -44882,5 +44838,49 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101007022",
+    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100001007",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
+  },
+  {
+    "ItemCode": "400005009",
+    "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "204300002",
+    "ItemName": "FILETILLO DE POLLO CONG. 6X2 KG IMP"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   }
 ]
