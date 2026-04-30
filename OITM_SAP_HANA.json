@@ -27136,10 +27136,6 @@
     "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
   },
   {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "304760296",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
@@ -36260,10 +36256,6 @@
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "202990000",
     "ItemName": "CHURROS ESPAÑOL CONGELADO 7X20X22 GR"
   },
@@ -39494,10 +39486,6 @@
   {
     "ItemCode": "200307011",
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
-  },
-  {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
     "ItemCode": "101300003",
@@ -44812,14 +44800,6 @@
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
   },
   {
-    "ItemCode": "LOG_102540016",
-    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540017",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
     "ItemCode": "LOG_102540023",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
   },
@@ -44848,6 +44828,22 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "LOG_102540016",
+    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540017",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
     "ItemCode": "LOG_103650031",
     "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
   },
@@ -44856,7 +44852,11 @@
     "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
   },
   {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
   }
 ]
