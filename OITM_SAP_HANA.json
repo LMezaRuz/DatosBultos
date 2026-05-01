@@ -38088,14 +38088,6 @@
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
   },
@@ -39092,10 +39084,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "202730041",
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
@@ -39858,10 +39846,6 @@
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "100101012",
@@ -43916,10 +43900,6 @@
     "ItemName": "LECHE PROTEIN SHOT SABOR VAINILLA PACK 6X100"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -44472,10 +44452,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "104670006",
     "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
   },
@@ -44584,14 +44560,6 @@
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
@@ -44686,10 +44654,6 @@
   {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "100050003",
@@ -44848,10 +44812,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
@@ -44876,11 +44836,51 @@
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
   {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
   }
 ]
