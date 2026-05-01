@@ -27900,10 +27900,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "102560016",
-    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12x1 NUEVA CAJA"
   },
@@ -31016,10 +31012,6 @@
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
   },
@@ -31326,10 +31318,6 @@
   {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
-  },
-  {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
   {
     "ItemCode": "103670023",
@@ -32036,10 +32024,6 @@
     "ItemName": "CIBOULETTE"
   },
   {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "600002014",
     "ItemName": "PEPINO 1x1 un."
   },
@@ -32308,10 +32292,6 @@
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103830001",
     "ItemName": "MANJAR LONCOLECHE PARA PASTELERIA 4 X 3 KG"
   },
@@ -32358,10 +32338,6 @@
   {
     "ItemCode": "103110006",
     "ItemName": "CREMA PARA BATIR CREAMY WHIP DELIGHT 12X1 LT"
-  },
-  {
-    "ItemCode": "101202005",
-    "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
   {
     "ItemCode": "101201026",
@@ -40272,10 +40248,6 @@
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
@@ -43684,10 +43656,6 @@
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   },
   {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
@@ -44388,10 +44356,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
   },
@@ -44602,10 +44566,6 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "403130002",
@@ -44882,5 +44842,45 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
+  },
+  {
+    "ItemCode": "101202005",
+    "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "102560016",
+    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   }
 ]
