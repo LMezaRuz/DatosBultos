@@ -27180,10 +27180,6 @@
     "ItemName": "MINI WAFFLES DE PAPA FARM FRITES 10X1,1 KG"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "204310003",
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
   },
@@ -30544,10 +30540,6 @@
     "ItemName": "CARBONADA WASIL 16X380G"
   },
   {
-    "ItemCode": "103480003",
-    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
-  },
-  {
     "ItemCode": "103480004",
     "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
   },
@@ -31716,10 +31708,6 @@
     "ItemName": "CARBON PREMIUM 2KL"
   },
   {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
@@ -32606,10 +32594,6 @@
   {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
     "ItemCode": "300157032",
@@ -39724,10 +39708,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100101018",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
     "ItemCode": "101201036",
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
@@ -40352,10 +40332,6 @@
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101007018",
-    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
-  },
-  {
     "ItemCode": "202730045",
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
@@ -40666,10 +40642,6 @@
   {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "300153004",
@@ -44882,5 +44854,33 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "100101018",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101007018",
+    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
+  },
+  {
+    "ItemCode": "103480003",
+    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   }
 ]
