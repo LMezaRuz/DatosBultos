@@ -26292,10 +26292,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
   },
   {
-    "ItemCode": "104670076",
-    "ItemName": "INFUSION MANZANILLA CANELA Y MANZANA TWININGS 1X10 UN."
-  },
-  {
     "ItemCode": "202820018",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
@@ -28340,10 +28336,6 @@
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
   {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "204700004",
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
@@ -28476,10 +28468,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "101300002",
-    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
-  },
-  {
     "ItemCode": "300151004",
     "ItemName": "PACK PROBIOTICO MORA CALAN 6X90ML"
   },
@@ -28534,10 +28522,6 @@
   {
     "ItemCode": "101012001",
     "ItemName": "MILO ACTIV-GO 1X300g"
-  },
-  {
-    "ItemCode": "104670049",
-    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
   {
     "ItemCode": "104670011",
@@ -39212,10 +39196,6 @@
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "104040029",
     "ItemName": "CONDIMENTO PIMIENTA (APANADO CROCANTE) 1X5 KG"
   },
@@ -39488,10 +39468,6 @@
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "104670003",
-    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
@@ -39710,10 +39686,6 @@
   {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "100201010",
@@ -43936,10 +43908,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -44112,10 +44080,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -44286,10 +44250,6 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
-  },
-  {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
   },
   {
     "ItemCode": "303870004",
@@ -44640,10 +44600,6 @@
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -44796,10 +44752,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100200004",
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
@@ -44882,5 +44834,53 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101300002",
+    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670049",
+    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
+  },
+  {
+    "ItemCode": "104670076",
+    "ItemName": "INFUSION MANZANILLA CANELA Y MANZANA TWININGS 1X10 UN."
+  },
+  {
+    "ItemCode": "104670003",
+    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
   }
 ]
