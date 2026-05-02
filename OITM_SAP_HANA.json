@@ -25792,10 +25792,6 @@
     "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   },
   {
-    "ItemCode": "203210119",
-    "ItemName": "BASTONES DE FILETE DE VACUNO COCIDOS 4X1 KG (MP)"
-  },
-  {
     "ItemCode": "202910037",
     "ItemName": "TOCINO PICADO ESPECIAL DE CERDO 23 KG (APROX)"
   },
@@ -35860,10 +35856,6 @@
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
@@ -37732,10 +37724,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
   },
   {
-    "ItemCode": "200303016",
-    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "500001086",
     "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
   },
@@ -38652,10 +38640,6 @@
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
@@ -39222,10 +39206,6 @@
   {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
     "ItemCode": "200500037",
@@ -43232,10 +43212,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
@@ -43744,10 +43720,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "100600007",
     "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
   },
@@ -43954,10 +43926,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "202730011",
@@ -44508,10 +44476,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
@@ -44650,10 +44614,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100902003",
@@ -44882,5 +44842,45 @@
   {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "203210119",
+    "ItemName": "BASTONES DE FILETE DE VACUNO COCIDOS 4X1 KG (MP)"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "200303016",
+    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
   }
 ]
