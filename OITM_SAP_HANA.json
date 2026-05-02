@@ -31736,10 +31736,6 @@
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "400003004",
     "ItemName": "DESINFECTANTE LYSOFORM SURTIDOS 1X360 CC"
   },
@@ -32612,20 +32608,12 @@
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
   {
-    "ItemCode": "300157032",
-    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
-  },
-  {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
   {
     "ItemCode": "101009004",
     "ItemName": "LECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
     "ItemCode": "200500018",
@@ -35786,10 +35774,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "200303024",
@@ -40780,10 +40764,6 @@
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
     "ItemCode": "303840001",
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
@@ -44100,10 +44080,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
-  },
-  {
     "ItemCode": "300157041",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
   },
@@ -44882,5 +44858,29 @@
   {
     "ItemCode": "202730012",
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTILLA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOG. GRI OIKOS TROZO PAPAYA 48X110 CAJA"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   }
 ]
