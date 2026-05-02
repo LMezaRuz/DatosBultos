@@ -30672,10 +30672,6 @@
     "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
   },
   {
-    "ItemCode": "203200038",
-    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "204140009",
     "ItemName": "HALLULLA PRECOCIDA CONGELADA 85 GR CAJA 8 KG"
   },
@@ -30874,10 +30870,6 @@
   {
     "ItemCode": "202730079",
     "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100250007",
@@ -42144,10 +42136,6 @@
     "ItemName": "PECANES 1X13,6KG"
   },
   {
-    "ItemCode": "101008004",
-    "ItemName": "LECHE ENTERA UHT 6x200 ml."
-  },
-  {
     "ItemCode": "101006005",
     "ItemName": "LECHE SEMI DESCREMADA SOPROLE 12X1 LT."
   },
@@ -43156,10 +43144,6 @@
     "ItemName": "CUCHARA 17 CM COMPOSTABLE 1000 UN X CAJA"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -43386,10 +43370,6 @@
   {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
-  },
-  {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100355003",
@@ -44360,10 +44340,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -44676,10 +44652,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "203190051",
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
@@ -44780,16 +44752,8 @@
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "103830005",
@@ -44882,5 +44846,41 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203200038",
+    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "101008004",
+    "ItemName": "LECHE ENTERA UHT 6x200 ml."
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   }
 ]
