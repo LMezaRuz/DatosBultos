@@ -30596,10 +30596,6 @@
     "ItemName": "BEBIDA VEGETAL LONCOLECHE DE AVENA 6X1 LT"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "304760359",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -31890,10 +31886,6 @@
   {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "303870007",
-    "ItemName": "MARGARINA SURENA LIGHT POTE 12X450 GR"
   },
   {
     "ItemCode": "100852019",
@@ -42840,10 +42832,6 @@
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
-    "ItemCode": "100754003",
-    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
-  },
-  {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
@@ -43592,10 +43580,6 @@
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
   {
-    "ItemCode": "103750003",
-    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
@@ -43638,10 +43622,6 @@
   {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "103070003",
@@ -43850,10 +43830,6 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "202730011",
@@ -44368,10 +44344,6 @@
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
@@ -44768,10 +44740,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "203210119",
     "ItemName": "BASTONES DE FILETE DE VACUNO COCIDOS 4X1 KG (MP)"
   },
@@ -44794,14 +44762,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
     "ItemCode": "204180026",
@@ -44882,5 +44842,45 @@
   {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "100754003",
+    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "303870007",
+    "ItemName": "MARGARINA SURENA LIGHT POTE 12X450 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "103750003",
+    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
