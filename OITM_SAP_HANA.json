@@ -35580,10 +35580,6 @@
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
   {
-    "ItemCode": "304110015",
-    "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
-  },
-  {
     "ItemCode": "101150012",
     "ItemName": "CONDIMENTO PARA SALSA DE TOMATE JUAN MAESTRO 5X1 KG"
   },
@@ -43316,10 +43312,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200500017",
-    "ItemName": "HABAS PELADAS 7X1 KG."
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -44436,10 +44428,6 @@
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
-    "ItemCode": "300405007",
-    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -44724,16 +44712,8 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "101402007",
@@ -44882,5 +44862,25 @@
   {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "300405007",
+    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "304110015",
+    "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
+  },
+  {
+    "ItemCode": "200500017",
+    "ItemName": "HABAS PELADAS 7X1 KG."
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   }
 ]
