@@ -38324,10 +38324,6 @@
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12 X 20 BLS"
   },
@@ -38546,10 +38542,6 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "200402012",
@@ -39514,10 +39506,6 @@
   {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
-  },
-  {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
   {
     "ItemCode": "400251002",
@@ -43312,10 +43300,6 @@
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100600007",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
-  },
-  {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
@@ -43358,10 +43342,6 @@
   {
     "ItemCode": "400011019",
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
-  },
-  {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
     "ItemCode": "200051018",
@@ -43564,10 +43544,6 @@
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -43726,10 +43702,6 @@
   {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "200050009",
@@ -44128,10 +44100,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -44278,10 +44246,6 @@
   {
     "ItemCode": "202620000",
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
-    "ItemCode": "200456050",
-    "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
   },
   {
     "ItemCode": "203210107",
@@ -44704,14 +44668,6 @@
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "102560001",
     "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
@@ -44882,5 +44838,49 @@
   {
     "ItemCode": "202820011",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100600007",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "200456050",
+    "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   }
 ]
