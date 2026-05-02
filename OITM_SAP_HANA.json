@@ -31116,10 +31116,6 @@
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "100303004",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
@@ -44428,10 +44424,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
@@ -44630,10 +44622,6 @@
   {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "101355003",
@@ -44882,5 +44870,17 @@
   {
     "ItemCode": "200456050",
     "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   }
 ]
