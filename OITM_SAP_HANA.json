@@ -32156,10 +32156,6 @@
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
   {
-    "ItemCode": "300351016",
-    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
-  },
-  {
     "ItemCode": "200460014",
     "ItemName": "TRUTRO ENTERO DE POLLO CONG  700 GR"
   },
@@ -35802,10 +35798,6 @@
   {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "203200029",
@@ -40476,10 +40468,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "200458004",
     "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
@@ -40496,20 +40484,12 @@
     "ItemName": "QUESO MOZZARELLA BARRA NAC X KG (3,5 KG APROX)"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "200460013",
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
   {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "100557021",
@@ -44344,10 +44324,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -44652,16 +44628,8 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "200100010",
@@ -44738,10 +44706,6 @@
   {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "100004006",
@@ -44868,10 +44832,6 @@
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
   {
-    "ItemCode": "100351004",
-    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
@@ -44882,5 +44842,45 @@
   {
     "ItemCode": "304760403",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100351004",
+    "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "300351016",
+    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   }
 ]
