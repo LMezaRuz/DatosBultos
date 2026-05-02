@@ -39648,10 +39648,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
@@ -39734,10 +39730,6 @@
   {
     "ItemCode": "202730074",
     "ItemName": "MINI CROISSANT BLEND EUROPASTRY 546X24 GR (85042)"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "102610000",
@@ -39828,10 +39820,6 @@
     "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -39914,10 +39902,6 @@
   {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "100001006",
@@ -43160,10 +43144,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
@@ -43740,10 +43720,6 @@
     "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
-    "ItemCode": "101100066",
-    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -43984,10 +43960,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
   },
@@ -44010,10 +43982,6 @@
   {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "103070009",
@@ -44230,10 +44198,6 @@
   {
     "ItemCode": "100351004",
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "203200036",
@@ -44550,10 +44514,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
     "ItemCode": "104560003",
@@ -44882,5 +44842,45 @@
   {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "101100066",
+    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
   }
 ]
