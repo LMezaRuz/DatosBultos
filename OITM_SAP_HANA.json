@@ -32608,10 +32608,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101012008",
     "ItemName": "SABORIZANTE CHOCOLATE RED. AZUCAR TKF 1X1 KG"
   },
@@ -40608,10 +40604,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "200200032",
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
@@ -43980,10 +43972,6 @@
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -44882,5 +44870,17 @@
   {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
