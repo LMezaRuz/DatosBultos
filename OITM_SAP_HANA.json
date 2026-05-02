@@ -30740,10 +30740,6 @@
     "ItemName": "LECHE MOMENTS MOCACCINO 18X200 CC"
   },
   {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "101401002",
     "ItemName": "ENSALADA DE VERDURAS 16X340"
   },
@@ -31556,10 +31552,6 @@
     "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
   },
   {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
-  },
-  {
     "ItemCode": "300351003",
     "ItemName": "JAMON PIERNA LAMINADO MODINGER 1x150 g."
   },
@@ -31968,16 +31960,8 @@
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
   },
   {
-    "ItemCode": "103910017",
-    "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "103910060",
     "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "400004007",
@@ -32194,10 +32178,6 @@
   {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910032",
@@ -35660,10 +35640,6 @@
     "ItemName": "MERMELADA REGIMEL BERRIES 24X200"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
@@ -39004,10 +38980,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
     "ItemCode": "101351011",
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
@@ -40158,10 +40130,6 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
     "ItemCode": "104020005",
@@ -44172,10 +44140,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
@@ -44448,10 +44412,6 @@
     "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -44592,10 +44552,6 @@
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "101401003",
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
@@ -44698,10 +44654,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100351004",
@@ -44882,5 +44834,53 @@
   {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910017",
+    "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   }
 ]
