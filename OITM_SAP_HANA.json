@@ -27872,10 +27872,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 25X200 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -38708,10 +38704,6 @@
     "ItemName": "MINI CROISSANT BLEND EUROPASTRY 546X24 GR (85042)"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "200200033",
     "ItemName": "REJILLA PASTELERA X 72 UN"
   },
@@ -42316,10 +42308,6 @@
     "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "400012003",
-    "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
     "ItemCode": "104610006",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
@@ -42552,10 +42540,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
@@ -42598,10 +42582,6 @@
   {
     "ItemCode": "303850011",
     "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "100557001",
@@ -42886,10 +42866,6 @@
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
   {
     "ItemCode": "204380021",
@@ -43186,10 +43162,6 @@
   {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "300400008",
@@ -44380,16 +44352,8 @@
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "403130002",
@@ -44560,10 +44524,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -44718,10 +44678,6 @@
   {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "101404002",
@@ -44882,5 +44838,49 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "400012003",
+    "ItemName": "PALA PLASTICA 1X1 UN."
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   }
 ]
