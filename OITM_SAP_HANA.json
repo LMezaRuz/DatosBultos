@@ -42856,10 +42856,6 @@
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "304760239",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -42960,10 +42956,6 @@
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -43062,14 +43054,6 @@
   {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "101401003",
@@ -43522,10 +43506,6 @@
   {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
-    "ItemCode": "103070003",
-    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
   {
     "ItemCode": "202820011",
@@ -44882,5 +44862,25 @@
   {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "103070003",
+    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
   }
 ]
