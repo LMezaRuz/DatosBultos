@@ -43464,10 +43464,6 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -44432,82 +44428,6 @@
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
   {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "204140018",
-    "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
-  },
-  {
-    "ItemCode": "204150019",
-    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100200004",
-    "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
-    "ItemCode": "103920003",
-    "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
-    "ItemCode": "101356003",
-    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
-  },
-  {
-    "ItemCode": "101100064",
-    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "102480001",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
@@ -44724,10 +44644,6 @@
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
@@ -44786,10 +44702,6 @@
   {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "100052005",
@@ -44882,5 +44794,93 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA NAC X KG (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
+  },
+  {
+    "ItemCode": "204140018",
+    "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 40 GR (CAJA 5 KG)"
+  },
+  {
+    "ItemCode": "204150019",
+    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100200004",
+    "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "103920003",
+    "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101356003",
+    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "101100064",
+    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   }
 ]
