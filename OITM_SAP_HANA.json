@@ -30956,10 +30956,6 @@
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "101006003",
     "ItemName": "LECHE SEMIDESCREMADA UHT COLUN 12x1 LT"
   },
@@ -38304,10 +38300,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "101301002",
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
@@ -38866,10 +38858,6 @@
   {
     "ItemCode": "203210117",
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "300151004",
@@ -44882,5 +44870,17 @@
   {
     "ItemCode": "304420007",
     "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   }
 ]
