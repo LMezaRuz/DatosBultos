@@ -28288,10 +28288,6 @@
     "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "104670076",
     "ItemName": "INFUSION MANZANILLA CANELA Y MANZANA TWININGS 1X10 UN."
   },
@@ -31612,10 +31608,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -32136,10 +32128,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA NAC X KG (3,5 KG APROX)"
   },
@@ -32302,10 +32290,6 @@
   {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "400251015",
-    "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
   {
     "ItemCode": "103250007",
@@ -39936,10 +39920,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
@@ -40490,10 +40470,6 @@
   {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "300400009",
@@ -44196,10 +44172,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
@@ -44390,10 +44362,6 @@
   {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101201011",
@@ -44882,5 +44850,37 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "400251015",
+    "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   }
 ]
