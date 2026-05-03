@@ -37636,10 +37636,6 @@
     "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
   },
   {
-    "ItemCode": "104190000",
-    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
-  },
-  {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
@@ -43564,10 +43560,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -44624,10 +44616,6 @@
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "103140003",
     "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
   },
@@ -44640,10 +44628,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "400252007",
     "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
   },
@@ -44652,24 +44636,8 @@
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
     "ItemCode": "400001003",
@@ -44684,14 +44652,6 @@
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
@@ -44702,14 +44662,6 @@
   {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "103940025",
@@ -44756,10 +44708,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -44770,10 +44718,6 @@
   {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "204700025",
@@ -44882,5 +44826,61 @@
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "104190000",
+    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   }
 ]
