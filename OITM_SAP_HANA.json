@@ -26712,10 +26712,6 @@
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "203230016",
     "ItemName": "EMPANADA COCKTAIL QUESO 100 UN X 70 GR"
   },
@@ -26746,10 +26742,6 @@
   {
     "ItemCode": "302890004",
     "ItemName": "FIAMBRE SANDWICH LAMINADO SAN JORGE 4X500 GR"
-  },
-  {
-    "ItemCode": "103580001",
-    "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
   {
     "ItemCode": "104670017",
@@ -32684,10 +32676,6 @@
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "400104014",
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
@@ -35680,10 +35668,6 @@
     "ItemName": "JABON ELEVATION LIQUIDO HAIR & BODY 6X1000 ML (JA70003)"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "100355016",
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
   },
@@ -35830,10 +35814,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200303024",
@@ -38888,10 +38868,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -40886,10 +40862,6 @@
   {
     "ItemCode": "101402001",
     "ItemName": "FONDO DE ALCACHOFA FRASCO 1X900 GR APROX."
-  },
-  {
-    "ItemCode": "100851001",
-    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
   {
     "ItemCode": "400251015",
@@ -44652,10 +44624,6 @@
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -44882,5 +44850,37 @@
   {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100851001",
+    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
+  },
+  {
+    "ItemCode": "103580001",
+    "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   }
 ]
