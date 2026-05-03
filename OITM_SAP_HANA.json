@@ -30964,10 +30964,6 @@
     "ItemName": "POSTA ROSADA BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "102480011",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN DOÑA OLIVA 4X5 LT"
   },
@@ -32214,10 +32210,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
     "ItemCode": "103940023",
@@ -38644,10 +38636,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -38890,10 +38878,6 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
     "ItemCode": "200003006",
@@ -43524,10 +43508,6 @@
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
@@ -44036,10 +44016,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "300353053",
     "ItemName": "POSTA ROSADA KG (NV)"
   },
@@ -44428,10 +44404,6 @@
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
@@ -44744,10 +44716,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400005007",
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
@@ -44876,11 +44844,43 @@
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
     "ItemCode": "204530024",
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL STANDARD CAJA ENTRE 5 A 5,5 KG APROX (DONACION CAMANCHACA)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   }
 ]
