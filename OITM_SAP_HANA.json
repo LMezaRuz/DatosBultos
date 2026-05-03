@@ -31836,10 +31836,6 @@
     "ItemName": "FLAN VIVO CHOCOLATE C/CARAMELO 12X90 GR"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
@@ -32296,10 +32292,6 @@
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -32670,10 +32662,6 @@
   {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
-  },
-  {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
     "ItemCode": "101353022",
@@ -36444,10 +36432,6 @@
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
   {
-    "ItemCode": "400301033",
-    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
@@ -36462,10 +36446,6 @@
   {
     "ItemCode": "400301007",
     "ItemName": "PAPEL TERMICO TOMMY BEANS ROLLO 1X60 UN"
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
     "ItemCode": "400301036",
@@ -39564,10 +39544,6 @@
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "100852018",
     "ItemName": "GALLETA DIN DON 1X115 GR"
   },
@@ -39578,18 +39554,6 @@
   {
     "ItemCode": "101009040",
     "ItemName": "LECHE LONCOLECHE BREAK CARAMEL MACCHIATO 18X250"
-  },
-  {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "202800001",
@@ -44364,10 +44328,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "MAQ02-000043",
     "ItemName": "GENERADOR CUMMINS 500 KVA MODELO C500D5-EMATEC VMC"
   },
@@ -44764,14 +44724,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -44882,5 +44834,53 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "400301033",
+    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
