@@ -31320,10 +31320,6 @@
     "ItemName": "CIRUELA KG."
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
@@ -39328,10 +39324,6 @@
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
-    "ItemCode": "404680001",
-    "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
@@ -39808,10 +39800,6 @@
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
   },
@@ -39914,10 +39902,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "202730045",
@@ -44464,10 +44448,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44516,10 +44496,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -44550,10 +44526,6 @@
   {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101250003",
@@ -44602,10 +44574,6 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
     "ItemCode": "100101002",
@@ -44710,10 +44678,6 @@
   {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "100152005",
@@ -44882,5 +44846,41 @@
   {
     "ItemCode": "203210112",
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "404680001",
+    "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
   }
 ]
