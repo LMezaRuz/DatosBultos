@@ -43108,10 +43108,6 @@
     "ItemName": "PECANES 1X13,6KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101006005",
     "ItemName": "LECHE SEMI DESCREMADA SOPROLE 12X1 LT."
   },
@@ -44456,14 +44452,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -44716,10 +44704,6 @@
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -44828,10 +44812,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -44850,10 +44830,6 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100101006",
@@ -44882,5 +44858,29 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   }
 ]
