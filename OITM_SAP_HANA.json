@@ -42320,10 +42320,6 @@
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -43364,18 +43360,6 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760128",
-    "ItemName": "POSTA PALETA VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "304760344",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -43512,10 +43496,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "302890004",
     "ItemName": "FIAMBRE SANDWICH LAMINADO SAN JORGE 4X500 GR"
   },
@@ -43554,10 +43534,6 @@
   {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
-  },
-  {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "101008006",
@@ -43714,10 +43690,6 @@
   {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100304047",
@@ -44140,10 +44112,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -44322,10 +44290,6 @@
   {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
-    "ItemCode": "304760346",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
     "ItemCode": "101452001",
@@ -44554,10 +44518,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
   },
   {
     "ItemCode": "101304002",
@@ -44864,10 +44824,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "200460013",
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
@@ -44882,5 +44838,49 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760128",
+    "ItemName": "POSTA PALETA VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "304760346",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS SAZONADA STAR 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
   }
 ]
