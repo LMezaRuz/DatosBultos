@@ -31156,14 +31156,6 @@
     "ItemName": "FILETE AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "400301033",
-    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "103750004",
     "ItemName": "LECHE PROTEIN FULLPRO CAPPUCCINO LONCOLECHE 18X250"
   },
@@ -39916,10 +39908,6 @@
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -40334,10 +40322,6 @@
   {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
-  },
-  {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
     "ItemCode": "101006003",
@@ -44232,10 +44216,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
@@ -44282,10 +44262,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "100356016",
-    "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   },
   {
     "ItemCode": "101355001",
@@ -44460,10 +44436,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -44506,10 +44478,6 @@
   {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "300153002",
@@ -44680,10 +44648,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
   },
@@ -44840,20 +44804,12 @@
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
   {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
     "ItemCode": "101150048",
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "100559007",
@@ -44886,5 +44842,49 @@
   {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "400301033",
+    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100356016",
+    "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   }
 ]
