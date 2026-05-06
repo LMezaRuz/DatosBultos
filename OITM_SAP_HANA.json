@@ -27072,10 +27072,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
-    "ItemCode": "400007016",
-    "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
-  },
-  {
     "ItemCode": "203550029",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
   },
@@ -35724,10 +35720,6 @@
     "ItemName": "PALMITO RODAJA 24 X 400 GRS"
   },
   {
-    "ItemCode": "400252007",
-    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
-  },
-  {
     "ItemCode": "300156003",
     "ItemName": "YOGURT FRUTILLA 1X1 LT"
   },
@@ -39608,10 +39600,6 @@
     "ItemName": "PALOS PARA SUSHI 1X100 UN."
   },
   {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "101005001",
     "ItemName": "LECHE CULTIVADA LT"
   },
@@ -40178,10 +40166,6 @@
   {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
     "ItemCode": "200456009",
@@ -43468,10 +43452,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "400250003",
-    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
-  },
-  {
     "ItemCode": "200402012",
     "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
   },
@@ -43960,10 +43940,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -44248,10 +44224,6 @@
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -44342,10 +44314,6 @@
   {
     "ItemCode": "101100019",
     "ItemName": "CORBATA CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
   },
   {
     "ItemCode": "103850000",
@@ -44582,10 +44550,6 @@
   {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "200250039",
@@ -44886,5 +44850,41 @@
   {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "400252007",
+    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
+  },
+  {
+    "ItemCode": "400007016",
+    "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
+  },
+  {
+    "ItemCode": "400250003",
+    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP HEINZ DISPENSER POUCH 6X3 KG NACIONAL"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   }
 ]
