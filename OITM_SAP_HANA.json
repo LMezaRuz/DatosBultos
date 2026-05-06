@@ -32384,10 +32384,6 @@
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
@@ -32406,10 +32402,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "103480007",
@@ -39228,10 +39220,6 @@
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
   {
-    "ItemCode": "101201026",
-    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -39562,10 +39550,6 @@
   {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "100303005",
@@ -43036,10 +43020,6 @@
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
   },
   {
-    "ItemCode": "100852004",
-    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
-  },
-  {
     "ItemCode": "202820013",
     "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG ANTARTICA"
   },
@@ -43334,10 +43314,6 @@
   {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
-  },
-  {
-    "ItemCode": "100854010",
-    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
   },
   {
     "ItemCode": "104600001",
@@ -43728,10 +43704,6 @@
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "101002002",
-    "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
   },
@@ -43898,10 +43870,6 @@
   {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "101001004",
@@ -44886,5 +44854,37 @@
   {
     "ItemCode": "203190008",
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "101002002",
+    "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
+  },
+  {
+    "ItemCode": "101201026",
+    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "100854010",
+    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
+  },
+  {
+    "ItemCode": "100852004",
+    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   }
 ]
