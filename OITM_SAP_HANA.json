@@ -27784,10 +27784,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 6X375 CC"
   },
   {
-    "ItemCode": "200201032",
-    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
-  },
-  {
     "ItemCode": "304860004",
     "ItemName": "YOGHURT LONCOLECHE S/L TROZOS PAPAYA 24X140 GR"
   },
@@ -28330,10 +28326,6 @@
   {
     "ItemCode": "202720026",
     "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "101100054",
-    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "204530002",
@@ -31816,10 +31808,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -32238,10 +32226,6 @@
   {
     "ItemCode": "202730076",
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
-  },
-  {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
     "ItemCode": "204750007",
@@ -35994,10 +35978,6 @@
   {
     "ItemCode": "101009017",
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101008007",
-    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "100550008",
@@ -40424,10 +40404,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
@@ -44036,10 +44012,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -44230,10 +44202,6 @@
   {
     "ItemCode": "200050007",
     "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "101352008",
@@ -44652,10 +44620,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
@@ -44836,10 +44800,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "101404001",
-    "ItemName": "TOMATE PELADO 6X2.5 KG"
-  },
-  {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
@@ -44886,5 +44846,45 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "200201032",
+    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
+  },
+  {
+    "ItemCode": "101404001",
+    "ItemName": "TOMATE PELADO 6X2.5 KG"
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "101100054",
+    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "101008007",
+    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
