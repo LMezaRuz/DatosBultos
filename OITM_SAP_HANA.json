@@ -35188,10 +35188,6 @@
     "ItemName": "ALIMENTO SOYA LIQUIDO NATU LONCO 12X1 LTS"
   },
   {
-    "ItemCode": "100356046",
-    "ItemName": "TE LIPTON YELLOW LABEL 48X20 BLS"
-  },
-  {
     "ItemCode": "200460037",
     "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
   },
@@ -44204,10 +44200,6 @@
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101150061",
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
   },
@@ -44612,10 +44604,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -44856,18 +44844,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "400252007",
-    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
-  },
-  {
-    "ItemCode": "400007016",
-    "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
-  },
-  {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "400250003",
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
@@ -44886,5 +44862,29 @@
   {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "400252007",
+    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
+  },
+  {
+    "ItemCode": "400007016",
+    "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
+  },
+  {
+    "ItemCode": "100356046",
+    "ItemName": "TE LIPTON YELLOW LABEL 48X20 BLS"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
