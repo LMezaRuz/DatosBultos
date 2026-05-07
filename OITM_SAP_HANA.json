@@ -26164,10 +26164,6 @@
     "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
   },
   {
-    "ItemCode": "203550032",
-    "ItemName": "HELADO VITTORE FRAMBUESA 6X460 ML"
-  },
-  {
     "ItemCode": "AFMQC0010",
     "ItemName": "MAQUINA CAPSULAS SMARTY 1X1 UN"
   },
@@ -26494,10 +26490,6 @@
   {
     "ItemCode": "200100100",
     "ItemName": "HELADO VITTORE CHOCOLATE 6 X 460 ML."
-  },
-  {
-    "ItemCode": "200100106",
-    "ItemName": "HELADO VITTORE FRUTILLA AL AGUA 6 X 460 ML."
   },
   {
     "ItemCode": "202730002",
@@ -27368,10 +27360,6 @@
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
-    "ItemCode": "200500075",
-    "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
-  },
-  {
     "ItemCode": "103720000",
     "ItemName": "LECHE DESCREMADA UHT COLUN 6X200 CC"
   },
@@ -27638,10 +27626,6 @@
   {
     "ItemCode": "204150018",
     "ItemName": "PAN DE QUESO HORNEADO 10X240 GR"
-  },
-  {
-    "ItemCode": "200100102",
-    "ItemName": "HELADO VITTORE MENTA CHIPS 6 X 460 ML."
   },
   {
     "ItemCode": "204090011",
@@ -35840,10 +35824,6 @@
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
-  },
-  {
     "ItemCode": "400301008",
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
@@ -43324,10 +43304,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "304760454",
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -44396,10 +44372,6 @@
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -44902,5 +44874,33 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "200500075",
+    "ItemName": "AROS DE CEBOLLA NATURAL 6 UN X 1 KG"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "200100102",
+    "ItemName": "HELADO VITTORE MENTA CHIPS 6 X 460 ML."
+  },
+  {
+    "ItemCode": "200100106",
+    "ItemName": "HELADO VITTORE FRUTILLA AL AGUA 6 X 460 ML."
+  },
+  {
+    "ItemCode": "203550032",
+    "ItemName": "HELADO VITTORE FRAMBUESA 6X460 ML"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
   }
 ]
