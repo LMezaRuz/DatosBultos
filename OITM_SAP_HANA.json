@@ -29988,10 +29988,6 @@
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
   {
-    "ItemCode": "203190032",
-    "ItemName": "CARNE AL ROJO 5 KG(MM)"
-  },
-  {
     "ItemCode": "304760430",
     "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -39468,10 +39464,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -39714,10 +39706,6 @@
   {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "203210103",
@@ -44412,10 +44400,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "104010039",
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
   },
@@ -44896,11 +44880,27 @@
     "ItemName": "COUS COUS 1X1 KG"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "203190032",
+    "ItemName": "CARNE AL ROJO 5 KG(MM)"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   }
 ]
