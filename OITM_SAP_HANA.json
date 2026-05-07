@@ -27272,10 +27272,6 @@
     "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
   },
   {
-    "ItemCode": "304760439",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "203190022",
     "ItemName": "CHULETA CENTRO PORCIONADA 18 KG (APROX)"
   },
@@ -30636,10 +30632,6 @@
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
-    "ItemCode": "204310007",
-    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
-  },
-  {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
@@ -30788,10 +30780,6 @@
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
   },
   {
-    "ItemCode": "202730073",
-    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
   },
@@ -30894,10 +30882,6 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "200200032",
-    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
   {
     "ItemCode": "100304013",
@@ -32466,10 +32450,6 @@
   {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
-  },
-  {
-    "ItemCode": "202730013",
-    "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
   },
   {
     "ItemCode": "202730006",
@@ -36042,10 +36022,6 @@
   {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
-  },
-  {
-    "ItemCode": "202730044",
-    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
   {
     "ItemCode": "200305008",
@@ -39796,10 +39772,6 @@
     "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -43192,10 +43164,6 @@
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304011",
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
@@ -43240,10 +43208,6 @@
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
-    "ItemCode": "204090001",
-    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
     "ItemCode": "100355008",
     "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
   },
@@ -43286,10 +43250,6 @@
   {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
     "ItemCode": "100202002",
@@ -43934,10 +43894,6 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "304760361",
@@ -44896,11 +44852,55 @@
     "ItemName": "MERMELADA NARANJA EN FRASCO WATT’S 10X500 GR"
   },
   {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
     "ItemCode": "104020000",
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+    "ItemCode": "304760439",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "202730044",
+    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "204310007",
+    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
+  },
+  {
+    "ItemCode": "200200032",
+    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
+  },
+  {
+    "ItemCode": "202730073",
+    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
+  },
+  {
+    "ItemCode": "202730013",
+    "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
+  },
+  {
+    "ItemCode": "204090001",
+    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   }
 ]
