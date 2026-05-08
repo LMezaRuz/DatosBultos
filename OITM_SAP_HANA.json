@@ -36088,10 +36088,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
@@ -38730,10 +38726,6 @@
   {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
-  },
-  {
-    "ItemCode": "101201036",
-    "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
   {
     "ItemCode": "100250007",
@@ -42796,10 +42788,6 @@
     "ItemName": "SALMON AHUMADO SLICE SOUTHWIND 1X1 KG"
   },
   {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
-  },
-  {
     "ItemCode": "400011007",
     "ItemName": "VIRUTILLA FINA PARA OLLA 1X25 UN (C110100)"
   },
@@ -44908,7 +44896,19 @@
     "ItemName": "ALUSAFOIL ALUMINIO 1 X 7,5 MTS"
   },
   {
+    "ItemCode": "101201036",
+    "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
+  },
+  {
     "ItemCode": "200453013",
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   }
 ]
