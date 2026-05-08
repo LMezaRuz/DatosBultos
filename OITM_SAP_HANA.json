@@ -30728,10 +30728,6 @@
     "ItemName": "CUBREVASO GENERICO 8/10 OZ 1 X 1000 UN"
   },
   {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
     "ItemCode": "204000010",
     "ItemName": "HIGADO VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -31660,10 +31656,6 @@
     "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
   {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "102970008",
     "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
   },
@@ -31798,10 +31790,6 @@
   {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
-  },
-  {
-    "ItemCode": "100300009",
-    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
     "ItemCode": "101100063",
@@ -38000,10 +37988,6 @@
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
   {
-    "ItemCode": "304760005",
-    "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "102480001",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
@@ -42060,10 +42044,6 @@
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
     "ItemCode": "103910034",
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
@@ -42920,10 +42900,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
@@ -43588,10 +43564,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -43630,10 +43602,6 @@
   {
     "ItemCode": "200201007",
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "200250015",
@@ -44084,10 +44052,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
@@ -44138,10 +44102,6 @@
   {
     "ItemCode": "304760345",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "304460002",
@@ -44832,10 +44792,6 @@
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
@@ -44910,5 +44866,49 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "304760005",
+    "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "100300009",
+    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   }
 ]
