@@ -28448,10 +28448,6 @@
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
     "ItemCode": "303750002",
     "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
@@ -28556,20 +28552,12 @@
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "203210111",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
     "ItemCode": "203550001",
@@ -31204,10 +31192,6 @@
     "ItemName": "AGUA CON GAS RIZOLA 6X500 CC"
   },
   {
-    "ItemCode": "203210103",
-    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
@@ -31330,10 +31314,6 @@
   {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "202730082",
@@ -36380,10 +36360,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
   {
-    "ItemCode": "200500053",
-    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "300300010",
     "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
   },
@@ -39496,10 +39472,6 @@
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
@@ -39818,10 +39790,6 @@
   {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
-  },
-  {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
   {
     "ItemCode": "400105003",
@@ -43652,10 +43620,6 @@
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
-    "ItemCode": "200001001",
-    "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -43758,10 +43722,6 @@
   {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "400100004",
@@ -44184,10 +44144,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -44330,10 +44286,6 @@
   {
     "ItemCode": "400251003",
     "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "200455003",
@@ -44910,5 +44862,53 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "200001001",
+    "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
+  },
+  {
+    "ItemCode": "203210103",
+    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "200500053",
+    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
   }
 ]
