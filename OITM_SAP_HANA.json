@@ -20076,10 +20076,6 @@
     "ItemName": "HELADO PUDU BERRIE SIN AZUCAR 1X5 LT"
   },
   {
-    "ItemCode": "104520001",
-    "ItemName": "SAL FINA EN POTE 12X850 GR"
-  },
-  {
     "ItemCode": "100002015",
     "ItemName": "ACEITE 100 % MARAVILLA 15 UN X 1 LT"
   },
@@ -24802,10 +24798,6 @@
   {
     "ItemCode": "LOG_102540022",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "203210071",
-    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
   },
   {
     "ItemCode": "304760273",
@@ -38596,10 +38588,6 @@
     "ItemName": "ACETO BALSAMICO IMPERATORE 12X500 CC."
   },
   {
-    "ItemCode": "101200025",
-    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
     "ItemCode": "101303004",
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
@@ -40126,10 +40114,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100802001",
-    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
   {
     "ItemCode": "101010001",
@@ -44092,10 +44076,6 @@
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
@@ -44300,10 +44280,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -44330,10 +44306,6 @@
   {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
     "ItemCode": "204380017",
@@ -44486,10 +44458,6 @@
   {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
-    "ItemCode": "203210115",
-    "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
   },
   {
     "ItemCode": "200455001",
@@ -44662,10 +44630,6 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "400105002",
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "304760383",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
+  },
+  {
+    "ItemCode": "101200025",
+    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
+  },
+  {
+    "ItemCode": "100802001",
+    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "104520001",
+    "ItemName": "SAL FINA EN POTE 12X850 GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "203210115",
+    "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210071",
+    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
   }
 ]
