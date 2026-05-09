@@ -31948,18 +31948,6 @@
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
@@ -32276,10 +32264,6 @@
     "ItemName": "LECHE MOMENTS CAPUCCINO 18X200 CC"
   },
   {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "104670079",
     "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
   },
@@ -32324,10 +32308,6 @@
     "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "103180004",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
@@ -32358,10 +32338,6 @@
   {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
     "ItemCode": "204180023",
@@ -36404,10 +36380,6 @@
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "200402019",
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
@@ -36530,10 +36502,6 @@
   {
     "ItemCode": "300151003",
     "ItemName": "PACK PROBIOTICO MANZANA UNV 6X90 ML"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "300151002",
@@ -40258,10 +40226,6 @@
   {
     "ItemCode": "100304011",
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100304012",
@@ -44056,10 +44020,6 @@
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
@@ -44320,10 +44280,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
@@ -44366,10 +44322,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "304340003",
@@ -44432,20 +44384,12 @@
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "100752002",
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "101009026",
@@ -44470,10 +44414,6 @@
   {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "200460027",
@@ -44910,5 +44850,65 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
