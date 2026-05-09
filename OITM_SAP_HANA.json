@@ -35392,10 +35392,6 @@
     "ItemName": "YOGURT DAMASCO 1X1 LT"
   },
   {
-    "ItemCode": "101353026",
-    "ItemName": "MAYONESA JANO 10X970 GR"
-  },
-  {
     "ItemCode": "101353031",
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
   },
@@ -43328,10 +43324,6 @@
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
   {
-    "ItemCode": "101354007",
-    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
     "ItemCode": "100854012",
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
@@ -43746,10 +43738,6 @@
   {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "100550008",
@@ -44700,10 +44688,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -44910,5 +44894,21 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354007",
+    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101353026",
+    "ItemName": "MAYONESA JANO 10X970 GR"
   }
 ]
