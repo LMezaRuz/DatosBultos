@@ -38808,10 +38808,6 @@
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "101150063",
-    "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -39186,10 +39182,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
     "ItemCode": "100500002",
@@ -43796,10 +43788,6 @@
     "ItemName": "CREMA DE ESPARRAGOS 1X1 KG."
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -44300,10 +44288,6 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -44346,10 +44330,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "300153003",
@@ -44910,5 +44890,25 @@
   {
     "ItemCode": "203190023",
     "ItemName": "MEDALLON DE PULPA MARINADA 18 KG (APROX)"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101150063",
+    "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   }
 ]
