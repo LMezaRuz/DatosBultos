@@ -27704,10 +27704,6 @@
     "ItemName": "CREMA DE ACAI 2X5 KG"
   },
   {
-    "ItemCode": "303850011",
-    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
-  },
-  {
     "ItemCode": "100304054",
     "ItemName": "SPRIM NECTAR BERRIES 24X190 ML."
   },
@@ -30334,10 +30330,6 @@
   {
     "ItemCode": "101357009",
     "ItemName": "SALSA DE SOYA TRAVERSO 250X30 CC"
-  },
-  {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
     "ItemCode": "103250009",
@@ -38668,16 +38660,8 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
-  },
-  {
-    "ItemCode": "101404001",
-    "ItemName": "TOMATE PELADO 6X2.5 KG"
   },
   {
     "ItemCode": "300156009",
@@ -39210,10 +39194,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
     "ItemCode": "100351003",
@@ -42704,10 +42684,6 @@
     "ItemName": "TALLARIN 87 1X5 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200460041",
     "ItemName": "MEDIA PECHUGA DE POLLO CONG. S/ MARINAR 6 X 2 KG - LOCAL"
   },
@@ -43272,10 +43248,6 @@
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
@@ -43696,10 +43668,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -43838,10 +43806,6 @@
   {
     "ItemCode": "100557022",
     "ItemName": "CLAVO DE OLOR MOLIDO 1X250 GR."
-  },
-  {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
     "ItemCode": "101010001",
@@ -44276,10 +44240,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "202820010",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   },
@@ -44656,10 +44616,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -44910,5 +44866,49 @@
   {
     "ItemCode": "100300011",
     "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "303850011",
+    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "101404001",
+    "ItemName": "TOMATE PELADO 6X2.5 KG"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   }
 ]
