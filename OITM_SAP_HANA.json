@@ -31652,10 +31652,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   },
@@ -36820,10 +36816,6 @@
     "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "200459004",
     "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
   },
@@ -38974,10 +38966,6 @@
   {
     "ItemCode": "304760356",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
     "ItemCode": "200200022",
@@ -42912,16 +42900,8 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
-  },
-  {
-    "ItemCode": "104670009",
-    "ItemName": "TE TWININGS FRUTOS ROJOS 1X10 UN"
   },
   {
     "ItemCode": "101305004",
@@ -42930,10 +42910,6 @@
   {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "101352008",
@@ -44172,10 +44148,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -44910,5 +44882,33 @@
   {
     "ItemCode": "303710006",
     "ItemName": "LECHE CULTIVADA LIGHT LONCOLECHE VAINILLA 6X900 ML"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "104670009",
+    "ItemName": "TE TWININGS FRUTOS ROJOS 1X10 UN"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   }
 ]
