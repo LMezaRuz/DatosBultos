@@ -36192,10 +36192,6 @@
     "ItemName": "GALLETA FRAC SABORES 36x110 GR"
   },
   {
-    "ItemCode": "100550008",
-    "ItemName": "MERKEN 1X1 KG"
-  },
-  {
     "ItemCode": "100355016",
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
   },
@@ -38164,10 +38160,6 @@
     "ItemName": "SALSA DE NARANJA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
-  },
-  {
     "ItemCode": "300351031",
     "ItemName": "CHORICILLO PF 1X1 KG."
   },
@@ -38646,10 +38638,6 @@
   {
     "ItemCode": "400252001",
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
-  },
-  {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
     "ItemCode": "100401002",
@@ -39636,10 +39624,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "300353055",
     "ItemName": "SOBRECOSTILLA KG (NV)"
   },
@@ -39972,10 +39956,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "300157049",
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
@@ -40180,10 +40160,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
@@ -40266,10 +40242,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "400250004",
@@ -40528,10 +40500,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100557001",
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
   },
@@ -40582,10 +40550,6 @@
   {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "101357006",
@@ -44420,10 +44384,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
     "ItemCode": "100801003",
     "ItemName": "MANI SALADO 1X1 KG"
   },
@@ -44820,10 +44780,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -44910,5 +44866,49 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100550008",
+    "ItemName": "MERKEN 1X1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   }
 ]
