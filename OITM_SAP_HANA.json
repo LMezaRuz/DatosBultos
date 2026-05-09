@@ -31540,10 +31540,6 @@
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
   },
   {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12X1 LT"
   },
@@ -32138,10 +32134,6 @@
   {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "203430018",
@@ -39228,10 +39220,6 @@
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "200201002",
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
@@ -39486,10 +39474,6 @@
   {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "100751026",
@@ -43888,10 +43872,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
@@ -44210,10 +44190,6 @@
   {
     "ItemCode": "101009005",
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "101008003",
@@ -44700,10 +44676,6 @@
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -44892,10 +44864,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -44910,5 +44878,37 @@
   {
     "ItemCode": "203210103",
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   }
 ]
