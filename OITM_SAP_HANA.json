@@ -27228,10 +27228,6 @@
     "ItemName": "MOSTAZA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
   },
   {
-    "ItemCode": "204100013",
-    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
-  },
-  {
     "ItemCode": "102840006",
     "ItemName": "CAFE AMALFI CAPSULA NESPRESSO 1X50 UN"
   },
@@ -27250,10 +27246,6 @@
   {
     "ItemCode": "204790010",
     "ItemName": "BROCOLI IQF 20X500 GR"
-  },
-  {
-    "ItemCode": "204530004",
-    "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
     "ItemCode": "203550002",
@@ -27590,10 +27582,6 @@
   {
     "ItemCode": "102780005",
     "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
-  },
-  {
-    "ItemCode": "204390005",
-    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
   },
   {
     "ItemCode": "302890025",
@@ -28172,10 +28160,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS SADIA (20 KG APROX)"
   },
   {
-    "ItemCode": "204390007",
-    "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
-  },
-  {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
@@ -28426,10 +28410,6 @@
   {
     "ItemCode": "103910060",
     "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "203190057",
-    "ItemName": "TRIMMING DE CERDO 80/20 CONGELADO 24 KG (APROX)"
   },
   {
     "ItemCode": "204180027",
@@ -29724,10 +29704,6 @@
     "ItemName": "CHULETA CENTRO PORCIONADA CONG. LOCAL X KG (15-20 KG APROX)"
   },
   {
-    "ItemCode": "202910033",
-    "ItemName": "CHULETA VETADA PORCIONADA CONG. LOCAL X KG (15-20 KG APROX)"
-  },
-  {
     "ItemCode": "203190006",
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
@@ -29810,10 +29786,6 @@
   {
     "ItemCode": "304760249",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204870003",
-    "ItemName": "COCHEZUELA (HUESO RODILLA) CAJA 15 KG APROX"
   },
   {
     "ItemCode": "204790029",
@@ -30858,10 +30830,6 @@
   {
     "ItemCode": "304760343",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "202910017",
-    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
   {
     "ItemCode": "304760358",
@@ -32134,10 +32102,6 @@
   {
     "ItemCode": "202910028",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "202910014",
-    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "202910013",
@@ -37644,10 +37608,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
   {
-    "ItemCode": "200307008",
-    "ItemName": "CONGRIO FILETE AL VACIO KG"
-  },
-  {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
@@ -38214,14 +38174,6 @@
   {
     "ItemCode": "200453014",
     "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "202910006",
-    "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
-  },
-  {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
     "ItemCode": "400005003",
@@ -38906,10 +38858,6 @@
   {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
   },
   {
     "ItemCode": "200250003",
@@ -44910,5 +44858,57 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "204100013",
+    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
+  },
+  {
+    "ItemCode": "200307008",
+    "ItemName": "CONGRIO FILETE AL VACIO KG"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "202910033",
+    "ItemName": "CHULETA VETADA PORCIONADA CONG. LOCAL X KG (15-20 KG APROX)"
+  },
+  {
+    "ItemCode": "203190057",
+    "ItemName": "TRIMMING DE CERDO 80/20 CONGELADO 24 KG (APROX)"
+  },
+  {
+    "ItemCode": "204870003",
+    "ItemName": "COCHEZUELA (HUESO RODILLA) CAJA 15 KG APROX"
+  },
+  {
+    "ItemCode": "204390007",
+    "ItemName": "PULPO MEDITERRANEO PREMIUM CALIBRE 1 A 2"
+  },
+  {
+    "ItemCode": "204530004",
+    "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
+  },
+  {
+    "ItemCode": "202910017",
+    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
+  },
+  {
+    "ItemCode": "204390005",
+    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
+  },
+  {
+    "ItemCode": "202910006",
+    "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
+  },
+  {
+    "ItemCode": "202910014",
+    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   }
 ]
