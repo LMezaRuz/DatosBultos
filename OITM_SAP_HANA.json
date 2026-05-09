@@ -25384,10 +25384,6 @@
     "ItemName": "LENGUA DE VACUNO TRADICION (20KGS APROX)"
   },
   {
-    "ItemCode": "204180002",
-    "ItemName": "MINI WAFFLES DE PAPA FARM FRITES 10X1,1 KG"
-  },
-  {
     "ItemCode": "304420007",
     "ItemName": "QUESO CHEDDAR LAMINADO TONADITA 2X1,92 KG"
   },
@@ -30526,10 +30522,6 @@
   {
     "ItemCode": "103810003",
     "ItemName": "SUAVIZANTE DE ROPA DEFORT  2X5 LT"
-  },
-  {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
   {
     "ItemCode": "304450017",
@@ -38324,10 +38316,6 @@
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100852004",
     "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   },
@@ -44600,10 +44588,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44718,10 +44702,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "300156001",
@@ -44910,5 +44890,25 @@
   {
     "ItemCode": "100002010",
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
+  },
+  {
+    "ItemCode": "204180002",
+    "ItemName": "MINI WAFFLES DE PAPA FARM FRITES 10X1,1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   }
 ]
