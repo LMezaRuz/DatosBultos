@@ -36332,10 +36332,6 @@
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "300152013",
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
@@ -39938,10 +39934,6 @@
   {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "100201003",
@@ -44516,10 +44508,6 @@
     "ItemName": "NECTAR PINA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -44910,5 +44898,17 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
   }
 ]
