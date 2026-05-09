@@ -31100,10 +31100,6 @@
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "103940023",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
-  },
-  {
     "ItemCode": "101355023",
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
@@ -37888,10 +37884,6 @@
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100557007",
-    "ItemName": "LAUREL EN HOJAS 1X5 GR"
-  },
-  {
     "ItemCode": "100201001",
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
   },
@@ -38606,10 +38598,6 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
   {
     "ItemCode": "100556001",
@@ -39764,10 +39752,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "200201003",
-    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
-  },
-  {
     "ItemCode": "200201007",
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
@@ -40034,10 +40018,6 @@
   {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
   {
     "ItemCode": "304430000",
@@ -42010,10 +41990,6 @@
   {
     "ItemCode": "300351010",
     "ItemName": "JAMON SANDWICH LAMINADO CERDO 1 x 1 kg"
-  },
-  {
-    "ItemCode": "101354014",
-    "ItemName": "MOSTAZA DIJON 1X370 GR"
   },
   {
     "ItemCode": "200456011",
@@ -44910,5 +44886,29 @@
   {
     "ItemCode": "102780005",
     "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "100557007",
+    "ItemName": "LAUREL EN HOJAS 1X5 GR"
+  },
+  {
+    "ItemCode": "101354014",
+    "ItemName": "MOSTAZA DIJON 1X370 GR"
+  },
+  {
+    "ItemCode": "103940023",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
+  },
+  {
+    "ItemCode": "200201003",
+    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   }
 ]
