@@ -27292,10 +27292,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
   {
-    "ItemCode": "203610000",
-    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
-  },
-  {
     "ItemCode": "203210023",
     "ItemName": "CHURRASCO DE FILETE 5X1.04 KG MM (CAJA 5.2 KG)"
   },
@@ -31414,10 +31410,6 @@
   {
     "ItemCode": "100304046",
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
     "ItemCode": "304430001",
@@ -43044,10 +43036,6 @@
     "ItemName": "EMPANADA POLLO MANDARIN Y MERKEN 2X50 UN"
   },
   {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
   },
@@ -44296,10 +44284,6 @@
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -44628,10 +44612,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -44776,14 +44756,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "104670091",
     "ItemName": "TE EXCLUSIVE SELECTION DELICATE MINT LIPTON 6X25 BLS"
   },
@@ -44910,5 +44882,33 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "203610000",
+    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   }
 ]
