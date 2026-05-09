@@ -28416,10 +28416,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
-    "ItemCode": "103070003",
-    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -31406,10 +31402,6 @@
   {
     "ItemCode": "304760042",
     "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
   },
   {
     "ItemCode": "101150042",
@@ -38336,10 +38328,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "101007008",
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
@@ -43656,10 +43644,6 @@
     "ItemName": "POROTOS WASIL 16X380"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
@@ -43682,10 +43666,6 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "100550001",
@@ -44712,14 +44692,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
@@ -44824,10 +44796,6 @@
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
@@ -44910,5 +44878,37 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "103070003",
+    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   }
 ]
