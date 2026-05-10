@@ -27568,10 +27568,6 @@
     "ItemName": "BEBIDA VEGETAL DE AVENA ORASI BARISTA 12 X 1 LT"
   },
   {
-    "ItemCode": "100500001",
-    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
     "ItemCode": "101100038",
     "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
   },
@@ -32270,10 +32266,6 @@
   {
     "ItemCode": "103630005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
-  },
-  {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
     "ItemCode": "103630004",
@@ -38252,10 +38244,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT. V BRASIL - LOCAL X KG"
   },
   {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "200051009",
     "ItemName": "PULPA DE JUGO DE LIMON MINUTO VERDE 10 X 1 KG"
   },
@@ -39962,14 +39950,6 @@
   {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
-    "ItemCode": "100751006",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
-  },
-  {
-    "ItemCode": "100751004",
-    "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
     "ItemCode": "100304035",
@@ -43900,10 +43880,6 @@
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
@@ -44260,10 +44236,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "200002010",
     "ItemName": "EMPANADA POLLO MANDARIN Y MERKEN 2X50 UN"
   },
@@ -44356,10 +44328,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -44406,10 +44374,6 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "200462109",
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100751004",
+    "ItemName": "MERMELADA DE MORA 1X250 GR"
+  },
+  {
+    "ItemCode": "100751006",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
+  },
+  {
+    "ItemCode": "100500001",
+    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
