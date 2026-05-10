@@ -28432,10 +28432,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "100557010",
-    "ItemName": "ENELDO EN FRASCO 1X10 GR"
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -31232,10 +31228,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
     "ItemCode": "202820005",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
@@ -32094,10 +32086,6 @@
   {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "202730009",
@@ -39836,10 +39824,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
     "ItemCode": "100355007",
     "ItemName": "SYRUP MORA MONIN 1X750 ML"
   },
@@ -44644,10 +44628,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -44880,10 +44860,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -44910,5 +44886,29 @@
   {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "100557010",
+    "ItemName": "ENELDO EN FRASCO 1X10 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   }
 ]
