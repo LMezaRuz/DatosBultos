@@ -27564,10 +27564,6 @@
     "ItemName": "CAFE MOLIDO 1X1 KG"
   },
   {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
-  },
-  {
     "ItemCode": "202730063",
     "ItemName": "DONUT GLASEADA 72 X 52 GR"
   },
@@ -31590,10 +31586,6 @@
   {
     "ItemCode": "204380023",
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
     "ItemCode": "101003004",
@@ -38272,10 +38264,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -43240,10 +43228,6 @@
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "100854011",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
@@ -43800,10 +43784,6 @@
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "302890013",
     "ItemName": "PEPPERONI LAMINADO 1X500 GR"
   },
@@ -43966,10 +43946,6 @@
   {
     "ItemCode": "102530001",
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "101358003",
@@ -44310,10 +44286,6 @@
   {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "204790019",
@@ -44910,5 +44882,33 @@
   {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   }
 ]
