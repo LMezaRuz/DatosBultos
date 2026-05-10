@@ -32540,10 +32540,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101150063",
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   },
@@ -38828,10 +38824,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "400100001",
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
   },
@@ -38844,20 +38836,12 @@
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
   {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
   },
   {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "103920003",
@@ -39294,10 +39278,6 @@
   {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "300351008",
@@ -40052,10 +40032,6 @@
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
     "ItemCode": "400010014",
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
@@ -40518,10 +40494,6 @@
   {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100557003",
-    "ItemName": "CURRY 1X250 GR."
   },
   {
     "ItemCode": "200302009",
@@ -44508,10 +44480,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44832,10 +44800,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100557003",
+    "ItemName": "CURRY 1X250 GR."
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
