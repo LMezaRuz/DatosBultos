@@ -31500,10 +31500,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
   {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
@@ -36558,10 +36554,6 @@
   {
     "ItemCode": "100751044",
     "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
-  },
-  {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
     "ItemCode": "101000003",
@@ -44592,10 +44584,6 @@
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100202005",
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
   },
@@ -44836,16 +44824,8 @@
     "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
     "ItemCode": "101353008",
@@ -44910,5 +44890,25 @@
   {
     "ItemCode": "304440005",
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   }
 ]
