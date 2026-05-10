@@ -31804,10 +31804,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
-  },
-  {
     "ItemCode": "304760350",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -32286,10 +32282,6 @@
   {
     "ItemCode": "200200033",
     "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "104570009",
@@ -38776,10 +38768,6 @@
     "ItemName": "DULCE MEMBRILLO 1X500 GR"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "203190051",
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
@@ -39246,10 +39234,6 @@
   {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "100102013",
@@ -40118,10 +40102,6 @@
   {
     "ItemCode": "100450007",
     "ItemName": "ALGA NORI BLUE 1X100 UN."
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "101201031",
@@ -44240,10 +44220,6 @@
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
     "ItemCode": "202730076",
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
@@ -44460,10 +44436,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -44550,10 +44522,6 @@
   {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "102610000",
@@ -44752,10 +44720,6 @@
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "200456009",
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   }
 ]
