@@ -32132,10 +32132,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "104670079",
     "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
   },
@@ -38028,10 +38024,6 @@
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
   {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
     "ItemCode": "200304006",
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
@@ -43636,10 +43628,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101201032",
     "ItemName": "CREMELL TIRAMISU TKF 1X1 KG"
   },
@@ -44144,14 +44132,6 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "200003006",
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
@@ -44388,10 +44368,6 @@
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -44588,10 +44564,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
@@ -44610,10 +44582,6 @@
   {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "202910045",
@@ -44872,10 +44840,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   }
 ]
