@@ -39028,10 +39028,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "300351023",
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
@@ -40458,10 +40454,6 @@
   {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100051004",
@@ -43976,10 +43968,6 @@
     "ItemName": "COLIFLOR IQF 7X1 KG."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100150002",
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
   },
@@ -44228,10 +44216,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -44264,10 +44248,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
@@ -44282,10 +44262,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "101050002",
@@ -44552,10 +44528,6 @@
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "202820011",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
   },
@@ -44776,10 +44748,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -44892,10 +44860,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
@@ -44910,5 +44874,41 @@
   {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
