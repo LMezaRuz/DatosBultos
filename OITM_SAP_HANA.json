@@ -26084,10 +26084,6 @@
     "ItemName": "EMPANADA COCKTAIL QUESO 100 UN X 70 GR"
   },
   {
-    "ItemCode": "203510008",
-    "ItemName": "HAMBURGUESA DE SOYA LA CRIANZA 28X100 GR"
-  },
-  {
     "ItemCode": "203900003",
     "ItemName": "MERLUZA COMUN FILETE (GAYI) 10X1 KG"
   },
@@ -30872,10 +30868,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
-    "ItemCode": "100304060",
-    "ItemName": "NECTAR DE MANZANA 6X200 ML"
-  },
-  {
     "ItemCode": "204180028",
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
@@ -35628,10 +35620,6 @@
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
-    "ItemCode": "100852018",
-    "ItemName": "GALLETA DIN DON 1X115 GR"
-  },
-  {
     "ItemCode": "100304029",
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
@@ -35902,10 +35890,6 @@
   {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
-  },
-  {
-    "ItemCode": "100852016",
-    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
   },
   {
     "ItemCode": "202910014",
@@ -37324,10 +37308,6 @@
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
   {
-    "ItemCode": "100852003",
-    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
-  },
-  {
     "ItemCode": "303870006",
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
@@ -37928,10 +37908,6 @@
     "ItemName": "MERMELADA DE FRUTILLA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "100304015",
-    "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
@@ -37942,10 +37918,6 @@
   {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
   },
   {
     "ItemCode": "400252002",
@@ -38430,14 +38402,6 @@
   {
     "ItemCode": "400100001",
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
-  },
-  {
-    "ItemCode": "100304014",
-    "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "100304013",
-    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
   {
     "ItemCode": "200500039",
@@ -39510,14 +39474,6 @@
   {
     "ItemCode": "100754003",
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
-  },
-  {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
-  },
-  {
-    "ItemCode": "100852001",
-    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
   },
   {
     "ItemCode": "101452005",
@@ -44696,6 +44652,18 @@
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "302890048",
+    "ItemName": "VIENESAS MODINGER 1X1 KG"
+  },
+  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -44790,10 +44758,6 @@
   {
     "ItemCode": "100601001",
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "101100022",
@@ -44892,10 +44856,6 @@
     "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -44908,7 +44868,47 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "302890048",
-    "ItemName": "VIENESAS MODINGER 1X1 KG"
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "100852018",
+    "ItemName": "GALLETA DIN DON 1X115 GR"
+  },
+  {
+    "ItemCode": "100852016",
+    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
+  },
+  {
+    "ItemCode": "100852003",
+    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
+  },
+  {
+    "ItemCode": "100852001",
+    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
+  },
+  {
+    "ItemCode": "203510008",
+    "ItemName": "HAMBURGUESA DE SOYA LA CRIANZA 28X100 GR"
+  },
+  {
+    "ItemCode": "100304013",
+    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
+  },
+  {
+    "ItemCode": "100304060",
+    "ItemName": "NECTAR DE MANZANA 6X200 ML"
+  },
+  {
+    "ItemCode": "100304014",
+    "ItemName": "NECTAR DE NARANJA 6X200 ML"
+  },
+  {
+    "ItemCode": "100304015",
+    "ItemName": "NECTAR DE PIÑA 6X200 ML"
   }
 ]
