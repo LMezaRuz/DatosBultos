@@ -28152,10 +28152,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "104670010",
-    "ItemName": "TE TWININGS VERDE 1X50 UN"
-  },
-  {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
@@ -28378,10 +28374,6 @@
   {
     "ItemCode": "101150083",
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
-  },
-  {
-    "ItemCode": "400251005",
-    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
   },
   {
     "ItemCode": "103940024",
@@ -30964,10 +30956,6 @@
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
     "ItemCode": "202730016",
     "ItemName": "MINI REJILLA DE MAPLE PECAN 96X40 GR  (47917)"
   },
@@ -31408,10 +31396,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
-    "ItemCode": "202730004",
-    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
-  },
-  {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
   },
@@ -31458,10 +31442,6 @@
   {
     "ItemCode": "200456050",
     "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "200200001",
-    "ItemName": "MINI MUFFIN 1X147 UN"
   },
   {
     "ItemCode": "204750020",
@@ -36060,10 +36040,6 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "300156002",
-    "ItemName": "YOGURT FRAMBUESA 1X1 LT"
-  },
-  {
     "ItemCode": "300156003",
     "ItemName": "YOGURT FRUTILLA 1X1 LT"
   },
@@ -37926,10 +37902,6 @@
   {
     "ItemCode": "300154004",
     "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
-  },
-  {
-    "ItemCode": "200203007",
-    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
   },
   {
     "ItemCode": "100555002",
@@ -40060,10 +40032,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "300156009",
-    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "200201007",
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
@@ -40280,10 +40248,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
   {
-    "ItemCode": "200201019",
-    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
-  },
-  {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
@@ -40410,10 +40374,6 @@
   {
     "ItemCode": "101401009",
     "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
     "ItemCode": "101355001",
@@ -43840,10 +43800,6 @@
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
   {
-    "ItemCode": "100356018",
-    "ItemName": "TE VERDE PREMIUM 1X50 UN"
-  },
-  {
     "ItemCode": "100151001",
     "ItemName": "CEREAL VIVO CHECK 1X360 GR"
   },
@@ -44400,10 +44356,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100801002",
-    "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
     "ItemCode": "203230003",
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
@@ -44904,11 +44856,59 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "200201019",
+    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+  },
+  {
+    "ItemCode": "200200001",
+    "ItemName": "MINI MUFFIN 1X147 UN"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "400251005",
+    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50UN 12X1UN SE70035"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "200203007",
+    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
+  },
+  {
+    "ItemCode": "202730004",
+    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
+  },
+  {
+    "ItemCode": "104670010",
+    "ItemName": "TE TWININGS VERDE 1X50 UN"
+  },
+  {
+    "ItemCode": "100356018",
+    "ItemName": "TE VERDE PREMIUM 1X50 UN"
+  },
+  {
+    "ItemCode": "100801002",
+    "ItemName": "PASAS RUBIA 1X250 GR"
+  },
+  {
+    "ItemCode": "300156009",
+    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
+  },
+  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+    "ItemCode": "300156002",
+    "ItemName": "YOGURT FRAMBUESA 1X1 LT"
   }
 ]
