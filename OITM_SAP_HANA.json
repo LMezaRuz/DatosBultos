@@ -30072,10 +30072,6 @@
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
   {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "400301079",
     "ItemName": "ETIQUETA RECTAN BARRIO CHICKEN GYN 1 X 1.000 UN"
   },
@@ -31510,10 +31506,6 @@
   {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "102610006",
@@ -36248,10 +36240,6 @@
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "200500007",
     "ItemName": "CHAMPIÑON LAM. CONGELADO 10X1 KG"
   },
@@ -37696,10 +37684,6 @@
     "ItemName": "HELADO SAN FCO. FRAMBUESA (AGUA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "100100002",
     "ItemName": "ARROZ BASMATI 1X1 KG."
   },
@@ -38626,10 +38610,6 @@
   {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
-  },
-  {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
     "ItemCode": "100356001",
@@ -39874,10 +39854,6 @@
   {
     "ItemCode": "300157036",
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "103180004",
@@ -44068,10 +44044,6 @@
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
   },
@@ -44114,10 +44086,6 @@
   {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
-    "ItemCode": "300200001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
   },
   {
     "ItemCode": "100902003",
@@ -44164,20 +44132,12 @@
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) CAPSULA NESPRESSO 1X10 UN"
   },
   {
     "ItemCode": "200051026",
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
     "ItemCode": "101352009",
@@ -44222,10 +44182,6 @@
   {
     "ItemCode": "100300015",
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "400301101",
@@ -44284,10 +44240,6 @@
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -44326,10 +44278,6 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "100551002",
@@ -44910,5 +44858,57 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "300200001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
