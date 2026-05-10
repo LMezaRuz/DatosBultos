@@ -32268,10 +32268,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
@@ -35860,10 +35856,6 @@
     "ItemName": "YOGURT DAMASCO 1X1 LT"
   },
   {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -36300,16 +36292,8 @@
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101151016",
     "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "103010006",
@@ -39272,10 +39256,6 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
   },
   {
-    "ItemCode": "200002011",
-    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
     "ItemCode": "200100005",
     "ItemName": "HELADO SAN FCO. LUCUMA MANJAR (CREMA) 1 X 4,8 LTS"
   },
@@ -40030,10 +40010,6 @@
   {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "400251003",
@@ -44652,14 +44628,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
-    "ItemCode": "200003005",
-    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -44910,5 +44878,37 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "200002011",
+    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "200003005",
+    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
