@@ -30884,10 +30884,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
   },
@@ -38152,10 +38148,6 @@
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -39270,10 +39262,6 @@
   {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
-    "ItemCode": "101202002",
-    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
   {
     "ItemCode": "100557019",
@@ -44444,10 +44432,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
@@ -44910,5 +44894,21 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "101202002",
+    "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   }
 ]
