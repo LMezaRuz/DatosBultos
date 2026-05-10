@@ -25812,10 +25812,6 @@
     "ItemName": "COBERTURA NEUCOBER LECHE 12X1 KG"
   },
   {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "102970005",
     "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
   },
@@ -28432,10 +28428,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201041",
-    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -28446,10 +28438,6 @@
   {
     "ItemCode": "103910051",
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "101201042",
-    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
     "ItemCode": "203190038",
@@ -38300,10 +38288,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
   },
   {
-    "ItemCode": "101201012",
-    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
@@ -39062,10 +39046,6 @@
   {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201040",
-    "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "100550001",
@@ -44092,10 +44072,6 @@
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -44910,5 +44886,29 @@
   {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "101201040",
+    "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201041",
+    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201042",
+    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201012",
+    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   }
 ]
