@@ -27156,10 +27156,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "104610007",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE 12 DISPL X 16 UN X 45GR."
-  },
-  {
     "ItemCode": "203550030",
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
@@ -35816,10 +35812,6 @@
     "ItemName": "PITCHER 12 ONZAS PARA LECHE"
   },
   {
-    "ItemCode": "104610006",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
-  },
-  {
     "ItemCode": "400301021",
     "ItemName": "CAJA DELIVERY MEDIANA JUAN MAESTRO 1 X 250 UN"
   },
@@ -39868,10 +39860,6 @@
     "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "300404024",
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
@@ -39886,10 +39874,6 @@
   {
     "ItemCode": "101200023",
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "101100027",
@@ -44380,10 +44364,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "103140003",
     "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
   },
@@ -44466,10 +44446,6 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
     "ItemCode": "100052005",
@@ -44576,16 +44552,8 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "LOG_104670065",
-    "ItemName": "[LOG] TE LIPTON CLEAN GREEN PURE 12 X 20 BLS"
-  },
-  {
     "ItemCode": "LOG_104670060",
     "ItemName": "[LOG] TE LIPTON BREAKFAST TEA 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670066",
-    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
   {
     "ItemCode": "LOG_104670063",
@@ -44880,26 +44848,6 @@
     "ItemName": "HELADO VITTORE MENTA CHIPS 6X220 ML"
   },
   {
-    "ItemCode": "LOG_104670057",
-    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 100 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670064",
-    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 50 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670059",
-    "ItemName": "[LOG] TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670068",
-    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670067",
-    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 50 BLS"
-  },
-  {
     "ItemCode": "LOG_104670093",
     "ItemName": "[LOG] TE LIPTON GREEN BERRIES 12 X 20 BLS"
   },
@@ -44926,5 +44874,57 @@
   {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "LOG_104670066",
+    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670059",
+    "ItemName": "[LOG] TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670065",
+    "ItemName": "[LOG] TE LIPTON CLEAN GREEN PURE 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670064",
+    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 50 BLS"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "104610006",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
+  },
+  {
+    "ItemCode": "104610007",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE 12 DISPL X 16 UN X 45GR."
+  },
+  {
+    "ItemCode": "LOG_104670068",
+    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670067",
+    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 50 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670057",
+    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 100 BLS"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   }
 ]
