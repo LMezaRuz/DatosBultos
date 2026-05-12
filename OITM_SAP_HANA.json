@@ -24692,14 +24692,6 @@
     "ItemName": "POSTA ROSADA PARAGUAY CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "LOG_102540020",
-    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540021",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "304760418",
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
@@ -44908,12 +44900,16 @@
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
-    "ItemCode": "LOG_102540019",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
   },
   {
-    "ItemCode": "LOG_102540018",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+    "ItemCode": "LOG_102540020",
+    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540021",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
   },
   {
     "ItemCode": "LOG_102540016",
@@ -44924,7 +44920,11 @@
     "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
   },
   {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+    "ItemCode": "LOG_102540019",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540018",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
   }
 ]
