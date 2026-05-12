@@ -27364,10 +27364,6 @@
     "ItemName": "ENTRAÑA AL VACIO CAT-V IMP. BRASIL GARRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "103530001",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 4X5 KG"
-  },
-  {
     "ItemCode": "103580001",
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
@@ -28682,10 +28678,6 @@
   {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
-    "ItemCode": "204380003",
-    "ItemName": "PULPA DE PIÑA LA CABAÑA 10X1 KG"
   },
   {
     "ItemCode": "103090003",
@@ -33752,10 +33744,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
-  },
-  {
     "ItemCode": "104020000",
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
@@ -38156,10 +38144,6 @@
     "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -39742,10 +39726,6 @@
   {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
-    "ItemCode": "100852012",
-    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
     "ItemCode": "101100024",
@@ -42828,10 +42808,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "202820005",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
@@ -43038,10 +43014,6 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "102930010",
-    "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
   {
     "ItemCode": "204180028",
@@ -44248,10 +44220,6 @@
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201046",
-    "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
-  },
-  {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
@@ -44282,10 +44250,6 @@
   {
     "ItemCode": "101201025",
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
   {
     "ItemCode": "100402001",
@@ -44538,10 +44502,6 @@
   {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "202820001",
@@ -44926,5 +44886,45 @@
   {
     "ItemCode": "100559009",
     "ItemName": "SAL LOBOS SACHET 2.000X1 G"
+  },
+  {
+    "ItemCode": "100852012",
+    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "103530001",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 4X5 KG"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
+  },
+  {
+    "ItemCode": "102930010",
+    "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "101201046",
+    "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204380003",
+    "ItemName": "PULPA DE PIÑA LA CABAÑA 10X1 KG"
   }
 ]
