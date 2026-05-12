@@ -31964,10 +31964,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
@@ -37666,10 +37662,6 @@
   {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
-  },
-  {
-    "ItemCode": "400251007",
-    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
   },
   {
     "ItemCode": "202910010",
@@ -44252,10 +44244,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
@@ -44386,10 +44374,6 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "104670004",
@@ -44720,10 +44704,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -44926,5 +44906,25 @@
   {
     "ItemCode": "LOG_102540018",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "400251007",
+    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
   }
 ]
