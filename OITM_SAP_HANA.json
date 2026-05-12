@@ -30328,10 +30328,6 @@
     "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "100302037",
     "ItemName": "SPRITE LATA 6X350 CC."
   },
@@ -31642,10 +31638,6 @@
   {
     "ItemCode": "101353033",
     "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
-  },
-  {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
     "ItemCode": "200453013",
@@ -39004,10 +38996,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -44412,10 +44400,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
-    "ItemCode": "104010052",
-    "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
-  },
-  {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
   },
@@ -44926,5 +44910,21 @@
   {
     "ItemCode": "204790000",
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "104010052",
+    "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   }
 ]
