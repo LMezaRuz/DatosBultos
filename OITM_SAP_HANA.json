@@ -30876,10 +30876,6 @@
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
   },
   {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
     "ItemCode": "104210015",
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
@@ -31790,10 +31786,6 @@
   {
     "ItemCode": "202800001",
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
-  },
-  {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
   },
   {
     "ItemCode": "203610000",
@@ -35796,14 +35788,6 @@
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "400301033",
-    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "103180004",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
@@ -36082,10 +36066,6 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
     "ItemCode": "101250003",
@@ -43696,10 +43676,6 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -43894,10 +43870,6 @@
   {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "101353022",
@@ -44238,10 +44210,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "204140004",
@@ -44696,10 +44664,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -44750,10 +44714,6 @@
   {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
     "ItemCode": "100551002",
@@ -44904,6 +44864,50 @@
     "ItemName": "[LOG] INFUSION SIDDHARTA MANGO AFRICANO 6 X 2 L"
   },
   {
+    "ItemCode": "LOG_102540022",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "400301033",
+    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
     "ItemCode": "LOG_102540019",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
   },
@@ -44922,9 +44926,5 @@
   {
     "ItemCode": "LOG_102540023",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540022",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
   }
 ]
