@@ -30844,10 +30844,6 @@
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "300157044",
     "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
   },
@@ -38108,10 +38104,6 @@
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
-    "ItemCode": "300156013",
-    "ItemName": "YOGURT BOLSA CALAN FRUTILLA 12X1 LT"
-  },
-  {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
   },
@@ -39258,10 +39250,6 @@
   {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
     "ItemCode": "100651010",
@@ -44776,10 +44764,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
@@ -44934,5 +44918,21 @@
   {
     "ItemCode": "100351015",
     "ItemName": "CAFE FINA SELECCION 1X200 GR"
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
+  },
+  {
+    "ItemCode": "300156013",
+    "ItemName": "YOGURT BOLSA CALAN FRUTILLA 12X1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   }
 ]
