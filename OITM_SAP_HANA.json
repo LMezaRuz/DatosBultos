@@ -26808,10 +26808,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
   },
   {
-    "ItemCode": "203210004",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
-  },
-  {
     "ItemCode": "203900007",
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
@@ -27118,10 +27114,6 @@
   {
     "ItemCode": "202730022",
     "ItemName": "ROLLITO DE JAMON Y QUESO 54X120 GR"
-  },
-  {
-    "ItemCode": "202730063",
-    "ItemName": "DONUT GLASEADA 72 X 52 GR"
   },
   {
     "ItemCode": "204100006",
@@ -30092,10 +30084,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "202730068",
-    "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
-  },
-  {
     "ItemCode": "202730016",
     "ItemName": "MINI REJILLA DE MAPLE PECAN 96X40 GR  (47917)"
   },
@@ -32386,10 +32374,6 @@
   {
     "ItemCode": "204290000",
     "ItemName": "LASAGNA BOLOGNESA 6X600 GR"
-  },
-  {
-    "ItemCode": "202730078",
-    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   },
   {
     "ItemCode": "103880037",
@@ -36148,10 +36132,6 @@
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
@@ -37828,10 +37808,6 @@
     "ItemName": "CONGRIO FILETE AL VACIO KG"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "203230007",
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -38956,10 +38932,6 @@
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "202730015",
-    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
-  },
-  {
     "ItemCode": "104210029",
     "ItemName": "SPAGUETTI DOGA 20X400 GR"
   },
@@ -39870,10 +39842,6 @@
   {
     "ItemCode": "100351009",
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
-  },
-  {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
     "ItemCode": "100900005",
@@ -43884,10 +43852,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "304760110",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101401003",
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
@@ -44934,5 +44898,41 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
+  },
+  {
+    "ItemCode": "203210004",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
+  },
+  {
+    "ItemCode": "202730015",
+    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
+  },
+  {
+    "ItemCode": "202730063",
+    "ItemName": "DONUT GLASEADA 72 X 52 GR"
+  },
+  {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "202730078",
+    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
+  },
+  {
+    "ItemCode": "202730068",
+    "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
+  },
+  {
+    "ItemCode": "304760110",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   }
 ]
