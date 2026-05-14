@@ -26924,10 +26924,6 @@
     "ItemName": "BROWNIE DE CHOCOLATE CON NUEZ 3X2 KG"
   },
   {
-    "ItemCode": "204750020",
-    "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
-  },
-  {
     "ItemCode": "204750021",
     "ItemName": "FILETE DE VACUNO PORCIONADO 5 UN DE 4 X 270 GR (MM)"
   },
@@ -28316,10 +28312,6 @@
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -28416,10 +28408,6 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "LOG_104670061",
-    "ItemName": "[LOG] TE LIPTON CAMOMILE 12 X 20 BLS"
-  },
-  {
     "ItemCode": "LOG_104670062",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 20 BLS"
   },
@@ -28434,10 +28422,6 @@
   {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
-  },
-  {
-    "ItemCode": "LOG_104670066",
-    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
   {
     "ItemCode": "300157034",
@@ -28514,10 +28498,6 @@
   {
     "ItemCode": "LOG_104670095",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 25 BLS"
-  },
-  {
-    "ItemCode": "LOG_104670096",
-    "ItemName": "[LOG] TE LIPTON PEPPERMINT INF 12 X 20 BLS"
   },
   {
     "ItemCode": "LOG_104670097",
@@ -30094,10 +30074,6 @@
   {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "204300030",
@@ -40936,10 +40912,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
   {
-    "ItemCode": "100101002",
-    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "300353007",
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -44016,10 +43988,6 @@
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 50 BLS"
   },
   {
-    "ItemCode": "LOG_104670065",
-    "ItemName": "[LOG] TE LIPTON CLEAN GREEN PURE 12 X 20 BLS"
-  },
-  {
     "ItemCode": "LOG_104670063",
     "ItemName": "[LOG] TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
   },
@@ -44114,10 +44082,6 @@
   {
     "ItemCode": "304760110",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "LOG_104670057",
-    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 100 BLS"
   },
   {
     "ItemCode": "400105003",
@@ -44560,10 +44524,6 @@
     "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "400102004",
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
@@ -44934,5 +44894,45 @@
   {
     "ItemCode": "200500053",
     "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204750020",
+    "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "LOG_104670066",
+    "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670065",
+    "ItemName": "[LOG] TE LIPTON CLEAN GREEN PURE 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670057",
+    "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 100 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670096",
+    "ItemName": "[LOG] TE LIPTON PEPPERMINT INF 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "LOG_104670061",
+    "ItemName": "[LOG] TE LIPTON CAMOMILE 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "100101002",
+    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   }
 ]
