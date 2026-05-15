@@ -21516,10 +21516,6 @@
     "ItemName": "CANELONES LUCCHETTI 12X250 GR"
   },
   {
-    "ItemCode": "104210031",
-    "ItemName": "RIZZO CAROZZI 10X800 GR"
-  },
-  {
     "ItemCode": "104320011",
     "ItemName": "JALEA 5 INSTANTANEA FRAMBUESA TKF 10X1KG"
   },
@@ -28342,10 +28338,6 @@
   {
     "ItemCode": "204300068",
     "ItemName": "TRUTRO CUARTO POLLO CONG. IMP. BRASIL 1X10 KG"
-  },
-  {
-    "ItemCode": "204300082",
-    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
   },
   {
     "ItemCode": "204380000",
@@ -36500,10 +36492,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "100852009",
     "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   },
@@ -40184,10 +40172,6 @@
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -40226,10 +40210,6 @@
   {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
     "ItemCode": "100557003",
@@ -40678,10 +40658,6 @@
   {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "103910046",
@@ -42360,16 +42336,8 @@
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
   {
-    "ItemCode": "203210109",
-    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "203210111",
-    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
     "ItemCode": "203210112",
@@ -43400,14 +43368,6 @@
     "ItemName": "PACK JALEA SIN AZUCAR SABOR NARANJA 6X4X100 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100251003",
-    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
@@ -44236,18 +44196,6 @@
     "ItemName": "POROTOS WASIL 16X380"
   },
   {
-    "ItemCode": "600002005",
-    "ItemName": "AJOS KG"
-  },
-  {
-    "ItemCode": "600002006",
-    "ItemName": "APIO 1X1 UN"
-  },
-  {
-    "ItemCode": "600002021",
-    "ItemName": "ZAPALLO KG."
-  },
-  {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
@@ -44592,10 +44540,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "104420000",
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
@@ -44828,14 +44772,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "600001001",
-    "ItemName": "MANZANA KG."
-  },
-  {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
-  },
-  {
     "ItemCode": "600001011",
     "ItemName": "PIÑA 1x1 un"
   },
@@ -44848,16 +44784,72 @@
     "ItemName": "PERA KG."
   },
   {
-    "ItemCode": "600002023",
-    "ItemName": "ACELGA 1X1 UN"
-  },
-  {
     "ItemCode": "600002026",
     "ItemName": "CIBOULETTE"
   },
   {
     "ItemCode": "600002010",
     "ItemName": "CILANTRO 1x125 g."
+  },
+  {
+    "ItemCode": "600002004",
+    "ItemName": "AJI VERDE KG."
+  },
+  {
+    "ItemCode": "600002018",
+    "ItemName": "REPOLLO 1x1 un."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "304760361",
+    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210109",
+    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "203210111",
+    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "104210031",
+    "ItemName": "RIZZO CAROZZI 10X800 GR"
+  },
+  {
+    "ItemCode": "204300082",
+    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "600001001",
+    "ItemName": "MANZANA KG."
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "600002023",
+    "ItemName": "ACELGA 1X1 UN"
   },
   {
     "ItemCode": "600002003",
@@ -44868,8 +44860,12 @@
     "ItemName": "PEREJIL 1x125 g."
   },
   {
-    "ItemCode": "600002004",
-    "ItemName": "AJI VERDE KG."
+    "ItemCode": "600002005",
+    "ItemName": "AJOS KG"
+  },
+  {
+    "ItemCode": "600002006",
+    "ItemName": "APIO 1X1 UN"
   },
   {
     "ItemCode": "600002007",
@@ -44908,10 +44904,6 @@
     "ItemName": "PIMIENTO MORRÓN VERDE KG."
   },
   {
-    "ItemCode": "600002018",
-    "ItemName": "REPOLLO 1x1 un."
-  },
-  {
     "ItemCode": "600002019",
     "ItemName": "TOMATE KG."
   },
@@ -44920,19 +44912,27 @@
     "ItemName": "ZANAHORIA KG."
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+    "ItemCode": "600002021",
+    "ItemName": "ZAPALLO KG."
   },
   {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+    "ItemCode": "100251003",
+    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "304760361",
-    "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   }
 ]
