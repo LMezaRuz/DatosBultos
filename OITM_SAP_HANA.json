@@ -31156,10 +31156,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -32178,10 +32174,6 @@
   {
     "ItemCode": "203210103",
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "304840004",
@@ -38096,10 +38088,6 @@
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
   },
   {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
@@ -38120,20 +38108,12 @@
     "ItemName": "CREMA PASTELERA 1X1KG."
   },
   {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "202720015",
     "ItemName": "ROLLO DE CANELA GLASEADO 63 X 75 GR"
   },
   {
     "ItemCode": "101305004",
     "ItemName": "SALSA DE CARAMELO 1X1 LT."
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101305008",
@@ -41000,10 +40980,6 @@
     "ItemName": "CURRY BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "100557008",
     "ItemName": "ALIÑO COMPLETO NEGRITA 10X5 GR"
   },
@@ -42816,10 +42792,6 @@
     "ItemName": "MANTEQUILLA VEGANA 1X125 GR"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101009025",
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
@@ -43462,10 +43434,6 @@
   {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "103880018",
@@ -44916,10 +44884,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
@@ -44946,5 +44910,41 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   }
 ]
