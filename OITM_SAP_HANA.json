@@ -28792,10 +28792,6 @@
     "ItemName": "CONDIMENTO INTEGRAL ALITAS HOT 1X10KG"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "100559009",
     "ItemName": "SAL LOBOS SACHET 2.000X1 G"
   },
@@ -30276,10 +30272,6 @@
     "ItemName": "TRUTRO DE ALA COCIDA HOT 6X2 KG (GC)"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "200201002",
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
@@ -30354,10 +30346,6 @@
   {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
     "ItemCode": "200201019",
@@ -30546,10 +30534,6 @@
   {
     "ItemCode": "204310015",
     "ItemName": "LINGOTE DE FRAMBUESA Y NOUGAT 27X66 GR"
-  },
-  {
-    "ItemCode": "204140008",
-    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
   },
   {
     "ItemCode": "204310014",
@@ -30946,10 +30930,6 @@
   {
     "ItemCode": "204310005",
     "ItemName": "TIRAMISU 6X700 GR"
-  },
-  {
-    "ItemCode": "204140009",
-    "ItemName": "HALLULLA PRECOCIDA CONGELADA 94X85 GR"
   },
   {
     "ItemCode": "204310023",
@@ -38004,10 +37984,6 @@
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "101151001",
     "ItemName": "SALSA MOSTAZA UNIFOOD 12 X 1 KG"
   },
@@ -42964,10 +42940,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -43714,10 +43686,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "300404005",
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "202730076",
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "204140009",
+    "ItemName": "HALLULLA PRECOCIDA CONGELADA 94X85 GR"
+  },
+  {
+    "ItemCode": "204140008",
+    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   }
 ]
