@@ -19340,10 +19340,6 @@
     "ItemName": "PULPA DE PIÑA IMP 10X1 KG"
   },
   {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "202820021",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 71/90 10X1 KG SMARTCHOICE"
   },
@@ -20494,10 +20490,6 @@
   {
     "ItemCode": "MAQMMS008",
     "ItemName": "TARIFA MEATMASTER FRICANDELA 180G"
-  },
-  {
-    "ItemCode": "202820003",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 20X500 GR"
   },
   {
     "ItemCode": "202730076",
@@ -27578,10 +27570,6 @@
   {
     "ItemCode": "400106022",
     "ItemName": "VASO POLIPAPEL KIMBO 12 OZ 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "300153003",
@@ -35528,10 +35516,6 @@
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
   {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
-  },
-  {
     "ItemCode": "200203014",
     "ItemName": "PAN HAMBURGUESA AMERICANO (NAC) 10 CM 1 X 48 UN"
   },
@@ -37358,10 +37342,6 @@
   {
     "ItemCode": "100751050",
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100752003",
@@ -42984,10 +42964,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "304450005",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
@@ -43156,10 +43132,6 @@
     "ItemName": "YOGURT NATURAL 1 X 125 CC"
   },
   {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
     "ItemCode": "300157008",
     "ItemName": "YOGURT FRUTILLA ZEROLACTO SOPROLE 1X120 GR."
   },
@@ -43308,10 +43280,6 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "300351018",
     "ItemName": "JAMON SANDWICH PIEZA 1x1 kg"
   },
@@ -43358,10 +43326,6 @@
   {
     "ItemCode": "300352003",
     "ItemName": "PULPA DE CERDO KG (NV)"
-  },
-  {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
   },
   {
     "ItemCode": "300353072",
@@ -43790,10 +43754,6 @@
   {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101355001",
@@ -44946,5 +44906,45 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
+  },
+  {
+    "ItemCode": "202820003",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
   }
 ]
