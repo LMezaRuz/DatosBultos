@@ -19136,10 +19136,6 @@
     "ItemName": "CRAB BALL JAIBA 4X25 UN"
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "200302009",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
@@ -31544,10 +31540,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO CALO 2X1,92 KG"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -40604,10 +40596,6 @@
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100251007",
     "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
   },
@@ -41872,10 +41860,6 @@
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
     "ItemCode": "104690000",
     "ItemName": "TOMATE PELADO IMP. ARCO (2DA SELECCIÓN) 6 X 2500 GR"
   },
@@ -42666,10 +42650,6 @@
   {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "300152010",
-    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
   },
   {
     "ItemCode": "300152016",
@@ -44252,10 +44232,6 @@
     "ItemName": "PORCION SALMON ATLANTICO CON PIEL CAJA  5 KG APROX  (CAMANCHACA)"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101009041",
     "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
   },
@@ -44656,10 +44632,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -44816,10 +44788,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "100354001",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO MAQUINA VENDING  10X1KL"
+  },
+  {
+    "ItemCode": "300152010",
+    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
