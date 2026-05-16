@@ -31856,10 +31856,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760346",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760347",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -34018,10 +34014,6 @@
   {
     "ItemCode": "101353032",
     "ItemName": "MAYONESA NATURA 1X760 GR"
-  },
-  {
-    "ItemCode": "101353033",
-    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
   },
   {
     "ItemCode": "101354001",
@@ -38054,10 +38046,6 @@
   {
     "ItemCode": "101352007",
     "ItemName": "KETCHUP MALLOA 6X2 KG."
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101352010",
@@ -43372,10 +43360,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -44572,10 +44556,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "103940024",
-    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
     "ItemCode": "102530001",
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
@@ -44650,14 +44630,6 @@
   {
     "ItemCode": "303660008",
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "303660005",
-    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
   },
   {
     "ItemCode": "303630000",
@@ -44946,5 +44918,33 @@
   {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "304760346",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103940024",
+    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660005",
+    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353033",
+    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   }
 ]
