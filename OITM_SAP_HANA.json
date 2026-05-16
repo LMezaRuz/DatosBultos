@@ -28296,10 +28296,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "304760400",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
@@ -31656,10 +31652,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
@@ -32278,10 +32270,6 @@
   {
     "ItemCode": "400050003",
     "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
-  },
-  {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
     "ItemCode": "400103003",
@@ -39744,10 +39732,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "202910006",
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
@@ -39818,10 +39802,6 @@
   {
     "ItemCode": "100552005",
     "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "203550022",
@@ -40936,10 +40916,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100750007",
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
@@ -41046,10 +41022,6 @@
   {
     "ItemCode": "100351009",
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
-  },
-  {
-    "ItemCode": "100351010",
-    "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
   },
   {
     "ItemCode": "100351014",
@@ -43704,10 +43676,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
   },
@@ -43814,10 +43782,6 @@
   {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
-  },
-  {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
     "ItemCode": "400001007",
@@ -44164,20 +44128,12 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X12 UN"
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
   },
   {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
-  },
-  {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
     "ItemCode": "400011017",
@@ -44584,14 +44540,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -44776,10 +44724,6 @@
     "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
@@ -44946,5 +44890,61 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100351010",
+    "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   }
 ]
