@@ -27216,10 +27216,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "204180024",
     "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
   },
@@ -29548,10 +29544,6 @@
     "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "204150012",
-    "ItemName": "MINI NAVETTE 100X15 GR"
-  },
-  {
     "ItemCode": "103910021",
     "ItemName": "MERMELADA GOLD DAMASCO WATTS 3X5 KG"
   },
@@ -29658,14 +29650,6 @@
   {
     "ItemCode": "303660008",
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
     "ItemCode": "104010002",
@@ -30672,10 +30656,6 @@
     "ItemName": "TIRAMISU 6X700 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "204310023",
     "ItemName": "BROWNIE SIN GLUTEN 20X100 G"
   },
@@ -31494,10 +31474,6 @@
   {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
   {
     "ItemCode": "400150005",
@@ -44472,10 +44448,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -44622,10 +44594,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100100003",
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "204150012",
+    "ItemName": "MINI NAVETTE 100X15 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
