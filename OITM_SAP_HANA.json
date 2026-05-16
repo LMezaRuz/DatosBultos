@@ -31484,16 +31484,8 @@
     "ItemName": "FIAMBRE SANDWICH LAMINADO SAN JORGE 4X500 GR"
   },
   {
-    "ItemCode": "302890007",
-    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "104140002",
     "ItemName": "PAN VEGANO 1X430 GRS."
-  },
-  {
-    "ItemCode": "302890013",
-    "ItemName": "PEPPERONI LAMINADO 1X500 GR"
   },
   {
     "ItemCode": "302890038",
@@ -44572,10 +44564,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "101450007",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
@@ -44946,5 +44934,17 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "302890013",
+    "ItemName": "PEPPERONI LAMINADO 1X500 GR"
+  },
+  {
+    "ItemCode": "302890007",
+    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   }
 ]
