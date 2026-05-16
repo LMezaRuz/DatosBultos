@@ -32072,10 +32072,6 @@
     "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -38340,10 +38336,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
@@ -40392,10 +40384,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -40426,10 +40414,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "101003001",
@@ -42988,10 +42972,6 @@
     "ItemName": "POSTRE MANJARATE 1X80 GR"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -44576,10 +44556,6 @@
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
-  },
-  {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
@@ -44946,5 +44922,29 @@
   {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
