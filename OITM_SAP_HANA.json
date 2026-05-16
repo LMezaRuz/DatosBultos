@@ -37616,10 +37616,6 @@
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
-    "ItemCode": "300157029",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
-  },
-  {
     "ItemCode": "101150071",
     "ItemName": "** NO USAR**CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG *** NO USAR***"
   },
@@ -39344,10 +39340,6 @@
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
-  },
-  {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
@@ -39514,10 +39506,6 @@
   {
     "ItemCode": "300157035",
     "ItemName": "YOG. GRI OIKOS TROZO PIÑA 48X110 CAJA"
-  },
-  {
-    "ItemCode": "300157036",
-    "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
   },
   {
     "ItemCode": "300157037",
@@ -43604,10 +43592,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
-    "ItemCode": "300157028",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
@@ -43794,10 +43778,6 @@
   {
     "ItemCode": "101009038",
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "204090002",
@@ -44508,14 +44488,6 @@
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
@@ -44946,5 +44918,33 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "300157036",
+    "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
+    "ItemCode": "300157029",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   }
 ]
