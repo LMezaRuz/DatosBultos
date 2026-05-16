@@ -25856,10 +25856,6 @@
     "ItemName": "KETCHUP HELLMANNS SQZ 24 UN X 400 GR"
   },
   {
-    "ItemCode": "103480024",
-    "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
@@ -33152,14 +33148,6 @@
     "ItemName": "DURAZNO EN CUBITOS ACONCAGUA 24X820 GR"
   },
   {
-    "ItemCode": "100651010",
-    "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "100651011",
-    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
-  },
-  {
     "ItemCode": "100651012",
     "ItemName": "DURAZNOS TROCITO WASIL 20X820"
   },
@@ -33458,10 +33446,6 @@
   {
     "ItemCode": "101002001",
     "ItemName": "CREMA DE LECHE TARRO 48X157 GRS"
-  },
-  {
-    "ItemCode": "101002007",
-    "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
   },
   {
     "ItemCode": "101002008",
@@ -35248,10 +35232,6 @@
     "ItemName": "JARDINERA PIMENTON 1X2 KG"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
@@ -35328,20 +35308,12 @@
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "200203010",
     "ItemName": "PAN DE MESA CUADRADO (38395) 200X30G"
   },
   {
     "ItemCode": "200203011",
     "ItemName": "PAN HAWAIIAN 1 X 60 UNIDADES"
-  },
-  {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
     "ItemCode": "300151001",
@@ -35430,10 +35402,6 @@
   {
     "ItemCode": "300154002",
     "ItemName": "MAESTRA HOJA 8X2.5 KG"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "300154004",
@@ -40368,10 +40336,6 @@
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "202730081",
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
@@ -42256,10 +42220,6 @@
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
@@ -42356,10 +42316,6 @@
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
@@ -42406,10 +42362,6 @@
   {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
     "ItemCode": "200462119",
@@ -43704,10 +43656,6 @@
     "ItemName": "GUANTE DE VINILO TALLA XL 1X100 UN."
   },
   {
-    "ItemCode": "400005003",
-    "ItemName": "GUANTE DE POLITILENO 1X100 UN"
-  },
-  {
     "ItemCode": "400005004",
     "ItemName": "MASCARILLAS KN95 1X10 UN"
   },
@@ -43922,10 +43870,6 @@
   {
     "ItemCode": "400011019",
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "400012003",
@@ -44664,10 +44608,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -44766,10 +44706,6 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101001005",
@@ -44946,5 +44882,69 @@
   {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "100651010",
+    "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "100651011",
+    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
+  },
+  {
+    "ItemCode": "400005003",
+    "ItemName": "GUANTE DE POLITILENO 1X100 UN"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101002007",
+    "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "103480024",
+    "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
   }
 ]
