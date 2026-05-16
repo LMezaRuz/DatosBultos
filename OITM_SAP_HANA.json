@@ -28008,10 +28008,6 @@
     "ItemName": "QUESO MOZZARELLA PAMPA CHEESE BARRA KG (4,5 KG APROX.)"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "304760006",
     "ItemName": "TAPAPECHO AL VACIO CAT V BRASIL 100 VL (20 KG APROX)"
   },
@@ -28310,10 +28306,6 @@
   {
     "ItemCode": "304760402",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
-  },
-  {
-    "ItemCode": "204790037",
-    "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
     "ItemCode": "304760408",
@@ -34074,10 +34066,6 @@
   {
     "ItemCode": "101151021",
     "ItemName": "SALSA MOSTAZA MIEL UNIFOOD 100 UN X 35 GR"
-  },
-  {
-    "ItemCode": "101201055",
-    "ItemName": "FLAN CON LECHE VAINILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
     "ItemCode": "101201056",
@@ -39848,10 +39836,6 @@
     "ItemName": "SALSA DE SOYA 1X500 CC."
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -42772,10 +42756,6 @@
     "ItemName": "ARVEJAS CONGELADAS 15X1 KG"
   },
   {
-    "ItemCode": "200500036",
-    "ItemName": "POROTO GRANADO 15X1 KG"
-  },
-  {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
@@ -42850,10 +42830,6 @@
   {
     "ItemCode": "202910005",
     "ItemName": "PLATEADA CRIOLLA DE CERDO CON AJI DIEZ PUNTOS 10X800 GR"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400001001",
@@ -43338,10 +43314,6 @@
   {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
-  },
-  {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
     "ItemCode": "300351018",
@@ -44832,10 +44804,6 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "200500036",
+    "ItemName": "POROTO GRANADO 15X1 KG"
+  },
+  {
+    "ItemCode": "101201055",
+    "ItemName": "FLAN CON LECHE VAINILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "204790037",
+    "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
