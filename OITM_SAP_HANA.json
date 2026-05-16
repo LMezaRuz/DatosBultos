@@ -25388,20 +25388,8 @@
     "ItemName": "CHOCOLATE BLANCO SIN AZUCAR CALLEBAUT 5X5 KG"
   },
   {
-    "ItemCode": "103000002",
-    "ItemName": "COBERTURA NEUCOBER AMARGO 12X1 KG"
-  },
-  {
-    "ItemCode": "103010004",
-    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
-  },
-  {
     "ItemCode": "103010005",
     "ItemName": "COBERTURA NEUCOBER SEMI-AMARGO S/AZUCAR 12X1 KG"
-  },
-  {
-    "ItemCode": "103010006",
-    "ItemName": "COBERTURA NEUCOBER BLANCO 12X1 KG"
   },
   {
     "ItemCode": "103010007",
@@ -25854,10 +25842,6 @@
   {
     "ItemCode": "104010042",
     "ItemName": "SALSA THAI MAMUT 6 UN X 1 KG"
-  },
-  {
-    "ItemCode": "104010043",
-    "ItemName": "CREMA DE AVELLANAS NEUCOBER 20X650 GR"
   },
   {
     "ItemCode": "104010048",
@@ -26774,10 +26758,6 @@
   {
     "ItemCode": "203190037",
     "ItemName": "CHULETA CENTRO CONG. MARINADA 42X180 GR (MM)"
-  },
-  {
-    "ItemCode": "102970007",
-    "ItemName": "CHIPS NEUCOBER HORNEABLE SEMI AMARGO 24X500 GR"
   },
   {
     "ItemCode": "203190041",
@@ -44946,5 +44926,25 @@
   {
     "ItemCode": "101001004",
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "103010004",
+    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
+  },
+  {
+    "ItemCode": "103000002",
+    "ItemName": "COBERTURA NEUCOBER AMARGO 12X1 KG"
+  },
+  {
+    "ItemCode": "102970007",
+    "ItemName": "CHIPS NEUCOBER HORNEABLE SEMI AMARGO 24X500 GR"
+  },
+  {
+    "ItemCode": "103010006",
+    "ItemName": "COBERTURA NEUCOBER BLANCO 12X1 KG"
+  },
+  {
+    "ItemCode": "104010043",
+    "ItemName": "CREMA DE AVELLANAS NEUCOBER 20X650 GR"
   }
 ]
