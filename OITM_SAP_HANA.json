@@ -26700,10 +26700,6 @@
     "ItemName": "CHULETA CENTRO CONG. MARINADA 42X180 GR (MM)"
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "203190041",
     "ItemName": "BANDERITA DE CERDO 5X1 KG (MM)"
   },
@@ -26726,10 +26722,6 @@
   {
     "ItemCode": "203190050",
     "ItemName": "CHULETA VETADA PORCIONADA 7,5 KG (APROX)"
-  },
-  {
-    "ItemCode": "203190051",
-    "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
   {
     "ItemCode": "203190052",
@@ -27658,10 +27650,6 @@
   {
     "ItemCode": "302590001",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 25X46 GR"
-  },
-  {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
   {
     "ItemCode": "302890024",
@@ -29194,10 +29182,6 @@
   {
     "ItemCode": "102980009",
     "ItemName": "BON BON 6 DISPLAY X 24 UNIDADES X 30 GRS."
-  },
-  {
-    "ItemCode": "100600007",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
   },
   {
     "ItemCode": "102980021",
@@ -38528,10 +38512,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "200402016",
     "ItemName": "HAMBURGUESA VACUNO NF 30 X 135 GRS"
   },
@@ -39218,10 +39198,6 @@
   {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "203230004",
@@ -40380,10 +40356,6 @@
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
     "ItemCode": "100351008",
     "ItemName": "NESCAFÉ DECAF STICK 24(20x1.8gr)"
   },
@@ -41474,10 +41446,6 @@
   {
     "ItemCode": "104690001",
     "ItemName": "TOMATE PELADO IMP. COPPOLA ABOLLADO (2DA SELECCIÓN) 6X2500 GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "304340003",
@@ -43832,10 +43800,6 @@
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
   },
   {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
@@ -43988,10 +43952,6 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
@@ -44102,10 +44062,6 @@
   {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
     "ItemCode": "100752001",
@@ -44532,10 +44488,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
@@ -44836,10 +44788,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -44904,10 +44852,6 @@
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
@@ -44946,5 +44890,61 @@
   {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100600007",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "203190051",
+    "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   }
 ]
