@@ -25576,18 +25576,6 @@
     "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "103520008",
-    "ItemName": "HARINA INTEGRAL FINA YANINE 1X25 KG"
-  },
-  {
-    "ItemCode": "103520010",
-    "ItemName": "HARINA ESPECIALIDAD PIZZA YANINE 1X25 KG"
-  },
-  {
-    "ItemCode": "103520012",
-    "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
-  },
-  {
     "ItemCode": "103520016",
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
   },
@@ -29468,18 +29456,6 @@
     "ItemName": "GALLETA BISCOFF LOTUS DULCE 12X124 GR"
   },
   {
-    "ItemCode": "103520006",
-    "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
-  },
-  {
-    "ItemCode": "103520007",
-    "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
-  },
-  {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "103530001",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 4X5 KG"
   },
@@ -29850,10 +29826,6 @@
   {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "104570015",
@@ -30266,10 +30238,6 @@
   {
     "ItemCode": "202730044",
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
-  },
-  {
-    "ItemCode": "204310012",
-    "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
   },
   {
     "ItemCode": "202720032",
@@ -35608,10 +35576,6 @@
     "ItemName": "MIX 3 QUESOS (GAUDA- MOZZARELLA- MANTECOSO) 1 X 3 KG"
   },
   {
-    "ItemCode": "100902004",
-    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
-  },
-  {
     "ItemCode": "300403005",
     "ItemName": "QUESO CREMA PHILADELPHIA 1X1,36 KG"
   },
@@ -35758,10 +35722,6 @@
   {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
-  },
-  {
-    "ItemCode": "400010023",
-    "ItemName": "RINZA 1X1 UN"
   },
   {
     "ItemCode": "400010024",
@@ -41780,10 +41740,6 @@
     "ItemName": "ACETO BALSAMICO 1 X 2 LT"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -44332,10 +44288,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -44630,10 +44582,6 @@
   {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "102530001",
@@ -44946,5 +44894,57 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "103520007",
+    "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "100902004",
+    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
+  },
+  {
+    "ItemCode": "103520010",
+    "ItemName": "HARINA ESPECIALIDAD PIZZA YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "103520012",
+    "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "103520006",
+    "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
+  },
+  {
+    "ItemCode": "103520008",
+    "ItemName": "HARINA INTEGRAL FINA YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "204310012",
+    "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
+  },
+  {
+    "ItemCode": "400010023",
+    "ItemName": "RINZA 1X1 UN"
   }
 ]
