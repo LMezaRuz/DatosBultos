@@ -29740,10 +29740,6 @@
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
   },
   {
-    "ItemCode": "204700007",
-    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
-  },
-  {
     "ItemCode": "202730068",
     "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
   },
@@ -42144,10 +42140,6 @@
     "ItemName": "CREMA DE AVELLANAS NEUCOBER 20X650 GR"
   },
   {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
@@ -42952,10 +42944,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -43372,10 +43360,6 @@
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
@@ -43500,10 +43484,6 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -43578,10 +43558,6 @@
   {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "304760450",
@@ -44460,10 +44436,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
@@ -44662,10 +44634,6 @@
   {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100559004",
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "204700007",
+    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
