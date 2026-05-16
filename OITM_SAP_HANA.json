@@ -30636,10 +30636,6 @@
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
     "ItemCode": "203210054",
     "ItemName": "***NO USAR***DESPUNTE VACUNO KG"
   },
@@ -37544,10 +37540,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "101050004",
     "ItemName": "TORTILLA 1X12X25 CM (940 G)"
   },
@@ -37690,10 +37682,6 @@
   {
     "ItemCode": "101150066",
     "ItemName": "GELATINES HALLOWEEN CHILE 12X1 KG"
-  },
-  {
-    "ItemCode": "100801001",
-    "ItemName": "PASAS MORENAS 1X1 KG"
   },
   {
     "ItemCode": "100803006",
@@ -38866,10 +38854,6 @@
   {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "200402016",
@@ -41284,10 +41268,6 @@
     "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -41322,10 +41302,6 @@
   {
     "ItemCode": "101007001",
     "ItemName": "NIDO 1 + PROTECTUS LEP  6X1600 GR"
-  },
-  {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
   },
   {
     "ItemCode": "300157028",
@@ -43352,10 +43328,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "304760425",
     "ItemName": "POSTA PALETA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -43418,10 +43390,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "100202015",
@@ -44680,10 +44648,6 @@
     "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -44916,10 +44880,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44946,5 +44906,45 @@
   {
     "ItemCode": "104010043",
     "ItemName": "CREMA DE AVELLANAS NEUCOBER 20X650 GR"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "100801001",
+    "ItemName": "PASAS MORENAS 1X1 KG"
   }
 ]
