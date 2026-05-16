@@ -25452,10 +25452,6 @@
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
   {
-    "ItemCode": "103140003",
-    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
-  },
-  {
     "ItemCode": "103140004",
     "ItemName": "DECORACION FIESTA 25X80 GR"
   },
@@ -27622,10 +27618,6 @@
   {
     "ItemCode": "300404018",
     "ItemName": "QUESO GAUDA LAMINADO 40X250 GR"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "101000009",
@@ -44200,10 +44192,6 @@
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -44438,10 +44426,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "302890006",
@@ -44946,5 +44930,21 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "103140003",
+    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
