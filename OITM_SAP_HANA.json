@@ -19160,10 +19160,6 @@
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
     "ItemCode": "203900005",
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
@@ -19194,10 +19190,6 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
     "ItemCode": "203900007",
@@ -27904,10 +27896,6 @@
     "ItemName": "MANTEQUILLA SIN SAL TONADITA 12X250 GR"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "303870009",
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
   },
@@ -29748,10 +29736,6 @@
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "103910033",
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
@@ -29762,10 +29746,6 @@
   {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "103910037",
@@ -30462,10 +30442,6 @@
   {
     "ItemCode": "100150002",
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "204700007",
@@ -36816,10 +36792,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "100101008",
     "ItemName": "ARROZ PREGRANEADO TUCAPEL 5X2 KG"
   },
@@ -37902,10 +37874,6 @@
   {
     "ItemCode": "101150066",
     "ItemName": "GELATINES HALLOWEEN CHILE 12X1 KG"
-  },
-  {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
     "ItemCode": "100801001",
@@ -39766,10 +39734,6 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "200500003",
@@ -43696,10 +43660,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
-  },
-  {
     "ItemCode": "204530007",
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
   },
@@ -43746,10 +43706,6 @@
   {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "400250002",
@@ -44186,10 +44142,6 @@
   {
     "ItemCode": "400011007",
     "ItemName": "VIRUTILLA FINA PARA OLLA 1X25 UN (C110100)"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "400011009",
@@ -44946,5 +44898,53 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
