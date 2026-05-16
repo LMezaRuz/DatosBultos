@@ -31656,10 +31656,6 @@
     "ItemName": "QUESO MOZZARELLA LA MONAPIZZA BARRA ( UNIDAD 5 KG APROX.)"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
@@ -41488,10 +41484,6 @@
     "ItemName": "NIDO 1 + PROTECTUS LEP  6X1600 GR"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "300157028",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
   },
@@ -42060,10 +42052,6 @@
     "ItemName": "HELADO SAN FRANCISCO FRAMBUESA MERENGUE 1X1 LT"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200002008",
     "ItemName": "EMPANADA  QUESO 25X200 gr"
   },
@@ -42546,10 +42534,6 @@
   {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
-  },
-  {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
     "ItemCode": "200500014",
@@ -43512,10 +43496,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
@@ -44456,10 +44436,6 @@
     "ItemName": "PORCION SALMON ATLANTICO CON PIEL CAJA  5 KG APROX  (CAMANCHACA)"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
@@ -44946,5 +44922,29 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
