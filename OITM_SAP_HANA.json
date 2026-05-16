@@ -25140,10 +25140,6 @@
     "ItemName": "CHORITO NATURAL 1X425 GR"
   },
   {
-    "ItemCode": "102600000",
-    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
-  },
-  {
     "ItemCode": "102600001",
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
   },
@@ -28502,10 +28498,6 @@
   {
     "ItemCode": "500002031",
     "ItemName": "MAQUINA GRIMALT KIMBO PODS"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100304036",
@@ -37644,10 +37636,6 @@
     "ItemName": "TORTA HELADA SAVORY 1X1,2 LTS"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -40848,10 +40836,6 @@
     "ItemName": "MAYONESA HELLMANNS VEGANA 12 x 670 g"
   },
   {
-    "ItemCode": "100654005",
-    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
-  },
-  {
     "ItemCode": "101354003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD PET 16X368 GR"
   },
@@ -41030,10 +41014,6 @@
   {
     "ItemCode": "101451004",
     "ItemName": "VINAGRE BALSAMICO IL BORGO 2X5 LT"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "101451006",
@@ -43700,10 +43680,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
@@ -43730,10 +43706,6 @@
   {
     "ItemCode": "104670000",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "100401001",
-    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
     "ItemCode": "104670011",
@@ -44106,10 +44078,6 @@
   {
     "ItemCode": "203510007",
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "202900000",
@@ -44824,10 +44792,6 @@
     "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
@@ -44946,5 +44910,41 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100654005",
+    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100401001",
+    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "102600000",
+    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
   }
 ]
