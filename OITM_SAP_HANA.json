@@ -26972,10 +26972,6 @@
     "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "203210116",
     "ItemName": "BRISKET ASADO EN CUBOS DE 1X1 6X1 KG (MP)"
   },
@@ -29048,10 +29044,6 @@
     "ItemName": "TOMATE TRITURADO 6X3 KG"
   },
   {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
@@ -29502,10 +29494,6 @@
   {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
-  },
-  {
-    "ItemCode": "100751025",
-    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
   },
   {
     "ItemCode": "103750004",
@@ -38052,10 +38040,6 @@
     "ItemName": "TORTA HELADA SAVORY 1X1,2 LTS"
   },
   {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
@@ -38694,10 +38678,6 @@
   {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "303870008",
@@ -43664,10 +43644,6 @@
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
-    "ItemCode": "101401001",
-    "ItemName": "CARBONADA WASIL 16X380G"
-  },
-  {
     "ItemCode": "104290004",
     "ItemName": "LENTEJAS CON CHORIZO WASIL16X380 G"
   },
@@ -43740,24 +43716,8 @@
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910032",
-    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910048",
     "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "101401009",
@@ -44156,10 +44116,6 @@
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
-    "ItemCode": "100751051",
-    "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
-  },
-  {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
@@ -44404,10 +44360,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "103910030",
-    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
-  },
-  {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
@@ -44444,10 +44396,6 @@
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -44470,14 +44418,6 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
     "ItemCode": "300405006",
@@ -44610,10 +44550,6 @@
   {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
     "ItemCode": "101202005",
@@ -44892,10 +44828,6 @@
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "200003003",
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
@@ -44946,5 +44878,73 @@
   {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910030",
+    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
+  },
+  {
+    "ItemCode": "103910032",
+    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401001",
+    "ItemName": "CARBONADA WASIL 16X380G"
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "100751025",
+    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
+  },
+  {
+    "ItemCode": "100751051",
+    "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   }
 ]
