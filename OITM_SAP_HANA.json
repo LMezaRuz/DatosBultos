@@ -29936,10 +29936,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1X200 GR"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "202730015",
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
@@ -30748,10 +30744,6 @@
     "ItemName": "TRIMMING 80/20 DE CERDO CONGELADO (22 KG APROX)"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
   },
@@ -31038,10 +31030,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "204180029",
@@ -40044,10 +40032,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
@@ -41840,10 +41824,6 @@
     "ItemName": "MILO EN POLVO 1X300 GR"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "101100001",
     "ItemName": "TALLARIN SAN REMO 25X400 GR 87"
   },
@@ -43080,10 +43060,6 @@
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "300050001",
     "ItemName": "ANCHOAS EN ACEITE 1X90 GR"
   },
@@ -44272,10 +44248,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
@@ -44888,10 +44860,6 @@
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "304850023",
     "ItemName": "YOGHURT ACTIVIA TROZO FRUTILLA SEMILLAS 24X140 GR"
   },
@@ -44946,5 +44914,37 @@
   {
     "ItemCode": "203210004",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
