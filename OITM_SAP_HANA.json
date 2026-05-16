@@ -29272,10 +29272,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
   {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
@@ -30134,10 +30130,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
     "ItemCode": "200201019",
@@ -44336,16 +44328,8 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "100304035",
-    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
-  },
-  {
     "ItemCode": "101403008",
     "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
-    "ItemCode": "100304033",
-    "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
   {
     "ItemCode": "103440004",
@@ -44486,10 +44470,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910035",
@@ -44900,10 +44880,6 @@
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -44946,5 +44922,29 @@
   {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "100304035",
+    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
+  },
+  {
+    "ItemCode": "100304033",
+    "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   }
 ]
