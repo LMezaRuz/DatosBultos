@@ -31720,16 +31720,8 @@
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
   {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
-    "ItemCode": "104620001",
-    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
     "ItemCode": "302890007",
@@ -42220,10 +42212,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
@@ -44716,10 +44704,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -44946,5 +44930,21 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "104620001",
+    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   }
 ]
