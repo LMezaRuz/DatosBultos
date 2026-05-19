@@ -31944,10 +31944,6 @@
     "ItemName": "PLATANOS KG."
   },
   {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
-  },
-  {
     "ItemCode": "300353056",
     "ItemName": "TAPAPECHO KG (NV)"
   },
@@ -38372,10 +38368,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "200453014",
-    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
     "ItemCode": "300351018",
     "ItemName": "JAMON SANDWICH PIEZA 1x1 kg"
   },
@@ -43524,10 +43516,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "300405007",
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
@@ -44516,10 +44504,6 @@
     "ItemName": "ARVEJAS CONGELADAS 15X1 KG"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
@@ -44736,10 +44720,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "200304007",
-    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
-  },
-  {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
@@ -44946,5 +44926,25 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "200304007",
+    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200453014",
+    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   }
 ]
