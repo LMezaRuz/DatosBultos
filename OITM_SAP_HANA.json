@@ -28404,20 +28404,12 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "203210128",
-    "ItemName": "BRISKET ASADO LAMINADO (ESP. APROX. 2 CM) - 5X1 KG"
-  },
-  {
     "ItemCode": "104060001",
     "ItemName": "CARAMELO MENTA 12X430 GR"
   },
   {
     "ItemCode": "100554029",
     "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
-  },
-  {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
     "ItemCode": "204750001",
@@ -31360,10 +31352,6 @@
     "ItemName": "NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "202720034",
-    "ItemName": "STRUDEL DE MANZANA 48X125 GR"
-  },
-  {
     "ItemCode": "104010051",
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
   },
@@ -31754,10 +31742,6 @@
   {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "204140004",
@@ -39776,10 +39760,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -43568,10 +43548,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -44348,18 +44324,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "203210111",
-    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "200402012",
-    "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
-  },
-  {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
@@ -44534,10 +44498,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "200203008",
@@ -44946,5 +44906,45 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "202720034",
+    "ItemName": "STRUDEL DE MANZANA 48X125 GR"
+  },
+  {
+    "ItemCode": "203210128",
+    "ItemName": "BRISKET ASADO LAMINADO (ESP. APROX. 2 CM) - 5X1 KG"
+  },
+  {
+    "ItemCode": "203210111",
+    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200402012",
+    "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   }
 ]
