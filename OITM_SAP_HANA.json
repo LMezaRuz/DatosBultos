@@ -38212,10 +38212,6 @@
     "ItemName": "SOPA DE COSTILLA 20X60 GR"
   },
   {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
     "ItemCode": "100951003",
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
@@ -38680,10 +38676,6 @@
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
@@ -38918,14 +38910,6 @@
   {
     "ItemCode": "200200018",
     "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
-  },
-  {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
   {
     "ItemCode": "103910061",
@@ -42996,10 +42980,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -43528,10 +43508,6 @@
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -43778,10 +43754,6 @@
   {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "102930015",
@@ -44708,10 +44680,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44900,10 +44868,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -44996,10 +44960,6 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "304760435",
     "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   }
 ]
