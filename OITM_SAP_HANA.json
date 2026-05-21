@@ -27024,10 +27024,6 @@
     "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
   },
   {
-    "ItemCode": "104670078",
-    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
-  },
-  {
     "ItemCode": "104670079",
     "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
   },
@@ -30700,10 +30696,6 @@
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
@@ -32234,14 +32226,6 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "100750006",
@@ -35978,10 +35962,6 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
     "ItemCode": "104670004",
@@ -42916,10 +42896,6 @@
     "ItemName": "CHOCLILLO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "100251003",
-    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
@@ -43094,10 +43070,6 @@
   {
     "ItemCode": "203230005",
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "100004006",
@@ -43924,10 +43896,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
@@ -44408,10 +44376,6 @@
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100651008",
     "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
   },
@@ -44442,10 +44406,6 @@
   {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "104010002",
@@ -44804,10 +44764,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
@@ -45028,10 +44984,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -45050,5 +45002,53 @@
   {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "100251003",
+    "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "104670078",
+    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
   }
 ]
