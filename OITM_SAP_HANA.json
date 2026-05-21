@@ -30536,10 +30536,6 @@
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -31438,10 +31434,6 @@
   {
     "ItemCode": "100304010",
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "104670001",
-    "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
   },
   {
     "ItemCode": "103480007",
@@ -35740,10 +35732,6 @@
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
   {
-    "ItemCode": "104670011",
-    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
-  },
-  {
     "ItemCode": "400251009",
     "ItemName": "SERVILLETA TORK LUNCH NAPKIN BC 10 X 200 UN SE70044"
   },
@@ -39576,10 +39564,6 @@
     "ItemName": "POLENTA 1X1 KG"
   },
   {
-    "ItemCode": "100152003",
-    "ItemName": "SEMILLA DE CHIA 1X1 KG."
-  },
-  {
     "ItemCode": "103070013",
     "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
   },
@@ -39922,10 +39906,6 @@
   {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
     "ItemCode": "100303007",
@@ -42400,10 +42380,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100356018",
-    "ItemName": "TE VERDE PREMIUM 1X50 UN"
-  },
-  {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
@@ -43134,10 +43110,6 @@
   {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "400008004",
@@ -44208,10 +44180,6 @@
     "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
@@ -44384,16 +44352,8 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "300353111",
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "400251006",
@@ -44636,10 +44596,6 @@
     "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -44776,10 +44732,6 @@
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -44902,10 +44854,6 @@
   {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100351003",
@@ -45050,5 +44998,57 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "100152003",
+    "ItemName": "SEMILLA DE CHIA 1X1 KG."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "100356018",
+    "ItemName": "TE VERDE PREMIUM 1X50 UN"
+  },
+  {
+    "ItemCode": "104670001",
+    "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670011",
+    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   }
 ]
