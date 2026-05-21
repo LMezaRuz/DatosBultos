@@ -30628,10 +30628,6 @@
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "102930015",
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
@@ -32538,10 +32534,6 @@
   {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
-  },
-  {
-    "ItemCode": "101007018",
-    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
   {
     "ItemCode": "202910045",
@@ -36404,10 +36396,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -39604,10 +39592,6 @@
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -40502,14 +40486,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100356018",
@@ -43960,10 +43936,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "300403006",
     "ItemName": "QUESO CREMA COLUN 1X200 GR"
   },
@@ -44022,10 +43994,6 @@
   {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "104010005",
@@ -44200,10 +44168,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
   },
@@ -44218,10 +44182,6 @@
   {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "300157002",
@@ -44394,10 +44354,6 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100654002",
-    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
     "ItemCode": "101450006",
@@ -44788,10 +44744,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
@@ -45048,7 +45000,55 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "101007018",
+    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100654002",
+    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   }
 ]
