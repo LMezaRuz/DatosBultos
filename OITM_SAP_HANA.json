@@ -36600,10 +36600,6 @@
     "ItemName": "CHULETA VETADA PORCIONADA 7,5 KG (APROX)"
   },
   {
-    "ItemCode": "101009017",
-    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
@@ -39446,22 +39442,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
   },
   {
     "ItemCode": "101355008",
@@ -43744,10 +43724,6 @@
     "ItemName": "SOFRITO CON AJO 12X150 GR"
   },
   {
-    "ItemCode": "100001004",
-    "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
     "ItemCode": "100751026",
     "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
   },
@@ -44468,10 +44444,6 @@
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "103910049",
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
@@ -44486,10 +44458,6 @@
   {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "303870006",
@@ -45050,5 +45018,37 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101009017",
+    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "100001004",
+    "ItemName": "ACEITE DE OLIVA 1X250 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   }
 ]
