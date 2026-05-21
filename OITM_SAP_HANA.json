@@ -30512,10 +30512,6 @@
     "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "103700005",
-    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -36236,10 +36232,6 @@
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -39952,10 +39944,6 @@
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "103070013",
     "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
   },
@@ -43184,10 +43172,6 @@
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "101305008",
-    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "400011019",
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
   },
@@ -43334,10 +43318,6 @@
   {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
     "ItemCode": "100351002",
@@ -44556,10 +44536,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "102930015",
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
@@ -44576,20 +44552,12 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "304460004",
@@ -44836,10 +44804,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -45050,5 +45014,41 @@
   {
     "ItemCode": "400050001",
     "ItemName": "CARBON PREMIUM 2KL"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "101305008",
+    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "103700005",
+    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   }
 ]
