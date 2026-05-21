@@ -28436,10 +28436,6 @@
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
@@ -30706,10 +30702,6 @@
   {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "100801002",
@@ -39848,10 +39840,6 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -43164,10 +43152,6 @@
     "ItemName": "DURAZNOS EN MITADES 1X3 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "300351009",
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
@@ -43804,10 +43788,6 @@
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "100601003",
     "ItemName": "CHOLGAS EN ACEITE 24x190 gr"
   },
@@ -43980,10 +43960,6 @@
     "ItemName": "SOFRITO CON AJO 12X150 GR"
   },
   {
-    "ItemCode": "204300026",
-    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -44010,10 +43986,6 @@
   {
     "ItemCode": "200201007",
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
-  },
-  {
-    "ItemCode": "200460013",
-    "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
   {
     "ItemCode": "203900007",
@@ -44226,10 +44198,6 @@
   {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
-  },
-  {
-    "ItemCode": "102910001",
-    "ItemName": "PATAS DE CERDO 1X1 KG"
   },
   {
     "ItemCode": "100200003",
@@ -44956,10 +44924,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -45012,10 +44976,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "204530007",
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
   },
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "102910001",
+    "ItemName": "PATAS DE CERDO 1X1 KG"
+  },
+  {
+    "ItemCode": "204300026",
+    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
+  },
+  {
+    "ItemCode": "200460013",
+    "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   }
 ]
