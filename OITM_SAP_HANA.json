@@ -30604,10 +30604,6 @@
     "ItemName": "CHOCOLATE DE LECHE 33% SICAO 1X10 KG"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "104320012",
     "ItemName": "PANNA COTTA TKF 10X1 KG"
   },
@@ -40176,22 +40172,6 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "100751011",
-    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
-  },
-  {
-    "ItemCode": "100751053",
-    "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
     "ItemCode": "300154028",
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
   },
@@ -40212,10 +40192,6 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
-    "ItemCode": "304760433",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
@@ -40230,10 +40206,6 @@
   {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "304850042",
@@ -43716,10 +43688,6 @@
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
@@ -44096,10 +44064,6 @@
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -44154,10 +44118,6 @@
   {
     "ItemCode": "400005009",
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "400010018",
-    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
     "ItemCode": "203210010",
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "400010018",
+    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100751011",
+    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
+  },
+  {
+    "ItemCode": "100751053",
+    "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "304760433",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   }
 ]
