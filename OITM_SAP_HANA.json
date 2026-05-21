@@ -31108,10 +31108,6 @@
     "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
   },
   {
-    "ItemCode": "204180022",
-    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
-  },
-  {
     "ItemCode": "100350004",
     "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
   },
@@ -31610,10 +31606,6 @@
   {
     "ItemCode": "304760107",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "104210008",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "102680017",
@@ -35984,10 +35976,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -38906,10 +38894,6 @@
   {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "101452004",
@@ -42712,10 +42696,6 @@
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "300152009",
-    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
-  },
-  {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -44168,10 +44148,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -44214,10 +44190,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "200051001",
@@ -45048,7 +45020,35 @@
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "300152009",
+    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
+  },
+  {
+    "ItemCode": "204180022",
+    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "104210008",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
+  },
+  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
   }
 ]
