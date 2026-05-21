@@ -31992,10 +31992,6 @@
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "400007010",
     "ItemName": "JABON LIQUIDO 6X1000 ML  JA70005"
   },
@@ -38852,10 +38848,6 @@
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "101200005",
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -39032,10 +39024,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
   },
@@ -39166,10 +39154,6 @@
   {
     "ItemCode": "200250008",
     "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
-  },
-  {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
     "ItemCode": "100302029",
@@ -39890,10 +39874,6 @@
   {
     "ItemCode": "104670062",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "304850035",
@@ -44104,10 +44084,6 @@
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "200456022",
     "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   },
@@ -44292,10 +44268,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -44460,10 +44432,6 @@
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -44502,10 +44470,6 @@
   {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "103180002",
@@ -45050,5 +45014,41 @@
   {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   }
 ]
