@@ -30680,10 +30680,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
@@ -31404,10 +31400,6 @@
     "ItemName": "PAN MOLDE MIGA INTEGRAL 16X16 CM CONGELADO 3X2,5 KG"
   },
   {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "300353068",
     "ItemName": "PLATEADA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -31654,10 +31646,6 @@
   {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
-  },
-  {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
     "ItemCode": "101100064",
@@ -44112,10 +44100,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
@@ -44972,10 +44956,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   }
 ]
