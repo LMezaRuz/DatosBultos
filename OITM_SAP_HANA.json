@@ -26920,10 +26920,6 @@
     "ItemName": "CHOCLO EN GRANO DULCE 24X425 GR"
   },
   {
-    "ItemCode": "200302009",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "103140004",
     "ItemName": "DECORACION FIESTA 25X80 GR"
   },
@@ -32122,10 +32118,6 @@
   {
     "ItemCode": "204150013",
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100401001",
@@ -43748,10 +43740,6 @@
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
@@ -43920,10 +43908,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
@@ -44052,18 +44036,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -44094,10 +44066,6 @@
   {
     "ItemCode": "200051001",
     "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "300153010",
@@ -44206,10 +44174,6 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
     "ItemCode": "300353001",
@@ -44550,10 +44514,6 @@
   {
     "ItemCode": "100003002",
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "200203007",
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200302009",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   }
 ]
