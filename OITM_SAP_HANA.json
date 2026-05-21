@@ -30656,10 +30656,6 @@
     "ItemName": "MILANESA DE POLLO CRUDO CONG. 4 X 2.5 KG"
   },
   {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "103480004",
     "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
   },
@@ -31586,10 +31582,6 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "100304010",
@@ -39020,14 +39012,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "101200008",
-    "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200004",
-    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
-  },
-  {
     "ItemCode": "200201003",
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
@@ -39094,18 +39078,6 @@
   {
     "ItemCode": "101200005",
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200002",
-    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200006",
-    "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200003",
-    "ItemName": "JUGO POLVO FRUTILLA (REND. 25 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "400005012",
@@ -39962,10 +39934,6 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
     "ItemCode": "102480002",
@@ -44544,10 +44512,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
@@ -45050,5 +45014,41 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101200004",
+    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
+  },
+  {
+    "ItemCode": "101200003",
+    "ItemName": "JUGO POLVO FRUTILLA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200006",
+    "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200002",
+    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200008",
+    "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   }
 ]
