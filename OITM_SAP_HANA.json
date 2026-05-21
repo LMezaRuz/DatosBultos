@@ -31812,10 +31812,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "300001017",
     "ItemName": "CALLEBAUT CRISPEARLS MILK BOLSA 4X800 GR."
   },
@@ -38544,10 +38540,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "300353069",
     "ItemName": "POLLO GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -43364,10 +43356,6 @@
     "ItemName": "ABASTERO AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
@@ -44320,10 +44308,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "100852011",
-    "ItemName": "GALLETA DE LIMON 1X140 GR."
-  },
-  {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   },
@@ -44370,10 +44354,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
     "ItemCode": "304760435",
@@ -44840,26 +44820,6 @@
     "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
   {
-    "ItemCode": "304760030",
-    "ItemName": "POSTA PALETA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "304760033",
-    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "304760042",
-    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "304760030",
+    "ItemName": "POSTA PALETA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760033",
+    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760042",
+    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100852011",
+    "ItemName": "GALLETA DE LIMON 1X140 GR."
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   }
 ]
