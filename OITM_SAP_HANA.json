@@ -30676,10 +30676,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -31898,10 +31894,6 @@
   {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
-    "ItemCode": "104540003",
-    "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
   {
     "ItemCode": "200305016",
@@ -36536,10 +36528,6 @@
     "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -39528,10 +39516,6 @@
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -40470,10 +40454,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "200456050",
-    "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
   },
   {
     "ItemCode": "103520009",
@@ -44444,10 +44424,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
-  },
-  {
     "ItemCode": "204310009",
     "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
@@ -45016,10 +44992,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "104540003",
+    "ItemName": "SALSA BBQ GOURMET 10X1 KG"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "200456050",
+    "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   }
 ]
