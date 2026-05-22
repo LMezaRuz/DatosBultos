@@ -28512,10 +28512,6 @@
     "ItemName": "NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "104670003",
-    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
@@ -32016,10 +32012,6 @@
     "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -32030,10 +32022,6 @@
   {
     "ItemCode": "104670053",
     "ItemName": "TE TWININGS FRUTOS SILVESTRES 1X10 UN"
-  },
-  {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
   },
   {
     "ItemCode": "101200007",
@@ -32190,10 +32178,6 @@
   {
     "ItemCode": "103990003",
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "101150051",
@@ -43684,10 +43668,6 @@
     "ItemName": "PALANCA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "101100052",
     "ItemName": "CORBATA LUCCHETTI 1X5 KG"
   },
@@ -44608,10 +44588,6 @@
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -45050,5 +45026,29 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670003",
+    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   }
 ]
