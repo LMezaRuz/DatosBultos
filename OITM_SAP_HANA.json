@@ -30228,10 +30228,6 @@
     "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
   },
   {
-    "ItemCode": "102970009",
-    "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
-  },
-  {
     "ItemCode": "103000001",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
@@ -31866,10 +31862,6 @@
   {
     "ItemCode": "101201040",
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "204300070",
@@ -39648,10 +39640,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
-    "ItemCode": "100552004",
-    "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "104560001",
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
@@ -42908,10 +42896,6 @@
     "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
   },
   {
-    "ItemCode": "102970008",
-    "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
-  },
-  {
     "ItemCode": "202730063",
     "ItemName": "DONUT GLASEADA 72 X 52 GR"
   },
@@ -42998,10 +42982,6 @@
   {
     "ItemCode": "102520000",
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "100601003",
@@ -43558,10 +43538,6 @@
   {
     "ItemCode": "101200025",
     "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
-    "ItemCode": "200301002",
-    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
   },
   {
     "ItemCode": "100101014",
@@ -44944,20 +44920,12 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "204140008",
@@ -45050,5 +45018,37 @@
   {
     "ItemCode": "304760420",
     "ItemName": "FILETE AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200301002",
+    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "102970008",
+    "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
+  },
+  {
+    "ItemCode": "102970009",
+    "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
+  },
+  {
+    "ItemCode": "100552004",
+    "ItemName": "CANELA MOLIDA 1X250 GR"
   }
 ]
