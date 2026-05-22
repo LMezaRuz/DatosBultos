@@ -29704,10 +29704,6 @@
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101357003",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
@@ -30816,10 +30812,6 @@
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
   {
-    "ItemCode": "304760004",
-    "ItemName": "PUNTA PALETA  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
@@ -31506,10 +31498,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
     "ItemCode": "202730073",
@@ -38768,10 +38756,6 @@
     "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "101200014",
     "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
@@ -39898,10 +39882,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "400011003",
@@ -42516,10 +42496,6 @@
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100250002",
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
   },
@@ -42982,10 +42958,6 @@
   {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "100002010",
@@ -43652,10 +43624,6 @@
     "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -43770,10 +43738,6 @@
   {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "400251001",
@@ -44492,10 +44456,6 @@
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "304760004",
+    "ItemName": "PUNTA PALETA  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
