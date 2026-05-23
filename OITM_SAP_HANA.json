@@ -26176,10 +26176,6 @@
     "ItemName": "PALTA HASS CALIBRE 20-24 FIRME CAJA 15 KG"
   },
   {
-    "ItemCode": "203190056",
-    "ItemName": "LOMITO DE CERDO 30X140 GR"
-  },
-  {
     "ItemCode": "203210114",
     "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
   },
@@ -42308,10 +42304,6 @@
     "ItemName": "GALLETA TUAREG 35 UN X 120 GR"
   },
   {
-    "ItemCode": "100355017",
-    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
-  },
-  {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
@@ -43948,14 +43940,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "203210074",
-    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
-  },
-  {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
-  },
-  {
     "ItemCode": "203190040",
     "ItemName": "COSTILLAR DE LOMO SULITA (APROX 20 KG)"
   },
@@ -44070,10 +44054,6 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "100355010",
@@ -44972,10 +44952,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "400010005",
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
   },
@@ -44998,10 +44974,6 @@
   {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "400008004",
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "300353004",
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190056",
+    "ItemName": "LOMITO DE CERDO 30X140 GR"
+  },
+  {
+    "ItemCode": "203210074",
+    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "100355017",
+    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   }
 ]
