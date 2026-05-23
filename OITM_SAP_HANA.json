@@ -32068,10 +32068,6 @@
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -32086,10 +32082,6 @@
   {
     "ItemCode": "103910030",
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910040",
@@ -35512,10 +35504,6 @@
     "ItemName": "ORIGINAL BBQ SAUCE 1 x 3.78 LTS"
   },
   {
-    "ItemCode": "300152008",
-    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
-  },
-  {
     "ItemCode": "400151001",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/375 ML"
   },
@@ -36378,10 +36366,6 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "100559002",
@@ -44648,14 +44632,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
@@ -44726,10 +44702,6 @@
   {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "100303002",
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "300152008",
+    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   }
 ]
