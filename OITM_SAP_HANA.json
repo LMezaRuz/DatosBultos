@@ -27896,10 +27896,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "202910027",
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
@@ -31412,10 +31408,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -32002,10 +31994,6 @@
   {
     "ItemCode": "202820009",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
-  },
-  {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
     "ItemCode": "202730044",
@@ -42932,10 +42920,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100557013",
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
@@ -43190,10 +43174,6 @@
   {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "300150002",
@@ -43756,10 +43736,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -43990,10 +43966,6 @@
   {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100902001",
@@ -44536,10 +44508,6 @@
     "ItemName": "YOGURT DAMASCO 1X1 LT"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101012003",
     "ItemName": "MILO EN POLVO 15X1 KG"
   },
@@ -44732,16 +44700,8 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
     "ItemCode": "400006002",
     "ItemName": "RAID INSECT. CASA Y JARDIN SPRAY 1X420 C"
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "400011009",
@@ -44782,10 +44742,6 @@
   {
     "ItemCode": "400010005",
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
-  },
-  {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
     "ItemCode": "100051004",
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
