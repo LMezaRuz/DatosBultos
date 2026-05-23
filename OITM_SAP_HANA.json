@@ -31804,10 +31804,6 @@
     "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -35956,10 +35952,6 @@
     "ItemName": "ACEITE CHEF MARAVILLA 30X500ML"
   },
   {
-    "ItemCode": "101353031",
-    "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
-  },
-  {
     "ItemCode": "101009007",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
   },
@@ -35994,10 +35986,6 @@
   {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
-  },
-  {
-    "ItemCode": "101355005",
-    "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
   },
   {
     "ItemCode": "101150041",
@@ -44208,10 +44196,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
-    "ItemCode": "100303002",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -44450,10 +44434,6 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
   {
     "ItemCode": "100251003",
@@ -44984,14 +44964,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "100303002",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353031",
+    "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
+  },
+  {
+    "ItemCode": "101355005",
+    "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
   }
 ]
