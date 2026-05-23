@@ -30996,10 +30996,6 @@
     "ItemName": "MANGO KG."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
@@ -39168,10 +39164,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "100854009",
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
@@ -43368,10 +43360,6 @@
     "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "200201010",
     "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
   },
@@ -45050,5 +45038,17 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   }
 ]
