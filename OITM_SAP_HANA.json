@@ -27808,10 +27808,6 @@
     "ItemName": "JARABE DE REMOJO 4X5 LT"
   },
   {
-    "ItemCode": "204380027",
-    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "204390008",
     "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
   },
@@ -31330,10 +31326,6 @@
   {
     "ItemCode": "100900009",
     "ItemName": "PAPA NATURAL SACO 1X25 KG"
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "101100054",
@@ -39264,10 +39256,6 @@
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
@@ -39470,10 +39458,6 @@
   {
     "ItemCode": "300157024",
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "101201031",
@@ -42924,10 +42908,6 @@
     "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "100202014",
     "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
@@ -43170,10 +43150,6 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "100750003",
@@ -43840,10 +43816,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -44046,14 +44018,6 @@
   {
     "ItemCode": "101355005",
     "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "101009024",
@@ -44460,10 +44424,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -44722,10 +44682,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
     "ItemCode": "100559004",
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380027",
+    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   }
 ]
