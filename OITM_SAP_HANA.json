@@ -32240,10 +32240,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "100355010",
     "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
   },
@@ -32314,10 +32310,6 @@
   {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "300001017",
@@ -39592,10 +39584,6 @@
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
@@ -42892,10 +42880,6 @@
     "ItemName": "MASCARILLAS KN95 1X10 UN"
   },
   {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -44196,10 +44180,6 @@
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "200460018",
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   }
 ]
