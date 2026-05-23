@@ -32020,10 +32020,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "104560007",
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
   },
@@ -40068,10 +40064,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE SUIZO 6 X 460 ML."
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
@@ -40190,10 +40182,6 @@
   {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
-    "ItemCode": "200201018",
-    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
     "ItemCode": "101303004",
@@ -43980,10 +43968,6 @@
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200003006",
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
@@ -43998,10 +43982,6 @@
   {
     "ItemCode": "204300026",
     "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
-  },
-  {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
     "ItemCode": "200500026",
@@ -44892,10 +44872,6 @@
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -45050,5 +45026,29 @@
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200201018",
+    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   }
 ]
