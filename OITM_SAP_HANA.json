@@ -31684,10 +31684,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "304760004",
     "ItemName": "PUNTA PALETA  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -31854,10 +31850,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "304470001",
@@ -42744,10 +42736,6 @@
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
@@ -43174,10 +43162,6 @@
   {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "100450007",
@@ -43738,10 +43722,6 @@
   {
     "ItemCode": "100355018",
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
-  },
-  {
-    "ItemCode": "100355004",
-    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
   },
   {
     "ItemCode": "100355042",
@@ -44744,10 +44724,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44834,10 +44810,6 @@
   {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
-    "ItemCode": "103700005",
-    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
     "ItemCode": "100852012",
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355004",
+    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "103700005",
+    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
   }
 ]
