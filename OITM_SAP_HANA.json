@@ -39428,10 +39428,6 @@
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100700004",
-    "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
@@ -42544,10 +42540,6 @@
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "100557010",
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
   },
@@ -42960,10 +42952,6 @@
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
-    "ItemCode": "100700001",
-    "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -43126,10 +43114,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100751012",
@@ -44956,10 +44940,6 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "100700001",
+    "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100700004",
+    "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   }
 ]
