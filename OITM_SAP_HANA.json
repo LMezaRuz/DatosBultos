@@ -31596,10 +31596,6 @@
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "300152007",
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
   },
@@ -31984,10 +31980,6 @@
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
   },
   {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "102480011",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN DOÑA OLIVA 4X5 LT"
   },
@@ -32200,10 +32192,6 @@
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
   {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910034",
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
@@ -32222,10 +32210,6 @@
   {
     "ItemCode": "103910061",
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103910030",
@@ -35984,10 +35968,6 @@
     "ItemName": "CAFE NESTLE DOLCA 1X170 GR"
   },
   {
-    "ItemCode": "200200032",
-    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
-  },
-  {
     "ItemCode": "101009010",
     "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
   },
@@ -36560,10 +36540,6 @@
     "ItemName": "PINA CUBITOS 24X560 WASIL"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
@@ -36626,14 +36602,6 @@
   {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
-  },
-  {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "400010020",
@@ -40454,10 +40422,6 @@
   {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "200454023",
@@ -44528,10 +44492,6 @@
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -44562,10 +44522,6 @@
   {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100355004",
-    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
   },
   {
     "ItemCode": "100551002",
@@ -45008,14 +44964,6 @@
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "103910050",
     "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
   },
@@ -45032,10 +44980,6 @@
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -45050,5 +44994,61 @@
   {
     "ItemCode": "204300078",
     "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
+  },
+  {
+    "ItemCode": "200200032",
+    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355004",
+    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
   }
 ]
