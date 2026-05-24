@@ -25464,10 +25464,6 @@
     "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -27436,10 +27432,6 @@
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
   {
-    "ItemCode": "100754003",
-    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
-  },
-  {
     "ItemCode": "104670059",
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
@@ -27862,10 +27854,6 @@
   {
     "ItemCode": "101302011",
     "ItemName": "ESENCIA DE LIMON 12X500 CC"
-  },
-  {
-    "ItemCode": "104020003",
-    "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
     "ItemCode": "103070002",
@@ -36132,10 +36120,6 @@
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
   {
-    "ItemCode": "300152002",
-    "ItemName": "MANTECA CRUCINA 40X200 GRS"
-  },
-  {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
@@ -36650,10 +36634,6 @@
   {
     "ItemCode": "400005006",
     "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "400005007",
@@ -44128,10 +44108,6 @@
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "300157034",
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
   },
@@ -44808,10 +44784,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "104020003",
+    "ItemName": "ARVEJAS WASIL 48X300 GR"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152002",
+    "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "100754003",
+    "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   }
 ]
