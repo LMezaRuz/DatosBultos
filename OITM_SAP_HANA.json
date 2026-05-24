@@ -35812,10 +35812,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
   },
   {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -35848,10 +35844,6 @@
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
-    "ItemCode": "101150038",
-    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
     "ItemCode": "202730026",
     "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   },
@@ -35882,10 +35874,6 @@
   {
     "ItemCode": "204380031",
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
     "ItemCode": "400301022",
@@ -35922,10 +35910,6 @@
   {
     "ItemCode": "304110001",
     "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
-  },
-  {
-    "ItemCode": "304760425",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "104210012",
@@ -39648,10 +39632,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE SUIZO 6 X 460 ML."
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
@@ -42544,10 +42524,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
-    "ItemCode": "300353004",
-    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
-  },
-  {
     "ItemCode": "400250001",
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
@@ -43158,10 +43134,6 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "104670080",
@@ -43926,10 +43898,6 @@
   {
     "ItemCode": "104010008",
     "ItemName": "SALSA DE AJO GOURMET 24X165 CC"
-  },
-  {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
     "ItemCode": "400251011",
@@ -44836,36 +44804,8 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "400301048",
@@ -45050,5 +44990,65 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "101150038",
+    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "300353004",
+    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "304760425",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   }
 ]
