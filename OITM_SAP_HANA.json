@@ -25384,10 +25384,6 @@
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -34728,10 +34724,6 @@
     "ItemName": "CAFE DESCAFEINADO EN PODS 1X50 UN"
   },
   {
-    "ItemCode": "100355046",
-    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355047",
     "ItemName": "SYRUP MOJITO MIX  MONIN 1X750 ML"
   },
@@ -42832,10 +42824,6 @@
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
   {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
-  },
-  {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
@@ -44396,10 +44384,6 @@
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
-    "ItemCode": "203210107",
-    "ItemName": "SMASH BURGER 35X150 GR"
-  },
-  {
     "ItemCode": "203430006",
     "ItemName": "MIX FRUTOS ROJOS 10X1 KG"
   },
@@ -44924,10 +44908,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "304760036",
     "ItemName": "ASADO CARNICERO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100355046",
+    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "203210107",
+    "ItemName": "SMASH BURGER 35X150 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
