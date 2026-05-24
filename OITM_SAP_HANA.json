@@ -31092,10 +31092,6 @@
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
   {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "103070007",
     "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
   },
@@ -31566,14 +31562,6 @@
   {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
-    "ItemCode": "100304048",
-    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "204300041",
@@ -35608,10 +35596,6 @@
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
   },
   {
-    "ItemCode": "100353006",
-    "ItemName": "INFUSION MENTA 1X20 UN"
-  },
-  {
     "ItemCode": "300300010",
     "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
   },
@@ -38282,10 +38266,6 @@
   {
     "ItemCode": "100854010",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "101100032",
@@ -42816,10 +42796,6 @@
     "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG ANTARTICA"
   },
   {
-    "ItemCode": "100353005",
-    "ItemName": "INFUSION MANZANILLA 1X20 UN"
-  },
-  {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
@@ -42884,20 +42860,8 @@
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100304009",
@@ -44312,10 +44276,6 @@
     "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -44382,10 +44342,6 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
     "ItemCode": "100900001",
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100353006",
+    "ItemName": "INFUSION MENTA 1X20 UN"
+  },
+  {
+    "ItemCode": "100353005",
+    "ItemName": "INFUSION MANZANILLA 1X20 UN"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304048",
+    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   }
 ]
