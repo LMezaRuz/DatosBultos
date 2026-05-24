@@ -26672,10 +26672,6 @@
     "ItemName": "PORCION DE SALMON ATLANTICO SIN PIEL CON SALSA TERIYAKI 3 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "304760446",
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -28338,10 +28334,6 @@
   {
     "ItemCode": "304850010",
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
-  },
-  {
-    "ItemCode": "102520000",
-    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
   },
   {
     "ItemCode": "304760458",
@@ -35788,10 +35780,6 @@
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
   },
   {
-    "ItemCode": "300400010",
-    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -39394,10 +39382,6 @@
   {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
     "ItemCode": "200051020",
@@ -44264,10 +44248,6 @@
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
@@ -44318,10 +44298,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101305002",
@@ -44796,10 +44772,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -45050,5 +45022,33 @@
   {
     "ItemCode": "100852012",
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "102520000",
+    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "300400010",
+    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   }
 ]
