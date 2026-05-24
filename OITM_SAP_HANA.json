@@ -28196,10 +28196,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
   {
-    "ItemCode": "304760435",
-    "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "202730004",
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
@@ -30434,10 +30430,6 @@
   {
     "ItemCode": "104500010",
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
-  },
-  {
-    "ItemCode": "304760436",
-    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "304760294",
@@ -35804,10 +35796,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "400012003",
-    "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
@@ -35818,10 +35806,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400005007",
-    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
     "ItemCode": "100002007",
@@ -38574,10 +38558,6 @@
   {
     "ItemCode": "300353075",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
     "ItemCode": "200051001",
@@ -42560,10 +42540,6 @@
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
@@ -43276,10 +43252,6 @@
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
-    "ItemCode": "400005006",
-    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
-  },
-  {
     "ItemCode": "400005005",
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
@@ -43846,10 +43818,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100003005",
@@ -44430,10 +44398,6 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
     "ItemCode": "300150002",
@@ -45050,5 +45014,41 @@
   {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "304760435",
+    "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760436",
+    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "400005007",
+    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
+  },
+  {
+    "ItemCode": "400005006",
+    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
+  },
+  {
+    "ItemCode": "400012003",
+    "ItemName": "PALA PLASTICA 1X1 UN."
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
   }
 ]
