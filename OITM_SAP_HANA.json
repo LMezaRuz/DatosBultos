@@ -39064,10 +39064,6 @@
     "ItemName": "TOMATE KG."
   },
   {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
     "ItemCode": "200460008",
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
   },
@@ -42020,10 +42016,6 @@
     "ItemName": "QUESO EDAM QUILLAYES BOLA (325 GR APROX.)"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "204000019",
     "ItemName": "TRUTRO DE POLLO 1/4 EMPIRE 5X2,4 KG (KOSHER)"
   },
@@ -44352,10 +44344,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -44764,10 +44752,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -45050,5 +45034,21 @@
   {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   }
 ]
