@@ -25592,10 +25592,6 @@
     "ItemName": "HELADO VITTORE DULCE DE LECHE CHIPS 6X220 ML."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -27872,10 +27868,6 @@
     "ItemName": "TALLARIN LUCCHETTI 25 X 400 GR N 77"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101302005",
     "ItemName": "ESENCIA RON GOURMET 12X60 CC."
   },
@@ -27910,10 +27902,6 @@
   {
     "ItemCode": "200250005",
     "ItemName": "PAPAS NOISETTES / DUQUESAS MC CAIN 4X2,5 KG"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
     "ItemCode": "400010017",
@@ -28134,10 +28122,6 @@
   {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "103110004",
@@ -28566,10 +28550,6 @@
   {
     "ItemCode": "101201022",
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100600007",
@@ -31278,10 +31258,6 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "103090001",
@@ -42944,10 +42920,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "101002006",
-    "ItemName": "CREMA NESTLE UHT 12X1 LT"
-  },
-  {
     "ItemCode": "101100016",
     "ItemName": "TALLARIN 87 1X5 KG"
   },
@@ -43332,10 +43304,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
@@ -43346,10 +43314,6 @@
   {
     "ItemCode": "202910006",
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
-  },
-  {
-    "ItemCode": "300405003",
-    "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
   {
     "ItemCode": "202730073",
@@ -44228,10 +44192,6 @@
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -44326,10 +44286,6 @@
   {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100559007",
@@ -44996,16 +44952,8 @@
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100004006",
@@ -45050,5 +44998,57 @@
   {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "300405003",
+    "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101002006",
+    "ItemName": "CREMA NESTLE UHT 12X1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
