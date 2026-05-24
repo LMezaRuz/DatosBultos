@@ -30840,10 +30840,6 @@
     "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
   },
   {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
     "ItemCode": "304760353",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -31400,10 +31396,6 @@
     "ItemName": "MINI MUFFIN 1X147 UN"
   },
   {
-    "ItemCode": "100854015",
-    "ItemName": "TIKA PATAGONIA 14 X 150 GR"
-  },
-  {
     "ItemCode": "302890012",
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
@@ -31622,10 +31614,6 @@
   {
     "ItemCode": "202730006",
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "202720033",
@@ -39192,10 +39180,6 @@
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "300353056",
     "ItemName": "TAPAPECHO KG (NV)"
   },
@@ -42548,10 +42532,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
-  },
-  {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
@@ -43062,10 +43042,6 @@
   {
     "ItemCode": "104670010",
     "ItemName": "TE TWININGS VERDE 1X50 UN"
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
     "ItemCode": "104070012",
@@ -44544,10 +44520,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
@@ -44856,10 +44828,6 @@
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
@@ -44886,10 +44854,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "101305005",
@@ -44952,10 +44916,6 @@
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -44978,10 +44938,6 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "300157007",
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "100854015",
+    "ItemName": "TIKA PATAGONIA 14 X 150 GR"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   }
 ]
