@@ -27872,10 +27872,6 @@
     "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
   },
   {
-    "ItemCode": "103910033",
-    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "102740002",
     "ItemName": "BOLSA PAPEL KRAFT PLATON 1 X 200 UN"
   },
@@ -28200,10 +28196,6 @@
     "ItemName": "PAN FRICA REBANADO 75X115GR"
   },
   {
-    "ItemCode": "103480005",
-    "ItemName": "GALLETA MINI DE VINO 30X35 GR"
-  },
-  {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
@@ -28234,10 +28226,6 @@
   {
     "ItemCode": "103480029",
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
-  },
-  {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
     "ItemCode": "204150014",
@@ -28274,10 +28262,6 @@
   {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "101201022",
@@ -28322,14 +28306,6 @@
   {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
     "ItemCode": "304760420",
@@ -29294,10 +29270,6 @@
   {
     "ItemCode": "200453030",
     "ItemName": "BABY BACK RIBS SADIA 1 X 10 KG"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
     "ItemCode": "102560001",
@@ -42392,10 +42364,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100352006",
-    "ItemName": "CAFE ARMONIA (100% ARABICA) EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "300157029",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
@@ -43158,22 +43126,6 @@
   {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "101009032",
@@ -45050,5 +45002,53 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100352006",
+    "ItemName": "CAFE ARMONIA (100% ARABICA) EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910033",
+    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
+  },
+  {
+    "ItemCode": "103480005",
+    "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   }
 ]
