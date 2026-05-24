@@ -30656,10 +30656,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "103670004",
-    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
-  },
-  {
     "ItemCode": "204310023",
     "ItemName": "BROWNIE SIN GLUTEN 20X100 G"
   },
@@ -43048,10 +43044,6 @@
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -43936,10 +43928,6 @@
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "204700015",
     "ItemName": "QUEQUE MARMOLEADO PLANCHA 3X2 KG"
   },
@@ -44190,10 +44178,6 @@
   {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "400010017",
@@ -44788,10 +44772,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "103670004",
+    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   }
 ]
