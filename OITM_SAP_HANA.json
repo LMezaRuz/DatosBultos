@@ -30472,10 +30472,6 @@
     "ItemName": "HIGADO VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "202730042",
-    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
-  },
-  {
     "ItemCode": "203210042",
     "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
   },
@@ -31318,10 +31314,6 @@
   {
     "ItemCode": "200301002",
     "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
-  },
-  {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
     "ItemCode": "400252002",
@@ -43792,10 +43784,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -44200,10 +44188,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -44592,10 +44576,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -44724,20 +44704,12 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "403250022",
@@ -44760,10 +44732,6 @@
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -44774,10 +44742,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "104670003",
@@ -44802,10 +44766,6 @@
   {
     "ItemCode": "100557018",
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "100852012",
@@ -44894,10 +44854,6 @@
   {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "100600006",
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "200050007",
     "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "202730042",
+    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   }
 ]
