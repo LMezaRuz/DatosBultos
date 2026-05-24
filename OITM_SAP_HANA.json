@@ -30184,10 +30184,6 @@
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "303630000",
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
@@ -43664,10 +43660,6 @@
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -44260,10 +44252,6 @@
     "ItemName": "POLENTA 1X1 KG"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
@@ -44606,10 +44594,6 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
     "ItemCode": "101404002",
@@ -44972,10 +44956,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -45050,5 +45030,25 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   }
 ]
