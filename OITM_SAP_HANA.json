@@ -28108,10 +28108,6 @@
     "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
   },
   {
-    "ItemCode": "202820009",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
-  },
-  {
     "ItemCode": "203190051",
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
@@ -28342,10 +28338,6 @@
   {
     "ItemCode": "204390004",
     "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
-  },
-  {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
   {
     "ItemCode": "103480004",
@@ -29946,10 +29938,6 @@
   {
     "ItemCode": "204090011",
     "ItemName": "PIURE CRUDO IQF 30X300 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "304760288",
@@ -36356,10 +36344,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -40196,10 +40180,6 @@
     "ItemName": "PULPA PIERNA DE CERDO 95 VL IMP. BRASIL ECOFRIGO (20 KG APROX.)"
   },
   {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
     "ItemCode": "200201003",
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
@@ -42780,10 +42760,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "101352012",
-    "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
@@ -43052,10 +43028,6 @@
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -43166,10 +43138,6 @@
   {
     "ItemCode": "203210123",
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG)"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "300157013",
@@ -44396,10 +44364,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "101302002",
-    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "101003004",
     "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
   },
@@ -44450,10 +44414,6 @@
   {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "400101007",
@@ -45050,5 +45010,45 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "202820009",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101302002",
+    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "101352012",
+    "ItemName": "KETCHUP JB 10X1 KG"
   }
 ]
