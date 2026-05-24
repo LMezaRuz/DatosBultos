@@ -44312,10 +44312,6 @@
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -44410,10 +44406,6 @@
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "104010009",
@@ -44996,14 +44988,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -45050,5 +45034,21 @@
   {
     "ItemCode": "104010008",
     "ItemName": "SALSA DE AJO GOURMET 24X165 CC"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   }
 ]
