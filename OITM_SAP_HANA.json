@@ -26988,10 +26988,6 @@
     "ItemName": "ROLLITO DE JAMON Y QUESO 54X120 GR"
   },
   {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
     "ItemCode": "202910047",
     "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
   },
@@ -39020,10 +39016,6 @@
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
   {
-    "ItemCode": "200500053",
-    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "100302006",
     "ItemName": "SPRITE 6 X 1,5 LTS"
   },
@@ -41896,10 +41888,6 @@
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
@@ -42244,10 +42232,6 @@
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "400050001",
     "ItemName": "CARBON PREMIUM 2KL"
   },
@@ -42402,10 +42386,6 @@
   {
     "ItemCode": "100557010",
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
-  },
-  {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
     "ItemCode": "100550002",
@@ -44368,10 +44348,6 @@
     "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "200460013",
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
@@ -44788,10 +44764,6 @@
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -44818,10 +44790,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "103070006",
@@ -45040,15 +45008,47 @@
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "200500053",
+    "ItemName": "POROTO VERDE C/FRANCES CUKIT 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
   }
 ]
