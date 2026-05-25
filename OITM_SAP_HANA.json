@@ -27628,10 +27628,6 @@
     "ItemName": "PAPAS FRITAS SABOR PIZZA KRYZPO 8X6X37 GR"
   },
   {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "303750001",
     "ItemName": "LECHE PROTEIN SHOT SABOR VAINILLA PACK 6X100"
   },
@@ -42144,10 +42140,6 @@
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
@@ -43524,10 +43516,6 @@
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -43550,10 +43538,6 @@
   {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "203210090",
@@ -43948,10 +43932,6 @@
     "ItemName": "MEDALLON DE PULPA MARINADA 18 KG (APROX)"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "304760110",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -44154,10 +44134,6 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "400101007",
@@ -44450,10 +44426,6 @@
   {
     "ItemCode": "300404024",
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "400100003",
@@ -44812,10 +44784,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -44926,10 +44894,6 @@
   {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "304760433",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "100004005",
@@ -45050,5 +45014,41 @@
   {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760433",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   }
 ]
