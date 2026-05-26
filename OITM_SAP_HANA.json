@@ -30544,10 +30544,6 @@
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
     "ItemCode": "203190008",
     "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   },
@@ -44896,54 +44892,6 @@
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
-    "ItemCode": "204010000",
-    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
-  },
-  {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "203210128",
-    "ItemName": "BRISKET ASADO LAMINADO (ESP. APROX. 2 CM) - 5X1 KG"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
-    "ItemCode": "202730081",
-    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
-  },
-  {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "204140008",
-    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
-  },
-  {
-    "ItemCode": "202730044",
-    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
-  },
-  {
-    "ItemCode": "204150020",
-    "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
-    "ItemCode": "204010001",
-    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -45050,5 +44998,57 @@
   {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203210128",
+    "ItemName": "BRISKET ASADO LAMINADO (ESP. APROX. 2 CM) - 5X1 KG"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "202730081",
+    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "204140008",
+    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "202730044",
+    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
+  },
+  {
+    "ItemCode": "204150020",
+    "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "204010001",
+    "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "204010000",
+    "ItemName": "SALSA BOLOÑESA GYN CONGELADA 3X2 KG"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   }
 ]
