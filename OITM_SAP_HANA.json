@@ -27596,10 +27596,6 @@
     "ItemName": "NUGGETS DE POLLO MEAL MART 6X1,8 KG (KOSHER)"
   },
   {
-    "ItemCode": "403400005",
-    "ItemName": "ETIQUETA POLLO PASTOR GYN 1000 UN"
-  },
-  {
     "ItemCode": "101150070",
     "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
   },
@@ -28216,10 +28212,6 @@
     "ItemName": "CAFE KIMBO EN GRANO ESPRESSO CLASSICO 6X1 KG"
   },
   {
-    "ItemCode": "101150043",
-    "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
-  },
-  {
     "ItemCode": "300154033",
     "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
   },
@@ -28578,10 +28570,6 @@
   {
     "ItemCode": "100557023",
     "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
     "ItemCode": "103910033",
@@ -30708,10 +30696,6 @@
     "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
   },
   {
-    "ItemCode": "101150076",
-    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
-  },
-  {
     "ItemCode": "102960002",
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
@@ -32284,10 +32268,6 @@
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "104070012",
     "ItemName": "PICKLE MAIFRE 10X1 KG"
   },
@@ -32304,20 +32284,12 @@
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
     "ItemCode": "100304029",
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
   {
     "ItemCode": "204310012",
     "ItemName": "DACQUOISE DE FRUTOS ROJOS 14 X 75 GR"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "304760439",
@@ -32338,10 +32310,6 @@
   {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "300408001",
@@ -32366,10 +32334,6 @@
   {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "100303006",
@@ -36206,10 +36170,6 @@
   {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
   },
   {
     "ItemCode": "101150009",
@@ -44896,10 +44856,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "302960001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "204010002",
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101150043",
+    "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150076",
+    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
+  },
+  {
+    "ItemCode": "403400005",
+    "ItemName": "ETIQUETA POLLO PASTOR GYN 1000 UN"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
