@@ -30232,10 +30232,6 @@
     "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
   },
   {
-    "ItemCode": "402740001",
-    "ItemName": "SACO GRANDE KRAFT BARRIO CHICKEN 1 X 250 UN"
-  },
-  {
     "ItemCode": "104010051",
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
   },
@@ -32302,10 +32298,6 @@
   {
     "ItemCode": "302960002",
     "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
-  },
-  {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
     "ItemCode": "203230029",
@@ -36544,10 +36536,6 @@
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
   {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
-  },
-  {
     "ItemCode": "102600001",
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
   },
@@ -39756,10 +39744,6 @@
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "400005005",
-    "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
-  },
-  {
     "ItemCode": "204150013",
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
@@ -40130,10 +40114,6 @@
   {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
-    "ItemCode": "102520000",
-    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
   },
   {
     "ItemCode": "104560006",
@@ -43008,10 +42988,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "100151009",
-    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
-  },
-  {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
   },
@@ -43280,10 +43256,6 @@
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -43524,10 +43496,6 @@
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "400005008",
-    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
-  },
-  {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   },
@@ -43650,10 +43618,6 @@
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "304760031",
@@ -44006,10 +43970,6 @@
   {
     "ItemCode": "400010005",
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
-  },
-  {
-    "ItemCode": "400005006",
-    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
   },
   {
     "ItemCode": "200051020",
@@ -44494,10 +44454,6 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
-    "ItemCode": "400301102",
-    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
   },
   {
     "ItemCode": "100401001",
@@ -44988,10 +44944,6 @@
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
@@ -45050,5 +45002,53 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "102520000",
+    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
+  },
+  {
+    "ItemCode": "100151009",
+    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
+  },
+  {
+    "ItemCode": "400301102",
+    "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "402740001",
+    "ItemName": "SACO GRANDE KRAFT BARRIO CHICKEN 1 X 250 UN"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
+  },
+  {
+    "ItemCode": "400005006",
+    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
+  },
+  {
+    "ItemCode": "400005005",
+    "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
+  },
+  {
+    "ItemCode": "400005008",
+    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   }
 ]
