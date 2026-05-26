@@ -27388,10 +27388,6 @@
     "ItemName": "MANTEQUILLA LIQUIDA PACIFIC 6X3,79 LT"
   },
   {
-    "ItemCode": "400103008",
-    "ItemName": "CUCHILLO 17 CM COMPOSTABLE 1000 UN X CAJA"
-  },
-  {
     "ItemCode": "104820013",
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
   },
@@ -28310,10 +28306,6 @@
   {
     "ItemCode": "100350014",
     "ItemName": "CAFÉ KIMBO ELETTO  12X250 GR"
-  },
-  {
-    "ItemCode": "100750003",
-    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
     "ItemCode": "100350016",
@@ -30144,10 +30136,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGARI 20 KG (APROX)"
   },
   {
-    "ItemCode": "400103009",
-    "ItemName": "TENEDOR 17 CM COMPOSTABLE 1000 UN X CAJA"
-  },
-  {
     "ItemCode": "203190026",
     "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
   },
@@ -31764,10 +31752,6 @@
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
-  },
-  {
     "ItemCode": "100854009",
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
@@ -32106,10 +32090,6 @@
   {
     "ItemCode": "104570015",
     "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101402001",
@@ -32602,10 +32582,6 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
-  },
-  {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "200460037",
@@ -35984,10 +35960,6 @@
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "101400002",
     "ItemName": "CHAMPINON LAMINADO 1X400 GR"
   },
@@ -39176,10 +39148,6 @@
     "ItemName": "ENTRAÑA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "102610007",
     "ItemName": "ARROZ IMP. LARGO FINO G1 COTIDIANO 10X1 KG"
   },
@@ -40570,10 +40538,6 @@
   {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
     "ItemCode": "300154028",
@@ -43708,10 +43672,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "200002013",
     "ItemName": "NAPOLITANA MIXTA (MASA HOJA CON JAMON Y QUESO) 66 UN X 140 GR"
   },
@@ -44984,10 +44944,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -45050,5 +45006,49 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "400103009",
+    "ItemName": "TENEDOR 17 CM COMPOSTABLE 1000 UN X CAJA"
+  },
+  {
+    "ItemCode": "400103008",
+    "ItemName": "CUCHILLO 17 CM COMPOSTABLE 1000 UN X CAJA"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
+  },
+  {
+    "ItemCode": "100750003",
+    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "NESCAFE TRADICION GRANULADO 12X400 GR"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   }
 ]
