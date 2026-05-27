@@ -27612,10 +27612,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
-    "ItemCode": "202730034",
-    "ItemName": "TRENZA DE MAPLE Y NUEZ PECAN 60X98GR"
-  },
-  {
     "ItemCode": "202730039",
     "ItemName": "BROWNIE CON NUECES 48X80 GR"
   },
@@ -30122,10 +30118,6 @@
   {
     "ItemCode": "202730083",
     "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
-  },
-  {
-    "ItemCode": "202730076",
-    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
   },
   {
     "ItemCode": "204380020",
@@ -43064,10 +43056,6 @@
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
@@ -44156,10 +44144,6 @@
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "103520007",
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
@@ -44190,10 +44174,6 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100102004",
@@ -44548,10 +44528,6 @@
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "202800001",
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
@@ -44840,10 +44816,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101452006",
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
@@ -44876,16 +44848,8 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200308002",
@@ -45052,18 +45016,6 @@
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -45106,5 +45058,53 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "202730076",
+    "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
+  },
+  {
+    "ItemCode": "202730034",
+    "ItemName": "TRENZA DE MAPLE Y NUEZ PECAN 60X98GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
