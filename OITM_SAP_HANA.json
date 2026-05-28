@@ -30244,10 +30244,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101100052",
     "ItemName": "CORBATA LUCCHETTI 1X5 KG"
   },
@@ -39208,10 +39204,6 @@
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -43704,10 +43696,6 @@
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
@@ -45156,14 +45144,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
@@ -45222,5 +45202,25 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
