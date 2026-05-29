@@ -27032,10 +27032,6 @@
     "ItemName": "MAQUINA CAFE VETRO VISAC 2 GRUPOS NEGRA"
   },
   {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
     "ItemCode": "203210125",
     "ItemName": "CARNE MECHADA EN TROZO AHUMADA 5X1 KG"
   },
@@ -31734,10 +31730,6 @@
   {
     "ItemCode": "304760428",
     "ItemName": "PUNTA PALETA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "101100064",
@@ -39036,10 +39028,6 @@
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
   {
-    "ItemCode": "200302010",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
-  },
-  {
     "ItemCode": "200002013",
     "ItemName": "NAPOLITANA MIXTA (MASA HOJA CON JAMON Y QUESO) 66 UN X 140 GR"
   },
@@ -43500,10 +43488,6 @@
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -43672,10 +43656,6 @@
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -43782,10 +43762,6 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
     "ItemCode": "100352006",
@@ -44066,10 +44042,6 @@
   {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
     "ItemCode": "204300042",
@@ -44468,10 +44440,6 @@
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
-    "ItemCode": "202730078",
-    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
-  },
-  {
     "ItemCode": "203210103",
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
@@ -44510,10 +44478,6 @@
   {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "203210010",
@@ -44566,10 +44530,6 @@
   {
     "ItemCode": "101150041",
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "204790020",
@@ -45076,10 +45036,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200301003",
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
@@ -45230,5 +45186,49 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "200302010",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
+  },
+  {
+    "ItemCode": "202730078",
+    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   }
 ]
