@@ -31264,10 +31264,6 @@
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
   {
-    "ItemCode": "202730078",
-    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
-  },
-  {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   },
@@ -31722,14 +31718,6 @@
   {
     "ItemCode": "104670000",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "204180022",
-    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
-  },
-  {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
     "ItemCode": "202730007",
@@ -40068,10 +40056,6 @@
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
     "ItemCode": "100750004",
     "ItemName": "MANJAR PORCION COLUN 120X20 GR."
   },
@@ -40662,10 +40646,6 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
     "ItemCode": "200500008",
@@ -43188,10 +43168,6 @@
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
   },
   {
-    "ItemCode": "100001007",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -44336,10 +44312,6 @@
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
-    "ItemCode": "100005004",
-    "ItemName": "ACEITE DE SESAMO 1X500 ML"
-  },
-  {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
@@ -45120,6 +45092,34 @@
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
   },
   {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "204300026",
+    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "304760434",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
     "ItemCode": "304760357",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -45196,6 +45196,18 @@
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
   {
+    "ItemCode": "100001007",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "100005004",
+    "ItemName": "ACEITE DE SESAMO 1X500 ML"
+  },
+  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -45204,31 +45216,19 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "204300026",
-    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
+    "ItemCode": "204180022",
+    "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
-    "ItemCode": "304760434",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+    "ItemCode": "202730078",
+    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   }
 ]
