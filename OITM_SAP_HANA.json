@@ -26128,10 +26128,6 @@
     "ItemName": "QUESO MANTECOSO TROZADO LAS PARCELAS 16X350 GR"
   },
   {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
     "ItemCode": "AFACC0001",
     "ItemName": "MOLINILLO TRANQUILO TRON NAC 1X1"
   },
@@ -27858,10 +27854,6 @@
   {
     "ItemCode": "304760383",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
-  },
-  {
-    "ItemCode": "304760384",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
   },
   {
     "ItemCode": "204300041",
@@ -30536,10 +30528,6 @@
     "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "304760433",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "100304048",
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
@@ -31760,10 +31748,6 @@
     "ItemName": "LENTEJAS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "203210103",
-    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "304440006",
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
   },
@@ -31876,10 +31860,6 @@
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -31938,10 +31918,6 @@
   {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "104010020",
@@ -32224,10 +32200,6 @@
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "204790000",
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
@@ -32274,10 +32246,6 @@
   {
     "ItemCode": "304760353",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "204140004",
@@ -32450,10 +32418,6 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790023",
@@ -36660,10 +36624,6 @@
     "ItemName": "LECHE VAINILLA 6X200CC"
   },
   {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
-  },
-  {
     "ItemCode": "103240005",
     "ItemName": "ENDULZANTE LIQUIDO TAGATOSA ALUSWEET 18X180 ML"
   },
@@ -40066,10 +40026,6 @@
   {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "200455001",
@@ -45024,10 +44980,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "203190012",
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
@@ -45230,5 +45182,53 @@
   {
     "ItemCode": "202730078",
     "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
+  },
+  {
+    "ItemCode": "203210103",
+    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "304760433",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760384",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) X - MAYOR"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   }
 ]
