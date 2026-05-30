@@ -25796,10 +25796,6 @@
     "ItemName": "CONSERVADORA CV-350AE 220/50 R290 CONTROL DANFOSS  (MAQ PEQUEÑA)"
   },
   {
-    "ItemCode": "400105010",
-    "ItemName": "FILM ENVASADO CHURRASCO DE VACUNO X KG (408 ENV)"
-  },
-  {
     "ItemCode": "400150011",
     "ItemName": "CUBREVASO GENERICO 12/20 OZ 1 X 1000 UN"
   },
@@ -27270,10 +27266,6 @@
   {
     "ItemCode": "10000100",
     "ItemName": "ACEITE CHEF OLIVA 12X1 LT"
-  },
-  {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "600002038",
@@ -31276,16 +31268,8 @@
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "103910051",
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103910017",
@@ -42652,10 +42636,6 @@
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -43248,20 +43228,12 @@
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "101401006",
@@ -43648,10 +43620,6 @@
     "ItemName": "SERVILLETA MESA BLANCA 12X200 UN SE70054"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
@@ -43796,10 +43764,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -43908,10 +43872,6 @@
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -43958,10 +43918,6 @@
   {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "200500008",
@@ -44174,10 +44130,6 @@
   {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "400011015",
@@ -45040,10 +44992,6 @@
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -45250,5 +45198,57 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "400105010",
+    "ItemName": "FILM ENVASADO CHURRASCO DE VACUNO X KG (408 ENV)"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
