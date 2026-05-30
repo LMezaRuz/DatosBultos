@@ -28500,20 +28500,12 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO 5 UN DE 4 X 270 GR (MM)"
   },
   {
-    "ItemCode": "300157028",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "100905002",
     "ItemName": "SEMOLA 1x500 g."
   },
   {
     "ItemCode": "300408001",
     "ItemName": "QUESILLO POTE 1X300 GR."
-  },
-  {
-    "ItemCode": "300157029",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
     "ItemCode": "103700000",
@@ -30152,10 +30144,6 @@
     "ItemName": "MERMELADA DE MARACUYA WATTS 6X1 KG"
   },
   {
-    "ItemCode": "203190049",
-    "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
-  },
-  {
     "ItemCode": "304760457",
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
@@ -31094,10 +31082,6 @@
   {
     "ItemCode": "103210000",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
     "ItemCode": "100754002",
@@ -32448,10 +32432,6 @@
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "101201048",
     "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
@@ -32578,10 +32558,6 @@
   {
     "ItemCode": "400005014",
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
-  },
-  {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "203210042",
@@ -45250,5 +45226,29 @@
   {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "300157029",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "203190049",
+    "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   }
 ]
