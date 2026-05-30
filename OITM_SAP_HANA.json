@@ -28320,10 +28320,6 @@
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
   {
-    "ItemCode": "400012005",
-    "ItemName": "ATOMIZADOR 1X1000 CC."
-  },
-  {
     "ItemCode": "402740000",
     "ItemName": "BOLSA PAPEL KRAFT CINNABON 1 X  1000 UN"
   },
@@ -31970,10 +31966,6 @@
   {
     "ItemCode": "103250007",
     "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "103700005",
@@ -39336,10 +39328,6 @@
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "400252008",
     "ItemName": "TOALLA JUMBO PREMIUM D/H 6 X 150 MTS TO70021"
   },
@@ -39566,10 +39554,6 @@
   {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "101200025",
@@ -40210,10 +40194,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "400251006",
@@ -43516,14 +43496,6 @@
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "400104014",
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
@@ -44600,10 +44572,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -44928,10 +44896,6 @@
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "400005007",
-    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
-  },
-  {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
@@ -44950,10 +44914,6 @@
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "400001007",
@@ -45250,5 +45210,45 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "400005007",
+    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "400012005",
+    "ItemName": "ATOMIZADOR 1X1000 CC."
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   }
 ]
