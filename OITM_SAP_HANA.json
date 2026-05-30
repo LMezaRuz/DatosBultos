@@ -30912,10 +30912,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "202910016",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
   },
@@ -36200,10 +36196,6 @@
     "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
   },
@@ -39134,10 +39126,6 @@
   {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
-  },
-  {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "202720035",
@@ -44516,10 +44504,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -44728,10 +44712,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "102840013",
     "ItemName": "CAFE AMALFI EN CAPSULAS COMPATIBLE CON DOLCE GUSTO 1X16 UN"
   },
@@ -44928,10 +44908,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "204300026",
     "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
   },
@@ -45008,10 +44984,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
   },
@@ -45050,10 +45022,6 @@
   {
     "ItemCode": "103110006",
     "ItemName": "CREMA PARA BATIR CREAMY WHIP DELIGHT 12X1 LT"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "304420001",
@@ -45106,10 +45074,6 @@
   {
     "ItemCode": "204300076",
     "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "304760355",
@@ -45250,5 +45214,41 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910016",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
   }
 ]
