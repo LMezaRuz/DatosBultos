@@ -31352,14 +31352,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 12X360 GR"
   },
   {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
     "ItemCode": "101003003",
     "ItemName": "CREMA VEGETAL CALO 12X1"
   },
@@ -31490,10 +31482,6 @@
   {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "300152008",
@@ -38488,10 +38476,6 @@
     "ItemName": "PEJERREY DE MAR  NAC CONG IQF 1 X 10 KG (ODONTESTHES REGIA)"
   },
   {
-    "ItemCode": "200500019",
-    "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
     "ItemCode": "200500042",
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
   },
@@ -39266,10 +39250,6 @@
   {
     "ItemCode": "400007009",
     "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
     "ItemCode": "204710000",
@@ -45250,5 +45230,25 @@
   {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "200500019",
+    "ItemName": "ESPARRAGOS 9X1 KG."
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
+  },
+  {
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   }
 ]
