@@ -31356,10 +31356,6 @@
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "400301085",
     "ItemName": "ENVASE SNACK BARRIO CHICKEN GYN 1X400 UN"
   },
@@ -32080,10 +32076,6 @@
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
     "ItemCode": "200460013",
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
@@ -32382,10 +32374,6 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "203210126",
-    "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
   },
   {
     "ItemCode": "203190058",
@@ -39808,10 +39796,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "204300026",
-    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
-  },
-  {
     "ItemCode": "300157036",
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
   },
@@ -39966,10 +39950,6 @@
   {
     "ItemCode": "404160002",
     "ItemName": "VIRUTILLA FINA PARA OLLA GRANDE 3 PAQ 40 UN"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "400001004",
@@ -43932,10 +43912,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
@@ -43958,10 +43934,6 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "204300021",
-    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
   {
     "ItemCode": "400100005",
@@ -44612,10 +44584,6 @@
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -44682,10 +44650,6 @@
   {
     "ItemCode": "100601001",
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100251002",
@@ -44992,10 +44956,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -45250,5 +45210,45 @@
   {
     "ItemCode": "101000008",
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204300021",
+    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
+  },
+  {
+    "ItemCode": "204300026",
+    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
+  },
+  {
+    "ItemCode": "203210126",
+    "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   }
 ]
