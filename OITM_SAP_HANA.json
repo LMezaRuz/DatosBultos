@@ -28108,10 +28108,6 @@
     "ItemName": "CEREAL CHOCAPIC 18X330 GR"
   },
   {
-    "ItemCode": "304760025",
-    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
-  },
-  {
     "ItemCode": "303680000",
     "ItemName": "PACK PROBIOTICO MULTIFRUTA UNV 6X90 ML"
   },
@@ -28410,10 +28406,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8 X 1 KG"
   },
   {
     "ItemCode": "200100098",
@@ -32458,10 +32450,6 @@
   {
     "ItemCode": "303850010",
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
-  },
-  {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
   {
     "ItemCode": "203210107",
@@ -43944,10 +43932,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101007008",
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
@@ -44560,10 +44544,6 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "101100039",
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
@@ -44904,10 +44884,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
@@ -45088,10 +45064,6 @@
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -45126,10 +45098,6 @@
   {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "300401005",
@@ -45250,5 +45218,37 @@
   {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8 X 1 KG"
+  },
+  {
+    "ItemCode": "304760025",
+    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
   }
 ]
