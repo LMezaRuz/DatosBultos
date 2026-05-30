@@ -32004,10 +32004,6 @@
     "ItemName": "QUESO PROVOLETA BARRA 4 KG (APROX)"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "100557023",
     "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
   },
@@ -35548,10 +35544,6 @@
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "100355046",
-    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101009020",
     "ItemName": "LECHE MOMENTS MOCACCINO 18x200 CC"
   },
@@ -36150,18 +36142,6 @@
   {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
     "ItemCode": "101401001",
@@ -42004,10 +41984,6 @@
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
   },
   {
-    "ItemCode": "100355010",
-    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100701009",
     "ItemName": "SOPA DE POLLO CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
@@ -44464,10 +44440,6 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
@@ -45250,5 +45222,33 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355046",
+    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355010",
+    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   }
 ]
