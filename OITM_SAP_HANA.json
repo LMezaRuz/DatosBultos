@@ -30832,10 +30832,6 @@
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
   {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
-  },
-  {
     "ItemCode": "204700007",
     "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
@@ -31310,10 +31306,6 @@
   {
     "ItemCode": "202910014",
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "400301085",
@@ -36232,10 +36224,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "101201041",
-    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "102540018",
     "ItemName": "AGUA CON GAS RIZOLA 6X1.5 LT"
   },
@@ -39292,14 +39280,6 @@
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201042",
-    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
@@ -40006,10 +39986,6 @@
   {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
-  },
-  {
-    "ItemCode": "101201040",
-    "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "104520008",
@@ -43080,10 +43056,6 @@
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201020",
-    "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
@@ -43478,10 +43450,6 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "204310007",
-    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
   },
   {
     "ItemCode": "202730066",
@@ -43948,10 +43916,6 @@
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101201015",
-    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201047",
     "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
@@ -43970,10 +43934,6 @@
   {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "101007022",
-    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "101008001",
@@ -44362,10 +44322,6 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "100052005",
@@ -44788,10 +44744,6 @@
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
@@ -44902,10 +44854,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "104010004",
@@ -45250,5 +45198,57 @@
   {
     "ItemCode": "100854002",
     "ItemName": "TIKA PATAGONIA 48X35 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "204310007",
+    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "101201015",
+    "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201042",
+    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201041",
+    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201020",
+    "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201040",
+    "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101007022",
+    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   }
 ]
