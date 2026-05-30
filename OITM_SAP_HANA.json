@@ -28448,10 +28448,6 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO 5 UN DE 4 X 270 GR (MM)"
   },
   {
-    "ItemCode": "100905002",
-    "ItemName": "SEMOLA 1x500 g."
-  },
-  {
     "ItemCode": "300408001",
     "ItemName": "QUESILLO POTE 1X300 GR."
   },
@@ -29886,10 +29882,6 @@
   {
     "ItemCode": "100151020",
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
-  },
-  {
-    "ItemCode": "100902007",
-    "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
   },
   {
     "ItemCode": "100350007",
@@ -31716,10 +31708,6 @@
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -31902,10 +31890,6 @@
   {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "103070003",
@@ -40316,10 +40300,6 @@
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
@@ -43508,10 +43488,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -44130,10 +44106,6 @@
   {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "204090009",
@@ -45064,10 +45036,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "304450017",
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
   },
@@ -45116,10 +45084,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -45164,10 +45128,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -45186,10 +45146,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "103880017",
@@ -45250,5 +45206,49 @@
   {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
+  },
+  {
+    "ItemCode": "100905002",
+    "ItemName": "SEMOLA 1x500 g."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100902007",
+    "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   }
 ]
