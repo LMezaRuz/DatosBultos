@@ -28204,10 +28204,6 @@
     "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   },
   {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
     "ItemCode": "203900009",
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
@@ -35504,10 +35500,6 @@
     "ItemName": "TAPA PARA VASO DE 12 OZ 1 X 1000 UN"
   },
   {
-    "ItemCode": "500001009",
-    "ItemName": "JUNTA PORTAFILTRO 8 MM (1652809)"
-  },
-  {
     "ItemCode": "100400001",
     "ItemName": "CERVEZA LATA 24 X 473 ML"
   },
@@ -40592,10 +40584,6 @@
     "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
   },
   {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -40778,10 +40766,6 @@
   {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
-  },
-  {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "101351003",
@@ -43192,10 +43176,6 @@
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
-    "ItemCode": "202910004",
-    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
-  },
-  {
     "ItemCode": "101402003",
     "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
   },
@@ -43522,10 +43502,6 @@
   {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
-  },
-  {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
     "ItemCode": "300351030",
@@ -43994,10 +43970,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
     "ItemCode": "100102005",
@@ -44476,10 +44448,6 @@
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
     "ItemCode": "100355003",
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
@@ -44904,10 +44872,6 @@
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -44938,10 +44902,6 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "100901004",
@@ -45250,5 +45210,45 @@
   {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "202910004",
+    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "500001009",
+    "ItemName": "JUNTA PORTAFILTRO 8 MM (1652809)"
   }
 ]
