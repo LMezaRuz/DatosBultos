@@ -28036,10 +28036,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
-  },
-  {
     "ItemCode": "400251016",
     "ItemName": "SERVILLETA INTERF. BLANCA (33X21,5) 24X250UN SE70053"
   },
@@ -32116,10 +32112,6 @@
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -32226,10 +32218,6 @@
   {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100852011",
@@ -32638,10 +32626,6 @@
   {
     "ItemCode": "100450007",
     "ItemName": "ALGA NORI BLUE 1X100 UN."
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "104210008",
@@ -40612,10 +40596,6 @@
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -43172,10 +43152,6 @@
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -43270,10 +43246,6 @@
   {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
     "ItemCode": "102480009",
@@ -43738,10 +43710,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "100151005",
@@ -44660,10 +44628,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -45068,10 +45032,6 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -45250,5 +45210,45 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
