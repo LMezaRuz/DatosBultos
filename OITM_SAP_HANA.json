@@ -30252,10 +30252,6 @@
     "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "101003004",
     "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
   },
@@ -44604,10 +44600,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -44850,10 +44842,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "100402001",
@@ -45136,10 +45124,6 @@
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
-    "ItemCode": "600002021",
-    "ItemName": "ZAPALLO KG."
-  },
-  {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
@@ -45152,8 +45136,20 @@
     "ItemName": "TOMATE KG."
   },
   {
-    "ItemCode": "600002020",
-    "ItemName": "ZANAHORIA KG."
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
     "ItemCode": "600001004",
@@ -45248,7 +45244,11 @@
     "ItemName": "REPOLLO 1x1 un."
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+    "ItemCode": "600002020",
+    "ItemName": "ZANAHORIA KG."
+  },
+  {
+    "ItemCode": "600002021",
+    "ItemName": "ZAPALLO KG."
   }
 ]
