@@ -39316,10 +39316,6 @@
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "101200026",
     "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
   },
@@ -39758,10 +39754,6 @@
   {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
-  },
-  {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
   },
   {
     "ItemCode": "200200010",
@@ -44524,24 +44516,12 @@
     "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "300153002",
@@ -45250,5 +45230,25 @@
   {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   }
 ]
