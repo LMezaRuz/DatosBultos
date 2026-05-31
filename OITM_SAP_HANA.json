@@ -31360,10 +31360,6 @@
     "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   },
   {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "400005005",
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
@@ -31994,10 +31990,6 @@
   {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
     "ItemCode": "103910036",
@@ -39512,10 +39504,6 @@
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
   {
-    "ItemCode": "300353062",
-    "ItemName": "FILETE AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
@@ -40362,10 +40350,6 @@
   {
     "ItemCode": "200308003",
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
     "ItemCode": "202730068",
@@ -42676,10 +42660,6 @@
     "ItemName": "CASTAÑAS EN ALMIBAR FRASCO 1X1.150 GR."
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
@@ -43494,10 +43474,6 @@
   {
     "ItemCode": "203210111",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
     "ItemCode": "101150032",
@@ -44452,10 +44428,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -44686,10 +44658,6 @@
   {
     "ItemCode": "300405003",
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
-  },
-  {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "304420003",
@@ -44958,10 +44926,6 @@
   {
     "ItemCode": "300353114",
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "100002005",
@@ -45250,5 +45214,41 @@
   {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
+  },
+  {
+    "ItemCode": "300353062",
+    "ItemName": "FILETE AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   }
 ]
