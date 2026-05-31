@@ -28208,10 +28208,6 @@
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
   {
-    "ItemCode": "203210103",
-    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "400005016",
     "ItemName": "GORRO CHEF 1X10 UN."
   },
@@ -35476,10 +35472,6 @@
     "ItemName": "TAZA TE REDONDA BLANCA ENGEL"
   },
   {
-    "ItemCode": "400252007",
-    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
-  },
-  {
     "ItemCode": "500001004",
     "ItemName": "TAMPER 58 MM PARA PISAR CAFÉ"
   },
@@ -39248,10 +39240,6 @@
     "ItemName": "RINZA 1X1 UN"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
@@ -39442,10 +39430,6 @@
   {
     "ItemCode": "103670004",
     "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "100654007",
@@ -42968,10 +42952,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "103880033",
     "ItemName": "MAYONESA LIGHT PROFESIONAL HELLMANNS 6X2 KG"
   },
@@ -44416,10 +44396,6 @@
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "102790002",
     "ItemName": "NESCAFE TRADICION GRANULADO 12X400 GR"
   },
@@ -44768,10 +44744,6 @@
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
@@ -44898,10 +44870,6 @@
   {
     "ItemCode": "400102004",
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "100101007",
@@ -45064,10 +45032,6 @@
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -45164,10 +45128,6 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "203230003",
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
@@ -45208,10 +45168,6 @@
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -45244,11 +45200,55 @@
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "203210103",
+    "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "400252007",
+    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
