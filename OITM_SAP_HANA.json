@@ -31144,10 +31144,6 @@
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
     "ItemCode": "300152010",
     "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
   },
@@ -32108,10 +32104,6 @@
     "ItemName": "MARGARINA HORNEO PREMIUM 1X 2.5 KG."
   },
   {
-    "ItemCode": "101009001",
-    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
-  },
-  {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
@@ -32282,10 +32274,6 @@
   {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "101002003",
@@ -32546,10 +32534,6 @@
   {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
     "ItemCode": "304760112",
@@ -35968,16 +35952,8 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "101400004",
-    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
-  },
-  {
     "ItemCode": "101009022",
     "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
-  },
-  {
-    "ItemCode": "400011005",
-    "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
     "ItemCode": "101354010",
@@ -36186,10 +36162,6 @@
   {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "101009033",
@@ -42300,10 +42272,6 @@
     "ItemName": "TORTILLA DE MAIZ 6 12X30X15CM - LOCAL"
   },
   {
-    "ItemCode": "400009001",
-    "ItemName": "CLORO CLORINDA 1X1 LT"
-  },
-  {
     "ItemCode": "400012004",
     "ItemName": "ESCOBILLA LIMPIA UÑAS 1X2 UN."
   },
@@ -43374,10 +43342,6 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "202820021",
@@ -45176,10 +45140,6 @@
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
   {
-    "ItemCode": "100304060",
-    "ItemName": "NECTAR DE MANZANA 6X200 ML"
-  },
-  {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
@@ -45218,10 +45178,6 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "104190000",
@@ -45284,10 +45240,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "204010002",
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
@@ -45322,10 +45274,6 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "200250015",
@@ -45402,5 +45350,57 @@
   {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "101400004",
+    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
+  },
+  {
+    "ItemCode": "400009001",
+    "ItemName": "CLORO CLORINDA 1X1 LT"
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400011005",
+    "ItemName": "ESPONJA DE ACERO 1X1 UN"
+  },
+  {
+    "ItemCode": "101009001",
+    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "100304060",
+    "ItemName": "NECTAR DE MANZANA 6X200 ML"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   }
 ]
