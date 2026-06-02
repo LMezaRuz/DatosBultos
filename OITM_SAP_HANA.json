@@ -40480,10 +40480,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "101201029",
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
@@ -43860,10 +43856,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
@@ -44114,10 +44106,6 @@
   {
     "ItemCode": "104670026",
     "ItemName": "TE LIPTON DARING EGL BKFST 12X10BLS"
-  },
-  {
-    "ItemCode": "104670059",
-    "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
   {
     "ItemCode": "104670060",
@@ -45184,10 +45172,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -45300,10 +45284,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101351007",
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
@@ -45402,5 +45382,25 @@
   {
     "ItemCode": "100300013",
     "ItemName": "AGUA MINERAL CON GAS BOTELLA DESECHABLE VITAL 12X330 CC."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "104670059",
+    "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   }
 ]
