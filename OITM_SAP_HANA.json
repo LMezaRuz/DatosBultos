@@ -39276,10 +39276,6 @@
     "ItemName": "ESPARRAGOS 9X1 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "100001008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
@@ -39578,10 +39574,6 @@
   {
     "ItemCode": "100302014",
     "ItemName": "SPRITE ZERO 6X1,5 LT"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "104610009",
@@ -43040,10 +43032,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
@@ -45402,5 +45390,17 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   }
 ]
