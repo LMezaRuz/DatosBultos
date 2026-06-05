@@ -38100,10 +38100,6 @@
     "ItemName": "CABELLO DE ANGEL CORTO 30X400 GR"
   },
   {
-    "ItemCode": "101100028",
-    "ItemName": "FIDEO MARIPOSAS CAROZZI 48X250 GR"
-  },
-  {
     "ItemCode": "101100030",
     "ItemName": "CABELLO DE ANGEL CORTO 1X5 KG"
   },
@@ -38908,10 +38904,6 @@
     "ItemName": "PULPA DE MELON TUNA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200051006",
-    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "200458001",
     "ItemName": "CORDERO ENTERO"
   },
@@ -38974,10 +38966,6 @@
   {
     "ItemCode": "304760420",
     "ItemName": "FILETE AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100355007",
@@ -39898,10 +39886,6 @@
   {
     "ItemCode": "300157049",
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
-  },
-  {
-    "ItemCode": "300157047",
-    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
   },
   {
     "ItemCode": "300157045",
@@ -42276,10 +42260,6 @@
     "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
   },
   {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
@@ -44412,10 +44392,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204700005",
     "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   },
@@ -45228,10 +45204,6 @@
     "ItemName": "CAFE DESCAFEINADO BARISTA CAPSULA ESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
@@ -45488,10 +45460,6 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "102480001",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
@@ -45640,11 +45608,43 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "304440006",
-    "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
     "ItemCode": "304440007",
     "ItemName": "DESPUNTE DE QUESO GAUDA KG"
+  },
+  {
+    "ItemCode": "304440006",
+    "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
+  },
+  {
+    "ItemCode": "300157047",
+    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "101100028",
+    "ItemName": "FIDEO MARIPOSAS CAROZZI 48X250 GR"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051006",
+    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   }
 ]
