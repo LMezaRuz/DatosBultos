@@ -44740,74 +44740,6 @@
     "ItemName": "QUESO CHACRA 1X1 UN"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
-  },
-  {
-    "ItemCode": "100550007",
-    "ItemName": "MERKEN MOLIDO 1X200 GR"
-  },
-  {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
-  },
-  {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
-  },
-  {
-    "ItemCode": "100303003",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
-  },
-  {
     "ItemCode": "200100004",
     "ItemName": "HELADO VARIEDADES 1 X 1 UN"
   },
@@ -45524,10 +45456,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45608,10 +45536,6 @@
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
   },
   {
-    "ItemCode": "103730010",
-    "ItemName": "NESQUIK SABORES 1X700 GR"
-  },
-  {
     "ItemCode": "102930006",
     "ItemName": "CEREAL CHOCAPIC 18X330 GR"
   },
@@ -45646,5 +45570,81 @@
   {
     "ItemCode": "100855001",
     "ItemName": "NATUR DE ARROZ 1X100 GR"
+  },
+  {
+    "ItemCode": "103730010",
+    "ItemName": "NESQUIK SABORES 1X700 GR"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
+    "ItemCode": "100550007",
+    "ItemName": "MERKEN MOLIDO 1X200 GR"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303003",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   }
 ]
