@@ -27688,10 +27688,6 @@
     "ItemName": "CEREAL CHOCO KRISPIS 1X630 GR"
   },
   {
-    "ItemCode": "103730010",
-    "ItemName": "NESQUIK SABORES 1X700 GR"
-  },
-  {
     "ItemCode": "103830011",
     "ItemName": "DULCE DE LECHE 1X1 UN"
   },
@@ -29476,10 +29472,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X1 KG"
   },
   {
-    "ItemCode": "102930006",
-    "ItemName": "CEREAL CHOCAPIC 18X330 GR"
-  },
-  {
     "ItemCode": "203190026",
     "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
   },
@@ -30802,10 +30794,6 @@
   {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
-    "ItemCode": "101007016",
-    "ItemName": "LECHE NIDO ENTERA 6X1,350 GR"
   },
   {
     "ItemCode": "202730080",
@@ -35584,10 +35572,6 @@
     "ItemName": "CAFE FINA SELECCION 1X200 GR"
   },
   {
-    "ItemCode": "300157020",
-    "ItemName": "CAFE GOLD PRIMERA SELECCION 1x170 gr"
-  },
-  {
     "ItemCode": "200500052",
     "ItemName": "JARDINERA PIMENTON 1X2 KG"
   },
@@ -38920,10 +38904,6 @@
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   },
   {
-    "ItemCode": "100855001",
-    "ItemName": "NATUR DE ARROZ 1X100 GR"
-  },
-  {
     "ItemCode": "104610006",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
@@ -39580,10 +39560,6 @@
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100151014",
-    "ItemName": "CEREAL GRANOLA 12X370 GR"
-  },
-  {
     "ItemCode": "100304028",
     "ItemName": "JUGO NECTAR VIVO DURAZNO 12x1 lt."
   },
@@ -39642,10 +39618,6 @@
   {
     "ItemCode": "100304044",
     "ItemName": "NECTAR DE NARANJA LIGHT PET 1X1.5 LT."
-  },
-  {
-    "ItemCode": "100304060",
-    "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
   {
     "ItemCode": "100601003",
@@ -43708,18 +43680,6 @@
     "ItemName": "SPRIM NECTAR MANZANA 24X190 ML."
   },
   {
-    "ItemCode": "100304015",
-    "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
-    "ItemCode": "100304014",
-    "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "100304013",
-    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
-  },
-  {
     "ItemCode": "100302002",
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
@@ -45646,5 +45606,45 @@
   {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO 26X400 GR SEARA"
+  },
+  {
+    "ItemCode": "103730010",
+    "ItemName": "NESQUIK SABORES 1X700 GR"
+  },
+  {
+    "ItemCode": "102930006",
+    "ItemName": "CEREAL CHOCAPIC 18X330 GR"
+  },
+  {
+    "ItemCode": "100304013",
+    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
+  },
+  {
+    "ItemCode": "100304060",
+    "ItemName": "NECTAR DE MANZANA 6X200 ML"
+  },
+  {
+    "ItemCode": "100304014",
+    "ItemName": "NECTAR DE NARANJA 6X200 ML"
+  },
+  {
+    "ItemCode": "100304015",
+    "ItemName": "NECTAR DE PIÑA 6X200 ML"
+  },
+  {
+    "ItemCode": "101007016",
+    "ItemName": "LECHE NIDO ENTERA 6X1,350 GR"
+  },
+  {
+    "ItemCode": "100151014",
+    "ItemName": "CEREAL GRANOLA 12X370 GR"
+  },
+  {
+    "ItemCode": "300157020",
+    "ItemName": "CAFE GOLD PRIMERA SELECCION 1x170 gr"
+  },
+  {
+    "ItemCode": "100855001",
+    "ItemName": "NATUR DE ARROZ 1X100 GR"
   }
 ]
