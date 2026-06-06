@@ -28468,10 +28468,6 @@
     "ItemName": "CAFE DESCAFEINADO EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "101000008",
-    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
-  },
-  {
     "ItemCode": "203210127",
     "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA CONG. 16X500 GR"
   },
@@ -43996,10 +43992,6 @@
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
@@ -45444,10 +45436,6 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100552005",
     "ItemName": "CANELA EN RAMA 1X250 GR"
   },
@@ -45734,5 +45722,17 @@
   {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "101000008",
+    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   }
 ]
