@@ -28052,10 +28052,6 @@
     "ItemName": "PUERRO 1 X 1 UN"
   },
   {
-    "ItemCode": "102600000",
-    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
-  },
-  {
     "ItemCode": "LOG_104670066",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
@@ -42820,10 +42816,6 @@
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
   {
-    "ItemCode": "400010013",
-    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -44064,10 +44056,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
@@ -44490,10 +44478,6 @@
   {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "100552005",
@@ -45168,10 +45152,6 @@
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
@@ -45380,10 +45360,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
@@ -45468,10 +45444,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -45506,10 +45478,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100559007",
@@ -45716,10 +45684,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -45734,5 +45698,41 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "400010013",
+    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "102600000",
+    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
   }
 ]
