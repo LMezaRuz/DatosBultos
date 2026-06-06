@@ -31776,10 +31776,6 @@
     "ItemName": "POSTRE SEMOLA 1X140 GR"
   },
   {
-    "ItemCode": "203510004",
-    "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
-  },
-  {
     "ItemCode": "203900005",
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
@@ -38904,10 +38900,6 @@
     "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
   {
-    "ItemCode": "100600002",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
-  },
-  {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
@@ -44464,10 +44456,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "202730045",
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
@@ -45668,14 +45656,6 @@
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "102970012",
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
@@ -45732,7 +45712,27 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203510004",
+    "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
+  },
+  {
+    "ItemCode": "100600002",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   }
 ]
