@@ -31084,10 +31084,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
     "ItemCode": "200051004",
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
   },
@@ -31454,10 +31450,6 @@
   {
     "ItemCode": "304440006",
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
-  },
-  {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
     "ItemCode": "204790037",
@@ -32480,10 +32472,6 @@
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
@@ -32718,10 +32706,6 @@
   {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
     "ItemCode": "104610009",
@@ -40744,10 +40728,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
-  },
-  {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
@@ -42788,10 +42768,6 @@
     "ItemName": "BROWNIE CONG. 12X95 GR"
   },
   {
-    "ItemCode": "100304022",
-    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
-  },
-  {
     "ItemCode": "100300012",
     "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
@@ -44460,10 +44436,6 @@
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -44586,10 +44558,6 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "100751025",
@@ -44744,10 +44712,6 @@
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "101002009",
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
@@ -44886,10 +44850,6 @@
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "304760241",
@@ -45724,6 +45684,30 @@
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "100304022",
+    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -45734,5 +45718,21 @@
   {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
