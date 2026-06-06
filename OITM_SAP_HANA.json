@@ -27932,10 +27932,6 @@
     "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
   },
   {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
     "ItemCode": "102840005",
     "ItemName": "CAFE DESCAFEINADO BARISTA CAPSULA ESPRESSO 1X10 UN"
   },
@@ -31448,10 +31444,6 @@
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
   },
@@ -31798,10 +31790,6 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "104060011",
@@ -35366,10 +35354,6 @@
   {
     "ItemCode": "100355047",
     "ItemName": "SYRUP MOJITO MIX  MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "400151001",
-    "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/375 ML"
   },
   {
     "ItemCode": "100351005",
@@ -41892,10 +41876,6 @@
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
   {
-    "ItemCode": "100355018",
-    "ItemName": "SYRUP ARANDANO MONIN 750 ML"
-  },
-  {
     "ItemCode": "100355012",
     "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
   },
@@ -41914,10 +41894,6 @@
   {
     "ItemCode": "400005016",
     "ItemName": "GORRO CHEF 1X10 UN."
-  },
-  {
-    "ItemCode": "400151002",
-    "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
   },
   {
     "ItemCode": "104670002",
@@ -42532,10 +42508,6 @@
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100300011",
     "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
   },
@@ -42634,10 +42606,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "100355024",
-    "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
   },
   {
     "ItemCode": "100352004",
@@ -45172,10 +45140,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
@@ -45734,5 +45698,41 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "100355024",
+    "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
+  },
+  {
+    "ItemCode": "400151002",
+    "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
+  },
+  {
+    "ItemCode": "400151001",
+    "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/375 ML"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355018",
+    "ItemName": "SYRUP ARANDANO MONIN 750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   }
 ]
