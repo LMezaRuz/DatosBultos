@@ -31048,10 +31048,6 @@
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
   },
   {
-    "ItemCode": "103940024",
-    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
     "ItemCode": "104620000",
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
@@ -39388,10 +39384,6 @@
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100701011",
-    "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
@@ -39450,10 +39442,6 @@
   {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "400005013",
-    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
   {
     "ItemCode": "400010022",
@@ -39590,10 +39578,6 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "100803002",
-    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
   {
     "ItemCode": "101201035",
@@ -43952,10 +43936,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -45224,10 +45204,6 @@
     "ItemName": "QUESO CREMA CALO 10X1.36 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -45286,14 +45262,6 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
     "ItemCode": "102610006",
@@ -45426,10 +45394,6 @@
   {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "100752002",
@@ -45734,5 +45698,41 @@
   {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "100701011",
+    "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400005013",
+    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
+  },
+  {
+    "ItemCode": "100803002",
+    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "103940024",
+    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
