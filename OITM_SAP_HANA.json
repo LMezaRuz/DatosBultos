@@ -31016,10 +31016,6 @@
     "ItemName": "MOSTAZA HEINZ SQUEEZZE 12X368 GR"
   },
   {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "104010035",
     "ItemName": "CREAMY CAESAR DRESSING HUNGRY BROS 4X3,79 LT"
   },
@@ -42676,10 +42672,6 @@
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
@@ -45020,10 +45012,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "104070007",
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
@@ -45198,10 +45186,6 @@
   {
     "ItemCode": "103180002",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
-  },
-  {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
     "ItemCode": "101450004",
@@ -45480,10 +45464,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -45728,11 +45708,31 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
+  },
+  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
