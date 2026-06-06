@@ -28236,10 +28236,6 @@
     "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   },
   {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
-  },
-  {
     "ItemCode": "303910000",
     "ItemName": "MERMELADA DE LUCUMA WATTS GOLD 3X5KG"
   },
@@ -32010,10 +32006,6 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "104210000",
@@ -36444,10 +36436,6 @@
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "200453014",
     "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
@@ -39808,10 +39796,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -40010,10 +39994,6 @@
   {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6BLS X 25X19 GR"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
     "ItemCode": "101201051",
@@ -40230,10 +40210,6 @@
   {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
   {
     "ItemCode": "100001001",
@@ -40714,10 +40690,6 @@
   {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "300153004",
@@ -43868,10 +43840,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
   {
-    "ItemCode": "100003002",
-    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
-  },
-  {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6 X 1,5 LTS"
   },
@@ -45320,10 +45288,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "200303016",
-    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "300353072",
     "ItemName": "POSTA ROSADA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -45616,10 +45580,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -45734,5 +45694,45 @@
   {
     "ItemCode": "103650021",
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "200303016",
+    "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003002",
+    "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   }
 ]
