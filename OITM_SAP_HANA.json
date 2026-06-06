@@ -39624,10 +39624,6 @@
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101201044",
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -39794,10 +39790,6 @@
   {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
-    "ItemCode": "200302007",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
   {
     "ItemCode": "101201022",
@@ -43472,10 +43464,6 @@
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
@@ -43686,10 +43674,6 @@
   {
     "ItemCode": "101200023",
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "101353011",
@@ -44102,10 +44086,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "400100003",
@@ -45734,5 +45714,25 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "200302007",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   }
 ]
