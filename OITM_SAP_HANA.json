@@ -29564,10 +29564,6 @@
     "ItemName": "TIRITAS DE PECHUGA DE POLLO REBOZADAS CONG. 12X300 GR"
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "304760289",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
@@ -30846,10 +30842,6 @@
   {
     "ItemCode": "204870005",
     "ItemName": "LENGUA DE VACUNO TRADICION (20KGS APROX)"
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
     "ItemCode": "103250000",
@@ -35664,10 +35656,6 @@
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355053",
     "ItemName": "SYRUP COFFEE COLLECTION MONIN 5X50 ML"
   },
@@ -39988,10 +39976,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "100002007",
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
@@ -43200,10 +43184,6 @@
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
   },
@@ -44768,10 +44748,6 @@
     "ItemName": "BAVAROIS DE PIÑA 1X1 TKF KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "104020005",
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
@@ -45114,10 +45090,6 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "400301020",
@@ -45640,10 +45612,6 @@
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -45734,5 +45702,37 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
   }
 ]
