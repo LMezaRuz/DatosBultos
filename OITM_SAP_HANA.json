@@ -28492,16 +28492,8 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "202730039",
     "ItemName": "BROWNIE CON NUECES 48X80 GR"
-  },
-  {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "302890048",
@@ -31388,10 +31380,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "202820011",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "103520002",
     "ItemName": "HARINA DE TRIGO SUPER PAN DOS 1X25 KG"
   },
@@ -31426,10 +31414,6 @@
   {
     "ItemCode": "304760353",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304450017",
-    "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
   },
   {
     "ItemCode": "104540003",
@@ -32098,10 +32082,6 @@
   {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   },
   {
     "ItemCode": "101100053",
@@ -39764,10 +39744,6 @@
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
@@ -42048,10 +42024,6 @@
     "ItemName": "BOLSAS ZIPLOC GRANDE 26x27 cm 1x20 un."
   },
   {
-    "ItemCode": "202820021",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
-  },
-  {
     "ItemCode": "100652001",
     "ItemName": "MIFRUT MANZANA 36X90 GR"
   },
@@ -43640,10 +43612,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "101201053",
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -44560,10 +44528,6 @@
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -44686,10 +44650,6 @@
   {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790020",
@@ -44830,10 +44790,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "202900000",
@@ -45734,5 +45690,49 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "304450017",
+    "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "202820021",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
+  },
+  {
+    "ItemCode": "202820011",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   }
 ]
