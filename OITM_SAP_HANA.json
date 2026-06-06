@@ -45120,24 +45120,12 @@
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355004",
     "ItemName": "SYRUP CANELA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
     "ItemCode": "101353042",
@@ -45720,10 +45708,6 @@
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   },
@@ -45734,5 +45718,21 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   }
 ]
