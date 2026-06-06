@@ -31480,10 +31480,6 @@
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "204010002",
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
@@ -31808,10 +31804,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "104060011",
     "ItemName": "GALLETAS SIN AZUCAR 1X1 UN"
   },
@@ -31858,10 +31850,6 @@
   {
     "ItemCode": "203200039",
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
     "ItemCode": "303870012",
@@ -35956,10 +35944,6 @@
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
   },
@@ -39490,10 +39474,6 @@
   {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
     "ItemCode": "101150038",
@@ -44232,10 +44212,6 @@
     "ItemName": "MERMELADA DE CIRUELA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100557007",
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
@@ -44358,10 +44334,6 @@
   {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "100050008",
@@ -45172,10 +45144,6 @@
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45508,10 +45476,6 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
@@ -45734,5 +45698,41 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
