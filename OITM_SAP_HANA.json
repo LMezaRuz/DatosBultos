@@ -27884,10 +27884,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
-    "ItemCode": "202730053",
-    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
-  },
-  {
     "ItemCode": "303870002",
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
   },
@@ -27906,10 +27902,6 @@
   {
     "ItemCode": "204790010",
     "ItemName": "BROCOLI IQF 20X500 GR"
-  },
-  {
-    "ItemCode": "202730029",
-    "ItemName": "REJILLA DE MANZANA 46X110 GR"
   },
   {
     "ItemCode": "302890038",
@@ -38576,10 +38568,6 @@
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
   {
-    "ItemCode": "100850001",
-    "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -39046,10 +39034,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101304002",
@@ -42392,10 +42376,6 @@
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -42426,10 +42406,6 @@
   {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
     "ItemCode": "100350003",
@@ -43728,10 +43704,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
@@ -43786,10 +43758,6 @@
   {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "100951005",
@@ -43998,10 +43966,6 @@
   {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "400005009",
@@ -44554,10 +44518,6 @@
   {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100302009",
@@ -45168,10 +45128,6 @@
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "104620002",
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
@@ -45676,10 +45632,6 @@
     "ItemName": "CACAO CALLEBAUT EN POLVO 6 X 1 KG (DCP-22PLARO-EO-89B)"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -45734,5 +45686,53 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "202730029",
+    "ItemName": "REJILLA DE MANZANA 46X110 GR"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "202730053",
+    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "100850001",
+    "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   }
 ]
