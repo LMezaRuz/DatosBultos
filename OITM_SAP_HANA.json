@@ -30744,10 +30744,6 @@
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
   {
-    "ItemCode": "102560022",
-    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
-  },
-  {
     "ItemCode": "202910051",
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
@@ -31764,10 +31760,6 @@
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
     "ItemCode": "304760259",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -32102,10 +32094,6 @@
   {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "204180017",
@@ -39632,10 +39620,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
@@ -42828,10 +42812,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
   },
   {
-    "ItemCode": "100152006",
-    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
-  },
-  {
     "ItemCode": "400012007",
     "ItemName": "MOPA ALGODON CON MANGO 1X1 UN. (1201495)"
   },
@@ -44928,10 +44908,6 @@
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
     "ItemCode": "104500010",
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
   },
@@ -45580,14 +45556,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -45688,10 +45656,6 @@
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -45734,5 +45698,41 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152006",
+    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "102560022",
+    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   }
 ]
