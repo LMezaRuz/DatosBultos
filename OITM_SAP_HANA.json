@@ -36180,10 +36180,6 @@
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
@@ -39180,10 +39176,6 @@
     "ItemName": "ALFAJOR CLASICO 1X35 GR"
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
@@ -39230,10 +39222,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
     "ItemCode": "300157017",
@@ -39534,10 +39522,6 @@
   {
     "ItemCode": "101353025",
     "ItemName": "MAYONESA JB 6X1,9 KG"
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
   {
     "ItemCode": "400252008",
@@ -43776,10 +43760,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -44684,10 +44664,6 @@
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "400010012",
     "ItemName": "GNZY 200 XS DEGRADADOR DE MATERIA ORGANICA 1X5 LT"
   },
@@ -44972,10 +44948,6 @@
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
@@ -45096,10 +45068,6 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
@@ -45134,10 +45102,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "101050002",
@@ -45268,10 +45232,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -45354,10 +45314,6 @@
   {
     "ItemCode": "203200036",
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "204180032",
@@ -45492,10 +45448,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
@@ -45526,10 +45478,6 @@
   {
     "ItemCode": "100852012",
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101403002",
@@ -45734,5 +45682,57 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   }
 ]
