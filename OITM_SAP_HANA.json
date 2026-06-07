@@ -28564,10 +28564,6 @@
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "303750002",
     "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
@@ -35820,10 +35816,6 @@
     "ItemName": "ABASTERO KG (NV)"
   },
   {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300353069",
     "ItemName": "POLLO GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -35870,10 +35862,6 @@
   {
     "ItemCode": "600002014",
     "ItemName": "PEPINO 1x1 un."
-  },
-  {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
     "ItemCode": "600002003",
@@ -43464,10 +43452,6 @@
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -45288,14 +45272,6 @@
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -45616,10 +45592,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "103580001",
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   },
@@ -45734,5 +45706,33 @@
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
