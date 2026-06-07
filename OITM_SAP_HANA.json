@@ -31040,10 +31040,6 @@
     "ItemName": "MOSTAZA HEINZ SQUEEZZE 12X368 GR"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "104010035",
     "ItemName": "CREAMY CAESAR DRESSING HUNGRY BROS 4X3,79 LT"
   },
@@ -44848,10 +44844,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "100654003",
-    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
     "ItemCode": "203230005",
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
@@ -45102,10 +45094,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "101402005",
@@ -45724,15 +45712,27 @@
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100654003",
+    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   }
 ]
