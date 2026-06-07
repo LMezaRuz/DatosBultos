@@ -32228,10 +32228,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "103910047",
     "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
   },
@@ -39240,10 +39236,6 @@
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
   {
-    "ItemCode": "200500036",
-    "ItemName": "POROTO GRANADO 15X1 KG"
-  },
-  {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
@@ -42852,14 +42844,6 @@
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
   {
-    "ItemCode": "100852005",
-    "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
-  },
-  {
-    "ItemCode": "100852004",
-    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
-  },
-  {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA 12X500 CC."
   },
@@ -43176,10 +43160,6 @@
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -43286,10 +43266,6 @@
   {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
-  },
-  {
-    "ItemCode": "100202016",
-    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
   {
     "ItemCode": "304760109",
@@ -44416,10 +44392,6 @@
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100600002",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
-  },
-  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -44518,10 +44490,6 @@
   {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "400011020",
@@ -44718,10 +44686,6 @@
   {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
-  },
-  {
-    "ItemCode": "101200015",
-    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
   },
   {
     "ItemCode": "101200020",
@@ -45664,10 +45628,6 @@
     "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -45712,10 +45672,6 @@
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -45724,15 +45680,59 @@
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100600002",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
+  },
+  {
+    "ItemCode": "200500036",
+    "ItemName": "POROTO GRANADO 15X1 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101200015",
+    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
+  },
+  {
+    "ItemCode": "100852005",
+    "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
+  },
+  {
+    "ItemCode": "100852004",
+    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
+  },
+  {
+    "ItemCode": "100202016",
+    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
