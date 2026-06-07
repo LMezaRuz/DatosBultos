@@ -27952,10 +27952,6 @@
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
-    "ItemCode": "101355023",
-    "ItemName": "TINTA CALAMAR 1 X 90 GR"
-  },
-  {
     "ItemCode": "104660003",
     "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
   },
@@ -31252,10 +31248,6 @@
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "304760352",
     "ItemName": "PALANCA AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -31838,10 +31830,6 @@
   {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "304760259",
@@ -36684,10 +36672,6 @@
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "101009009",
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
@@ -39076,10 +39060,6 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -40382,10 +40362,6 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
     "ItemCode": "101002006",
@@ -42788,10 +42764,6 @@
     "ItemName": "BOLSAS ZIPLOC GRANDE 26x27 cm 1x20 un."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100652001",
     "ItemName": "MIFRUT MANZANA 36X90 GR"
   },
@@ -43640,10 +43612,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100851002",
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
@@ -43964,10 +43932,6 @@
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
@@ -44284,10 +44248,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
@@ -44366,10 +44326,6 @@
   {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
     "ItemCode": "101452002",
@@ -45734,5 +45690,49 @@
   {
     "ItemCode": "102780009",
     "ItemName": "CAFE KIMBO EN GRANO ESPRESSO CLASSICO 6X1 KG"
+  },
+  {
+    "ItemCode": "101355023",
+    "ItemName": "TINTA CALAMAR 1 X 90 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
   }
 ]
