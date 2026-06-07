@@ -36432,10 +36432,6 @@
     "ItemName": "ETIQUETA RECTAN BARRIO CHICKEN GYN 1 X 1.000 UN"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "300352005",
     "ItemName": "COSTILLAR DE CERDO KG. (NV)"
   },
@@ -43540,10 +43536,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
@@ -44038,10 +44030,6 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100701009",
@@ -45068,10 +45056,6 @@
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
   },
   {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
@@ -45150,10 +45134,6 @@
   {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "300154014",
@@ -45596,10 +45576,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "200308002",
     "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
@@ -45728,11 +45704,35 @@
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
