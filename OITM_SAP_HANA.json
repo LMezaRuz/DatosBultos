@@ -39276,10 +39276,6 @@
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
   },
@@ -39878,10 +39874,6 @@
   {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
     "ItemCode": "400301073",
@@ -45236,10 +45228,6 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45476,20 +45464,8 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "103140000",
@@ -45498,22 +45474,6 @@
   {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "100559007",
@@ -45734,5 +45694,45 @@
   {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
