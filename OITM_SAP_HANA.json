@@ -31540,10 +31540,6 @@
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
     "ItemCode": "204750020",
     "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
@@ -31874,10 +31870,6 @@
   {
     "ItemCode": "104670000",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "100752002",
@@ -44836,14 +44828,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -44966,10 +44950,6 @@
   {
     "ItemCode": "100355017",
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "100852017",
@@ -45492,10 +45472,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -45734,5 +45710,29 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
