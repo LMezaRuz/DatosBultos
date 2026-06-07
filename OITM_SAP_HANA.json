@@ -29976,10 +29976,6 @@
     "ItemName": "CHURRASCO DE FILETE 5X1.04 KG MM (CAJA 5.2 KG)"
   },
   {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "104010018",
     "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
@@ -31954,10 +31950,6 @@
   {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
-  },
-  {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
     "ItemCode": "102780006",
@@ -39548,10 +39540,6 @@
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
-  },
-  {
     "ItemCode": "100653008",
     "ItemName": "FRUTILLAS AL JUGO 1X3 KG."
   },
@@ -45336,10 +45324,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -45552,10 +45536,6 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -45704,10 +45684,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -45734,5 +45710,29 @@
   {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
   }
 ]
