@@ -31192,10 +31192,6 @@
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
   },
@@ -31996,10 +31992,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
@@ -32136,10 +32128,6 @@
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101352012",
-    "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
@@ -32190,10 +32178,6 @@
   {
     "ItemCode": "104060010",
     "ItemName": "CHOCOLATE SAHNE NUSS 1X1 UN"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "204380024",
@@ -32722,10 +32706,6 @@
   {
     "ItemCode": "103910026",
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "400103008",
-    "ItemName": "CUCHILLO 17 CM COMPOSTABLE 1000 UN X CAJA"
   },
   {
     "ItemCode": "102530001",
@@ -40808,10 +40788,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
@@ -40850,10 +40826,6 @@
   {
     "ItemCode": "100355018",
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "100850015",
@@ -43644,10 +43616,6 @@
     "ItemName": "MASA PARA PIZZA 1X1 UN"
   },
   {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
@@ -44752,10 +44720,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -45720,19 +45684,55 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+    "ItemCode": "400103008",
+    "ItemName": "CUCHILLO 17 CM COMPOSTABLE 1000 UN X CAJA"
+  },
+  {
+    "ItemCode": "101352012",
+    "ItemName": "KETCHUP JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
