@@ -25964,10 +25964,6 @@
     "ItemName": "ALGIN TEXTURAS 24 X 225 GR"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "104910015",
     "ItemName": "PECTINA NH (PARA GLASEAR) 14 X 1 KG"
   },
@@ -27682,10 +27678,6 @@
   {
     "ItemCode": "103140004",
     "ItemName": "DECORACION FIESTA 25X80 GR"
-  },
-  {
-    "ItemCode": "304430011",
-    "ItemName": "QUESO CREMA HUILCO 36X190 GR"
   },
   {
     "ItemCode": "303840002",
@@ -31236,10 +31228,6 @@
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "300152008",
-    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
-  },
-  {
     "ItemCode": "304440006",
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
   },
@@ -32086,10 +32074,6 @@
   {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "103910032",
@@ -44452,10 +44436,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "303660007",
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
@@ -44522,10 +44502,6 @@
   {
     "ItemCode": "204300045",
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "101003002",
@@ -44948,10 +44924,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
@@ -45036,10 +45008,6 @@
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "300403001",
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
@@ -45102,10 +45070,6 @@
   {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "100003006",
@@ -45234,10 +45198,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100450003",
@@ -45390,10 +45350,6 @@
   {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "100302023",
@@ -45734,5 +45690,49 @@
   {
     "ItemCode": "101200019",
     "ItemName": "JUGO EN POLVO ZUKO 10X15GR."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "304430011",
+    "ItemName": "QUESO CREMA HUILCO 36X190 GR"
+  },
+  {
+    "ItemCode": "300152008",
+    "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
