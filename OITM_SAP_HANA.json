@@ -31028,10 +31028,6 @@
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "200051004",
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
   },
@@ -31302,10 +31298,6 @@
   {
     "ItemCode": "304760440",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "104010055",
@@ -31842,10 +31834,6 @@
   {
     "ItemCode": "104210021",
     "ItemName": "ESPIRAL INTEGRAL 1X400 GR"
-  },
-  {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
   {
     "ItemCode": "103830009",
@@ -36590,10 +36578,6 @@
   {
     "ItemCode": "101400005",
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "300154028",
@@ -45564,10 +45548,6 @@
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
@@ -45728,11 +45708,31 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   }
 ]
