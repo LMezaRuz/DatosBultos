@@ -38976,10 +38976,6 @@
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
   {
-    "ItemCode": "101005001",
-    "ItemName": "LECHE CULTIVADA LT"
-  },
-  {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
   },
@@ -39810,10 +39806,6 @@
   {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
     "ItemCode": "100152005",
@@ -42744,10 +42736,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "300157005",
-    "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -44468,10 +44456,6 @@
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "300156009",
-    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -45734,5 +45718,21 @@
   {
     "ItemCode": "200203007",
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
+  },
+  {
+    "ItemCode": "101005001",
+    "ItemName": "LECHE CULTIVADA LT"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "300156009",
+    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300157005",
+    "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
   }
 ]
