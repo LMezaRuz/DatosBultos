@@ -25920,10 +25920,6 @@
     "ItemName": "HELADO VITTORE MENTA CHIPS 6X220 ML"
   },
   {
-    "ItemCode": "100201017",
-    "ItemName": "AZUCAR CUBO BLANCA IANSA 1X500 GR"
-  },
-  {
     "ItemCode": "204180004",
     "ItemName": "PAPA PREFRITA 10 PUNTOS 20X500 GR"
   },
@@ -27378,10 +27374,6 @@
   {
     "ItemCode": "204300042",
     "ItemName": "TRUTRO ENTERO DE POLLO DESHUESADO CONG. MARINADO 10X2 KG."
-  },
-  {
-    "ItemCode": "102560001",
-    "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
   },
   {
     "ItemCode": "102740005",
@@ -30704,10 +30696,6 @@
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
   },
   {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
-  },
-  {
     "ItemCode": "100355055",
     "ItemName": "SALSA DE CHOCOLATE MONIN 6X375 CC"
   },
@@ -31464,10 +31452,6 @@
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
   {
-    "ItemCode": "102560022",
-    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
-  },
-  {
     "ItemCode": "101003004",
     "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
   },
@@ -31828,10 +31812,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100900004",
-    "ItemName": "POLENTA 1X1 KG"
-  },
-  {
     "ItemCode": "202820009",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
   },
@@ -32164,10 +32144,6 @@
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "100752002",
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
@@ -32330,10 +32306,6 @@
   {
     "ItemCode": "101403005",
     "ItemName": "PALMITO RODAJA 24 X 400 GRS"
-  },
-  {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
     "ItemCode": "101100053",
@@ -39132,10 +39104,6 @@
     "ItemName": "MANJAR 1X400 GR"
   },
   {
-    "ItemCode": "101452007",
-    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
     "ItemCode": "100250006",
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
   },
@@ -40162,10 +40130,6 @@
   {
     "ItemCode": "300351012",
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "101006006",
@@ -43720,10 +43684,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
     "ItemCode": "101001004",
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
@@ -45144,10 +45104,6 @@
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -45734,5 +45690,49 @@
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101452007",
+    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "100900004",
+    "ItemName": "POLENTA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100201017",
+    "ItemName": "AZUCAR CUBO BLANCA IANSA 1X500 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "102560001",
+    "ItemName": "SALSA PICANTE SRIRACHA 24X290 ML"
+  },
+  {
+    "ItemCode": "102560022",
+    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO (MM)"
   }
 ]
