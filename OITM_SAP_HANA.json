@@ -29916,10 +29916,6 @@
     "ItemName": "TE EXCLUSIVE SELECTION REFRESHING LEMON LIPTON 6X25 BLS"
   },
   {
-    "ItemCode": "204150012",
-    "ItemName": "MINI NAVETTE 100X15 GR"
-  },
-  {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
@@ -31428,10 +31424,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "303850001",
-    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES 12X1 LT"
   },
@@ -31962,10 +31954,6 @@
   {
     "ItemCode": "300157050",
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
-  },
-  {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
     "ItemCode": "103530000",
@@ -39512,10 +39500,6 @@
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
@@ -39882,10 +39866,6 @@
   {
     "ItemCode": "100852009",
     "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
-  },
-  {
-    "ItemCode": "202730042",
-    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
   },
   {
     "ItemCode": "100852024",
@@ -43384,10 +43364,6 @@
     "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -43530,10 +43506,6 @@
   {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
-    "ItemCode": "200201009",
-    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
   },
   {
     "ItemCode": "200201010",
@@ -43686,10 +43658,6 @@
   {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
-    "ItemCode": "300403001",
-    "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
   {
     "ItemCode": "101452002",
@@ -44744,10 +44712,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "200201017",
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
@@ -44878,10 +44842,6 @@
   {
     "ItemCode": "101355023",
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "101402005",
@@ -45536,10 +45496,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
@@ -45716,10 +45672,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -45734,5 +45686,53 @@
   {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200201009",
+    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
+  },
+  {
+    "ItemCode": "202730042",
+    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
+  },
+  {
+    "ItemCode": "204150012",
+    "ItemName": "MINI NAVETTE 100X15 GR"
+  },
+  {
+    "ItemCode": "303850001",
+    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "300403001",
+    "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   }
 ]
