@@ -39312,10 +39312,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
   },
@@ -43156,10 +43152,6 @@
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -44704,10 +44696,6 @@
     "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "100350004",
-    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -44790,14 +44778,6 @@
   {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "102480009",
@@ -45734,5 +45714,25 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100350004",
+    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
   }
 ]
