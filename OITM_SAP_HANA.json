@@ -31272,10 +31272,6 @@
     "ItemName": "TE EXCLUSIVE SELECTION GREEN TEA AND INTENSE MINT LIPTON 6X25 BLS"
   },
   {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES 12X1 LT"
   },
@@ -32126,10 +32122,6 @@
   {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "200201032",
-    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
   {
     "ItemCode": "100558002",
@@ -35828,10 +35820,6 @@
     "ItemName": "PLATANOS KG."
   },
   {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
     "ItemCode": "300353078",
     "ItemName": "HUACHALOMO KG. (NV)"
   },
@@ -36014,10 +36002,6 @@
   {
     "ItemCode": "101352004",
     "ItemName": "KETCHUP PET TRAVERSO 24X350 GR"
-  },
-  {
-    "ItemCode": "200200001",
-    "ItemName": "MINI MUFFIN 1X147 UN"
   },
   {
     "ItemCode": "300353068",
@@ -38876,10 +38860,6 @@
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
   },
@@ -39546,10 +39526,6 @@
   {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
-  },
-  {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
     "ItemCode": "101401006",
@@ -42156,10 +42132,6 @@
     "ItemName": "ESTRAGON DESHIDRATADO GOURMET 1X5 GR"
   },
   {
-    "ItemCode": "300404005",
-    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -43086,14 +43058,6 @@
   {
     "ItemCode": "100200001",
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
-    "ItemCode": "300156009",
-    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "300156007",
-    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
   {
     "ItemCode": "300403010",
@@ -44592,10 +44556,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -44634,14 +44594,6 @@
   {
     "ItemCode": "202730013",
     "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
-  },
-  {
-    "ItemCode": "200200033",
-    "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
-    "ItemCode": "200200032",
-    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
   {
     "ItemCode": "202730004",
@@ -44804,10 +44756,6 @@
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
@@ -44822,10 +44770,6 @@
   {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "304430007",
@@ -45280,10 +45224,6 @@
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
@@ -45734,5 +45674,65 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "300404005",
+    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "300156009",
+    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156007",
+    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "200201032",
+    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
+  },
+  {
+    "ItemCode": "200200033",
+    "ItemName": "REJILLA PASTELERA X 72 UN"
+  },
+  {
+    "ItemCode": "200200032",
+    "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
+  },
+  {
+    "ItemCode": "200200001",
+    "ItemName": "MINI MUFFIN 1X147 UN"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   }
 ]
