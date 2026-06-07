@@ -26388,10 +26388,6 @@
     "ItemName": "AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
   },
   {
-    "ItemCode": "102540017",
-    "ItemName": "AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
     "ItemCode": "203230028",
     "ItemName": "EMPANADA DE PINO COCKTAIL 12X85 GR (4 REINAS)"
   },
@@ -26570,10 +26566,6 @@
   {
     "ItemCode": "104900001",
     "ItemName": "INTEGRAL MOLIDA BF CAJA 10 KG"
-  },
-  {
-    "ItemCode": "203210072",
-    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
   },
   {
     "ItemCode": "103880027",
@@ -27082,10 +27074,6 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
-  },
-  {
-    "ItemCode": "203190031",
-    "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
   },
   {
     "ItemCode": "202730048",
@@ -28518,10 +28506,6 @@
   {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "100251004",
-    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
   {
     "ItemCode": "204140009",
@@ -31216,10 +31200,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
     "ItemCode": "102790000",
     "ItemName": "NESCAFE DECAF STICK 180X1,8 GR"
   },
@@ -32298,10 +32278,6 @@
   {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "204100010",
-    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "202910025",
@@ -35948,10 +35924,6 @@
     "ItemName": "KIMBO TAZA Y PLATO EXPRESSO 6 UN"
   },
   {
-    "ItemCode": "400103009",
-    "ItemName": "TENEDOR 17 CM COMPOSTABLE 1000 UN X CAJA"
-  },
-  {
     "ItemCode": "101007006",
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
   },
@@ -36240,10 +36212,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
-  },
-  {
     "ItemCode": "101401008",
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
@@ -36458,10 +36426,6 @@
   {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
-    "ItemCode": "100550008",
-    "ItemName": "MERKEN 1X1 KG"
   },
   {
     "ItemCode": "100557019",
@@ -44100,10 +44064,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -44378,10 +44338,6 @@
   {
     "ItemCode": "100557001",
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "100004007",
@@ -45504,10 +45460,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
@@ -45734,5 +45686,53 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204100010",
+    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "102540017",
+    "ItemName": "AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
+    "ItemCode": "400103009",
+    "ItemName": "TENEDOR 17 CM COMPOSTABLE 1000 UN X CAJA"
+  },
+  {
+    "ItemCode": "203190031",
+    "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "203210072",
+    "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "100550008",
+    "ItemName": "MERKEN 1X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "100251004",
+    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   }
 ]
