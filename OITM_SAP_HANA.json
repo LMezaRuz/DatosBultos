@@ -31940,10 +31940,6 @@
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
-    "ItemCode": "101201013",
-    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
@@ -32058,10 +32054,6 @@
   {
     "ItemCode": "203200039",
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
-    "ItemCode": "101201012",
-    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "303870012",
@@ -35710,10 +35702,6 @@
   {
     "ItemCode": "400301024",
     "ItemName": "CAJA DELIVERY MEDIANA TOMMY BEANS 1 X 250 UN"
-  },
-  {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "400301025",
@@ -39548,16 +39536,8 @@
     "ItemName": "MAYONESA TRAVERSO DOYPACK 10X900GR"
   },
   {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "100902002",
@@ -39570,10 +39550,6 @@
   {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "101201019",
-    "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
   {
     "ItemCode": "101304002",
@@ -40238,10 +40214,6 @@
   {
     "ItemCode": "300153004",
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "100355006",
@@ -45320,20 +45292,8 @@
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "103830005",
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "101402007",
@@ -45486,10 +45446,6 @@
   {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "101353022",
@@ -45732,7 +45688,51 @@
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201019",
+    "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201013",
+    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201012",
+    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   }
 ]
