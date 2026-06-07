@@ -32264,10 +32264,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
@@ -44236,10 +44232,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200452004",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
   },
@@ -45596,10 +45588,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
@@ -45734,5 +45722,17 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
