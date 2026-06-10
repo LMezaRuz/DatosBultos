@@ -30204,10 +30204,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101009044",
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CHOCOLATE 18X200"
   },
@@ -36128,10 +36124,6 @@
     "ItemName": "ENELDO EN SOBRE 1x8 g."
   },
   {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
-  },
-  {
     "ItemCode": "300152008",
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
@@ -38556,10 +38548,6 @@
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
-    "ItemCode": "200302001",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "100653008",
     "ItemName": "FRUTILLAS AL JUGO 1X3 KG."
   },
@@ -39330,10 +39318,6 @@
   {
     "ItemCode": "100854011",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "600002003",
@@ -40296,10 +40280,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
@@ -40482,10 +40462,6 @@
   {
     "ItemCode": "202730004",
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "100304011",
@@ -42926,10 +42902,6 @@
   {
     "ItemCode": "200303006",
     "ItemName": "MERLUZA AUSTRAL FILETE (AUSTRALIS) C/P S/E 1X10 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "304440005",
@@ -45436,10 +45408,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "102670003",
     "ItemName": "MEZCLA EN POLVO DE CREPES SABOR VAINILLA 6X2,27 KG"
   },
@@ -45742,5 +45710,37 @@
   {
     "ItemCode": "102780003",
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200302001",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   }
 ]
