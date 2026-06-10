@@ -26492,10 +26492,6 @@
     "ItemName": "TORTA BIZCOCHO CHOCOLATE INTENSO 2X10 POR."
   },
   {
-    "ItemCode": "102670003",
-    "ItemName": "MEZCLA EN POLVO DE CREPES SABOR VAINILLA 6X2,27 KG"
-  },
-  {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
@@ -28404,10 +28400,6 @@
     "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "104290005",
     "ItemName": "CREMA TOMATE WASIL 16X380 G"
   },
@@ -28626,10 +28618,6 @@
   {
     "ItemCode": "102600000",
     "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "200500053",
@@ -36732,10 +36720,6 @@
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
   {
-    "ItemCode": "400005007",
-    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -40362,10 +40346,6 @@
   {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
-    "ItemCode": "100751004",
-    "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
     "ItemCode": "304450017",
@@ -44132,10 +44112,6 @@
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   },
   {
-    "ItemCode": "202730009",
-    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
     "ItemCode": "202730072",
     "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
   },
@@ -45732,15 +45708,39 @@
     "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "104670006",
-    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
   },
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100751004",
+    "ItemName": "MERMELADA DE MORA 1X250 GR"
+  },
+  {
+    "ItemCode": "400005007",
+    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
+  },
+  {
+    "ItemCode": "104670006",
+    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
+  },
+  {
+    "ItemCode": "202730009",
+    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "102670003",
+    "ItemName": "MEZCLA EN POLVO DE CREPES SABOR VAINILLA 6X2,27 KG"
   }
 ]
