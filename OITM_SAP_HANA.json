@@ -27840,10 +27840,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X1 UN"
   },
   {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
     "ItemCode": "204530010",
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
@@ -28118,10 +28114,6 @@
   {
     "ItemCode": "204530018",
     "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "204530031",
-    "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
   },
   {
     "ItemCode": "200002012",
@@ -38988,10 +38980,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "400003002",
     "ItemName": "DESODORANTE WC FLORAL 1X40 GR"
   },
@@ -40180,10 +40168,6 @@
     "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
@@ -40642,10 +40626,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "101001004",
@@ -43820,10 +43800,6 @@
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "100355006",
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
@@ -44542,10 +44518,6 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
     "ItemCode": "300353067",
@@ -45742,5 +45714,33 @@
   {
     "ItemCode": "102670003",
     "ItemName": "MEZCLA EN POLVO DE CREPES SABOR VAINILLA 6X2,27 KG"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "204530031",
+    "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   }
 ]
