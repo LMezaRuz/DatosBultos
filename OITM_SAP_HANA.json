@@ -27920,10 +27920,6 @@
     "ItemName": "CAFE KIMBO EN GRANO ESPRESSO CLASSICO 6X1 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "202730069",
     "ItemName": "MINI TROPEZIENNE 48X32 GR"
   },
@@ -28510,10 +28506,6 @@
   {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
     "ItemCode": "101350004",
@@ -31098,10 +31090,6 @@
   {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
-  },
-  {
-    "ItemCode": "202730078",
-    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   },
   {
     "ItemCode": "204380002",
@@ -39204,10 +39192,6 @@
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
-    "ItemCode": "202730072",
-    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
     "ItemCode": "100653004",
     "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
   },
@@ -42820,10 +42804,6 @@
     "ItemName": "JAMON SANDWICH PIEZA 1x1 kg"
   },
   {
-    "ItemCode": "200201003",
-    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
-  },
-  {
     "ItemCode": "100751047",
     "ItemName": "MERMELADA DE DAMASCO PORCION 192X20 GR."
   },
@@ -44764,10 +44744,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "204090005",
     "ItemName": "CARNE DE CENTOLLA NAC 10X500 GR"
   },
@@ -44982,10 +44958,6 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "300001002",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
     "ItemCode": "200051023",
@@ -45750,5 +45722,33 @@
   {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "200201003",
+    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "300001002",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "202730078",
+    "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
+  },
+  {
+    "ItemCode": "202730072",
+    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
   }
 ]
