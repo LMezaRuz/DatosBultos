@@ -29452,10 +29452,6 @@
     "ItemName": "PUNTA PALETA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "202730082",
-    "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
-  },
-  {
     "ItemCode": "304760355",
     "ItemName": "GANSO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
   },
@@ -30530,10 +30526,6 @@
   {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
   {
     "ItemCode": "202720032",
@@ -31684,10 +31676,6 @@
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
   {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
     "ItemCode": "204140018",
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
   },
@@ -32248,10 +32236,6 @@
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
-    "ItemCode": "202730072",
-    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
@@ -32618,10 +32602,6 @@
   {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
-    "ItemCode": "202730009",
-    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   },
   {
     "ItemCode": "103910034",
@@ -40548,10 +40528,6 @@
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
   },
@@ -40562,10 +40538,6 @@
   {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100303007",
@@ -43768,10 +43740,6 @@
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
   {
-    "ItemCode": "200201002",
-    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
-  },
-  {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
@@ -43862,10 +43830,6 @@
   {
     "ItemCode": "400250007",
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
-  },
-  {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
   {
     "ItemCode": "200203007",
@@ -44346,10 +44310,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
     "ItemCode": "200307003",
@@ -44870,10 +44830,6 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100050007",
@@ -45778,5 +45734,49 @@
   {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "202730072",
+    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
+  },
+  {
+    "ItemCode": "202730009",
+    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
+  },
+  {
+    "ItemCode": "202730082",
+    "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "200201002",
+    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   }
 ]
