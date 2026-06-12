@@ -31852,10 +31852,6 @@
     "ItemName": "MARGARINA CALO 12X450"
   },
   {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
-  },
-  {
     "ItemCode": "103440000",
     "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
   },
@@ -32212,16 +32208,8 @@
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
-    "ItemCode": "204300045",
-    "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
   },
   {
     "ItemCode": "102480002",
@@ -32558,10 +32546,6 @@
   {
     "ItemCode": "304340004",
     "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
-  },
-  {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "304850023",
@@ -36688,10 +36672,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CHOCOLATE 18X200"
   },
   {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "103910048",
     "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
   },
@@ -36702,10 +36682,6 @@
   {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910032",
@@ -45724,6 +45700,10 @@
     "ItemName": "CHULETA CERDO KG (NV)"
   },
   {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
     "ItemCode": "300157049",
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
@@ -45776,7 +45756,27 @@
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "204300045",
+    "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   }
 ]
