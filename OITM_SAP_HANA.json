@@ -32048,10 +32048,6 @@
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
   },
@@ -32706,14 +32702,6 @@
   {
     "ItemCode": "103910051",
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "102840015",
@@ -36518,10 +36506,6 @@
   {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
-  },
-  {
-    "ItemCode": "300157049",
-    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
     "ItemCode": "300353069",
@@ -40548,10 +40532,6 @@
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
   {
-    "ItemCode": "300157044",
-    "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
-  },
-  {
     "ItemCode": "100751024",
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
   },
@@ -40724,18 +40704,6 @@
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
-    "ItemCode": "300157047",
-    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
-  },
-  {
-    "ItemCode": "300157045",
-    "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
-  },
-  {
-    "ItemCode": "300157046",
-    "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
-  },
-  {
     "ItemCode": "100304035",
     "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
@@ -40760,10 +40728,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -40776,28 +40740,8 @@
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
   {
-    "ItemCode": "300157040",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157041",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "300152003",
@@ -45778,5 +45722,61 @@
   {
     "ItemCode": "300352001",
     "ItemName": "CHULETA CERDO KG (NV)"
+  },
+  {
+    "ItemCode": "300157049",
+    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157047",
+    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157045",
+    "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157044",
+    "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157046",
+    "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157040",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157041",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   }
 ]
