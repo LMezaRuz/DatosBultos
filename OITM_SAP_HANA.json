@@ -43384,10 +43384,6 @@
     "ItemName": "MARGARINA SURENA LIGHT POTE 12X450 GR"
   },
   {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
     "ItemCode": "103010010",
     "ItemName": "COBERTURA CHOCOLATE DE LECHE SICAO 1X10 KG"
   },
@@ -44876,10 +44872,6 @@
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "202730009",
-    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
     "ItemCode": "100200004",
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
@@ -45468,10 +45460,6 @@
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -45494,10 +45482,6 @@
   {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "101009031",
@@ -45680,20 +45664,12 @@
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "204790005",
@@ -45752,10 +45728,6 @@
     "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "100903004",
     "ItemName": "HARINA TOSTADA 20X1 KG"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "202730009",
+    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   }
 ]
