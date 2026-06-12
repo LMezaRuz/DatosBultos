@@ -29528,10 +29528,6 @@
     "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
   },
   {
-    "ItemCode": "104210011",
-    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "304760248",
     "ItemName": "PUNTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -43400,10 +43396,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -45072,10 +45064,6 @@
     "ItemName": "SALSA BASE CHILIS 4X3,97 KG"
   },
   {
-    "ItemCode": "100351017",
-    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -45496,10 +45484,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "304760434",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
@@ -45534,10 +45518,6 @@
   {
     "ItemCode": "100303002",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "300353004",
-    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
   {
     "ItemCode": "203200029",
@@ -45750,5 +45730,25 @@
   {
     "ItemCode": "304760361",
     "ItemName": "LOMO LISO AL VACIO CAT-V IMP.BRASIL FRIGARI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100351017",
+    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
+  },
+  {
+    "ItemCode": "104210011",
+    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "304760434",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300353004",
+    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   }
 ]
