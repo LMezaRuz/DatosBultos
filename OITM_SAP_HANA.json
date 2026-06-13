@@ -29980,10 +29980,6 @@
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
@@ -32142,10 +32138,6 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "104670005",
@@ -39332,10 +39324,6 @@
     "ItemName": "YOGURT LIGHT DURAZNO SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "101201032",
-    "ItemName": "CREMELL TIRAMISU TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
@@ -40200,16 +40188,8 @@
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
   {
-    "ItemCode": "101201022",
-    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
     "ItemCode": "101201037",
@@ -40222,10 +40202,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201028",
-    "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
     "ItemCode": "100700003",
@@ -42948,10 +42924,6 @@
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
     "ItemCode": "400102002",
     "ItemName": "PALOS PARA SUSHI 1X100 UN."
   },
@@ -43222,10 +43194,6 @@
   {
     "ItemCode": "200201018",
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "101452002",
@@ -44050,10 +44018,6 @@
   {
     "ItemCode": "100150002",
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "100101004",
@@ -44904,14 +44868,6 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -44974,10 +44930,6 @@
   {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "202820018",
@@ -45116,10 +45068,6 @@
     "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA CONG. 16X500 GR"
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
@@ -45210,10 +45158,6 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
     "ItemCode": "400011016",
@@ -45778,5 +45722,61 @@
   {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201028",
+    "ItemName": "LECHE ASADA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201032",
+    "ItemName": "CREMELL TIRAMISU TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201022",
+    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   }
 ]
