@@ -31104,10 +31104,6 @@
     "ItemName": "MOLLEJAS DE VACUNO CONG. (9 KG APROX)"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "200460051",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
@@ -39564,10 +39560,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "600002031",
     "ItemName": "PIMIENTO MORRÓN VERDE KG."
   },
@@ -39598,10 +39590,6 @@
   {
     "ItemCode": "600002019",
     "ItemName": "TOMATE KG."
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "100700007",
@@ -39770,10 +39758,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "100550008",
-    "ItemName": "MERKEN 1X1 KG"
   },
   {
     "ItemCode": "101355010",
@@ -43700,10 +43684,6 @@
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -43998,10 +43978,6 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "100751026",
@@ -45040,10 +45016,6 @@
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
@@ -45098,10 +45070,6 @@
   {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
-  },
-  {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
     "ItemCode": "101354007",
@@ -45196,10 +45164,6 @@
     "ItemName": "SALSA DE CARAMELO 1X1 LT."
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -45222,10 +45186,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "400001008",
@@ -45394,10 +45354,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100905002",
@@ -45778,5 +45734,49 @@
   {
     "ItemCode": "300351006",
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100550008",
+    "ItemName": "MERKEN 1X1 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
