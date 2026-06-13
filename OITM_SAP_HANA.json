@@ -31212,10 +31212,6 @@
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "204180022",
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
@@ -36308,10 +36304,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "101400005",
-    "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
-  },
-  {
     "ItemCode": "100950002",
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
   },
@@ -40276,10 +40268,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
@@ -42710,10 +42698,6 @@
   {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
-  },
-  {
-    "ItemCode": "300154006",
-    "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
   {
     "ItemCode": "100351007",
@@ -45778,5 +45762,21 @@
   {
     "ItemCode": "102710015",
     "ItemName": "BEBIDA VEGETAL SOYA LONCOLECHE 6X1 LT"
+  },
+  {
+    "ItemCode": "300154006",
+    "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "101400005",
+    "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   }
 ]
