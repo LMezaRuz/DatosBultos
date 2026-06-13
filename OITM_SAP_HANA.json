@@ -43660,10 +43660,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
@@ -44708,14 +44704,6 @@
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -44786,10 +44774,6 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
-    "ItemCode": "104600004",
-    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
     "ItemCode": "104210000",
@@ -45778,5 +45762,21 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "104600004",
+    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   }
 ]
