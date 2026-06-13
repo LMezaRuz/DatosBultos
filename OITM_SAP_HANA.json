@@ -30144,10 +30144,6 @@
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
   {
-    "ItemCode": "101007032",
-    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -31770,10 +31766,6 @@
   {
     "ItemCode": "300157046",
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "300154031",
@@ -35856,10 +35848,6 @@
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
   },
   {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
     "ItemCode": "101002010",
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
   },
@@ -35906,10 +35894,6 @@
   {
     "ItemCode": "100900009",
     "ItemName": "PAPA NATURAL SACO 1X25 KG"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "200100005",
@@ -39532,10 +39516,6 @@
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
   },
@@ -40458,10 +40438,6 @@
   {
     "ItemCode": "200456009",
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
     "ItemCode": "300400010",
@@ -43180,10 +43156,6 @@
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100750004",
-    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
-  },
-  {
     "ItemCode": "100800002",
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
@@ -43932,10 +43904,6 @@
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
   },
@@ -44074,10 +44042,6 @@
   {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "100353006",
@@ -44224,10 +44188,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
@@ -44354,10 +44314,6 @@
   {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "101001005",
@@ -44618,14 +44574,6 @@
   {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
     "ItemCode": "900621403",
@@ -45428,10 +45376,6 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45554,10 +45498,6 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "100553001",
@@ -45778,5 +45718,65 @@
   {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "100750004",
+    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101007032",
+    "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   }
 ]
