@@ -31360,10 +31360,6 @@
     "ItemName": "CUBOS DE PECHUGA EMPANIZADOS 8 BOLSAS X 5 LB"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "203510010",
     "ItemName": "HAMBURGUESA CHUCK ROLL 69X220 GR"
   },
@@ -40060,10 +40056,6 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200302009",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "300353063",
     "ItemName": "GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -43352,10 +43344,6 @@
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200458004",
     "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
@@ -43808,20 +43796,12 @@
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
-    "ItemCode": "300350003",
-    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "100303002",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
   },
   {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
     "ItemCode": "302890007",
@@ -44976,10 +44956,6 @@
     "ItemName": "SAL BIOSAL 30 X 125 GR"
   },
   {
-    "ItemCode": "300405007",
-    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
-  },
-  {
     "ItemCode": "200308004",
     "ItemName": "PAILA MARINA NAC 20X500 GR"
   },
@@ -45400,10 +45376,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "204530013",
     "ItemName": "PORCION SALMON ATLANTICO CON PIEL CAJA  5 KG APROX  (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "200302009",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "300350003",
+    "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "300405007",
+    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   }
 ]
