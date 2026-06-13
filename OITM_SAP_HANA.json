@@ -39152,10 +39152,6 @@
     "ItemName": "TAMPER 58 MM PARA PISAR CAFÉ"
   },
   {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
     "ItemCode": "101150048",
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
@@ -40166,10 +40162,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101007022",
@@ -43172,10 +43164,6 @@
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100300008",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
@@ -43842,10 +43830,6 @@
   {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
-  },
-  {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "400010023",
@@ -44660,10 +44644,6 @@
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100902004",
     "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
   },
@@ -45052,10 +45032,6 @@
     "ItemName": "HABAS 15X1 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
@@ -45080,10 +45056,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -45106,10 +45078,6 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100902003",
@@ -45338,10 +45306,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "300153004",
@@ -45648,10 +45612,6 @@
     "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
@@ -45716,10 +45676,6 @@
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
   },
@@ -45748,10 +45704,6 @@
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -45778,5 +45730,53 @@
   {
     "ItemCode": "203210121",
     "ItemName": "CHURRASCO DE VACUNO 20X200 GR (FRIOFOOD)"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
