@@ -32428,10 +32428,6 @@
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
-    "ItemCode": "101007018",
-    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
-  },
-  {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
@@ -43172,10 +43168,6 @@
     "ItemName": "JAMON SANDWICH PIEZA 1x1 kg"
   },
   {
-    "ItemCode": "100750008",
-    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
@@ -43398,10 +43390,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "400102002",
@@ -44370,10 +44358,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "100303005",
@@ -45752,10 +45736,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -45778,5 +45758,25 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "100750008",
+    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101007018",
+    "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   }
 ]
