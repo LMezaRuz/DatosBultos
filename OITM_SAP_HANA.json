@@ -30940,10 +30940,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
   },
   {
-    "ItemCode": "202730026",
-    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
-  },
-  {
     "ItemCode": "202730003",
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
@@ -32514,10 +32510,6 @@
   {
     "ItemCode": "103910051",
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "200200022",
@@ -42928,10 +42920,6 @@
     "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "100355003",
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
@@ -43426,10 +43414,6 @@
   {
     "ItemCode": "400250007",
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "200203007",
@@ -44248,10 +44232,6 @@
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
@@ -44318,10 +44298,6 @@
   {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
     "ItemCode": "101358007",
@@ -45252,10 +45228,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "202730016",
     "ItemName": "MINI REJILLA DE MAPLE PECAN 96X40 GR  (47917)"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "202730026",
+    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   }
 ]
