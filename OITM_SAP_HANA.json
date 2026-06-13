@@ -29268,10 +29268,6 @@
     "ItemName": "QUESO GOUDA MOLFINO BARRA NACIONAL PIEZA X KG (3,75 APROX)"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "103480031",
     "ItemName": "GALLETA BISCOFF LOTUS DULCE 12X124 GR"
   },
@@ -31364,10 +31360,6 @@
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "202730045",
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
@@ -31410,10 +31402,6 @@
   {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
-    "ItemCode": "104040000",
-    "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
   },
   {
     "ItemCode": "103940026",
@@ -40208,10 +40196,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "300353068",
     "ItemName": "PLATEADA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -40426,10 +40410,6 @@
   {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "104560008",
-    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
   },
   {
     "ItemCode": "101201037",
@@ -45778,5 +45758,25 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "104560008",
+    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "104040000",
+    "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
   }
 ]
