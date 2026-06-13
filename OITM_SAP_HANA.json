@@ -29796,10 +29796,6 @@
     "ItemName": "CHIPS DE CHOCOLATE SICAO SEMI AMARGO 20 KG (ILD-DR-7174600-A14)"
   },
   {
-    "ItemCode": "200500062",
-    "ItemName": "PURE DE PALTA 8X500 G."
-  },
-  {
     "ItemCode": "203210023",
     "ItemName": "CHURRASCO DE FILETE 5X1.04 KG MM (CAJA 5.2 KG)"
   },
@@ -39248,10 +39244,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "100600001",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
     "ItemCode": "300001003",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
@@ -39466,10 +39458,6 @@
   {
     "ItemCode": "101452006",
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "101100024",
-    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
   {
     "ItemCode": "100852009",
@@ -39838,10 +39826,6 @@
   {
     "ItemCode": "300353058",
     "ItemName": "ASADO CARNICERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "200250011",
@@ -43692,10 +43676,6 @@
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
@@ -43876,10 +43856,6 @@
     "ItemName": "CAFIZA 1 X 1 UN"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
@@ -43986,10 +43962,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "900621403",
@@ -44816,10 +44788,6 @@
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -45260,10 +45228,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
@@ -45644,10 +45608,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
@@ -45684,10 +45644,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -45714,10 +45670,6 @@
   {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101351003",
@@ -45772,11 +45724,59 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200500062",
+    "ItemName": "PURE DE PALTA 8X500 G."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100600001",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101100024",
+    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   }
 ]
