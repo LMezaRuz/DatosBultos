@@ -30520,10 +30520,6 @@
     "ItemName": "MANGO KG."
   },
   {
-    "ItemCode": "203200033",
-    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
-  },
-  {
     "ItemCode": "203200038",
     "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
   },
@@ -31436,10 +31432,6 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "203210126",
-    "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
-  },
-  {
     "ItemCode": "303840001",
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
@@ -32312,10 +32304,6 @@
     "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "202910014",
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
@@ -32478,10 +32466,6 @@
   {
     "ItemCode": "103910061",
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
     "ItemCode": "101300002",
@@ -35834,10 +35818,6 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
     "ItemCode": "600001004",
@@ -39624,16 +39604,8 @@
     "ItemName": "GALLETA DE VINO 1X160 GR."
   },
   {
-    "ItemCode": "100750003",
-    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "600002019",
     "ItemName": "TOMATE KG."
-  },
-  {
-    "ItemCode": "300351016",
-    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
     "ItemCode": "100700007",
@@ -43408,10 +43380,6 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "300351031",
-    "ItemName": "CHORICILLO PF 1X1 KG."
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -43658,10 +43626,6 @@
   {
     "ItemCode": "100751006",
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "400011010",
@@ -44278,10 +44242,6 @@
   {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "100150002",
@@ -45216,10 +45176,6 @@
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "204300021",
-    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
     "ItemCode": "204090001",
     "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
   },
@@ -45314,10 +45270,6 @@
   {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "200455011",
@@ -45542,10 +45494,6 @@
   {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "100101001",
@@ -45778,5 +45726,57 @@
   {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "204300021",
+    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
+  },
+  {
+    "ItemCode": "203200033",
+    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
+  },
+  {
+    "ItemCode": "300351016",
+    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
+  },
+  {
+    "ItemCode": "203210126",
+    "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
+  },
+  {
+    "ItemCode": "300351031",
+    "ItemName": "CHORICILLO PF 1X1 KG."
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "100750003",
+    "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
   }
 ]
