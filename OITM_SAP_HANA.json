@@ -28120,10 +28120,6 @@
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
   },
   {
-    "ItemCode": "204050012",
-    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "204300072",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA ADOBADA 10X2 KG"
   },
@@ -30840,10 +30836,6 @@
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
   {
-    "ItemCode": "204170000",
-    "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
-  },
-  {
     "ItemCode": "203210106",
     "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
   },
@@ -31514,10 +31506,6 @@
   {
     "ItemCode": "103650022",
     "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "104560008",
-    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
   },
   {
     "ItemCode": "101100055",
@@ -39220,10 +39208,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
-  },
-  {
     "ItemCode": "100558003",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
@@ -39966,10 +39950,6 @@
   {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
     "ItemCode": "101353026",
@@ -43428,14 +43408,6 @@
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
   {
-    "ItemCode": "300156008",
-    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "300156010",
-    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "300158002",
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
@@ -43604,10 +43576,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "204310005",
     "ItemName": "TIRAMISU 6X700 GR"
   },
@@ -43634,10 +43602,6 @@
   {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
-    "ItemCode": "100555004",
-    "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
   {
     "ItemCode": "200303014",
@@ -44748,10 +44712,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "202730073",
-    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
     "ItemCode": "101150083",
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
@@ -44950,10 +44910,6 @@
   {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
-    "ItemCode": "104190000",
-    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
   {
     "ItemCode": "404600005",
@@ -45632,20 +45588,12 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "203210108",
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "300157010",
@@ -45666,10 +45614,6 @@
   {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101350004",
@@ -45778,5 +45722,61 @@
   {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "300156008",
+    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156010",
+    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "202730073",
+    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
+  },
+  {
+    "ItemCode": "204050012",
+    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "204170000",
+    "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "100555004",
+    "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104560008",
+    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "104190000",
+    "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   }
 ]
