@@ -28508,10 +28508,6 @@
     "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
   {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
-  },
-  {
     "ItemCode": "304430011",
     "ItemName": "QUESO CREMA HUILCO 36X190 GR"
   },
@@ -31096,10 +31092,6 @@
     "ItemName": "MOLLEJAS DE VACUNO CONG. (9 KG APROX)"
   },
   {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "203190023",
     "ItemName": "MEDALLON DE PULPA MARINADA 18 KG (APROX)"
   },
@@ -31570,10 +31562,6 @@
   {
     "ItemCode": "202730020",
     "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
-  },
-  {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
     "ItemCode": "303680000",
@@ -36014,10 +36002,6 @@
   {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "100001001",
-    "ItemName": "ACEITE DE OLIVA 300X8CC"
   },
   {
     "ItemCode": "100002009",
@@ -45200,10 +45184,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -45778,5 +45758,25 @@
   {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
+  },
+  {
+    "ItemCode": "100001001",
+    "ItemName": "ACEITE DE OLIVA 300X8CC"
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   }
 ]
