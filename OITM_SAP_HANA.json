@@ -28224,10 +28224,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "102560022",
-    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
-  },
-  {
     "ItemCode": "204180012",
     "ItemName": "PAPAS PRE FRITAS 12 MM FARM FRITES 5X2,5 KG."
   },
@@ -31478,10 +31474,6 @@
   {
     "ItemCode": "103250008",
     "ItemName": "MANTEL ANTIGRASA BCH 35 X 35 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "304410001",
-    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
     "ItemCode": "203210102",
@@ -42780,10 +42772,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "100351014",
-    "ItemName": "CAFE CORONADO 24X170 GR"
-  },
-  {
     "ItemCode": "204180032",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
   },
@@ -42844,10 +42832,6 @@
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -42858,10 +42842,6 @@
   {
     "ItemCode": "100651008",
     "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "100003003",
@@ -43054,10 +43034,6 @@
   {
     "ItemCode": "304760108",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "101008001",
@@ -44452,10 +44428,6 @@
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
@@ -45140,10 +45112,6 @@
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -45324,10 +45292,6 @@
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -45346,10 +45310,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "101150047",
@@ -45536,10 +45496,6 @@
     "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "203430016",
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
@@ -45688,10 +45644,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
@@ -45778,5 +45730,53 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "102560022",
+    "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
+  },
+  {
+    "ItemCode": "304410001",
+    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100351014",
+    "ItemName": "CAFE CORONADO 24X170 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   }
 ]
