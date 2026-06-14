@@ -30860,10 +30860,6 @@
     "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
   },
   {
-    "ItemCode": "400301101",
-    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
@@ -36138,10 +36134,6 @@
   {
     "ItemCode": "100302014",
     "ItemName": "SPRITE ZERO 6X1,5 LT"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "101150047",
@@ -43156,10 +43148,6 @@
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
   },
@@ -45096,14 +45084,6 @@
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -45778,5 +45758,25 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "400301101",
+    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
