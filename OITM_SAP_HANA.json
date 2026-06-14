@@ -31544,10 +31544,6 @@
     "ItemName": "COSTILLAR DE CERDO ALEMAN LOCAL 10 KG APROX."
   },
   {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
     "ItemCode": "103830005",
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
@@ -42884,10 +42880,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "104010055",
-    "ItemName": "SALSA TERIYAKI 12X250 GR"
-  },
-  {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
@@ -43852,14 +43844,6 @@
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
-  },
-  {
     "ItemCode": "101358012",
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
@@ -44398,10 +44382,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "100202015",
@@ -44950,10 +44930,6 @@
   {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
     "ItemCode": "101003001",
@@ -45528,10 +45504,6 @@
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
@@ -45700,10 +45672,6 @@
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "102560022",
     "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
   },
@@ -45778,5 +45746,37 @@
   {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "104010055",
+    "ItemName": "SALSA TERIYAKI 12X250 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   }
 ]
