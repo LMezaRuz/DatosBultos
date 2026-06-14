@@ -25840,10 +25840,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104070012",
-    "ItemName": "PICKLE MAIFRE 10X1 KG"
-  },
-  {
     "ItemCode": "304760307",
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -27450,10 +27446,6 @@
   {
     "ItemCode": "304000000",
     "ItemName": "COGOTE VACUNO REFRIGERADO KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "600002041",
@@ -35816,10 +35808,6 @@
     "ItemName": "ESPONJA MAGO PADS S/JABON X 1 UN"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "200100038",
     "ItemName": "HELADO PUDU AVELLANAS 1X5 LT"
   },
@@ -39104,10 +39092,6 @@
     "ItemName": "TIKA CHILOE  48 UN X 35 GRS"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101009008",
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
   },
@@ -40212,10 +40196,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "100600002",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -40406,10 +40386,6 @@
   {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
   {
     "ItemCode": "101007010",
@@ -43188,10 +43164,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -43484,10 +43456,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -43550,10 +43518,6 @@
   {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
     "ItemCode": "100351016",
@@ -45778,5 +45742,41 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "104070012",
+    "ItemName": "PICKLE MAIFRE 10X1 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
   }
 ]
