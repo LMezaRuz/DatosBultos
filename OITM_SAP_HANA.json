@@ -27388,10 +27388,6 @@
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "204530014",
     "ItemName": "SALMON ATLAN. TROZADO S/PIEL STAN. 6 KG (APROX)(CAMANCHACA)"
   },
@@ -31880,10 +31876,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -32114,10 +32106,6 @@
   {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
-  },
-  {
-    "ItemCode": "103200000",
-    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
   {
     "ItemCode": "304460007",
@@ -32354,10 +32342,6 @@
   {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "100304048",
-    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "103910051",
@@ -36382,10 +36366,6 @@
   {
     "ItemCode": "304760436",
     "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101201014",
-    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "600002009",
@@ -44576,10 +44556,6 @@
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
   },
@@ -44960,10 +44936,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
@@ -45198,10 +45170,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100304009",
@@ -45778,5 +45746,37 @@
   {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304048",
+    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "101201014",
+    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "103200000",
+    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   }
 ]
