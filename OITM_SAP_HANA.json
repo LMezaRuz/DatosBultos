@@ -30868,10 +30868,6 @@
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "103250002",
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
@@ -35546,10 +35542,6 @@
   {
     "ItemCode": "104560008",
     "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
     "ItemCode": "101150043",
@@ -42516,10 +42508,6 @@
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
   },
   {
-    "ItemCode": "200201018",
-    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -44420,10 +44408,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "100355015",
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
@@ -45144,16 +45128,8 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "204300056",
@@ -45340,14 +45316,6 @@
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "204300076",
     "ItemName": "NUGGET DE POLLO SADIA 15X400 GR"
   },
@@ -45426,14 +45394,6 @@
   {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "400301077",
@@ -45716,10 +45676,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
@@ -45776,7 +45732,51 @@
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
   {
+    "ItemCode": "200201018",
+    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
+  },
+  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
