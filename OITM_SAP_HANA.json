@@ -41852,10 +41852,6 @@
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS 1 X 1,6 LT"
   },
   {
-    "ItemCode": "100300012",
-    "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
-  },
-  {
     "ItemCode": "100300013",
     "ItemName": "AGUA MINERAL CON GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
@@ -42802,10 +42798,6 @@
   {
     "ItemCode": "200201007",
     "ItemName": "TRENZA DE CHOCOLATE BRIDOR 70X90 GR"
-  },
-  {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
     "ItemCode": "400250003",
@@ -45104,10 +45096,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
@@ -45338,10 +45326,6 @@
   {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "400001001",
@@ -45778,5 +45762,21 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100300012",
+    "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   }
 ]
