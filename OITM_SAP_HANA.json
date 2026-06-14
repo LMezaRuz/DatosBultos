@@ -29412,10 +29412,6 @@
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "103520006",
     "ItemName": "HARINA PANIFICACION REFORZADA YANINE 1 X 25 KG"
   },
@@ -31822,10 +31818,6 @@
   {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
     "ItemCode": "304760251",
@@ -35842,10 +35834,6 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
-    "ItemCode": "300405007",
-    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
   {
     "ItemCode": "200305016",
@@ -44252,10 +44240,6 @@
     "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
   },
   {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -45172,10 +45156,6 @@
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -45214,10 +45194,6 @@
   {
     "ItemCode": "101150041",
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "101150015",
@@ -45294,10 +45270,6 @@
   {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "102790002",
@@ -45556,10 +45528,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "403250022",
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
@@ -45590,10 +45558,6 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "103850000",
@@ -45748,10 +45712,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -45778,5 +45738,45 @@
   {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "300405007",
+    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   }
 ]
