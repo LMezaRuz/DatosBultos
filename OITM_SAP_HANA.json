@@ -40132,10 +40132,6 @@
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "203210121",
     "ItemName": "CHURRASCO DE VACUNO 20X200 GR (FRIOFOOD)"
   },
@@ -40686,10 +40682,6 @@
   {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "204050012",
@@ -45778,5 +45770,13 @@
   {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
