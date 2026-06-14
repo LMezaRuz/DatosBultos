@@ -44756,10 +44756,6 @@
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -44966,14 +44962,6 @@
   {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "300404023",
@@ -45256,10 +45244,6 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
@@ -45416,10 +45400,6 @@
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
@@ -45454,10 +45434,6 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "300400008",
@@ -45566,10 +45542,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100304048",
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
   }
 ]
