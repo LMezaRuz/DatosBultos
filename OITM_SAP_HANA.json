@@ -39620,10 +39620,6 @@
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "200051001",
     "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
   },
@@ -45076,10 +45072,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -45344,10 +45336,6 @@
     "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -45536,10 +45524,6 @@
     "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -45594,10 +45578,6 @@
   {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101351003",
@@ -45778,5 +45758,25 @@
   {
     "ItemCode": "304760247",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
