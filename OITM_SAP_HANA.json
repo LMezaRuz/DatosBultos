@@ -30380,10 +30380,6 @@
     "ItemName": "MANGO KG."
   },
   {
-    "ItemCode": "204090002",
-    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
-  },
-  {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
@@ -30398,10 +30394,6 @@
   {
     "ItemCode": "203210063",
     "ItemName": "FILETE DE VACUNO PORCIONADO 4X250 GR (5 KG) MM"
-  },
-  {
-    "ItemCode": "203210107",
-    "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
     "ItemCode": "304760109",
@@ -31716,10 +31708,6 @@
     "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -32114,10 +32102,6 @@
   {
     "ItemCode": "103910061",
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "200304001",
@@ -44952,10 +44936,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -45194,10 +45174,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "202730056",
@@ -45628,10 +45604,6 @@
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "200456009",
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "204090002",
+    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "203210107",
+    "ItemName": "SMASH BURGER 35X150 GR"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
