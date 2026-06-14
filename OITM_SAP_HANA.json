@@ -30408,10 +30408,6 @@
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "203430016",
-    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "203430017",
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
   },
@@ -42012,10 +42008,6 @@
     "ItemName": "JABON LIQUIDO PREMIUM SUAVE 1000 ML."
   },
   {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "400007010",
     "ItemName": "JABON LIQUIDO 6X1000 ML  JA70005"
   },
@@ -44100,10 +44092,6 @@
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "102930006",
     "ItemName": "CEREAL CHOCAPIC 18X330 GR"
   },
@@ -44860,10 +44848,6 @@
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
@@ -44986,10 +44970,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "203210014",
@@ -45612,10 +45592,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101150041",
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
@@ -45778,5 +45754,29 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "203430016",
+    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   }
 ]
