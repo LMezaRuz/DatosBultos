@@ -28280,10 +28280,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "204300058",
     "ItemName": "FILETILLO DE POLLO CONG. LOCAL 12 BOLSAS X 1 KG"
   },
@@ -31684,10 +31680,6 @@
     "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
@@ -31806,10 +31798,6 @@
   {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "400005012",
@@ -31970,10 +31958,6 @@
   {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
     "ItemCode": "200100097",
@@ -44144,10 +44128,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "200250044",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG (NAC)"
   },
@@ -44844,10 +44824,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -44862,10 +44838,6 @@
   {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "100201012",
@@ -45778,5 +45750,33 @@
   {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
   }
 ]
