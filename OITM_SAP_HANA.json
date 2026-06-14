@@ -27544,10 +27544,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) X - MAYOR"
   },
   {
-    "ItemCode": "100202014",
-    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
-  },
-  {
     "ItemCode": "304760290",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL GOLD BEEF 20 KG (APROX)"
   },
@@ -31620,10 +31616,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "203210102",
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
@@ -31746,10 +31738,6 @@
   {
     "ItemCode": "203190036",
     "ItemName": "LOMO CENTRO PORCIONADO IQF S/C MP 17 KG APROX"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "204000009",
@@ -42676,10 +42664,6 @@
     "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "400003001",
-    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
-  },
-  {
     "ItemCode": "300351023",
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
@@ -42986,10 +42970,6 @@
   {
     "ItemCode": "101002010",
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
-  },
-  {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
     "ItemCode": "101005001",
@@ -43502,10 +43482,6 @@
   {
     "ItemCode": "100851002",
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100250004",
@@ -44656,10 +44632,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -45132,10 +45104,6 @@
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -45182,10 +45150,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "101356002",
@@ -45624,10 +45588,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -45752,10 +45712,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -45778,5 +45734,49 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
+  },
+  {
+    "ItemCode": "400003001",
+    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100202014",
+    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
   }
 ]
