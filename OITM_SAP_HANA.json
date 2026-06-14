@@ -28360,10 +28360,6 @@
     "ItemName": "MOSTAZA HEINZ SQUEEZZE 12X368 GR"
   },
   {
-    "ItemCode": "300404023",
-    "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
-  },
-  {
     "ItemCode": "304760458",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
   },
@@ -30228,10 +30224,6 @@
     "ItemName": "LECHE SEMIDESCREMADA SABOR FRUTILLA LONCOLECHE 6X115 ML"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "103760002",
     "ItemName": "LECHE DE VAINILLA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -30606,10 +30598,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "204180024",
-    "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
   },
   {
     "ItemCode": "204300006",
@@ -39464,10 +39452,6 @@
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101201047",
     "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
@@ -45484,16 +45468,8 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA LATA 6X350 CC."
   },
   {
     "ItemCode": "100302028",
@@ -45778,5 +45754,29 @@
   {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "300404023",
+    "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "204180024",
+    "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
   }
 ]
