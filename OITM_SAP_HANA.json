@@ -28092,10 +28092,6 @@
     "ItemName": "PAVITA SADIA CONGELADA X KG (CAJA 15 KG APROX)"
   },
   {
-    "ItemCode": "103180002",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
-  },
-  {
     "ItemCode": "202720028",
     "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
   },
@@ -28286,10 +28282,6 @@
   {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
-    "ItemCode": "200201032",
-    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
   {
     "ItemCode": "202730088",
@@ -35640,10 +35632,6 @@
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
@@ -40024,10 +40012,6 @@
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -43068,10 +43052,6 @@
     "ItemName": "YOGURT FRAMBUESA BATIDO SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
@@ -44916,10 +44896,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "302890027",
     "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   },
@@ -44998,10 +44974,6 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "400010009",
@@ -45260,10 +45232,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -45488,10 +45456,6 @@
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -45684,10 +45648,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -45778,5 +45738,45 @@
   {
     "ItemCode": "300158002",
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
+  },
+  {
+    "ItemCode": "200201032",
+    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "103180002",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
