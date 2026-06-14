@@ -31664,10 +31664,6 @@
     "ItemName": "MANTEL ANTIGRASA BCH 35 X 35 CM 1 X 1000 UN"
   },
   {
-    "ItemCode": "202620000",
-    "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
     "ItemCode": "304410001",
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
@@ -43468,10 +43464,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "200460018",
-    "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
-  },
-  {
     "ItemCode": "102970003",
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
@@ -43528,16 +43520,8 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "100350001",
@@ -43652,10 +43636,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "100851002",
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
@@ -43678,10 +43658,6 @@
   {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200051006",
-    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "400105001",
@@ -43714,10 +43690,6 @@
   {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
     "ItemCode": "100902002",
@@ -44932,10 +44904,6 @@
     "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -45408,10 +45376,6 @@
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -45724,10 +45688,6 @@
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100356016",
     "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   },
@@ -45742,10 +45702,6 @@
   {
     "ItemCode": "200201032",
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101011001",
@@ -45778,5 +45734,49 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "200460018",
+    "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
+  },
+  {
+    "ItemCode": "200051006",
+    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "202620000",
+    "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   }
 ]
