@@ -44996,10 +44996,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
@@ -45038,10 +45034,6 @@
   {
     "ItemCode": "103600004",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "100201005",
@@ -45760,10 +45752,6 @@
     "ItemName": "ACEITE INDU LA REINA FREIR 4X5LTR"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -45778,5 +45766,17 @@
   {
     "ItemCode": "103240007",
     "ItemName": "ENDULZANTE LIQUIDO ALULOSA ALUSWEET 18X270 ML"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   }
 ]
