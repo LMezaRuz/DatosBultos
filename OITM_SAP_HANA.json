@@ -31268,10 +31268,6 @@
     "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "100250007",
-    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
-  },
-  {
     "ItemCode": "100750004",
     "ItemName": "MANJAR PORCION COLUN 120X20 GR."
   },
@@ -32146,10 +32142,6 @@
   {
     "ItemCode": "101200015",
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
-  },
-  {
-    "ItemCode": "300158002",
-    "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
     "ItemCode": "202990004",
@@ -36044,10 +36036,6 @@
     "ItemName": "ENDULZANTE STEVIA LIQUIDO 1X270 ML"
   },
   {
-    "ItemCode": "304760244",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101351008",
     "ItemName": "AJI EN CREMA PET TRAVERSO 24X350 GR"
   },
@@ -36062,10 +36050,6 @@
   {
     "ItemCode": "200302017",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
-  },
-  {
-    "ItemCode": "304760435",
-    "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "300001007",
@@ -36114,14 +36098,6 @@
   {
     "ItemCode": "100351015",
     "ItemName": "CAFE FINA SELECCION 1X200 GR"
-  },
-  {
-    "ItemCode": "304760436",
-    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760433",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "100355047",
@@ -36186,10 +36162,6 @@
   {
     "ItemCode": "101401008",
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
-  },
-  {
-    "ItemCode": "304760247",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
     "ItemCode": "203190038",
@@ -39558,10 +39530,6 @@
   {
     "ItemCode": "101201048",
     "ItemName": "JALEA PIÑA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "101250002",
@@ -45504,10 +45472,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "304760434",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -45652,10 +45616,6 @@
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -45752,6 +45712,10 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -45776,7 +45740,43 @@
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+    "ItemCode": "300158002",
+    "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
+  },
+  {
+    "ItemCode": "100250007",
+    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "304760244",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "304760435",
+    "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760436",
+    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760433",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760434",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760247",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   }
 ]
