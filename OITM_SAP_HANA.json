@@ -36308,10 +36308,6 @@
     "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   },
   {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -43052,10 +43048,6 @@
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
@@ -44772,10 +44764,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
-  },
-  {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
@@ -44822,10 +44810,6 @@
   {
     "ItemCode": "101100054",
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "103180002",
@@ -44970,10 +44954,6 @@
   {
     "ItemCode": "203230007",
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
     "ItemCode": "202990004",
@@ -45338,10 +45318,6 @@
   {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100801001",
-    "ItemName": "PASAS MORENAS 1X1 KG"
   },
   {
     "ItemCode": "103070007",
@@ -45784,10 +45760,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
   {
-    "ItemCode": "100350004",
-    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
-  },
-  {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
@@ -45798,5 +45770,33 @@
   {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "100350004",
+    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100801001",
+    "ItemName": "PASAS MORENAS 1X1 KG"
   }
 ]
