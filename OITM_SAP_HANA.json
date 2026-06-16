@@ -28248,18 +28248,6 @@
     "ItemName": "LONCO DE VACUNO TRADICION 20 KG"
   },
   {
-    "ItemCode": "203550028",
-    "ItemName": "HELADO VITTORE DULCE DE LECHE CHIPS 6X220 ML."
-  },
-  {
-    "ItemCode": "203550030",
-    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
-  },
-  {
-    "ItemCode": "203550029",
-    "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
-  },
-  {
     "ItemCode": "202820017",
     "ItemName": "CAMARON EC CRUDO PELADO DESVENADO 36/40 10X1KG LOCAL"
   },
@@ -31000,10 +30988,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "204090009",
-    "ItemName": "ALMEJA JULIANA 24X500 GR"
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -32302,10 +32286,6 @@
   {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
     "ItemCode": "304760109",
@@ -39188,10 +39168,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "100700007",
     "ItemName": "CREMA DE TOMATE (REND. 14 LT) TKF 1 X 1 KG"
   },
@@ -39266,10 +39242,6 @@
   {
     "ItemCode": "200305006",
     "ItemName": "PINZAS DE JAIBA 10X1 KG"
-  },
-  {
-    "ItemCode": "200302007",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
   {
     "ItemCode": "300157036",
@@ -39772,10 +39744,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -40258,10 +40226,6 @@
   {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "300157047",
@@ -42792,10 +42756,6 @@
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
   {
-    "ItemCode": "100350004",
-    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
-  },
-  {
     "ItemCode": "400100001",
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
   },
@@ -43780,10 +43740,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
@@ -44744,10 +44700,6 @@
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
@@ -45300,10 +45252,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
@@ -45572,10 +45520,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "100855012",
     "ItemName": "PANCHITOS 1X500 GR."
   },
@@ -45798,5 +45742,61 @@
   {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "203550030",
+    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
+  },
+  {
+    "ItemCode": "203550029",
+    "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
+  },
+  {
+    "ItemCode": "203550028",
+    "ItemName": "HELADO VITTORE DULCE DE LECHE CHIPS 6X220 ML."
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "200302007",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
+  },
+  {
+    "ItemCode": "204090009",
+    "ItemName": "ALMEJA JULIANA 24X500 GR"
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "100350004",
+    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
   }
 ]
