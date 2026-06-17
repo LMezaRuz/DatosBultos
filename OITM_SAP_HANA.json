@@ -36396,10 +36396,6 @@
     "ItemName": "PALA PLASTICA 1X1 UN."
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "100351005",
     "ItemName": "CAFE NESTLE DOLCA 1X170 GR"
   },
@@ -39330,10 +39326,6 @@
   {
     "ItemCode": "300154011",
     "ItemName": "HORNITO PANADERIA BOLSA 10X1KG"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "303870007",
@@ -43736,10 +43728,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -45060,10 +45048,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -45114,10 +45098,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "400301006",
@@ -45596,10 +45576,6 @@
     "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -45802,5 +45778,29 @@
   {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
   }
 ]
