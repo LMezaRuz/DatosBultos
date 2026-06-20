@@ -31920,10 +31920,6 @@
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
-    "ItemCode": "204140013",
-    "ItemName": "PAN FRICA REBANADO 75X115GR"
-  },
-  {
     "ItemCode": "200500018",
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
@@ -40076,10 +40072,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101401001",
     "ItemName": "CARBONADA WASIL 16X380G"
   },
@@ -45128,10 +45120,6 @@
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
@@ -45238,10 +45226,6 @@
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "400251003",
@@ -45568,10 +45552,6 @@
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -45728,10 +45708,6 @@
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
@@ -45822,5 +45798,29 @@
   {
     "ItemCode": "300353058",
     "ItemName": "ASADO CARNICERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "204140013",
+    "ItemName": "PAN FRICA REBANADO 75X115GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
