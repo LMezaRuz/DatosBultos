@@ -27388,10 +27388,6 @@
     "ItemName": "CAMARON NACIONAL BOLSA 1 KG (CAMANCHACA)"
   },
   {
-    "ItemCode": "100852021",
-    "ItemName": "GALLETA DONUTS 1X100 GRS"
-  },
-  {
     "ItemCode": "202730029",
     "ItemName": "REJILLA DE MANZANA 46X110 GR"
   },
@@ -31034,10 +31030,6 @@
   {
     "ItemCode": "204090009",
     "ItemName": "ALMEJA JULIANA 24X500 GR"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "104610006",
@@ -39104,10 +39096,6 @@
     "ItemName": "FLAN VIVO CHOCOLATE C/CARAMELO 12X90 GR"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "101301002",
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
@@ -44832,10 +44820,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -45720,10 +45704,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "100852021",
+    "ItemName": "GALLETA DONUTS 1X100 GRS"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   }
 ]
