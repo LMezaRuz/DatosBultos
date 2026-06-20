@@ -31452,10 +31452,6 @@
     "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -43460,10 +43456,6 @@
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "100050001",
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   },
@@ -44020,10 +44012,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -44312,10 +44300,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
   },
@@ -44388,14 +44372,6 @@
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -44462,10 +44438,6 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "101351003",
@@ -45822,5 +45794,33 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
