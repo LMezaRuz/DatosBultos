@@ -28300,10 +28300,6 @@
     "ItemName": "MILO EN POLVO 15X1 KG"
   },
   {
-    "ItemCode": "104210000",
-    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
-  },
-  {
     "ItemCode": "104020003",
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
@@ -29354,10 +29350,6 @@
   {
     "ItemCode": "304760182",
     "ItemName": "POSTA ROSADA BRASIL LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "100352012",
-    "ItemName": "CAFE DESCAFEINADO EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
     "ItemCode": "304760343",
@@ -39140,10 +39132,6 @@
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -42864,10 +42852,6 @@
     "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
   },
   {
-    "ItemCode": "104670003",
-    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "202820001",
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -44256,10 +44240,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "403250025",
     "ItemName": "CAJA PIZZA INDIVIDUAL LOVDO - YAPACK 1X50 UN"
   },
@@ -44944,10 +44924,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400252002",
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
@@ -45150,10 +45126,6 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "101357006",
@@ -45644,10 +45616,6 @@
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
@@ -45776,10 +45744,6 @@
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
@@ -45822,5 +45786,41 @@
   {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210000",
+    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "104670003",
+    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "100352012",
+    "ItemName": "CAFE DESCAFEINADO EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
