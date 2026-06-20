@@ -26768,10 +26768,6 @@
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
     "ItemCode": "104170006",
     "ItemName": "PAPAS FRITAS SABOR QUESO KRYZPO 8X6X37 GR"
   },
@@ -29636,10 +29632,6 @@
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "304760036",
-    "ItemName": "ASADO CARNICERO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760037",
     "ItemName": "PALANCA AL VACIO CAT V BRASIL REFRIGERADO (LOCAL)"
   },
@@ -30266,10 +30258,6 @@
   {
     "ItemCode": "101201034",
     "ItemName": "BAVAROIS DE PIÑA 1X1 TKF KG"
-  },
-  {
-    "ItemCode": "204750007",
-    "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
     "ItemCode": "104520005",
@@ -35612,10 +35600,6 @@
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
   },
   {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
-  },
-  {
     "ItemCode": "100601004",
     "ItemName": "CHORITOS NATURAL 24x190 gr"
   },
@@ -36026,10 +36010,6 @@
   {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
-  },
-  {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "204790048",
@@ -39468,10 +39448,6 @@
     "ItemName": "HARINA TOSTADA 20X1 KG"
   },
   {
-    "ItemCode": "100700003",
-    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -42304,10 +42280,6 @@
     "ItemName": "CLORO CLORINDA 1X1 LT"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "203210063",
     "ItemName": "FILETE DE VACUNO PORCIONADO 4X250 GR (5 KG) MM"
   },
@@ -42370,10 +42342,6 @@
   {
     "ItemCode": "100903003",
     "ItemName": "HARINA TEMPURA 1X1 KG."
-  },
-  {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
   {
     "ItemCode": "101150042",
@@ -45500,10 +45468,6 @@
     "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
@@ -45570,10 +45534,6 @@
   {
     "ItemCode": "204530004",
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "101351003",
@@ -45822,5 +45782,45 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "100700003",
+    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "204750007",
+    "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
+  },
+  {
+    "ItemCode": "304760036",
+    "ItemName": "ASADO CARNICERO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   }
 ]
