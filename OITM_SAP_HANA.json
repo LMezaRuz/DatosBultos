@@ -28448,10 +28448,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA BR LOC ECOFRIGO 25KG APROX.(X-MAYOR)"
   },
   {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
-  },
-  {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
   },
@@ -31348,10 +31344,6 @@
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "203900002",
-    "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
-  },
-  {
     "ItemCode": "303680000",
     "ItemName": "PACK PROBIOTICO MULTIFRUTA UNV 6X90 ML"
   },
@@ -31946,10 +31938,6 @@
   {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "200302027",
@@ -36412,10 +36400,6 @@
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "300353058",
     "ItemName": "ASADO CARNICERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -39806,10 +39790,6 @@
   {
     "ItemCode": "300157028",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "101201022",
@@ -44884,10 +44864,6 @@
     "ItemName": "COSTILLAR CRIOLLO CON AJI DIEZ PUNTOS (8 X 1.3 KG APROX.)"
   },
   {
-    "ItemCode": "200303015",
-    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
-  },
-  {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
@@ -45780,6 +45756,10 @@
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
   },
   {
+    "ItemCode": "103830008",
+    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
+  },
+  {
     "ItemCode": "104670062",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
   },
@@ -45820,7 +45800,27 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "103830008",
-    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "203900002",
+    "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200303015",
+    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   }
 ]
