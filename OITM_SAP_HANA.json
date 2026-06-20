@@ -32200,10 +32200,6 @@
     "ItemName": "PALTA HASS CALIBRE 10-18 FIRME CAJA 15 KG"
   },
   {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -34858,10 +34854,6 @@
   {
     "ItemCode": "300353103",
     "ItemName": "TAPAPECHO CAT V COLOMBIA - LOCAL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "101007016",
@@ -38746,14 +38738,6 @@
   {
     "ItemCode": "100802002",
     "ItemName": "MIX TROPICAL FRUTISA 1X80 GR"
-  },
-  {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100852031",
@@ -45096,10 +45080,6 @@
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -45290,10 +45270,6 @@
   {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "101358007",
@@ -45534,10 +45510,6 @@
   {
     "ItemCode": "200500079",
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
     "ItemCode": "100101005",
@@ -45822,5 +45794,33 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   }
 ]
