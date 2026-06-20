@@ -31252,10 +31252,6 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
@@ -39144,10 +39140,6 @@
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "300001010",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
@@ -39830,10 +39822,6 @@
   {
     "ItemCode": "104070010",
     "ItemName": "PEPINILLO DILL ENTERO 20-30 MAIFRE 10X1 KG"
-  },
-  {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
     "ItemCode": "400005017",
@@ -43192,10 +43180,6 @@
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "203210063",
     "ItemName": "FILETE DE VACUNO PORCIONADO 4X250 GR (5 KG) MM"
   },
@@ -43878,10 +43862,6 @@
   {
     "ItemCode": "202910028",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA IMP. BRASIL (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "203210126",
@@ -45376,10 +45356,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -45822,5 +45798,29 @@
   {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
