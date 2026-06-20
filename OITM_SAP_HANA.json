@@ -32372,10 +32372,6 @@
     "ItemName": "JALEA LIMON DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "101353026",
-    "ItemName": "MAYONESA JANO 10X970 GR"
-  },
-  {
     "ItemCode": "100351009",
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
@@ -43964,10 +43960,6 @@
     "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -45016,10 +45008,6 @@
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
@@ -45198,10 +45186,6 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "300353065",
-    "ItemName": "LOMO LISO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
     "ItemCode": "200500008",
@@ -45474,10 +45458,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "100003006",
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "400250006",
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "300353065",
+    "ItemName": "LOMO LISO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101353026",
+    "ItemName": "MAYONESA JANO 10X970 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
