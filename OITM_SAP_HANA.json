@@ -30668,10 +30668,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "100652002",
     "ItemName": "ARANDANOS WASIL TETRA 16X380 GR"
   },
@@ -45660,10 +45656,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -45822,5 +45814,13 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   }
 ]
