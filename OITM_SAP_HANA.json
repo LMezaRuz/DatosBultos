@@ -31560,10 +31560,6 @@
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "204700007",
     "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
@@ -32050,10 +32046,6 @@
   {
     "ItemCode": "103940026",
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "204700025",
@@ -35800,10 +35792,6 @@
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "400010021",
     "ItemName": "LUSTRAMUEBLES CREMA 1X250 ML"
   },
@@ -35822,10 +35810,6 @@
   {
     "ItemCode": "100700012",
     "ItemName": "CREMA DE CHOCLO 20X79 GR"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "203190049",
@@ -42772,10 +42756,6 @@
     "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA CONG. 16X500 GR"
   },
   {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
     "ItemCode": "202910004",
     "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -43326,10 +43306,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
     "ItemCode": "103880030",
@@ -43958,10 +43934,6 @@
   {
     "ItemCode": "100352008",
     "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
     "ItemCode": "101355004",
@@ -44632,10 +44604,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -44736,10 +44704,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
@@ -44794,10 +44758,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "100101014",
@@ -45102,10 +45062,6 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100202013",
@@ -45668,10 +45624,6 @@
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -45822,5 +45774,53 @@
   {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   }
 ]
