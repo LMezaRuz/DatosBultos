@@ -30088,10 +30088,6 @@
     "ItemName": "AJOS KG"
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "300353049",
     "ItemName": "ABASTERO KG (NV)"
   },
@@ -30566,10 +30562,6 @@
   {
     "ItemCode": "304760247",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
     "ItemCode": "400251007",
@@ -31778,10 +31770,6 @@
   {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
-    "ItemCode": "101007022",
-    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "101353011",
@@ -39468,14 +39456,6 @@
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
-    "ItemCode": "101304002",
-    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100302003",
-    "ItemName": "COCA COLA  6 X 1,5 LTS"
-  },
-  {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
@@ -42976,10 +42956,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "400010002",
     "ItemName": "CERA LIQUIDA 12X360 CC"
   },
@@ -45460,10 +45436,6 @@
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -45748,10 +45720,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "200203008",
     "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
@@ -45822,5 +45790,37 @@
   {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100302003",
+    "ItemName": "COCA COLA  6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101007022",
+    "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101304002",
+    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   }
 ]
