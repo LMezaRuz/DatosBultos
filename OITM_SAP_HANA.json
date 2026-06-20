@@ -31288,10 +31288,6 @@
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
   },
   {
-    "ItemCode": "202820009",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
-  },
-  {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
@@ -31732,10 +31728,6 @@
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
   {
-    "ItemCode": "204530007",
-    "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
-  },
-  {
     "ItemCode": "103200000",
     "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
@@ -32000,10 +31992,6 @@
     "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
   },
   {
-    "ItemCode": "202820001",
-    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "204010002",
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
@@ -32178,10 +32166,6 @@
   {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "204150013",
@@ -40392,10 +40376,6 @@
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
@@ -40694,10 +40674,6 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100600001",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
     "ItemCode": "200304001",
@@ -44116,10 +44092,6 @@
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
   {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
@@ -44662,10 +44634,6 @@
   {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "200460028",
@@ -45436,10 +45404,6 @@
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
@@ -45608,10 +45572,6 @@
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
@@ -45634,10 +45594,6 @@
   {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "200500017",
@@ -45764,10 +45720,6 @@
     "ItemName": "LECHE CON PLATANO 12X1 LT"
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
   },
@@ -45822,5 +45774,53 @@
   {
     "ItemCode": "103600003",
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100600001",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "204530007",
+    "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "202820009",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202820001",
+    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   }
 ]
