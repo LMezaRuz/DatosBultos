@@ -26372,10 +26372,6 @@
     "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
   },
   {
-    "ItemCode": "103810007",
-    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
-  },
-  {
     "ItemCode": "103840001",
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG"
   },
@@ -28260,10 +28256,6 @@
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "100202011",
-    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -28426,10 +28418,6 @@
   {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
   {
     "ItemCode": "304760450",
@@ -31132,10 +31120,6 @@
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "203430015",
-    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "104610007",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE 12 DISPL X 16 UN X 45GR."
   },
@@ -32058,10 +32042,6 @@
   {
     "ItemCode": "200302001",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "103880033",
@@ -36234,10 +36214,6 @@
   {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
-  },
-  {
-    "ItemCode": "100202013",
-    "ItemName": "ENDULZANTE POLVO STEVIA 400X0.5 GR."
   },
   {
     "ItemCode": "101401002",
@@ -43384,10 +43360,6 @@
     "ItemName": "HARINA DE TRIGO SUPER PAN DOS 1X25 KG"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
@@ -43770,10 +43742,6 @@
   {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "204300073",
@@ -45040,10 +45008,6 @@
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
   {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
     "ItemCode": "300353113",
     "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
@@ -45504,10 +45468,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -45664,10 +45624,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "403250025",
     "ItemName": "CAJA PIZZA INDIVIDUAL LOVDO - YAPACK 1X50 UN"
   },
@@ -45738,10 +45694,6 @@
   {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "304470001",
@@ -45822,5 +45774,53 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100202013",
+    "ItemName": "ENDULZANTE POLVO STEVIA 400X0.5 GR."
+  },
+  {
+    "ItemCode": "100202011",
+    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "103810007",
+    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
+  },
+  {
+    "ItemCode": "203430015",
+    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   }
 ]
