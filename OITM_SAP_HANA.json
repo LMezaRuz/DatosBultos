@@ -27004,10 +27004,6 @@
     "ItemName": "CAFE MOLIDO 1X1 KG"
   },
   {
-    "ItemCode": "102780005",
-    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
-  },
-  {
     "ItemCode": "102480000",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN OLIVE 12X250 ML"
   },
@@ -28538,10 +28534,6 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
-    "ItemCode": "102780009",
-    "ItemName": "CAFE KIMBO EN GRANO ESPRESSO CLASSICO 6X1 KG"
   },
   {
     "ItemCode": "304760251",
@@ -35772,10 +35764,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "300152008",
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
@@ -39546,10 +39534,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
     "ItemCode": "104080006",
@@ -45560,10 +45544,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -45574,10 +45554,6 @@
   {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "200051021",
@@ -45822,5 +45798,29 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "102780009",
+    "ItemName": "CAFE KIMBO EN GRANO ESPRESSO CLASSICO 6X1 KG"
+  },
+  {
+    "ItemCode": "102780005",
+    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
