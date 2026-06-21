@@ -30632,10 +30632,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "202730068",
     "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
   },
@@ -39188,10 +39184,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
@@ -41892,10 +41884,6 @@
     "ItemName": "JAMON SANDWICH LAMINADO CERDO 1 x 1 kg"
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "100353006",
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
@@ -44188,16 +44176,8 @@
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "104600004",
@@ -44334,10 +44314,6 @@
   {
     "ItemCode": "204300078",
     "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
-  },
-  {
-    "ItemCode": "204300086",
-    "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
   },
   {
     "ItemCode": "304760433",
@@ -45708,10 +45684,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -45822,5 +45794,33 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204300086",
+    "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   }
 ]
