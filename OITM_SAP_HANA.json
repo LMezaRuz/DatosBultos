@@ -30252,10 +30252,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "202620000",
-    "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
   },
@@ -44672,22 +44668,6 @@
     "ItemName": "MIX FRUTOS ROJOS 10X1 KG"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
     "ItemCode": "304760432",
     "ItemName": "POLLO GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
+  },
+  {
+    "ItemCode": "202620000",
+    "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   }
 ]
