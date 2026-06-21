@@ -31832,10 +31832,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "203510004",
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
@@ -35684,14 +35680,6 @@
     "ItemName": "MANTEQUILLA LAS PARCELAS DE VALDIVIA POTE 24X200 GR"
   },
   {
-    "ItemCode": "400301073",
-    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
     "ItemCode": "100852017",
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
   },
@@ -38800,10 +38788,6 @@
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
-    "ItemCode": "101150037",
-    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
-  },
-  {
     "ItemCode": "400301071",
     "ItemName": "SACO GRANDE KRAFT MAMUT 1 X 250 UN"
   },
@@ -39790,10 +39774,6 @@
   {
     "ItemCode": "304760259",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "300157049",
@@ -45512,20 +45492,8 @@
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "100356050",
@@ -45822,5 +45790,37 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101150037",
+    "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
+  },
+  {
+    "ItemCode": "400301073",
+    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   }
 ]
