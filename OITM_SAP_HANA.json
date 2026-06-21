@@ -28160,10 +28160,6 @@
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
   {
-    "ItemCode": "302970006",
-    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
-  },
-  {
     "ItemCode": "304860012",
     "ItemName": "YOGHURT SIN LACTOSA LONCOLECHE BOTELLA SABOR VAINILLA 6 X 900 GR"
   },
@@ -38340,10 +38336,6 @@
     "ItemName": "PRIETAS 1x250 g."
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
-  },
-  {
     "ItemCode": "100902004",
     "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
   },
@@ -42068,10 +42060,6 @@
     "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   },
   {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
     "ItemCode": "300351010",
     "ItemName": "JAMON SANDWICH LAMINADO CERDO 1 x 1 kg"
   },
@@ -44588,10 +44576,6 @@
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -45000,10 +44984,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -45190,10 +45170,6 @@
   {
     "ItemCode": "400011012",
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "400010017",
@@ -45504,10 +45480,6 @@
     "ItemName": "QUESO MANTECOSO RUEDA MERKEN LPV 16X200 GR"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "104010018",
     "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
@@ -45622,10 +45594,6 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
   {
     "ItemCode": "100350005",
@@ -45822,5 +45790,37 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "302970006",
+    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   }
 ]
