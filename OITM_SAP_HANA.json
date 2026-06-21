@@ -32728,10 +32728,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   },
@@ -36596,10 +36592,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
   {
-    "ItemCode": "300152013",
-    "ItemName": "MANTECA ASTRA 40X200 GR"
-  },
-  {
     "ItemCode": "100754003",
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
@@ -36694,10 +36686,6 @@
   {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
     "ItemCode": "303870006",
@@ -40282,10 +40270,6 @@
   {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "200302006",
@@ -44268,10 +44252,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "300152013",
+    "ItemName": "MANTECA ASTRA 40X200 GR"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   }
 ]
