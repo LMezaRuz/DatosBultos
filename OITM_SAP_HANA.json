@@ -39508,10 +39508,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
@@ -39676,10 +39672,6 @@
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -39760,10 +39752,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
     "ItemCode": "100355005",
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
@@ -39786,10 +39774,6 @@
   {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
     "ItemCode": "101201020",
@@ -45296,10 +45280,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
@@ -45712,10 +45692,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -45822,5 +45798,29 @@
   {
     "ItemCode": "203430006",
     "ItemName": "MIX FRUTOS ROJOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   }
 ]
