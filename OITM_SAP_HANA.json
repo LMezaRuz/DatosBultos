@@ -39776,10 +39776,6 @@
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -39822,10 +39818,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
     "ItemCode": "101007022",
@@ -42140,10 +42132,6 @@
     "ItemName": "CAFE MONTERREY 1 UN X 500 GRS"
   },
   {
-    "ItemCode": "100355010",
-    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355013",
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
@@ -42478,10 +42466,6 @@
   {
     "ItemCode": "100100002",
     "ItemName": "ARROZ BASMATI 1X1 KG."
-  },
-  {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
     "ItemCode": "400250001",
@@ -44060,10 +44044,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
     "ItemCode": "202730067",
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
@@ -44832,10 +44812,6 @@
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200453019",
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
@@ -45124,10 +45100,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "100350003",
     "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   },
@@ -45402,10 +45374,6 @@
   {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "200500017",
@@ -45822,5 +45790,37 @@
   {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100355010",
+    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
   }
 ]
