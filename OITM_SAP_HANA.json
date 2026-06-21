@@ -28384,10 +28384,6 @@
     "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
@@ -31650,10 +31646,6 @@
   {
     "ItemCode": "101150061",
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "203200004",
@@ -38780,10 +38772,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
@@ -39250,10 +39238,6 @@
   {
     "ItemCode": "101201030",
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
     "ItemCode": "101201029",
@@ -44752,10 +44736,6 @@
     "ItemName": "TE CEYLAN PREMIUM (NEGRO) 1X20 UN"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
@@ -44798,10 +44778,6 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "101100055",
@@ -45316,10 +45292,6 @@
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "202820018",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
@@ -45684,10 +45656,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12 X 1 KG (VE)"
   },
@@ -45772,20 +45740,12 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101353020",
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "101150026",
@@ -45822,5 +45782,45 @@
   {
     "ItemCode": "400005014",
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   }
 ]
