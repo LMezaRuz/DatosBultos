@@ -30464,10 +30464,6 @@
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
   {
-    "ItemCode": "300400023",
-    "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
   },
@@ -31054,14 +31050,6 @@
   {
     "ItemCode": "204140009",
     "ItemName": "HALLULLA PRECOCIDA CONGELADA 94X85 GR"
-  },
-  {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "204310017",
@@ -36136,10 +36124,6 @@
     "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12X1 LT"
   },
@@ -36174,10 +36158,6 @@
   {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "200453013",
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "300400023",
+    "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   }
 ]
