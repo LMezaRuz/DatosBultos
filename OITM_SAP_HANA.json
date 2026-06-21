@@ -35348,10 +35348,6 @@
     "ItemName": "ABASTERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "300353066",
-    "ItemName": "LOMO VETADO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
     "ItemCode": "100304048",
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
@@ -44716,10 +44712,6 @@
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
-    "ItemCode": "300403001",
-    "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
-  },
-  {
     "ItemCode": "103140002",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 4MM 10X1 KG"
   },
@@ -45010,10 +45002,6 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
     "ItemCode": "400105001",
@@ -45564,10 +45552,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -45744,10 +45728,6 @@
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "300403001",
+    "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
+  },
+  {
+    "ItemCode": "300353066",
+    "ItemName": "LOMO VETADO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   }
 ]
