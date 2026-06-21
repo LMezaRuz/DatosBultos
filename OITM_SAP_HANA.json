@@ -28300,10 +28300,6 @@
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
   {
-    "ItemCode": "204380025",
-    "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
   },
@@ -30652,10 +30648,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "302960002",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
-  },
-  {
     "ItemCode": "202820015",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 41/50 10X1 KG"
   },
@@ -31138,10 +31130,6 @@
   {
     "ItemCode": "202720037",
     "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
     "ItemCode": "103180002",
@@ -44148,14 +44136,6 @@
     "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
@@ -44386,10 +44366,6 @@
   {
     "ItemCode": "204150013",
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
-  },
-  {
-    "ItemCode": "204700004",
-    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
     "ItemCode": "204310009",
@@ -45164,10 +45140,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
@@ -45822,5 +45794,33 @@
   {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "204700004",
+    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "302960002",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380025",
+    "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   }
 ]
