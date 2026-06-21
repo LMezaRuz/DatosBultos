@@ -30280,10 +30280,6 @@
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "303660008",
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
   },
@@ -31100,10 +31096,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 12X360 GR"
   },
   {
-    "ItemCode": "202730042",
-    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
-  },
-  {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
@@ -31666,10 +31658,6 @@
   {
     "ItemCode": "203190006",
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202730066",
-    "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
   },
   {
     "ItemCode": "204300033",
@@ -41852,10 +41840,6 @@
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100750004",
-    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
-  },
-  {
     "ItemCode": "100854002",
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
@@ -42574,10 +42558,6 @@
   {
     "ItemCode": "101450007",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "200201018",
-    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
     "ItemCode": "101452003",
@@ -45822,5 +45802,25 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "202730066",
+    "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
+  },
+  {
+    "ItemCode": "202730042",
+    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
+  },
+  {
+    "ItemCode": "200201018",
+    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
+  },
+  {
+    "ItemCode": "100750004",
+    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   }
 ]
