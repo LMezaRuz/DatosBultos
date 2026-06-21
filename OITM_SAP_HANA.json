@@ -29404,10 +29404,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "202730003",
-    "ItemName": "ROLLO DE CANELA 60X100 GR"
-  },
-  {
     "ItemCode": "204000006",
     "ItemName": "CHARCHA VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -30772,10 +30768,6 @@
     "ItemName": "MUFFIN DE VAINILLA CON TROCITOS DE CHOCOLATE 28X110 GR"
   },
   {
-    "ItemCode": "204310008",
-    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
-  },
-  {
     "ItemCode": "101009035",
     "ItemName": "LECHE MOMENTS MOCACCINO 18X200 CC"
   },
@@ -31022,10 +31014,6 @@
   {
     "ItemCode": "202730086",
     "ItemName": "CHEESECAKE TRADICIONAL 6 UNIDADES X 8 PORCIONES"
-  },
-  {
-    "ItemCode": "202730039",
-    "ItemName": "BROWNIE CON NUECES 48X80 GR"
   },
   {
     "ItemCode": "102580002",
@@ -32218,10 +32206,6 @@
   {
     "ItemCode": "203200036",
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
   {
     "ItemCode": "104020005",
@@ -42668,10 +42652,6 @@
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
   },
   {
-    "ItemCode": "200201009",
-    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
-  },
-  {
     "ItemCode": "100152006",
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
@@ -44044,10 +44024,6 @@
     "ItemName": "CHURROS ESPAÑOLES 8 BLS X 25X20 GR"
   },
   {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -44972,10 +44948,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "200201001",
-    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -45822,5 +45794,33 @@
   {
     "ItemCode": "100355006",
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "200201001",
+    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
+  },
+  {
+    "ItemCode": "204310008",
+    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
+  },
+  {
+    "ItemCode": "200201009",
+    "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730003",
+    "ItemName": "ROLLO DE CANELA 60X100 GR"
+  },
+  {
+    "ItemCode": "202730039",
+    "ItemName": "BROWNIE CON NUECES 48X80 GR"
   }
 ]
