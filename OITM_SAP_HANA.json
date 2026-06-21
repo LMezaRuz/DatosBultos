@@ -28448,10 +28448,6 @@
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "104040026",
     "ItemName": "COMINO MOLIDO 1X200 GR"
   },
@@ -31252,10 +31248,6 @@
     "ItemName": "PUNTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "302890007",
-    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "202730004",
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
@@ -31910,10 +31902,6 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
     "ItemCode": "400250002",
@@ -39452,10 +39440,6 @@
     "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -41920,10 +41904,6 @@
     "ItemName": "MOSTAZA DIJON ANTIGUA 1X210 GR"
   },
   {
-    "ItemCode": "100202002",
-    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
-  },
-  {
     "ItemCode": "100300009",
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
@@ -42440,10 +42420,6 @@
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
@@ -42682,10 +42658,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
     "ItemCode": "103810005",
@@ -44828,10 +44800,6 @@
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
@@ -44948,16 +44916,8 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "100302037",
     "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100302015",
@@ -45160,10 +45120,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
@@ -45328,16 +45284,8 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "204380015",
@@ -45822,5 +45770,57 @@
   {
     "ItemCode": "300001010",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
+  },
+  {
+    "ItemCode": "100202002",
+    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "302890007",
+    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
