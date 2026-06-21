@@ -41724,10 +41724,6 @@
     "ItemName": "YOGURT LIGHT VAINILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "200002009",
-    "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
-  },
-  {
     "ItemCode": "200304006",
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
@@ -45428,10 +45424,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
@@ -45692,10 +45684,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
     "ItemCode": "300353065",
     "ItemName": "LOMO LISO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -45822,5 +45810,17 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "200002009",
+    "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
   }
 ]
