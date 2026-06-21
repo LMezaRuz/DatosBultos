@@ -26808,10 +26808,6 @@
     "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
   },
   {
-    "ItemCode": "104010018",
-    "ItemName": "SALSA DE OSTRA 12X510 GR"
-  },
-  {
     "ItemCode": "104570015",
     "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
@@ -29532,10 +29528,6 @@
     "ItemName": "QUESO MANTECOSO ALBAHACA RUEDA LPV 16X200 GR"
   },
   {
-    "ItemCode": "304450016",
-    "ItemName": "QUESO MANTECOSO RUEDA MERKEN LPV 16X200 GR"
-  },
-  {
     "ItemCode": "304450018",
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR 10 KG (APROX)"
   },
@@ -30194,10 +30186,6 @@
   {
     "ItemCode": "204000004",
     "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
     "ItemCode": "204870000",
@@ -45036,14 +45024,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -45126,10 +45106,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "104670082",
@@ -45432,10 +45408,6 @@
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "103810007",
     "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
   },
@@ -45720,10 +45692,6 @@
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
@@ -45822,5 +45790,37 @@
   {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304450016",
+    "ItemName": "QUESO MANTECOSO RUEDA MERKEN LPV 16X200 GR"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "104010018",
+    "ItemName": "SALSA DE OSTRA 12X510 GR"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
   }
 ]
