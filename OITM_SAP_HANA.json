@@ -31416,10 +31416,6 @@
     "ItemName": "POCILLO TRANSP. PLASTICO 1,5 OZ 1 X 2500 UN"
   },
   {
-    "ItemCode": "202910014",
-    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
@@ -35864,10 +35860,6 @@
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "403130000",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -39512,10 +39504,6 @@
     "ItemName": "LENGUA DE VACUNO TRADICION (20KGS APROX)"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "204530037",
     "ItemName": "SALMON COHO CONGELADO FILETE TRIM C 2-3 LB (10 KG APROX)"
   },
@@ -43088,10 +43076,6 @@
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
@@ -44360,16 +44344,8 @@
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
-  },
-  {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103910039",
@@ -44390,14 +44366,6 @@
   {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "302960003",
@@ -44724,10 +44692,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -44836,10 +44800,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
@@ -44914,10 +44874,6 @@
   {
     "ItemCode": "200456031",
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
     "ItemCode": "101150083",
@@ -45822,5 +45778,49 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "403130000",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "202910014",
+    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
   }
 ]
