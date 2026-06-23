@@ -31016,10 +31016,6 @@
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
-    "ItemCode": "204100010",
-    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "104400003",
     "ItemName": "PURE DE PAPAS KNORR SACO 20 KG"
   },
@@ -31794,10 +31790,6 @@
   {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "104670068",
@@ -35978,10 +35970,6 @@
   {
     "ItemCode": "100355046",
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "101007010",
-    "ItemName": "LECHE 0% MG TKF 1X1 KG"
   },
   {
     "ItemCode": "400301007",
@@ -43772,10 +43760,6 @@
     "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "304760430",
     "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -43898,10 +43882,6 @@
   {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "100300009",
@@ -44728,10 +44708,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -44934,10 +44910,6 @@
   {
     "ItemCode": "303850010",
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "400102002",
@@ -45524,10 +45496,6 @@
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -45542,10 +45510,6 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "103540000",
@@ -45740,10 +45704,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -45834,5 +45794,45 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101007010",
+    "ItemName": "LECHE 0% MG TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "204100010",
+    "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   }
 ]
