@@ -27568,14 +27568,6 @@
     "ItemName": "PORCION DE SALMON ATLANTICO SIN PIEL CON SALSA TERIYAKI 3 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "LOG_102540016",
-    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540017",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
-  },
-  {
     "ItemCode": "LOG_103650031",
     "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
   },
@@ -31366,10 +31358,6 @@
   {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
-    "ItemCode": "202820010",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
   },
   {
     "ItemCode": "304760473",
@@ -45812,6 +45800,18 @@
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
+    "ItemCode": "LOG_102540021",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540020",
+    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "202820010",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 20X500 GRS"
+  },
+  {
     "ItemCode": "LOG_102540019",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
   },
@@ -45820,19 +45820,19 @@
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
   },
   {
+    "ItemCode": "LOG_102540016",
+    "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540017",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
+  },
+  {
     "ItemCode": "LOG_102540023",
     "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
   },
   {
     "ItemCode": "LOG_102540022",
     "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540020",
-    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540021",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
   }
 ]
