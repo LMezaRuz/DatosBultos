@@ -27576,30 +27576,6 @@
     "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X1.5 LTS"
   },
   {
-    "ItemCode": "LOG_102540018",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540019",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
-  },
-  {
-    "ItemCode": "LOG_102540020",
-    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540021",
-    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540022",
-    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
-  },
-  {
-    "ItemCode": "LOG_102540023",
-    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
-  },
-  {
     "ItemCode": "LOG_103650031",
     "ItemName": "[LOG] INFUSION SIDDHARTA LIMONADA 6 X 2 L"
   },
@@ -38656,10 +38632,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
     "ItemCode": "203210130",
     "ItemName": "CHURRASCO DE VACUNO 30X160 GR (MM)"
   },
@@ -45834,5 +45806,33 @@
   {
     "ItemCode": "LOG_104670097",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "LOG_102540019",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540018",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X1.5 LT"
+  },
+  {
+    "ItemCode": "LOG_102540023",
+    "ItemName": "[LOG] AGUA SIN GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540022",
+    "ItemName": "[LOG] AGUA CON GAS RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540020",
+    "ItemName": "[LOG] AGUA CON GAS SABOR FRAMBUESA RIZOLA 6X500 CC"
+  },
+  {
+    "ItemCode": "LOG_102540021",
+    "ItemName": "[LOG] AGUA CON GAS SABOR LIMON RIZOLA 6X500 CC"
   }
 ]
