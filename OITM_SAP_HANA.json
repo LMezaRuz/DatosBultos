@@ -37576,10 +37576,6 @@
     "ItemName": "CEREAL FITNESS 16X630 GR"
   },
   {
-    "ItemCode": "101008004",
-    "ItemName": "LECHE ENTERA UHT 6x200 ml."
-  },
-  {
     "ItemCode": "101200017",
     "ItemName": "COMPOTA LIVEAN POUCH SABORES 18X90 GR"
   },
@@ -42464,10 +42460,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
     "ItemCode": "400100008",
     "ItemName": "ROLLO PREPICADO REUTILIZABLE 1X106 MT (TO70036)"
   },
@@ -45834,5 +45826,13 @@
   {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "101008004",
+    "ItemName": "LECHE ENTERA UHT 6x200 ml."
   }
 ]
