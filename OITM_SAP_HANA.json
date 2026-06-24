@@ -39072,10 +39072,6 @@
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
   },
@@ -39450,10 +39446,6 @@
   {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "101452004",
@@ -44620,10 +44612,6 @@
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
@@ -45448,10 +45436,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "103940024",
-    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
     "ItemCode": "100401002",
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
@@ -45834,5 +45818,21 @@
   {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "103940024",
+    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   }
 ]
