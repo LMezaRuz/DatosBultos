@@ -28444,10 +28444,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
   {
-    "ItemCode": "204300013",
-    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
-  },
-  {
     "ItemCode": "204090009",
     "ItemName": "ALMEJA JULIANA 24X500 GR"
   },
@@ -30952,10 +30948,6 @@
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
   {
-    "ItemCode": "304760246",
-    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "204100016",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
@@ -31170,10 +31162,6 @@
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "304760430",
-    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "103520016",
@@ -31522,10 +31510,6 @@
   {
     "ItemCode": "202820001",
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "304760259",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
     "ItemCode": "104670077",
@@ -31994,10 +31978,6 @@
   {
     "ItemCode": "104670009",
     "ItemName": "TE TWININGS FRUTOS ROJOS 1X10 UN"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "103750000",
@@ -42980,10 +42960,6 @@
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "202910017",
-    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
-  },
-  {
     "ItemCode": "101002009",
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
@@ -45168,10 +45144,6 @@
     "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   },
   {
-    "ItemCode": "200459004",
-    "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -45836,10 +45808,6 @@
     "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
@@ -45850,5 +45818,37 @@
   {
     "ItemCode": "303840001",
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "200459004",
+    "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
+  },
+  {
+    "ItemCode": "304760259",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204300013",
+    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760246",
+    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910017",
+    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
+  },
+  {
+    "ItemCode": "304760430",
+    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   }
 ]
