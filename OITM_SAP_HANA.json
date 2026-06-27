@@ -26424,10 +26424,6 @@
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "204530014",
-    "ItemName": "SALMON ATLAN. TROZADO S/PIEL STAN. 6 KG (APROX)(CAMANCHACA)"
-  },
-  {
     "ItemCode": "204530015",
     "ItemName": "FILETE SALMON ATLANTICO SIN PIEL CAJA 15 KG APROX (CAMANCHACA)"
   },
@@ -26438,10 +26434,6 @@
   {
     "ItemCode": "204530017",
     "ItemName": "FILETE DE SALMON ANTLANTICO C/P PREMIUM 15 KG APROX (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "204530018",
-    "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
   },
   {
     "ItemCode": "204530027",
@@ -32282,10 +32274,6 @@
   {
     "ItemCode": "202730006",
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "304460000",
@@ -44304,10 +44292,6 @@
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
-    "ItemCode": "600002007",
-    "ItemName": "BETARRAGAS KG."
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -44920,10 +44904,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "600002020",
-    "ItemName": "ZANAHORIA KG."
-  },
-  {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
@@ -45014,10 +44994,6 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "600001001",
-    "ItemName": "MANZANA KG."
   },
   {
     "ItemCode": "300351005",
@@ -45844,11 +45820,35 @@
     "ItemName": "NARANJA KG."
   },
   {
+    "ItemCode": "300353083",
+    "ItemName": "GUATA CALLO TROZADA KG."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "204530018",
+    "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "204530014",
+    "ItemName": "SALMON ATLAN. TROZADO S/PIEL STAN. 6 KG (APROX)(CAMANCHACA)"
+  },
+  {
+    "ItemCode": "600002007",
+    "ItemName": "BETARRAGAS KG."
+  },
+  {
     "ItemCode": "600002005",
     "ItemName": "AJOS KG"
   },
   {
-    "ItemCode": "300353083",
-    "ItemName": "GUATA CALLO TROZADA KG."
+    "ItemCode": "600002020",
+    "ItemName": "ZANAHORIA KG."
+  },
+  {
+    "ItemCode": "600001001",
+    "ItemName": "MANZANA KG."
   }
 ]
