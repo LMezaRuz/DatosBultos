@@ -28420,10 +28420,6 @@
     "ItemName": "PICKLE MAIFRE 10X1 KG"
   },
   {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
     "ItemCode": "202910027",
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
@@ -31700,10 +31696,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "104210011",
-    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
@@ -32396,10 +32388,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -32486,10 +32474,6 @@
   {
     "ItemCode": "200500043",
     "ItemName": "ZAPALLO CUBO FOOD SERVICE 13 UN X 1 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "304430007",
@@ -39576,10 +39560,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "100701010",
     "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
@@ -40292,10 +40272,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "200302009",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
@@ -40390,10 +40366,6 @@
   {
     "ItemCode": "400003002",
     "ItemName": "DESODORANTE WC FLORAL 1X40 GR"
-  },
-  {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
   {
     "ItemCode": "104010008",
@@ -40814,10 +40786,6 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "300154014",
@@ -43532,10 +43500,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "400250001",
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
@@ -43558,10 +43522,6 @@
   {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "200402012",
@@ -44228,10 +44188,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -44426,10 +44382,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "200305016",
@@ -45640,10 +45592,6 @@
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
-    "ItemCode": "103880016",
-    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -45850,5 +45798,57 @@
   {
     "ItemCode": "200201003",
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
+  },
+  {
+    "ItemCode": "103880016",
+    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210011",
+    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   }
 ]
