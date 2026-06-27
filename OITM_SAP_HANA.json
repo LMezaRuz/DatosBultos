@@ -35876,10 +35876,6 @@
     "ItemName": "ABASTERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12X1 LT"
   },
@@ -42788,10 +42784,6 @@
     "ItemName": "COCA COLA LIGHT 6X1,5 LT"
   },
   {
-    "ItemCode": "202730026",
-    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
-  },
-  {
     "ItemCode": "300154015",
     "ItemName": "MARGARINA SOPROLE PAN 1X250 GR."
   },
@@ -43546,10 +43538,6 @@
   {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
     "ItemCode": "200459004",
@@ -44426,10 +44414,6 @@
   {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "100101004",
@@ -45492,10 +45476,6 @@
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -45850,5 +45830,25 @@
   {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202730026",
+    "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   }
 ]
