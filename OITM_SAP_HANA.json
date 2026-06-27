@@ -32112,10 +32112,6 @@
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "101352011",
     "ItemName": "KETCHUP JB 6X2 KG"
   },
@@ -38904,10 +38900,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
-  },
-  {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
@@ -42912,10 +42904,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "200200011",
-    "ItemName": "MUFFIN VAINILLA 36X110 GR"
-  },
-  {
     "ItemCode": "300351022",
     "ItemName": "PATE DE CERDO 16x125 GRS"
   },
@@ -44896,10 +44884,6 @@
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
@@ -44954,10 +44938,6 @@
   {
     "ItemCode": "103810007",
     "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
-  },
-  {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
   },
   {
     "ItemCode": "101050003",
@@ -45208,10 +45188,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
@@ -45254,14 +45230,6 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "300351012",
@@ -45466,14 +45434,6 @@
   {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "203200036",
@@ -45850,5 +45810,45 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "200200011",
+    "ItemName": "MUFFIN VAINILLA 36X110 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
