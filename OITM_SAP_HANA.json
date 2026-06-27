@@ -30548,10 +30548,6 @@
     "ItemName": "CREMA A BASE DE COCO VILAY 18X330 ML"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -31646,10 +31642,6 @@
   {
     "ItemCode": "204300056",
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
-    "ItemCode": "102610006",
-    "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
   {
     "ItemCode": "104040000",
@@ -43292,10 +43284,6 @@
     "ItemName": "JABON LIQUIDO 6X1000 ML  JA70005"
   },
   {
-    "ItemCode": "400007009",
-    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -43788,10 +43776,6 @@
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
@@ -44008,10 +43992,6 @@
     "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "100304022",
-    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -44102,10 +44082,6 @@
   {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200002006",
@@ -44574,10 +44550,6 @@
   {
     "ItemCode": "100601001",
     "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "300152009",
@@ -45760,10 +45732,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
@@ -45850,5 +45818,37 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "102610006",
+    "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100304022",
+    "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400007009",
+    "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
   }
 ]
