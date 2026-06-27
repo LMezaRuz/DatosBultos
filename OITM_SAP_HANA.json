@@ -32120,14 +32120,6 @@
     "ItemName": "TE LIPTON APPLE CINNAMON 12 X 20 BLS"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
-  },
-  {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
@@ -38640,10 +38632,6 @@
     "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
   },
   {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
@@ -43340,10 +43328,6 @@
     "ItemName": "CHANCACA 1X400 GR"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "100001007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
   },
@@ -44712,10 +44696,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "203230007",
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -45364,10 +45344,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "100350003",
-    "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "400050003",
     "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
   },
@@ -45850,5 +45826,29 @@
   {
     "ItemCode": "304760430",
     "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "100350003",
+    "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
   }
 ]
