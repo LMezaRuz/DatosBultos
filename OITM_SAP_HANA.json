@@ -25216,10 +25216,6 @@
     "ItemName": "HELADO SOFT SABOR FRUTILLA 10 X 800 GR"
   },
   {
-    "ItemCode": "104360009",
-    "ItemName": "JABON LIQUIDO 1X650 CC"
-  },
-  {
     "ItemCode": "104400000",
     "ItemName": "PURE DE PAPAS CON LECHE TKF 20 X 250 GR"
   },
@@ -27810,10 +27806,6 @@
   {
     "ItemCode": "202820011",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
-    "ItemCode": "100752002",
-    "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
     "ItemCode": "103070005",
@@ -31880,10 +31872,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "303870012",
-    "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
-  },
-  {
     "ItemCode": "202910044",
     "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
   },
@@ -31938,10 +31926,6 @@
   {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910033",
@@ -32014,10 +31998,6 @@
   {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
     "ItemCode": "101009038",
@@ -36556,10 +36536,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -36642,10 +36618,6 @@
   {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "104060006",
@@ -44320,14 +44292,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
-    "ItemCode": "100601001",
-    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
     "ItemCode": "300152009",
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
@@ -44606,10 +44570,6 @@
   {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
     "ItemCode": "300001002",
@@ -45476,10 +45436,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -45812,10 +45768,6 @@
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
@@ -45840,15 +45792,63 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "303870012",
+    "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100752002",
+    "ItemName": "MIEL DE ABEJAS 1X500 GR"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "104360009",
+    "ItemName": "JABON LIQUIDO 1X650 CC"
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100601001",
+    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
