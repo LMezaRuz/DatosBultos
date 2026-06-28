@@ -31548,10 +31548,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "303850001",
-    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
@@ -31638,10 +31634,6 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
     "ItemCode": "103940020",
@@ -32118,10 +32110,6 @@
   {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "103910039",
@@ -36202,10 +36190,6 @@
   {
     "ItemCode": "400301033",
     "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
     "ItemCode": "300408001",
@@ -40524,10 +40508,6 @@
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
   {
-    "ItemCode": "101200020",
-    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
-  },
-  {
     "ItemCode": "600002018",
     "ItemName": "REPOLLO 1x1 un."
   },
@@ -40546,10 +40526,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "101200018",
-    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
   {
     "ItemCode": "204300055",
@@ -43608,10 +43584,6 @@
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -43974,10 +43946,6 @@
   {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100355042",
@@ -44468,10 +44436,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -44854,10 +44818,6 @@
   {
     "ItemCode": "202900004",
     "ItemName": "PEPPERONI LAMINADO 2X5,7 KG"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "102600000",
@@ -45624,10 +45584,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
@@ -45808,10 +45764,6 @@
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -45840,15 +45792,63 @@
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
+    "ItemCode": "303850001",
+    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
+  },
+  {
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101200018",
+    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200020",
+    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   }
 ]
