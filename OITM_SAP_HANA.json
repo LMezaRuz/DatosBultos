@@ -28412,10 +28412,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "202820002",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -30438,10 +30434,6 @@
   {
     "ItemCode": "704920000",
     "ItemName": "PALTA HASS CALIBRE 20-24 FIRME CAJA 10KG"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "104020003",
@@ -40076,10 +40068,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "300351023",
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
@@ -45580,10 +45568,6 @@
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
@@ -45756,10 +45740,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -45850,5 +45830,25 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
