@@ -28440,10 +28440,6 @@
     "ItemName": "PULLED PORK 8X1 KG"
   },
   {
-    "ItemCode": "204090006",
-    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
     "ItemCode": "704920007",
     "ItemName": "PALTA HASS CALIBRE 10-18 PREMADURA CAJA 15 KG"
   },
@@ -28550,10 +28546,6 @@
   {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
-    "ItemCode": "204090001",
-    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
   },
   {
     "ItemCode": "102980022",
@@ -39880,10 +39872,6 @@
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101150055",
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
@@ -43628,10 +43616,6 @@
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
@@ -45700,10 +45684,6 @@
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -45714,10 +45694,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "100101005",
@@ -45850,5 +45826,29 @@
   {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "204090001",
+    "ItemName": "KANIKAMA (SURIMI) 18 CM SMART CHOICE 20X500 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204090006",
+    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   }
 ]
