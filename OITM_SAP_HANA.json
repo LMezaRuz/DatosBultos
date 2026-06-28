@@ -31472,10 +31472,6 @@
     "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
   },
   {
-    "ItemCode": "203210111",
-    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
     "ItemCode": "600002032",
     "ItemName": "PIMIENTO MORRÓN AMARILLO KG."
   },
@@ -31486,10 +31482,6 @@
   {
     "ItemCode": "204140018",
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
     "ItemCode": "304440013",
@@ -31844,16 +31836,8 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
-  },
-  {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "102480009",
@@ -32100,10 +32084,6 @@
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
@@ -32338,10 +32318,6 @@
   {
     "ItemCode": "200500042",
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "203230000",
@@ -39760,10 +39736,6 @@
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -40680,10 +40652,6 @@
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "101009017",
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
   },
@@ -40730,10 +40698,6 @@
   {
     "ItemCode": "100101002",
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "300403009",
-    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
     "ItemCode": "200500036",
@@ -45296,10 +45260,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
@@ -45850,5 +45810,45 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "300403009",
+    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "203210111",
+    "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   }
 ]
