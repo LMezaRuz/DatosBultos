@@ -28124,10 +28124,6 @@
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "202800000",
     "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
   },
@@ -29934,10 +29930,6 @@
   {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
-  },
-  {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
     "ItemCode": "204380030",
@@ -32298,10 +32290,6 @@
   {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
     "ItemCode": "101202001",
@@ -39612,10 +39600,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
@@ -40294,10 +40278,6 @@
   {
     "ItemCode": "203510011",
     "ItemName": "HAMBURGUESA DE VACUNO PARRILLERA PURA CARNE 22X225 GR"
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "200051020",
@@ -43328,10 +43308,6 @@
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "200003006",
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
@@ -43546,10 +43522,6 @@
   {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
     "ItemCode": "200200011",
@@ -44006,10 +43978,6 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "300153003",
@@ -44596,16 +44564,8 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "100754007",
     "ItemName": "CHANCACA 1X400 GR"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "203210110",
@@ -44990,14 +44950,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "202720033",
@@ -45850,5 +45802,53 @@
   {
     "ItemCode": "100350003",
     "ItemName": "CAFE EN GRANO TOP FLAVOR (100% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   }
 ]
