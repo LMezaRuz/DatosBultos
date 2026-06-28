@@ -36328,10 +36328,6 @@
     "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "202730042",
     "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
   },
@@ -36424,10 +36420,6 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "101008007",
-    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -36466,10 +36458,6 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
     "ItemCode": "100002008",
@@ -38026,10 +38014,6 @@
   {
     "ItemCode": "101451004",
     "ItemName": "VINAGRE BALSAMICO IL BORGO 2X5 LT"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "100558001",
@@ -40096,10 +40080,6 @@
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "100304029",
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
@@ -40238,10 +40218,6 @@
   {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "100557002",
@@ -44964,10 +44940,6 @@
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
@@ -45062,10 +45034,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "101355003",
@@ -45210,10 +45178,6 @@
   {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "101357008",
@@ -45436,10 +45400,6 @@
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "400252005",
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
@@ -45454,10 +45414,6 @@
   {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "101002006",
@@ -45506,10 +45462,6 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
     "ItemCode": "100302009",
@@ -45850,5 +45802,53 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101008007",
+    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   }
 ]
