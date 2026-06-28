@@ -38952,10 +38952,6 @@
     "ItemName": "CARBONADA WASIL 16X380G"
   },
   {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
@@ -38974,10 +38970,6 @@
   {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
-  },
-  {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
     "ItemCode": "400251001",
@@ -40058,10 +40050,6 @@
   {
     "ItemCode": "600002009",
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "100201010",
@@ -43400,10 +43388,6 @@
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "200200020",
     "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
@@ -45128,10 +45112,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "204090006",
-    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
@@ -45456,10 +45436,6 @@
     "ItemName": "CHUCHOCA 1X1 KG"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -45606,10 +45582,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100150003",
@@ -45800,10 +45772,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
@@ -45814,10 +45782,6 @@
   {
     "ItemCode": "101200022",
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "103650000",
@@ -45850,5 +45814,41 @@
   {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "204090006",
+    "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   }
 ]
