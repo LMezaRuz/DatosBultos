@@ -30096,10 +30096,6 @@
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "102500002",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
@@ -39248,10 +39244,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -39348,10 +39340,6 @@
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "101201040",
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
@@ -39362,10 +39350,6 @@
   {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101201015",
@@ -39382,10 +39366,6 @@
   {
     "ItemCode": "200455002",
     "ItemName": "GOLDEN CHICKEN PICANTE SADIA 16X300 GR"
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051019",
@@ -43248,10 +43228,6 @@
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -43622,10 +43598,6 @@
   {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
   {
     "ItemCode": "101351012",
@@ -45252,10 +45224,6 @@
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -45392,10 +45360,6 @@
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
@@ -45432,16 +45396,8 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "400252003",
@@ -45454,10 +45410,6 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "101008005",
@@ -45502,10 +45454,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "101355003",
@@ -45850,5 +45798,57 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
