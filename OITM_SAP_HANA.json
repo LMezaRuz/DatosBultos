@@ -32116,10 +32116,6 @@
     "ItemName": "HELADO PUDU DULCE DE LECHE 1X5 LT"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -36628,10 +36624,6 @@
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
@@ -40628,10 +40620,6 @@
     "ItemName": "PIÑA 1x1 un"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -43604,10 +43592,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
@@ -44216,10 +44200,6 @@
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44274,10 +44254,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101250001",
@@ -45850,5 +45826,29 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
   }
 ]
