@@ -31048,10 +31048,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "203190005",
-    "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304440019",
     "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
   },
@@ -31082,10 +31078,6 @@
   {
     "ItemCode": "102970013",
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
-  },
-  {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "300153008",
@@ -38636,10 +38628,6 @@
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
@@ -44744,10 +44732,6 @@
     "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "400301072",
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
@@ -45472,10 +45456,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
@@ -45580,10 +45560,6 @@
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -45650,10 +45626,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "100004001",
@@ -45812,10 +45784,6 @@
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -45850,5 +45818,37 @@
   {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "203190005",
+    "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   }
 ]
