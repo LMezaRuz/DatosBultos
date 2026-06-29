@@ -31332,10 +31332,6 @@
     "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
   },
   {
-    "ItemCode": "202720025",
-    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
     "ItemCode": "200250016",
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
@@ -38148,16 +38144,8 @@
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "202720026",
-    "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
-  },
-  {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
-  },
-  {
-    "ItemCode": "203480000",
-    "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
   {
     "ItemCode": "200401007",
@@ -44100,10 +44088,6 @@
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
@@ -44928,10 +44912,6 @@
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "104670059",
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
@@ -44950,10 +44930,6 @@
   {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "101010006",
@@ -45274,10 +45250,6 @@
   {
     "ItemCode": "101200023",
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "300153011",
@@ -45850,5 +45822,33 @@
   {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "202720026",
+    "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
+  },
+  {
+    "ItemCode": "203480000",
+    "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
+  },
+  {
+    "ItemCode": "202720025",
+    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
