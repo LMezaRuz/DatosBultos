@@ -30724,10 +30724,6 @@
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "204180028",
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
@@ -31790,10 +31786,6 @@
   {
     "ItemCode": "103450020",
     "ItemName": "CIRUELAS SIN CAROZO 10 X 1 KG"
-  },
-  {
-    "ItemCode": "104210017",
-    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
   {
     "ItemCode": "403130000",
@@ -43156,10 +43148,6 @@
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
   },
@@ -44492,10 +44480,6 @@
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
@@ -45364,10 +45348,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -45672,20 +45652,12 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100852012",
@@ -45894,5 +45866,33 @@
   {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104210017",
+    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
