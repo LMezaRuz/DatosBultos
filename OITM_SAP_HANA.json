@@ -41212,10 +41212,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "200001001",
-    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
     "ItemCode": "100854017",
     "ItemName": "TIKA CHILOE 14 X 150 GR"
   },
@@ -42322,10 +42318,6 @@
   {
     "ItemCode": "300351015",
     "ItemName": "PRIETAS 1x250 g."
-  },
-  {
-    "ItemCode": "400003001",
-    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
     "ItemCode": "300351009",
@@ -44720,10 +44712,6 @@
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
@@ -45208,10 +45196,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -45504,10 +45488,6 @@
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
@@ -45638,10 +45618,6 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "101150055",
-    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
   {
     "ItemCode": "103250000",
@@ -45894,5 +45870,29 @@
   {
     "ItemCode": "104010051",
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
+  },
+  {
+    "ItemCode": "400003001",
+    "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
+  },
+  {
+    "ItemCode": "101150055",
+    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "200001001",
+    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
   }
 ]
