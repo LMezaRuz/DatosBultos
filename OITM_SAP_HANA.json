@@ -29840,10 +29840,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "304760044",
-    "ItemName": "PALANCA AL VACIO CAT V - LOCAL (NV) X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
@@ -36212,14 +36208,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
-  },
-  {
     "ItemCode": "300151003",
     "ItemName": "PACK PROBIOTICO MANZANA UNV 6X90 ML"
   },
@@ -38978,10 +38966,6 @@
   {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101201049",
-    "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
     "ItemCode": "300353082",
@@ -45556,16 +45540,8 @@
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
   {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
-    "ItemCode": "100303006",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
     "ItemCode": "100902003",
@@ -45898,5 +45874,29 @@
   {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100303006",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "101201049",
+    "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
+  },
+  {
+    "ItemCode": "304760044",
+    "ItemName": "PALANCA AL VACIO CAT V - LOCAL (NV) X KG (20 KG APROX)"
   }
 ]
