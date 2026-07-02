@@ -39356,10 +39356,6 @@
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "100202005",
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
   },
@@ -40274,10 +40270,6 @@
   {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
-  },
-  {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
     "ItemCode": "101403004",
@@ -44308,10 +44300,6 @@
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
@@ -45268,10 +45256,6 @@
     "ItemName": "GYOZAS DE CERDO ARTESANAL 5X30 UN"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -45620,10 +45604,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -45898,5 +45878,25 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   }
 ]
