@@ -43692,36 +43692,12 @@
     "ItemName": "TOFU 12X307 GRS."
   },
   {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
-  },
-  {
-    "ItemCode": "103910018",
-    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
     "ItemCode": "204310023",
@@ -44312,10 +44288,6 @@
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
-    "ItemCode": "101450007",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "303660008",
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
   },
@@ -44466,10 +44438,6 @@
   {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101357006",
@@ -44854,10 +44822,6 @@
   {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "100202016",
-    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
   {
     "ItemCode": "200500008",
@@ -45404,10 +45368,6 @@
     "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
   },
   {
-    "ItemCode": "100300012",
-    "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -45708,20 +45668,12 @@
     "ItemName": "CHOCLILLO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "104010002",
-    "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
-  },
-  {
     "ItemCode": "101353033",
     "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
   },
   {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "200455011",
@@ -45898,5 +45850,53 @@
   {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910018",
+    "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "104010002",
+    "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
+  },
+  {
+    "ItemCode": "101450007",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "100202016",
+    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "100300012",
+    "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   }
 ]
