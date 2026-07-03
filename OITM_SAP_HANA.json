@@ -31552,10 +31552,6 @@
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
-    "ItemCode": "304430001",
-    "ItemName": "QUESO CREMA CALO 1X100 GR"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
@@ -32190,10 +32186,6 @@
   {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "203190049",
@@ -38960,10 +38952,6 @@
     "ItemName": "GOLDEN CHICKEN PICANTE SADIA 16X300 GR"
   },
   {
-    "ItemCode": "101009017",
-    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "300001001",
     "ItemName": "CHOCOLATE CALLEBAUT EXTRA AMARGO 80% 8X2.5 KG"
   },
@@ -39090,10 +39078,6 @@
   {
     "ItemCode": "100355016",
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "100557018",
@@ -39290,10 +39274,6 @@
   {
     "ItemCode": "100653004",
     "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "400301042",
@@ -40190,10 +40170,6 @@
   {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "200305016",
-    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
   {
     "ItemCode": "200051021",
@@ -42572,10 +42548,6 @@
     "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "100250001",
     "ItemName": "BASE PARA APANAR 1X1 KG."
   },
@@ -44288,10 +44260,6 @@
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "100004007",
     "ItemName": "ACEITE VEGETAL GS 12X900 CC."
   },
@@ -45236,10 +45204,6 @@
     "ItemName": "LECHE PROTEIN FULLPRO CAPPUCCINO LONCOLECHE 18X250"
   },
   {
-    "ItemCode": "101009015",
-    "ItemName": "LECHE VAINILLA 6X200CC"
-  },
-  {
     "ItemCode": "101401006",
     "ItemName": "LENTEJAS WASIL 16X380GRS."
   },
@@ -45796,14 +45760,6 @@
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -45898,5 +45854,49 @@
   {
     "ItemCode": "100754002",
     "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
+  },
+  {
+    "ItemCode": "200305016",
+    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "304430001",
+    "ItemName": "QUESO CREMA CALO 1X100 GR"
+  },
+  {
+    "ItemCode": "101009017",
+    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009015",
+    "ItemName": "LECHE VAINILLA 6X200CC"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   }
 ]
