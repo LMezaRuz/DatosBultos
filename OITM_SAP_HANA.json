@@ -41888,10 +41888,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "300400010",
-    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
@@ -42584,10 +42580,6 @@
     "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "103720007",
-    "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
-  },
-  {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -42662,10 +42654,6 @@
   {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "101201053",
@@ -42850,18 +42838,6 @@
   {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
-    "ItemCode": "101009027",
-    "ItemName": "SHAKE SHAKE CHOCOLATE 6X170 GR"
-  },
-  {
-    "ItemCode": "101009028",
-    "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009033",
@@ -43180,14 +43156,6 @@
     "ItemName": "YOGHURT ACTIVIA FRUTOS DEL BOSQUE SIN LACTOSA 24 X140 GR"
   },
   {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
-  },
-  {
-    "ItemCode": "300157041",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
     "ItemCode": "202820001",
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -43478,14 +43446,6 @@
   {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "300157040",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
     "ItemCode": "101002008",
@@ -43948,10 +43908,6 @@
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "100754003",
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
@@ -44162,10 +44118,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "200307005",
@@ -45188,20 +45140,12 @@
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "100851003",
@@ -45898,5 +45842,61 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009027",
+    "ItemName": "SHAKE SHAKE CHOCOLATE 6X170 GR"
+  },
+  {
+    "ItemCode": "101009028",
+    "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
+  },
+  {
+    "ItemCode": "103720007",
+    "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
+  },
+  {
+    "ItemCode": "300157040",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157041",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "300400010",
+    "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   }
 ]
