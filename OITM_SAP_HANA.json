@@ -29900,10 +29900,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "303870009",
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
   },
@@ -30658,10 +30654,6 @@
   {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "104680000",
@@ -36156,10 +36148,6 @@
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "101150061",
-    "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
-  },
-  {
     "ItemCode": "100750007",
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
@@ -40272,10 +40260,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "200305016",
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
@@ -40430,10 +40414,6 @@
   {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
-  },
-  {
-    "ItemCode": "200455001",
-    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
     "ItemCode": "100101014",
@@ -42904,10 +42884,6 @@
     "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "100355013",
     "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
@@ -43354,10 +43330,6 @@
   {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
     "ItemCode": "100303005",
@@ -45312,10 +45284,6 @@
     "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "100304034",
-    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
-  },
-  {
     "ItemCode": "103760004",
     "ItemName": "LECHE CON CHOCOLATE SIN LACTOSA LONCO 12X1 LT"
   },
@@ -45380,10 +45348,6 @@
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
   },
   {
-    "ItemCode": "103910030",
-    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
-  },
-  {
     "ItemCode": "100751024",
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
   },
@@ -45394,10 +45358,6 @@
   {
     "ItemCode": "103910020",
     "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
   },
   {
     "ItemCode": "103910018",
@@ -45748,10 +45708,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
@@ -45768,20 +45724,12 @@
     "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
   },
   {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "100004001",
@@ -45864,20 +45812,8 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "101100061",
@@ -45898,5 +45834,69 @@
   {
     "ItemCode": "102500002",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
+  },
+  {
+    "ItemCode": "200455001",
+    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101150061",
+    "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100304034",
+    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
+  },
+  {
+    "ItemCode": "103910030",
+    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   }
 ]
