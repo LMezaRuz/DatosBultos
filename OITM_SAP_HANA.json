@@ -28320,10 +28320,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "103180000",
-    "ItemName": "DURAZNOS MITADES WASIL 6X3 KG"
-  },
-  {
     "ItemCode": "200003001",
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
@@ -40612,10 +40608,6 @@
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
   {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201044",
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -45898,5 +45890,13 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103180000",
+    "ItemName": "DURAZNOS MITADES WASIL 6X3 KG"
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   }
 ]
