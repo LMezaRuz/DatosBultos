@@ -28288,10 +28288,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
   },
@@ -35656,10 +35652,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
@@ -38954,10 +38946,6 @@
   {
     "ItemCode": "300351003",
     "ItemName": "JAMON PIERNA LAMINADO MODINGER 1x150 g."
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "100751003",
@@ -45508,10 +45496,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -45898,5 +45882,21 @@
   {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   }
 ]
