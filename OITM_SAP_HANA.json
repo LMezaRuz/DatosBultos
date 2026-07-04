@@ -28280,10 +28280,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
@@ -30854,10 +30850,6 @@
   {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "400001002",
@@ -36516,10 +36508,6 @@
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -39816,10 +39804,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
@@ -40082,14 +40066,6 @@
   {
     "ItemCode": "204790038",
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
-  },
-  {
-    "ItemCode": "300156007",
-    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "300156008",
-    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
     "ItemCode": "101001003",
@@ -40574,10 +40550,6 @@
   {
     "ItemCode": "101201024",
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100700007",
@@ -43028,16 +43000,8 @@
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "101303003",
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "400005006",
@@ -43046,10 +43010,6 @@
   {
     "ItemCode": "300405003",
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100550008",
@@ -43382,10 +43342,6 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "300156010",
-    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
   },
   {
     "ItemCode": "LOG_102540019",
@@ -44210,10 +44166,6 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
-    "ItemCode": "104210011",
-    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "104210012",
@@ -45828,10 +45780,6 @@
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
-    "ItemCode": "202730073",
-    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
     "ItemCode": "202730042",
     "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
   },
@@ -45868,10 +45816,6 @@
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
@@ -45898,5 +45842,61 @@
   {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "300156008",
+    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156007",
+    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156010",
+    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "202730073",
+    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104210011",
+    "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
   }
 ]
