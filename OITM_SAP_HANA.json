@@ -31592,10 +31592,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
     "ItemCode": "304760248",
     "ItemName": "PUNTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -32310,10 +32306,6 @@
   {
     "ItemCode": "203210117",
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
     "ItemCode": "104670077",
@@ -35930,10 +35922,6 @@
   {
     "ItemCode": "300353075",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "400010023",
-    "ItemName": "RINZA 1X1 UN"
   },
   {
     "ItemCode": "300353065",
@@ -43068,10 +43056,6 @@
     "ItemName": "[LOG] TE LIPTON REFRESHING LEMON BLK 6 X 25 BLS"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -44780,10 +44764,6 @@
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
@@ -45080,10 +45060,6 @@
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -45174,10 +45150,6 @@
   {
     "ItemCode": "202730072",
     "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "104060006",
@@ -45298,10 +45270,6 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "100102004",
@@ -45444,10 +45412,6 @@
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -45492,14 +45456,6 @@
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
@@ -45528,10 +45484,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -45554,10 +45506,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "204790008",
@@ -45898,5 +45846,57 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "400010023",
+    "ItemName": "RINZA 1X1 UN"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
