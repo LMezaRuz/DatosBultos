@@ -28544,10 +28544,6 @@
     "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
   {
-    "ItemCode": "200201032",
-    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
-  },
-  {
     "ItemCode": "300353073",
     "ItemName": "PUNTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -35764,10 +35760,6 @@
     "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
   },
   {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -41944,10 +41936,6 @@
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200002010",
     "ItemName": "EMPANADA POLLO MANDARIN Y MERKEN 2X50 UN"
   },
@@ -42874,10 +42862,6 @@
   {
     "ItemCode": "204170000",
     "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "LOG_104670083",
@@ -44952,10 +44936,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "202720035",
-    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
     "ItemCode": "202730072",
     "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
   },
@@ -44974,10 +44954,6 @@
   {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
-    "ItemCode": "202720027",
-    "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
   },
   {
     "ItemCode": "101201042",
@@ -45556,10 +45532,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -45898,5 +45870,33 @@
   {
     "ItemCode": "200201002",
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "202720035",
+    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
+  },
+  {
+    "ItemCode": "200201032",
+    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
+  },
+  {
+    "ItemCode": "202720027",
+    "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
   }
 ]
