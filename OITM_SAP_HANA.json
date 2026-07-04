@@ -28580,10 +28580,6 @@
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
@@ -29228,10 +29224,6 @@
     "ItemName": "TOCINO PICADO ESPECIAL DE CERDO 23 KG (APROX)"
   },
   {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
     "ItemCode": "203190056",
     "ItemName": "LOMITO DE CERDO 30X140 GR"
   },
@@ -29618,10 +29610,6 @@
   {
     "ItemCode": "300151003",
     "ItemName": "PACK PROBIOTICO MANZANA UNV 6X90 ML"
-  },
-  {
-    "ItemCode": "202730005",
-    "ItemName": "PAN PETIT MULTICEREALES 200X40 GR"
   },
   {
     "ItemCode": "103580001",
@@ -30724,10 +30712,6 @@
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
   {
-    "ItemCode": "202730040",
-    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
-  },
-  {
     "ItemCode": "101200008",
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
@@ -31550,10 +31534,6 @@
   {
     "ItemCode": "202730041",
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
-  },
-  {
-    "ItemCode": "202730047",
-    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
     "ItemCode": "600002035",
@@ -36100,10 +36080,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   },
@@ -36510,10 +36486,6 @@
   {
     "ItemCode": "100250006",
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103990003",
-    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
     "ItemCode": "100202014",
@@ -43236,10 +43208,6 @@
     "ItemName": "[LOG] TE LIPTON INFS FRUTOS ROJOS 12X10BLS"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "LOG_104670030",
     "ItemName": "[LOG] TE LIPTON INFS LIMON Y JENGIBRE 12X10BLS"
   },
@@ -45312,10 +45280,6 @@
     "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
-    "ItemCode": "202730042",
-    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -45486,10 +45450,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "102520000",
@@ -45840,10 +45800,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -45898,5 +45854,49 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "202730005",
+    "ItemName": "PAN PETIT MULTICEREALES 200X40 GR"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "202730047",
+    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
+  },
+  {
+    "ItemCode": "202730040",
+    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE CHOCOLATE Y AVELLANAS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730042",
+    "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
+  },
+  {
+    "ItemCode": "103990003",
+    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
