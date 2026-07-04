@@ -29872,10 +29872,6 @@
     "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "204790029",
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
@@ -30474,10 +30470,6 @@
   {
     "ItemCode": "102960002",
     "ItemName": "TRENCITO CHOCOLATE POLVO 14X350 GR"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "400250006",
@@ -32466,10 +32458,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
     "ItemCode": "300156002",
@@ -39576,10 +39564,6 @@
     "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
   {
-    "ItemCode": "101001004",
-    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -39614,14 +39598,6 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "300353076",
@@ -42900,10 +42876,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100557014",
     "ItemName": "ROMERO EN FRASCO 1X11 GR."
   },
@@ -43542,10 +43514,6 @@
   {
     "ItemCode": "300351020",
     "ItemName": "PATE DE JAMON 16X125 GRS"
-  },
-  {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
     "ItemCode": "LOG_104670060",
@@ -44522,10 +44490,6 @@
   {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "100102015",
@@ -45732,10 +45696,6 @@
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104210011",
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
@@ -45750,10 +45710,6 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "100102011",
@@ -45898,5 +45854,49 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "101001004",
+    "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   }
 ]
