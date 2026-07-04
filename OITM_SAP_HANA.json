@@ -31480,10 +31480,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "600002035",
-    "ItemName": "MANGO KG."
-  },
-  {
     "ItemCode": "202730067",
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
@@ -35616,10 +35612,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "600002001",
-    "ItemName": "CEBOLLA MORADA KG"
-  },
-  {
     "ItemCode": "200460051",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
@@ -36076,10 +36068,6 @@
     "ItemName": "PATE DE CAMPO 16x125 GRS"
   },
   {
-    "ItemCode": "600002025",
-    "ItemName": "BROCOLI"
-  },
-  {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
@@ -36090,10 +36078,6 @@
   {
     "ItemCode": "300353082",
     "ItemName": "ASIENTO KG. (NV)"
-  },
-  {
-    "ItemCode": "600002026",
-    "ItemName": "CIBOULETTE"
   },
   {
     "ItemCode": "304460000",
@@ -36130,10 +36114,6 @@
   {
     "ItemCode": "300351010",
     "ItemName": "JAMON SANDWICH LAMINADO CERDO 1 x 1 kg"
-  },
-  {
-    "ItemCode": "600002005",
-    "ItemName": "AJOS KG"
   },
   {
     "ItemCode": "300353078",
@@ -45728,72 +45708,16 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "600002023",
-    "ItemName": "ACELGA 1X1 UN"
-  },
-  {
-    "ItemCode": "600002004",
-    "ItemName": "AJI VERDE KG."
-  },
-  {
-    "ItemCode": "600002006",
-    "ItemName": "APIO 1X1 UN"
-  },
-  {
-    "ItemCode": "600002007",
-    "ItemName": "BETARRAGAS KG."
-  },
-  {
-    "ItemCode": "600002008",
-    "ItemName": "CEBOLLA KG."
-  },
-  {
-    "ItemCode": "600002009",
-    "ItemName": "CEBOLLIN PAQ. 1X3 un."
-  },
-  {
     "ItemCode": "600002024",
     "ItemName": "CHAMPIÑON BANDEJA"
-  },
-  {
-    "ItemCode": "600002010",
-    "ItemName": "CILANTRO 1x125 g."
   },
   {
     "ItemCode": "600002041",
     "ItemName": "CIRUELA KG."
   },
   {
-    "ItemCode": "600002012",
-    "ItemName": "COLIFLOR 1x1 un."
-  },
-  {
     "ItemCode": "600001008",
     "ItemName": "KIWI KG."
-  },
-  {
-    "ItemCode": "600002003",
-    "ItemName": "LECHUGA 1x1 u."
-  },
-  {
-    "ItemCode": "600001007",
-    "ItemName": "LIMON KG."
-  },
-  {
-    "ItemCode": "600001004",
-    "ItemName": "MANDARINA KG."
-  },
-  {
-    "ItemCode": "600001001",
-    "ItemName": "MANZANA KG."
-  },
-  {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
-  },
-  {
-    "ItemCode": "600002002",
-    "ItemName": "PALTA HASS MALLA 1x1 un"
   },
   {
     "ItemCode": "100900009",
@@ -45856,10 +45780,6 @@
     "ItemName": "ZAPALLO ITALIANO 1x1 un."
   },
   {
-    "ItemCode": "600002021",
-    "ItemName": "ZAPALLO KG."
-  },
-  {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
   },
@@ -45898,5 +45818,85 @@
   {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "600002023",
+    "ItemName": "ACELGA 1X1 UN"
+  },
+  {
+    "ItemCode": "600002004",
+    "ItemName": "AJI VERDE KG."
+  },
+  {
+    "ItemCode": "600002005",
+    "ItemName": "AJOS KG"
+  },
+  {
+    "ItemCode": "600002006",
+    "ItemName": "APIO 1X1 UN"
+  },
+  {
+    "ItemCode": "600002007",
+    "ItemName": "BETARRAGAS KG."
+  },
+  {
+    "ItemCode": "600002025",
+    "ItemName": "BROCOLI"
+  },
+  {
+    "ItemCode": "600002008",
+    "ItemName": "CEBOLLA KG."
+  },
+  {
+    "ItemCode": "600002001",
+    "ItemName": "CEBOLLA MORADA KG"
+  },
+  {
+    "ItemCode": "600002009",
+    "ItemName": "CEBOLLIN PAQ. 1X3 un."
+  },
+  {
+    "ItemCode": "600002026",
+    "ItemName": "CIBOULETTE"
+  },
+  {
+    "ItemCode": "600002010",
+    "ItemName": "CILANTRO 1x125 g."
+  },
+  {
+    "ItemCode": "600002012",
+    "ItemName": "COLIFLOR 1x1 un."
+  },
+  {
+    "ItemCode": "600002003",
+    "ItemName": "LECHUGA 1x1 u."
+  },
+  {
+    "ItemCode": "600001007",
+    "ItemName": "LIMON KG."
+  },
+  {
+    "ItemCode": "600001004",
+    "ItemName": "MANDARINA KG."
+  },
+  {
+    "ItemCode": "600002035",
+    "ItemName": "MANGO KG."
+  },
+  {
+    "ItemCode": "600001001",
+    "ItemName": "MANZANA KG."
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "600002002",
+    "ItemName": "PALTA HASS MALLA 1x1 un"
+  },
+  {
+    "ItemCode": "600002021",
+    "ItemName": "ZAPALLO KG."
   }
 ]
