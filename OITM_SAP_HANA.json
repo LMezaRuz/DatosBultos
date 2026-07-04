@@ -30600,10 +30600,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "300401001",
-    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
-  },
-  {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
   },
@@ -45456,10 +45452,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -45490,10 +45482,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "104670005",
@@ -45898,5 +45886,17 @@
   {
     "ItemCode": "400005017",
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "300401001",
+    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   }
 ]
