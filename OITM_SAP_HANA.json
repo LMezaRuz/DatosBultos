@@ -28432,10 +28432,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 12X20 BLS"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
@@ -28486,10 +28482,6 @@
   {
     "ItemCode": "104070005",
     "ItemName": "CEBOLLA PERLA TRAVERSO 24 X 500 GR"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "100304047",
@@ -29900,10 +29892,6 @@
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
   },
   {
-    "ItemCode": "103910034",
-    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910030",
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
@@ -30126,10 +30114,6 @@
   {
     "ItemCode": "100552003",
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
-  },
-  {
-    "ItemCode": "103740002",
-    "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
   },
   {
     "ItemCode": "104670049",
@@ -30976,10 +30960,6 @@
     "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
   },
   {
-    "ItemCode": "101009039",
-    "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
-  },
-  {
     "ItemCode": "300157027",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
@@ -31572,10 +31552,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "300405005",
-    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
-  },
-  {
     "ItemCode": "204300073",
     "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
   },
@@ -31594,10 +31570,6 @@
   {
     "ItemCode": "304410001",
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
-  },
-  {
-    "ItemCode": "100002013",
-    "ItemName": "ACEITE CHEF MARAVILLA 30X500ML"
   },
   {
     "ItemCode": "400003001",
@@ -43940,10 +43912,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "304450006",
-    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -43962,10 +43930,6 @@
   {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
     "ItemCode": "300152006",
@@ -45898,5 +45862,41 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "304450006",
+    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "300405005",
+    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "100002013",
+    "ItemName": "ACEITE CHEF MARAVILLA 30X500ML"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "103910034",
+    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101009039",
+    "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
+  },
+  {
+    "ItemCode": "103740002",
+    "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
   }
 ]
