@@ -26940,10 +26940,6 @@
     "ItemName": "VASO HELADO SUNDAE BARRIO CHICKEN 7,25X1000 UN"
   },
   {
-    "ItemCode": "203210048",
-    "ItemName": "HAMBURGUESA DE VACUNO 228X75 GRS."
-  },
-  {
     "ItemCode": "200100098",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6 X 460 ML."
   },
@@ -31110,10 +31106,6 @@
   {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "204100006",
@@ -38644,10 +38636,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "300353060",
-    "ItemName": "CHOCLILLO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
     "ItemCode": "101353031",
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
   },
@@ -45132,10 +45120,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "204300020",
-    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
-  },
-  {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
@@ -45898,5 +45882,21 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "300353060",
+    "ItemName": "CHOCLILLO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "204300020",
+    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
+  },
+  {
+    "ItemCode": "203210048",
+    "ItemName": "HAMBURGUESA DE VACUNO 228X75 GRS."
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   }
 ]
