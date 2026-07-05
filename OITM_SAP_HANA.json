@@ -28568,10 +28568,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
     "ItemCode": "104070007",
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
@@ -35624,14 +35620,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "100352005",
-    "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "100352003",
-    "ItemName": "CAFE BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "101201056",
     "ItemName": "FLAN CON LECHE FRUTILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -38264,10 +38252,6 @@
     "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -38526,10 +38510,6 @@
   {
     "ItemCode": "100558001",
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
     "ItemCode": "101201032",
@@ -42096,10 +42076,6 @@
     "ItemName": "CHORICILLO PF 1X1 KG."
   },
   {
-    "ItemCode": "100352006",
-    "ItemName": "CAFE ARMONIA (100% ARABICA) EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "400005009",
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
   },
@@ -43002,10 +42978,6 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
-    "ItemCode": "100352008",
-    "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
     "ItemCode": "103880015",
@@ -44716,10 +44688,6 @@
     "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "300351009",
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
@@ -44962,10 +44930,6 @@
   {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "400010019",
@@ -45254,10 +45218,6 @@
   {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "400008004",
@@ -45898,5 +45858,45 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100352006",
+    "ItemName": "CAFE ARMONIA (100% ARABICA) EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "100352008",
+    "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352005",
+    "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352003",
+    "ItemName": "CAFE BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   }
 ]
