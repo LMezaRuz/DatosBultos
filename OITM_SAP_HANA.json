@@ -31632,10 +31632,6 @@
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
-    "ItemCode": "204300082",
-    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
-  },
-  {
     "ItemCode": "304760430",
     "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -31646,14 +31642,6 @@
   {
     "ItemCode": "300150001",
     "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
     "ItemCode": "103640002",
@@ -31846,10 +31834,6 @@
   {
     "ItemCode": "204710002",
     "ItemName": "CHIPS DE MAIZ 4 CORTES SYSCO 1 X 14.5 KG"
-  },
-  {
-    "ItemCode": "104010055",
-    "ItemName": "SALSA TERIYAKI 12X250 GR"
   },
   {
     "ItemCode": "303660008",
@@ -43920,10 +43904,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
@@ -44432,10 +44412,6 @@
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
   {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100355003",
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
@@ -44582,10 +44558,6 @@
   {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
-  },
-  {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
     "ItemCode": "400004007",
@@ -44974,10 +44946,6 @@
   {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100004001",
@@ -45840,10 +45808,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "101150083",
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
@@ -45898,5 +45862,41 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "104010055",
+    "ItemName": "SALSA TERIYAKI 12X250 GR"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "204300082",
+    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   }
 ]
