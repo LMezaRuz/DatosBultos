@@ -28596,10 +28596,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
   {
-    "ItemCode": "202730006",
-    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
-  },
-  {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
@@ -30984,10 +30980,6 @@
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
   {
-    "ItemCode": "103020000",
-    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
-  },
-  {
     "ItemCode": "304450005",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
@@ -31166,10 +31158,6 @@
   {
     "ItemCode": "104670000",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "101004001",
-    "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
     "ItemCode": "104620004",
@@ -43076,10 +43064,6 @@
     "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "100550003",
     "ItemName": "AJI DE COLOR GOURMET 1X15 GR"
   },
@@ -45236,10 +45220,6 @@
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
   },
   {
-    "ItemCode": "300353113",
-    "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
     "ItemCode": "300406007",
     "ItemName": "QUESO MOZZARELLA EN BARRA LOCAL  (2,5 KILOS APROX)"
   },
@@ -45560,10 +45540,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "300353059",
-    "ItemName": "ASIENTO  AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -45610,10 +45586,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "302970006",
@@ -45898,5 +45870,33 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101004001",
+    "ItemName": "LECHE CONDENSADA 24X390 GR"
+  },
+  {
+    "ItemCode": "202730006",
+    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "103020000",
+    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "300353059",
+    "ItemName": "ASIENTO  AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "300353113",
+    "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
   }
 ]
