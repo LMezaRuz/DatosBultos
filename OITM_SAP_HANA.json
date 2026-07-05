@@ -28556,10 +28556,6 @@
     "ItemName": "PASTELERA DE CHOCLO WASIL 16X380 GR"
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "104070010",
     "ItemName": "PEPINILLO DILL ENTERO 20-30 MAIFRE 10X1 KG"
   },
@@ -31368,10 +31364,6 @@
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
   {
-    "ItemCode": "400010013",
-    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
@@ -32266,10 +32258,6 @@
   {
     "ItemCode": "102780005",
     "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "204380020",
@@ -43608,10 +43596,6 @@
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
   {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44224,20 +44208,12 @@
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
-    "ItemCode": "400252006",
-    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
   {
     "ItemCode": "400250004",
@@ -45898,5 +45874,29 @@
   {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
+  },
+  {
+    "ItemCode": "400252006",
+    "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "400010013",
+    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
   }
 ]
