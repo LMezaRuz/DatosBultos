@@ -29156,10 +29156,6 @@
     "ItemName": "SAL FINA EN POTE 12X850 GR"
   },
   {
-    "ItemCode": "103520012",
-    "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
-  },
-  {
     "ItemCode": "103190003",
     "ItemName": "PULLED PORK 12X1,2 KG"
   },
@@ -31232,10 +31228,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
   {
-    "ItemCode": "204530031",
-    "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
-  },
-  {
     "ItemCode": "204300087",
     "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
   },
@@ -31614,10 +31606,6 @@
   {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
     "ItemCode": "103640002",
@@ -32258,10 +32246,6 @@
   {
     "ItemCode": "204790047",
     "ItemName": "ARVEJA CONGELADA CUKIT 10X1 KG"
-  },
-  {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
     "ItemCode": "202820005",
@@ -36046,10 +36030,6 @@
   {
     "ItemCode": "300154012",
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "101007013",
@@ -39878,10 +39858,6 @@
   {
     "ItemCode": "400301033",
     "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "300152003",
@@ -45620,20 +45596,12 @@
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
-    "ItemCode": "100552004",
-    "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
     "ItemCode": "100650003",
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
-  },
-  {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "101005001",
@@ -45734,10 +45702,6 @@
   {
     "ItemCode": "101302003",
     "ItemName": "ESENCIA VAINILLA 1x100 cc"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
     "ItemCode": "400001003",
@@ -45860,14 +45824,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
@@ -45898,5 +45854,49 @@
   {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "204530031",
+    "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "103520012",
+    "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100552004",
+    "ItemName": "CANELA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   }
 ]
