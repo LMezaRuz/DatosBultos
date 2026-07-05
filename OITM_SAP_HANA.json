@@ -30152,10 +30152,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.) (X-MAYOR)"
   },
   {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
-  },
-  {
     "ItemCode": "104010053",
     "ItemName": "SALSA DE AJI DULCE 12X730 ML"
   },
@@ -31800,10 +31796,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
-    "ItemCode": "103480001",
-    "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -32290,10 +32282,6 @@
   {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "103940022",
@@ -39164,10 +39152,6 @@
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
   },
   {
-    "ItemCode": "100751010",
-    "ItemName": "MERMELADA DE MORA 1X1 KG"
-  },
-  {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
@@ -39746,10 +39730,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101303005",
@@ -43508,10 +43488,6 @@
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -43522,10 +43498,6 @@
   {
     "ItemCode": "100852004",
     "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
     "ItemCode": "101357006",
@@ -43582,10 +43554,6 @@
   {
     "ItemCode": "300400010",
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "204790043",
@@ -44536,10 +44504,6 @@
     "ItemName": "CANELA EN RAMA 1X250 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
@@ -44686,10 +44650,6 @@
   {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
     "ItemCode": "400004008",
@@ -44922,10 +44882,6 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "103180004",
@@ -45382,10 +45338,6 @@
   {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "100200002",
@@ -45898,5 +45850,53 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
+  },
+  {
+    "ItemCode": "103480001",
+    "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
+  },
+  {
+    "ItemCode": "100751010",
+    "ItemName": "MERMELADA DE MORA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   }
 ]
