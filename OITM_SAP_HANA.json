@@ -31832,10 +31832,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "104520008",
     "ItemName": "SAL BIOSAL 30 X 125 GR"
   },
@@ -32354,10 +32350,6 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
     "ItemCode": "202730079",
@@ -38768,10 +38760,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1x5 g."
   },
   {
-    "ItemCode": "101301002",
-    "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
-  },
-  {
     "ItemCode": "101353031",
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
   },
@@ -40078,10 +40066,6 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
     "ItemCode": "100600004",
@@ -44724,10 +44708,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -45764,10 +45744,6 @@
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -45898,5 +45874,29 @@
   {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "101301002",
+    "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
   }
 ]
