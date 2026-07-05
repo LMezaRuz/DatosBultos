@@ -30588,10 +30588,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
-    "ItemCode": "304760251",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760468",
     "ItemName": "LOMO VETADO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -31264,10 +31260,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
-    "ItemCode": "304760259",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "103110002",
     "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
   },
@@ -31378,10 +31370,6 @@
   {
     "ItemCode": "204300089",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. AURORA 1X15KG (X-MAYOR)"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
     "ItemCode": "304760462",
@@ -31810,10 +31798,6 @@
   {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
-  },
-  {
-    "ItemCode": "304760046",
-    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
   {
     "ItemCode": "102600001",
@@ -39876,10 +39860,6 @@
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "100557023",
-    "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -42548,10 +42528,6 @@
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "202910017",
-    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
-  },
-  {
     "ItemCode": "101403001",
     "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
@@ -45060,10 +45036,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "204180017",
-    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
     "ItemCode": "100151001",
     "ItemName": "CEREAL VIVO CHECK 1X360 GR"
   },
@@ -45748,10 +45720,6 @@
     "ItemName": "PLATEADA BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "304760249",
-    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "600002017",
     "ItemName": "PIMIENTO MORRÓN KG."
   },
@@ -45778,14 +45746,6 @@
   {
     "ItemCode": "100251007",
     "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
-  },
-  {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   },
   {
     "ItemCode": "204380029",
@@ -45898,5 +45858,45 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "304760259",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760046",
+    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760249",
+    "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910017",
+    "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
+  },
+  {
+    "ItemCode": "304760251",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "100557023",
+    "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "204180017",
+    "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   }
 ]
