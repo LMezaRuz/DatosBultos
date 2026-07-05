@@ -30480,10 +30480,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
   {
-    "ItemCode": "204150019",
-    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
     "ItemCode": "303850012",
     "ItemName": "MANTEQUILLA LAS PARCELAS DE VALDIVIA POTE 24X200 GR"
   },
@@ -30976,10 +30972,6 @@
     "ItemName": "YOGURT ACTIVIA FRUTILLA SIN LACTOSA 24X140 GR"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
@@ -31014,10 +31006,6 @@
   {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
     "ItemCode": "203190008",
@@ -31998,10 +31986,6 @@
   {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "202730040",
@@ -39896,10 +39880,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101201016",
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
@@ -43932,10 +43912,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "100401001",
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
@@ -45332,10 +45308,6 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -45628,10 +45600,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
@@ -45898,5 +45866,37 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "204150019",
+    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   }
 ]
