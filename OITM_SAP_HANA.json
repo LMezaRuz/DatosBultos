@@ -35676,10 +35676,6 @@
     "ItemName": "CAFE FINA SELECCION 1X200 GR"
   },
   {
-    "ItemCode": "400009002",
-    "ItemName": "TORK WIPE CENTERFEED TOALLA HS 6 X 300 MTS TO70018"
-  },
-  {
     "ItemCode": "100302014",
     "ItemName": "SPRITE ZERO 6X1,5 LT"
   },
@@ -39238,10 +39234,6 @@
   {
     "ItemCode": "204300033",
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.4 CAJA 7X2,4 KG"
-  },
-  {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
     "ItemCode": "300100001",
@@ -44284,10 +44276,6 @@
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -44302,10 +44290,6 @@
   {
     "ItemCode": "100251004",
     "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100050007",
@@ -45544,10 +45528,6 @@
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -45864,10 +45844,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
@@ -45896,7 +45872,31 @@
     "ItemName": "NUGGET POLLO SEARA 26X400 GR"
   },
   {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400009002",
+    "ItemName": "TORK WIPE CENTERFEED TOALLA HS 6 X 300 MTS TO70018"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   }
 ]
