@@ -31356,10 +31356,6 @@
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
   },
@@ -31874,10 +31870,6 @@
   {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
-    "ItemCode": "102630002",
-    "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
   },
   {
     "ItemCode": "100559009",
@@ -39088,10 +39080,6 @@
     "ItemName": "CREMELL TIRAMISU TKF 1X1 KG"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101100018",
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
@@ -43524,10 +43512,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
@@ -44916,10 +44900,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -45214,10 +45194,6 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "100803006",
@@ -45898,5 +45874,29 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "102630002",
+    "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   }
 ]
