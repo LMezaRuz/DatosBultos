@@ -28424,10 +28424,6 @@
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
@@ -28596,10 +28592,6 @@
     "ItemName": "MANJAR LONCOLECHE PARA PASTELERIA 4 X 3 KG"
   },
   {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
@@ -28642,10 +28634,6 @@
   {
     "ItemCode": "304440019",
     "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
-  },
-  {
-    "ItemCode": "103880018",
-    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "101402005",
@@ -30768,10 +30756,6 @@
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -32482,10 +32466,6 @@
   {
     "ItemCode": "204100010",
     "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "304760430",
-    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "104010004",
@@ -45008,10 +44988,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -45898,5 +45874,29 @@
   {
     "ItemCode": "204300026",
     "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "304760430",
+    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103880018",
+    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   }
 ]
