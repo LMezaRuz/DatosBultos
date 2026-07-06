@@ -43924,10 +43924,6 @@
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
   },
@@ -44202,10 +44198,6 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "204300026",
-    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
   },
   {
     "ItemCode": "304430007",
@@ -45744,80 +45736,8 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101201027",
-    "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201025",
-    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201023",
-    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "102930010",
-    "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
-  },
-  {
-    "ItemCode": "102930011",
-    "ItemName": "CEREALBAR FRUTAS MAS YOGHURT  6X20X21 GR."
-  },
-  {
-    "ItemCode": "102930008",
-    "ItemName": "CEREALBAR CHIPS DE CHOCOLATE 6X20X21 GR."
-  },
-  {
-    "ItemCode": "102930009",
-    "ItemName": "CEREALCHOC DISPLAY 6X20X18 GR"
-  },
-  {
-    "ItemCode": "102930012",
-    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
-  },
-  {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
-  },
-  {
-    "ItemCode": "100852009",
-    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
-  },
-  {
-    "ItemCode": "100852016",
-    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "200455011",
@@ -45898,5 +45818,85 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101201027",
+    "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201025",
+    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201023",
+    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "102930010",
+    "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
+  },
+  {
+    "ItemCode": "102930011",
+    "ItemName": "CEREALBAR FRUTAS MAS YOGHURT  6X20X21 GR."
+  },
+  {
+    "ItemCode": "102930008",
+    "ItemName": "CEREALBAR CHIPS DE CHOCOLATE 6X20X21 GR."
+  },
+  {
+    "ItemCode": "102930009",
+    "ItemName": "CEREALCHOC DISPLAY 6X20X18 GR"
+  },
+  {
+    "ItemCode": "102930012",
+    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "100852009",
+    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
+  },
+  {
+    "ItemCode": "100852016",
+    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "204300026",
+    "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X10 KG APROX."
   }
 ]
