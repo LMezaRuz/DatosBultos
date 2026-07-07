@@ -31548,10 +31548,6 @@
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "600001008",
     "ItemName": "KIWI KG."
   },
@@ -38752,10 +38748,6 @@
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
-    "ItemCode": "300156009",
-    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "100852018",
     "ItemName": "GALLETA DIN DON 1X115 GR"
   },
@@ -42828,10 +42820,6 @@
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
   },
   {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
-  },
-  {
     "ItemCode": "100754002",
     "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
   },
@@ -43280,10 +43268,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
@@ -43422,10 +43406,6 @@
   {
     "ItemCode": "104670086",
     "ItemName": "TE EXCLUSIVE SELECTION ENGLISH BREAKFAST LIPTON 6X25 BLS"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "104670087",
@@ -43592,16 +43572,8 @@
     "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
   {
-    "ItemCode": "300156007",
-    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
-    "ItemCode": "300156008",
-    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
     "ItemCode": "300152008",
@@ -45480,16 +45452,8 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "300157002",
@@ -45514,10 +45478,6 @@
   {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "101007021",
@@ -45630,14 +45590,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "101305002",
@@ -45904,15 +45856,63 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "300353076",
     "ItemName": "TAPAPECHO AL VACIO CAT V PARAGUAY (66715) (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "300156008",
+    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156007",
+    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "300156009",
+    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   }
 ]
