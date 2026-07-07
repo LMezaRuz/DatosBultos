@@ -27356,10 +27356,6 @@
     "ItemName": "CHOLGA AL AGUA 1 X 190 GR"
   },
   {
-    "ItemCode": "100356001",
-    "ItemName": "TE BRASIL 1X100 UN."
-  },
-  {
     "ItemCode": "400103008",
     "ItemName": "CUCHILLO 17 CM COMPOSTABLE 1000 UN X CAJA"
   },
@@ -30550,10 +30546,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
   {
     "ItemCode": "200250039",
@@ -44084,10 +44076,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -45104,10 +45092,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
   },
   {
-    "ItemCode": "200401018",
-    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -45116,16 +45100,8 @@
     "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
     "ItemCode": "302890004",
@@ -45320,10 +45296,6 @@
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
@@ -45338,10 +45310,6 @@
   {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "300152009",
@@ -45526,10 +45494,6 @@
   {
     "ItemCode": "400011006",
     "ItemName": "ESPONJA MAGO PADS S/JABON X 1 UN"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "100102004",
@@ -45914,5 +45878,41 @@
   {
     "ItemCode": "100852012",
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "100356001",
+    "ItemName": "TE BRASIL 1X100 UN."
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "200401018",
+    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   }
 ]
