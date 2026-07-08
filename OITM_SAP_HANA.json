@@ -27384,10 +27384,6 @@
     "ItemName": "PAPAS PRE FRITAS 12 MM FARM FRITES 5X2,5 KG."
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "203550030",
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
@@ -36724,10 +36720,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "100900004",
     "ItemName": "POLENTA 1X1 KG"
   },
@@ -39484,10 +39476,6 @@
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
   },
   {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
@@ -39842,10 +39830,6 @@
   {
     "ItemCode": "100700003",
     "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
     "ItemCode": "100905003",
@@ -43088,10 +43072,6 @@
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
   },
   {
-    "ItemCode": "101002009",
-    "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
-  },
-  {
     "ItemCode": "101100016",
     "ItemName": "TALLARIN 87 1X5 KG"
   },
@@ -43660,10 +43640,6 @@
     "ItemName": "LECHE S/LACTOSA DESC LCO 12X1 LTS"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -43770,10 +43746,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
     "ItemCode": "101351012",
@@ -44162,10 +44134,6 @@
   {
     "ItemCode": "200303015",
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
-  },
-  {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "101300003",
@@ -45504,10 +45472,6 @@
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "102710014",
     "ItemName": "BEBIDA VEGETAL AVENA SABOR CHOCOLATE LONCOLECHE 6X1 LT"
   },
@@ -45768,20 +45732,12 @@
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "200302017",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
-  },
-  {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
   },
   {
     "ItemCode": "100558001",
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "103180007",
@@ -45918,5 +45874,49 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101002009",
+    "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "200302017",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
   }
 ]
