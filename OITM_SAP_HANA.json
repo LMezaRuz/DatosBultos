@@ -36596,10 +36596,6 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -40056,10 +40052,6 @@
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
-  },
-  {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
   },
@@ -42938,10 +42930,6 @@
   {
     "ItemCode": "100901007",
     "ItemName": "HARINA SIN POLVOS ESTRELLA / FLOR 1X25 KG."
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "403130001",
@@ -45918,5 +45906,17 @@
   {
     "ItemCode": "102520000",
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   }
 ]
