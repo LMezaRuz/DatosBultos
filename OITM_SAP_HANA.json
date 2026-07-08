@@ -29968,10 +29968,6 @@
     "ItemName": "PIMIENTO MORRÓN KG."
   },
   {
-    "ItemCode": "100558001",
-    "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
-  },
-  {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 1X50X14 (SE70060)"
   },
@@ -31990,10 +31986,6 @@
   {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300157013",
-    "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
   {
     "ItemCode": "300157016",
@@ -39712,10 +39704,6 @@
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "102930010",
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
@@ -40158,10 +40146,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
   },
   {
     "ItemCode": "100854012",
@@ -40742,10 +40726,6 @@
   {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
-    "ItemCode": "101300002",
-    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
   {
     "ItemCode": "304470001",
@@ -44280,10 +44260,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
-    "ItemCode": "200302017",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -44294,10 +44270,6 @@
   {
     "ItemCode": "200303015",
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "203210101",
@@ -44694,10 +44666,6 @@
   {
     "ItemCode": "202820018",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
     "ItemCode": "400005008",
@@ -45918,5 +45886,37 @@
   {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "101300002",
+    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "300157013",
+    "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "200302017",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "100558001",
+    "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   }
 ]
