@@ -29120,10 +29120,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 5X3 LT"
   },
   {
-    "ItemCode": "203190023",
-    "ItemName": "MEDALLON DE PULPA MARINADA 18 KG (APROX)"
-  },
-  {
     "ItemCode": "202730083",
     "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
   },
@@ -32260,10 +32256,6 @@
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "204090002",
-    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
-  },
-  {
     "ItemCode": "300154035",
     "ItemName": "MARGARINA CALO 6X900G"
   },
@@ -32598,10 +32590,6 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
     "ItemCode": "104010067",
@@ -44308,10 +44296,6 @@
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
-    "ItemCode": "200302028",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
@@ -44322,10 +44306,6 @@
   {
     "ItemCode": "200308001",
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "304440016",
@@ -45496,10 +45476,6 @@
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -46010,5 +45986,29 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "203190023",
+    "ItemName": "MEDALLON DE PULPA MARINADA 18 KG (APROX)"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "200302028",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "204090002",
+    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   }
 ]
