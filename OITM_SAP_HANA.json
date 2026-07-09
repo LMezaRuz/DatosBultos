@@ -29972,10 +29972,6 @@
     "ItemName": "ESPIRAL INTEGRAL 1X400 GR"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "303650003",
     "ItemName": "NECTAR WATTS SELECCION MANGO MARACUYA 6X1 LT"
   },
@@ -39684,10 +39680,6 @@
     "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
   },
   {
-    "ItemCode": "100552004",
-    "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "100855010",
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
@@ -42936,10 +42928,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO PARA HELADOS BALDE 10 KG"
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101303003",
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
   },
@@ -46010,5 +45998,17 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100552004",
+    "ItemName": "CANELA MOLIDA 1X250 GR"
   }
 ]
