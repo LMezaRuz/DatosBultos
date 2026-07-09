@@ -40048,10 +40048,6 @@
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
@@ -40746,10 +40742,6 @@
   {
     "ItemCode": "103250008",
     "ItemName": "MANTEL ANTIGRASA BCH 35 X 35 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "200304002",
@@ -45992,10 +45984,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -46010,5 +45998,17 @@
   {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   }
 ]
