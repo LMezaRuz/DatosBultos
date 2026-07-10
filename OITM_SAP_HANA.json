@@ -39628,10 +39628,6 @@
     "ItemName": "RINZA 1X1 UN"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -40460,10 +40456,6 @@
     "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
   },
   {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "104670049",
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
@@ -40480,20 +40472,8 @@
     "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
   },
   {
-    "ItemCode": "104670011",
-    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
-  },
-  {
-    "ItemCode": "104670003",
-    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "104670009",
     "ItemName": "TE TWININGS FRUTOS ROJOS 1X10 UN"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "104670076",
@@ -40854,14 +40834,6 @@
   {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "204180001",
@@ -44528,10 +44500,6 @@
     "ItemName": "REPOLLO MORADO UNIDAD"
   },
   {
-    "ItemCode": "101452003",
-    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "104010062",
     "ItemName": "SALSA BASE CHILIS 4X3,97 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "101452003",
+    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670011",
+    "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
+  },
+  {
+    "ItemCode": "104670003",
+    "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
