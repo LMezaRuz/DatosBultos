@@ -27452,10 +27452,6 @@
     "ItemName": "SPRIM NECTAR MANZANA 24X190 ML."
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
@@ -31824,10 +31820,6 @@
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
     "ItemCode": "204180034",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
@@ -32148,10 +32140,6 @@
     "ItemName": "CHILI CON CARNE WASIL 16X380 GR"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "103180000",
     "ItemName": "DURAZNOS MITADES WASIL 6X3 KG"
   },
@@ -32226,10 +32214,6 @@
   {
     "ItemCode": "103910063",
     "ItemName": "MERMELADA NARANJA EN FRASCO WATT’S 10X500 GR"
-  },
-  {
-    "ItemCode": "100900006",
-    "ItemName": "CHUÑO 1X500 GR"
   },
   {
     "ItemCode": "102680016",
@@ -44108,10 +44092,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -44198,10 +44178,6 @@
   {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
     "ItemCode": "203210088",
@@ -44544,10 +44520,6 @@
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "100304027",
     "ItemName": "JUGO NECTAR VIVO MANZANA 12x1 lt."
   },
@@ -44690,10 +44662,6 @@
   {
     "ItemCode": "100800002",
     "ItemName": "HUESILLO FANCY 1X1 KG"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "302890025",
@@ -45768,10 +45736,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "200402009",
     "ItemName": "POPS COLORES 1X160 UN"
   },
@@ -45782,10 +45746,6 @@
   {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
     "ItemCode": "103830009",
@@ -45898,10 +45858,6 @@
   {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
     "ItemCode": "101007006",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100900006",
+    "ItemName": "CHUÑO 1X500 GR"
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   }
 ]
