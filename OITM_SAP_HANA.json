@@ -34084,10 +34084,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "100002010",
-    "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
-  },
-  {
     "ItemCode": "101400002",
     "ItemName": "CHAMPINON LAMINADO 1X400 GR"
   },
@@ -43968,10 +43964,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "204790044",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
@@ -44424,10 +44416,6 @@
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "400005011",
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
@@ -44478,10 +44466,6 @@
   {
     "ItemCode": "100754003",
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
-  },
-  {
-    "ItemCode": "101009044",
-    "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CHOCOLATE 18X200"
   },
   {
     "ItemCode": "400003003",
@@ -44640,10 +44624,6 @@
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
     "ItemCode": "300157053",
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
   },
@@ -44770,10 +44750,6 @@
   {
     "ItemCode": "300157039",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
-  },
-  {
-    "ItemCode": "103720007",
-    "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
   },
   {
     "ItemCode": "304850032",
@@ -45628,10 +45604,6 @@
     "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "204300013",
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
   },
@@ -45658,10 +45630,6 @@
   {
     "ItemCode": "300154014",
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "303870006",
@@ -45908,20 +45876,12 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
   },
   {
     "ItemCode": "300157038",
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "101007006",
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
+  },
+  {
+    "ItemCode": "100002010",
+    "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
+  },
+  {
+    "ItemCode": "103720007",
+    "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
+  },
+  {
+    "ItemCode": "101009044",
+    "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CHOCOLATE 18X200"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "204790044",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   }
 ]
