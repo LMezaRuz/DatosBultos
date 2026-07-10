@@ -27900,10 +27900,6 @@
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
   {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
-  },
-  {
     "ItemCode": "202910055",
     "ItemName": "RACK ENTERO CHULETA CENTRO BRASIL LOCAL AURORA 25 KG (X-MAYOR)"
   },
@@ -29680,10 +29676,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
-  },
-  {
     "ItemCode": "304760102",
     "ItemName": "TAPAPECHO 97VL AL VACIO CAT V IMP. BRASIL (20 KG APROX)"
   },
@@ -29990,10 +29982,6 @@
   {
     "ItemCode": "303000002",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
-  },
-  {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
     "ItemCode": "304760185",
@@ -32034,10 +32022,6 @@
   {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES 12X1 LT"
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "101007014",
@@ -42556,10 +42540,6 @@
     "ItemName": "QUESO CREMA COLUN 1X200 GR"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
@@ -46022,5 +46002,25 @@
   {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   }
 ]
