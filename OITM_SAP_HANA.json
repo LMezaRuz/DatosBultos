@@ -32248,10 +32248,6 @@
     "ItemName": "FILETE AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
@@ -36196,10 +36192,6 @@
     "ItemName": "PANINI GRILLADO 54X80 GR (49061)"
   },
   {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
     "ItemCode": "202730056",
     "ItemName": "BROWNIE CON OREO 1800 GR (24 PORCIONES)"
   },
@@ -39494,10 +39486,6 @@
   {
     "ItemCode": "102710013",
     "ItemName": "BEBIDA VEGETAL LONCOLECHE DE ALMENDRAS 6X1LT"
-  },
-  {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
   {
     "ItemCode": "100356013",
@@ -44748,10 +44736,6 @@
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
   },
@@ -44994,10 +44978,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "103940024",
@@ -45258,14 +45238,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
     "ItemCode": "104190000",
@@ -45740,14 +45712,6 @@
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -45892,10 +45856,6 @@
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   }
 ]
