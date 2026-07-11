@@ -27388,10 +27388,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "101100065",
-    "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
     "ItemCode": "100652002",
     "ItemName": "ARANDANOS WASIL TETRA 16X380 GR"
   },
@@ -40056,10 +40052,6 @@
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
   {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
   },
@@ -44960,10 +44952,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
@@ -46016,11 +46004,23 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "300154014",
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101100065",
+    "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   }
 ]
