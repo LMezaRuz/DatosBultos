@@ -44548,10 +44548,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
@@ -45644,10 +45640,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -45734,10 +45726,6 @@
   {
     "ItemCode": "203200036",
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "100052005",
@@ -46012,15 +46000,27 @@
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
   }
 ]
