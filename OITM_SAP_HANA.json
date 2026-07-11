@@ -31144,10 +31144,6 @@
     "ItemName": "PLATEADA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "403130000",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -31158,10 +31154,6 @@
   {
     "ItemCode": "304760474",
     "ItemName": "POSTA ROSADA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "304760476",
@@ -36320,10 +36312,6 @@
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101150020",
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
   },
@@ -39250,10 +39238,6 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "103140003",
@@ -42720,10 +42704,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
   },
   {
-    "ItemCode": "101100065",
-    "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
     "ItemCode": "202820009",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
   },
@@ -42786,10 +42766,6 @@
   {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
   },
   {
     "ItemCode": "200100001",
@@ -43562,10 +43538,6 @@
   {
     "ItemCode": "102700014",
     "ItemName": "AGUA SABORIZADA 6X1,5 LT"
-  },
-  {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
     "ItemCode": "400011016",
@@ -45096,10 +45068,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -45628,10 +45596,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
@@ -45800,10 +45764,6 @@
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -45858,10 +45818,6 @@
   {
     "ItemCode": "202730072",
     "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
     "ItemCode": "100900005",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101100065",
+    "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "403130000",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   }
 ]
