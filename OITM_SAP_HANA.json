@@ -27000,10 +27000,6 @@
     "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
   {
-    "ItemCode": "400010014",
-    "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "300404023",
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
   },
@@ -27330,10 +27326,6 @@
   {
     "ItemCode": "203210074",
     "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "304440019",
@@ -30652,10 +30644,6 @@
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "203900002",
     "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
   },
@@ -31624,10 +31612,6 @@
     "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -31762,14 +31746,6 @@
   {
     "ItemCode": "100351010",
     "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
-  },
-  {
-    "ItemCode": "300353007",
-    "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100202014",
-    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   },
   {
     "ItemCode": "100202005",
@@ -40312,10 +40288,6 @@
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
   },
   {
-    "ItemCode": "400250003",
-    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
-  },
-  {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
@@ -43352,10 +43324,6 @@
     "ItemName": "EMPANADA POLLO MANDARIN Y MERKEN 2X50 UN"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
@@ -44300,10 +44268,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -44458,10 +44422,6 @@
   {
     "ItemCode": "202910051",
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "203200038",
-    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
   },
   {
     "ItemCode": "101201022",
@@ -45956,10 +45916,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "200051003",
     "ItemName": "PULPA DE FRAMBUESA C/PEPA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300353007",
+    "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203200038",
+    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "400250003",
+    "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
+  },
+  {
+    "ItemCode": "400010014",
+    "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100202014",
+    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
   }
 ]
