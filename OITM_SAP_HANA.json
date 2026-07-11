@@ -27184,10 +27184,6 @@
     "ItemName": "YOGHURT ACTIVIA TROZO FRUTILLA SEMILLAS 24X140 GR"
   },
   {
-    "ItemCode": "102480007",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
-  },
-  {
     "ItemCode": "103070013",
     "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
   },
@@ -29900,10 +29896,6 @@
     "ItemName": "PALA PLASTICA 1X1 UN."
   },
   {
-    "ItemCode": "304760473",
-    "ItemName": "POSTA PALETA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
     "ItemCode": "304760475",
     "ItemName": "PUNTA DE PICANA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -30540,10 +30532,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 25X200 GR"
   },
   {
-    "ItemCode": "204000000",
-    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "204000001",
     "ItemName": "RIÑONES VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -30710,10 +30698,6 @@
   {
     "ItemCode": "204750021",
     "ItemName": "FILETE DE VACUNO PORCIONADO 5 UN DE 4 X 270 GR (MM)"
-  },
-  {
-    "ItemCode": "204750025",
-    "ItemName": "POSTA ROSADA CAT-V BRASIL CONG. LOCAL IGUATEMI 25 KG (APROX) (X-MAYOR)"
   },
   {
     "ItemCode": "204790010",
@@ -31106,10 +31090,6 @@
   {
     "ItemCode": "304760459",
     "ItemName": "ABASTERO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "304760460",
-    "ItemName": "ASADO CARNICERO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
     "ItemCode": "300154004",
@@ -32274,10 +32254,6 @@
   {
     "ItemCode": "200500017",
     "ItemName": "HABAS PELADAS 7X1 KG."
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "104560008",
@@ -39408,10 +39384,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "100552005",
-    "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
@@ -44876,10 +44848,6 @@
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -45002,10 +44970,6 @@
   {
     "ItemCode": "101201025",
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201027",
@@ -45496,10 +45460,6 @@
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
-    "ItemCode": "100151009",
-    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -45622,10 +45582,6 @@
   {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
-  },
-  {
-    "ItemCode": "100552004",
-    "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
     "ItemCode": "100852013",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100552005",
+    "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "100552004",
+    "ItemName": "CANELA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "102480007",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
+  },
+  {
+    "ItemCode": "204750025",
+    "ItemName": "POSTA ROSADA CAT-V BRASIL CONG. LOCAL IGUATEMI 25 KG (APROX) (X-MAYOR)"
+  },
+  {
+    "ItemCode": "204000000",
+    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760473",
+    "ItemName": "POSTA PALETA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "304760460",
+    "ItemName": "ASADO CARNICERO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "100151009",
+    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   }
 ]
