@@ -39296,10 +39296,6 @@
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
   {
-    "ItemCode": "100601001",
-    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
-  },
-  {
     "ItemCode": "200303024",
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
@@ -39514,10 +39510,6 @@
   {
     "ItemCode": "202720025",
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
-    "ItemCode": "302890048",
-    "ItemName": "VIENESAS MODINGER 1X1 KG"
   },
   {
     "ItemCode": "203480000",
@@ -41660,10 +41652,6 @@
     "ItemName": "TALLARIN 87 1X5 KG"
   },
   {
-    "ItemCode": "300351012",
-    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
     "ItemCode": "202820020",
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
@@ -42470,10 +42458,6 @@
   {
     "ItemCode": "100701008",
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200456022",
-    "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   },
   {
     "ItemCode": "200457001",
@@ -44384,10 +44368,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "100151020",
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
   },
@@ -44942,10 +44922,6 @@
   {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "103700006",
@@ -46022,5 +45998,29 @@
   {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "302890048",
+    "ItemName": "VIENESAS MODINGER 1X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100601001",
+    "ItemName": "JUREL NATURAL NAC. EN CONSERVA  24X425 GR"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "300351012",
+    "ItemName": "LONGANIZA PACEL 1 X 1 KG."
+  },
+  {
+    "ItemCode": "200456022",
+    "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   }
 ]
