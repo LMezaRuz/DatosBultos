@@ -39600,10 +39600,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -43080,10 +43076,6 @@
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -44628,10 +44620,6 @@
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101004002",
-    "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44654,10 +44642,6 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "101358005",
@@ -44992,10 +44976,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -45228,10 +45208,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
@@ -45266,10 +45242,6 @@
   {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "304440016",
@@ -45668,10 +45640,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -45844,10 +45812,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
     "ItemCode": "104670004",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
@@ -45890,10 +45854,6 @@
   {
     "ItemCode": "103910030",
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "100002007",
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101004002",
+    "ItemName": "LECHE EVAPORADA 24X390 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   }
 ]
