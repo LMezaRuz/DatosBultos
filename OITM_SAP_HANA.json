@@ -26268,10 +26268,6 @@
     "ItemName": "CHOCOLATE NEUCOBER BLANCO 29% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "103660000",
-    "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
-  },
-  {
     "ItemCode": "104350012",
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10 X 800 GR"
   },
@@ -27222,10 +27218,6 @@
   {
     "ItemCode": "LOG_104670064",
     "ItemName": "[LOG] TE LIPTON YELLOW LABEL 10 X 50 BLS"
-  },
-  {
-    "ItemCode": "100304062",
-    "ItemName": "JUGO MANZANA 100% LV WATTS 6X200ML"
   },
   {
     "ItemCode": "103070005",
@@ -30160,10 +30152,6 @@
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
   {
-    "ItemCode": "100304034",
-    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
-  },
-  {
     "ItemCode": "100355017",
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
@@ -31610,10 +31598,6 @@
   {
     "ItemCode": "200201006",
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
-  },
-  {
-    "ItemCode": "200201010",
-    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
   },
   {
     "ItemCode": "204150012",
@@ -35840,10 +35824,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
   {
-    "ItemCode": "100304037",
-    "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
-  },
-  {
     "ItemCode": "202730003",
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
@@ -35858,10 +35838,6 @@
   {
     "ItemCode": "202730011",
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
-    "ItemCode": "100304035",
-    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
   {
     "ItemCode": "100754002",
@@ -43176,10 +43152,6 @@
     "ItemName": "COCA COLA LIGHT 6X1,5 LT"
   },
   {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
   },
@@ -45472,18 +45444,6 @@
     "ItemName": "HORNITO HOJA 20X1"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
@@ -45984,10 +45944,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -46012,15 +45968,59 @@
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "200201010",
+    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "100304034",
+    "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
+  },
+  {
+    "ItemCode": "100304035",
+    "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
+  },
+  {
+    "ItemCode": "100304037",
+    "ItemName": "JUGO NECTAR WATTS PINA 12X1 LT"
+  },
+  {
+    "ItemCode": "100304062",
+    "ItemName": "JUGO MANZANA 100% LV WATTS 6X200ML"
+  },
+  {
+    "ItemCode": "103660000",
+    "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
   }
 ]
