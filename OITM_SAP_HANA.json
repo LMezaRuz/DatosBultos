@@ -27456,10 +27456,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
   },
@@ -27910,10 +27906,6 @@
   {
     "ItemCode": "104670077",
     "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "104670078",
-    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
   },
   {
     "ItemCode": "304340004",
@@ -29940,10 +29932,6 @@
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
   },
   {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
     "ItemCode": "104260000",
     "ItemName": "PIÑA EN TROZOS IMP. 24X565 GRS"
   },
@@ -30664,10 +30652,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
@@ -30894,10 +30878,6 @@
   {
     "ItemCode": "204750021",
     "ItemName": "FILETE DE VACUNO PORCIONADO 5 UN DE 4 X 270 GR (MM)"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "204790010",
@@ -39060,10 +39040,6 @@
     "ItemName": "BETARRAGAS EN CONSERVA 1X425 GR"
   },
   {
-    "ItemCode": "100557020",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1x5 g."
-  },
-  {
     "ItemCode": "300001015",
     "ItemName": "CHOCOLATE CALLEBAUT GOLD 4X2,5 KG"
   },
@@ -39242,10 +39218,6 @@
   {
     "ItemCode": "200100027",
     "ItemName": "HELADO PUDU FRAMBUESA 1X5 LT"
-  },
-  {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
   {
     "ItemCode": "300300011",
@@ -39486,10 +39458,6 @@
   {
     "ItemCode": "100751025",
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "103650000",
@@ -43964,10 +43932,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "104670078",
+    "ItemName": "TE LIPTON BLACK CHAI 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "100557020",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1x5 g."
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   }
 ]
