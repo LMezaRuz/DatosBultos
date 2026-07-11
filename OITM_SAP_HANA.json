@@ -35724,10 +35724,6 @@
     "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
   {
-    "ItemCode": "304760247",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
@@ -39146,10 +39142,6 @@
   {
     "ItemCode": "104010055",
     "ItemName": "SALSA TERIYAKI 12X250 GR"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "300401005",
@@ -42860,14 +42852,6 @@
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "400250001",
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
@@ -44544,10 +44528,6 @@
     "ItemName": "SALSA BASE CHILIS 4X3,97 KG"
   },
   {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
@@ -44590,10 +44570,6 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
     "ItemCode": "103070003",
@@ -44726,30 +44702,6 @@
   {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
-  },
-  {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "304760046",
@@ -45166,10 +45118,6 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "101353019",
@@ -46022,5 +45970,57 @@
   {
     "ItemCode": "203210042",
     "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "304760247",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
