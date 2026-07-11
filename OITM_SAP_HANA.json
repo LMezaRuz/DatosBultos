@@ -44076,10 +44076,6 @@
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "101401009",
     "ItemName": "POROTOS WASIL 16X380"
   },
@@ -45880,14 +45876,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -45914,10 +45902,6 @@
   {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
     "ItemCode": "204300048",
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
   }
 ]
