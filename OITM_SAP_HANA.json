@@ -30988,10 +30988,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "304760033",
-    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760036",
     "ItemName": "ASADO CARNICERO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -31010,10 +31006,6 @@
   {
     "ItemCode": "304760045",
     "ItemName": "PUNTA PICANA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "304760046",
-    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
   {
     "ItemCode": "304760048",
@@ -31710,10 +31702,6 @@
   {
     "ItemCode": "404680001",
     "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
-  },
-  {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
     "ItemCode": "101008001",
@@ -36120,10 +36108,6 @@
     "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -39652,10 +39636,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "300001009",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
   },
@@ -39908,10 +39888,6 @@
     "ItemName": "ETIQUETA CIRCULAR HUMMUS (10 rollos de 1000 UND)"
   },
   {
-    "ItemCode": "101305008",
-    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -39938,10 +39914,6 @@
   {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
   {
     "ItemCode": "101201032",
@@ -40678,14 +40650,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "200307010",
@@ -44600,10 +44564,6 @@
     "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
   },
   {
-    "ItemCode": "204300013",
-    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
-  },
-  {
     "ItemCode": "202910051",
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
@@ -45612,10 +45572,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
@@ -45844,10 +45800,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
@@ -46022,5 +45974,53 @@
   {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "204300013",
+    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "304760046",
+    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "304760033",
+    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "101305008",
+    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
