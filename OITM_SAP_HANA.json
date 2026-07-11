@@ -29752,10 +29752,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
@@ -32228,10 +32224,6 @@
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
     "ItemCode": "202900004",
     "ItemName": "PEPPERONI LAMINADO 2X5,7 KG"
   },
@@ -32302,10 +32294,6 @@
   {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "202730046",
-    "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
   },
   {
     "ItemCode": "400011008",
@@ -40144,10 +40132,6 @@
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
   {
-    "ItemCode": "202720035",
-    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
@@ -44020,10 +44004,6 @@
     "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "202730072",
-    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
-  },
-  {
     "ItemCode": "100004007",
     "ItemName": "ACEITE VEGETAL GS 12X900 CC."
   },
@@ -44964,10 +44944,6 @@
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
   {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -45078,14 +45054,6 @@
   {
     "ItemCode": "202730042",
     "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
-  },
-  {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
-  },
-  {
-    "ItemCode": "202730073",
-    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
   {
     "ItemCode": "200500026",
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "202720035",
+    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
+  },
+  {
+    "ItemCode": "202730046",
+    "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "202730073",
+    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
+  },
+  {
+    "ItemCode": "202730072",
+    "ItemName": "DONUT RELLENA DE CHOCO Y AVELLANAS 36X69 GR (47165)"
   }
 ]
