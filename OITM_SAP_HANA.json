@@ -35600,10 +35600,6 @@
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
@@ -42156,10 +42152,6 @@
     "ItemName": "NARANJA KG."
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355010",
     "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
   },
@@ -44732,10 +44724,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -46016,11 +46004,23 @@
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
   }
 ]
