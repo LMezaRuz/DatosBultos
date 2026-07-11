@@ -27168,10 +27168,6 @@
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
-    "ItemCode": "103070013",
-    "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
-  },
-  {
     "ItemCode": "104290003",
     "ItemName": "TOMATICAN WASIL 16X380 G"
   },
@@ -30434,10 +30430,6 @@
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "100651009",
-    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
     "ItemCode": "202910053",
@@ -35932,10 +35924,6 @@
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
   {
-    "ItemCode": "103910036",
-    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910027",
     "ItemName": "MERMELADA MORA WATTS 12X360 GR"
   },
@@ -39752,10 +39740,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "104680000",
     "ItemName": "WIPE TORK ROLLO BLANCO 1X106,4 MT TO70036"
   },
@@ -42664,10 +42648,6 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
@@ -42690,10 +42670,6 @@
   {
     "ItemCode": "400005008",
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
-  },
-  {
-    "ItemCode": "304450005",
-    "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
   {
     "ItemCode": "400005016",
@@ -45828,16 +45804,8 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "300154017",
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910036",
+    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103070013",
+    "ItemName": "CASTAÑAS EN ALMIBAR WASIL 16X570 GR"
+  },
+  {
+    "ItemCode": "100651009",
+    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
+  },
+  {
+    "ItemCode": "304450005",
+    "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
   }
 ]
