@@ -27860,10 +27860,6 @@
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
-    "ItemCode": "202910050",
-    "ItemName": "MALAYA DE CERDO CONGELADA SUPER CERDO 14X900 GR"
-  },
-  {
     "ItemCode": "104670065",
     "ItemName": "TE LIPTON CLEAN GREEN PURE 12 X 20 BLS"
   },
@@ -28294,10 +28290,6 @@
   {
     "ItemCode": "203550029",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6X220 ML"
-  },
-  {
-    "ItemCode": "203550030",
-    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
   {
     "ItemCode": "203550031",
@@ -29766,10 +29758,6 @@
   {
     "ItemCode": "304450006",
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS DE VALDIVIA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "304860009",
-    "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
   },
   {
     "ItemCode": "104660017",
@@ -36362,10 +36350,6 @@
   {
     "ItemCode": "300353075",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "300157049",
-    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
     "ItemCode": "300353080",
@@ -43212,10 +43196,6 @@
     "ItemName": "LECHE VAINILLA 6X200CC"
   },
   {
-    "ItemCode": "300157047",
-    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
-  },
-  {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
@@ -44090,10 +44070,6 @@
   {
     "ItemCode": "202910017",
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "103760001",
-    "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
   {
     "ItemCode": "100905002",
@@ -45596,10 +45572,6 @@
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
-    "ItemCode": "300157045",
-    "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
+  },
+  {
+    "ItemCode": "203550030",
+    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
+  },
+  {
+    "ItemCode": "202910050",
+    "ItemName": "MALAYA DE CERDO CONGELADA SUPER CERDO 14X900 GR"
+  },
+  {
+    "ItemCode": "300157045",
+    "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157047",
+    "ItemName": "LONCO PROTEIN YOGURT ARANDANOS 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157049",
+    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
+  },
+  {
+    "ItemCode": "304860009",
+    "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
+  },
+  {
+    "ItemCode": "103760001",
+    "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   }
 ]
