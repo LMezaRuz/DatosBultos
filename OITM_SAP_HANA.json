@@ -27280,10 +27280,6 @@
     "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
   },
   {
-    "ItemCode": "304440019",
-    "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
-  },
-  {
     "ItemCode": "300404022",
     "ItemName": "QUESO PIZZERIA EN HEBRAS CALO 2X3,5 KG"
   },
@@ -29480,10 +29476,6 @@
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "202730047",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
@@ -31582,10 +31574,6 @@
   {
     "ItemCode": "400252004",
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
-  },
-  {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
     "ItemCode": "103940024",
@@ -35858,10 +35846,6 @@
   {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
-  },
-  {
-    "ItemCode": "103830008",
-    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   },
   {
     "ItemCode": "103910025",
@@ -43884,10 +43868,6 @@
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200402009",
     "ItemName": "POPS COLORES 1X160 UN"
   },
@@ -44086,10 +44066,6 @@
   {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "100303001",
@@ -44720,10 +44696,6 @@
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
-    "ItemCode": "303850001",
-    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
@@ -44884,10 +44856,6 @@
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "101100020",
     "ItemName": "CORBATA 1X5 KG"
   },
@@ -44906,10 +44874,6 @@
   {
     "ItemCode": "103180007",
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "101352008",
@@ -45038,10 +45002,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "103210007",
@@ -45222,10 +45182,6 @@
   {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
     "ItemCode": "300351005",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "304440019",
+    "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "303850001",
+    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
+  },
+  {
+    "ItemCode": "103830008",
+    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   }
 ]
