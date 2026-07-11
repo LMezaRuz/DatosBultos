@@ -32192,10 +32192,6 @@
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
   {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "202900004",
     "ItemName": "PEPPERONI LAMINADO 2X5,7 KG"
   },
@@ -35374,10 +35370,6 @@
   {
     "ItemCode": "400301102",
     "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "302960000",
@@ -45436,10 +45428,6 @@
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -45976,10 +45964,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   }
 ]
