@@ -31232,10 +31232,6 @@
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "202730013",
     "ItemName": "MINI DONUT AZUCARADA 110X18 GR (26435)"
   },
@@ -31930,10 +31926,6 @@
   {
     "ItemCode": "104670038",
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "304470001",
@@ -43540,10 +43532,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100552005",
-    "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -45064,10 +45052,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
@@ -45456,10 +45440,6 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -45792,10 +45772,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
@@ -46022,5 +45998,29 @@
   {
     "ItemCode": "204300013",
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
+  },
+  {
+    "ItemCode": "100552005",
+    "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   }
 ]
