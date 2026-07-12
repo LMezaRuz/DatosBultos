@@ -31444,10 +31444,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "304440005",
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
@@ -31602,10 +31598,6 @@
   {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "104570009",
@@ -36330,10 +36322,6 @@
   {
     "ItemCode": "101150045",
     "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
   {
     "ItemCode": "400252008",
@@ -43332,10 +43320,6 @@
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100557013",
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
@@ -43350,10 +43334,6 @@
   {
     "ItemCode": "100556004",
     "ItemName": "OREGANO ENTERO GOURMET 1X50 GR"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
     "ItemCode": "101100025",
@@ -44580,10 +44560,6 @@
     "ItemName": "TARIFA SERVICIOS $1300"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -45258,10 +45234,6 @@
   {
     "ItemCode": "200303012",
     "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "200402009",
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   }
 ]
