@@ -30184,10 +30184,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANZANA 1X5 LT"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "300353130",
     "ItemName": "ASADO DEL CARNICERO PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
   },
@@ -39016,10 +39012,6 @@
     "ItemName": "ALCAPARRAS 1X110 GR"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
@@ -40176,10 +40168,6 @@
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "400251006",
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
@@ -40278,10 +40266,6 @@
   {
     "ItemCode": "200456022",
     "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101201052",
@@ -43424,10 +43408,6 @@
     "ItemName": "NECTAR PIÑA LIGTH WATTS 6X200 ML"
   },
   {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
@@ -44134,10 +44114,6 @@
   {
     "ItemCode": "MAQ001350",
     "ItemName": "TARIFA SERVICIOS $1350"
-  },
-  {
-    "ItemCode": "200201010",
-    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
   },
   {
     "ItemCode": "200200020",
@@ -44928,10 +44904,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
   {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
-  },
-  {
     "ItemCode": "100304044",
     "ItemName": "NECTAR DE NARANJA LIGHT PET 1X1.5 LT."
   },
@@ -45220,10 +45192,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "200201019",
-    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
-  },
-  {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
@@ -45270,10 +45238,6 @@
   {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "203210101",
@@ -45980,10 +45944,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -45994,10 +45954,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "101404002",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "101001004",
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "200201010",
+    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
+  },
+  {
+    "ItemCode": "200201019",
+    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
