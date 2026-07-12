@@ -36596,16 +36596,8 @@
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "200200032",
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
-  },
-  {
-    "ItemCode": "100201014",
-    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
     "ItemCode": "101009017",
@@ -43388,10 +43380,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
   {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
@@ -44454,10 +44442,6 @@
   {
     "ItemCode": "100350005",
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "100202002",
-    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
   {
     "ItemCode": "400251003",
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "203510007",
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100202002",
+    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100201014",
+    "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   }
 ]
