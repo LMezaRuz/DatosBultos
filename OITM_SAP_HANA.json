@@ -31228,10 +31228,6 @@
     "ItemName": "COMPOTA DE MANZANA WATT'S 36X90"
   },
   {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
-  },
-  {
     "ItemCode": "103750000",
     "ItemName": "LECHE CON PLATANO 12X1 LT"
   },
@@ -42412,10 +42408,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "400100002",
     "ItemName": "BOLSA HDPE NATURAL (8X25) 1X1 UN."
   },
@@ -43314,10 +43306,6 @@
   {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "200500003",
@@ -44756,10 +44744,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   }
 ]
