@@ -20244,14 +20244,6 @@
     "ItemName": "TARIFA SERVICIOS $1400"
   },
   {
-    "ItemCode": "MAQ001350",
-    "ItemName": "TARIFA SERVICIOS $1350"
-  },
-  {
-    "ItemCode": "MAQ001300",
-    "ItemName": "TARIFA SERVICIOS $1300"
-  },
-  {
     "ItemCode": "LOG_102540016",
     "ItemName": "[LOG] AGUA SABOR FRAMBUESA RIZOLA 6X1.5 LT"
   },
@@ -46022,5 +46014,13 @@
   {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "MAQ001350",
+    "ItemName": "TARIFA SERVICIOS $1350"
+  },
+  {
+    "ItemCode": "MAQ001300",
+    "ItemName": "TARIFA SERVICIOS $1300"
   }
 ]
