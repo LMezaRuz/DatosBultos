@@ -36024,10 +36024,6 @@
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "400301047",
-    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
@@ -38856,14 +38852,6 @@
     "ItemName": "ETIQUETA SALSA DE LA CASA LOVDO - GYN   1X1000 UN"
   },
   {
-    "ItemCode": "400301073",
-    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "400301074",
-    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
     "ItemCode": "400301078",
     "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
   },
@@ -39230,10 +39218,6 @@
   {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
   {
     "ItemCode": "101201028",
@@ -43100,10 +43084,6 @@
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -45392,24 +45372,8 @@
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "101100064",
@@ -45504,10 +45468,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "101150051",
     "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
@@ -45546,10 +45506,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "101011002",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "200203007",
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "400301073",
+    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "400301074",
+    "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301047",
+    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   }
 ]
