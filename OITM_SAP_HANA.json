@@ -32476,10 +32476,6 @@
     "ItemName": "SYRUP CHOCOLATE S/AZUCAR MONIN 1x750 ML"
   },
   {
-    "ItemCode": "100355004",
-    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "202730026",
     "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
   },
@@ -35544,10 +35540,6 @@
     "ItemName": "MANTECA IND AMASA VEGETAL 12X1KG"
   },
   {
-    "ItemCode": "101100038",
-    "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
-  },
-  {
     "ItemCode": "100151015",
     "ItemName": "CEREAL ZUCOSOS NESTLE 1X800GR"
   },
@@ -36284,10 +36276,6 @@
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "300153014",
     "ItemName": "MANTEQUILLA MINI POTE COLUN 1 X 200 UN X 10 GR"
   },
@@ -36338,10 +36326,6 @@
   {
     "ItemCode": "101150020",
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "204180017",
@@ -39968,10 +39952,6 @@
     "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
   },
   {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
     "ItemCode": "101009028",
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
   },
@@ -39998,10 +39978,6 @@
   {
     "ItemCode": "101201025",
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201027",
-    "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
   {
     "ItemCode": "101201012",
@@ -40066,10 +40042,6 @@
   {
     "ItemCode": "200453013",
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
-    "ItemCode": "100101002",
-    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "101452007",
@@ -40438,14 +40410,6 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "101201026",
-    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201023",
-    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201052",
@@ -43348,10 +43312,6 @@
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
     "ItemCode": "101010007",
     "ItemName": "LECHE S/LACTOSA DESC LCO 12X1 LTS"
   },
@@ -43970,10 +43930,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100600003",
@@ -45516,10 +45472,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
@@ -45772,20 +45724,12 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
     "ItemCode": "304460002",
@@ -45842,10 +45786,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "300250001",
@@ -46022,5 +45962,65 @@
   {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101100038",
+    "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
+  },
+  {
+    "ItemCode": "100355004",
+    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101002",
+    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101201027",
+    "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201026",
+    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201023",
+    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   }
 ]
