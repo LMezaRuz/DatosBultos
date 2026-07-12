@@ -30588,10 +30588,6 @@
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "204380036",
-    "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -30722,10 +30718,6 @@
   {
     "ItemCode": "103180006",
     "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
-  },
-  {
-    "ItemCode": "304450018",
-    "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR 10 KG (APROX)"
   },
   {
     "ItemCode": "204710000",
@@ -32222,14 +32214,6 @@
   {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
-    "ItemCode": "202730006",
-    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
     "ItemCode": "200050015",
@@ -43480,10 +43464,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "200201003",
-    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
-  },
-  {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
   },
@@ -43898,10 +43878,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
   },
   {
     "ItemCode": "100700001",
@@ -45256,10 +45232,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -45336,10 +45308,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355005",
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
@@ -45354,10 +45322,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "204380015",
@@ -45390,10 +45354,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "101351004",
@@ -45804,10 +45764,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -46012,15 +45968,59 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "304450018",
+    "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR 10 KG (APROX)"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380036",
+    "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "202730006",
+    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "200201003",
+    "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   }
 ]
