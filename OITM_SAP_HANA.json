@@ -26180,10 +26180,6 @@
     "ItemName": "JARABE DE REMOJO 4X5 LT"
   },
   {
-    "ItemCode": "304860006",
-    "ItemName": "YOGHURT LONCOLECHE S/L SABOR FRUTILLA 24X140 GR"
-  },
-  {
     "ItemCode": "103090005",
     "ItemName": "CREMA SIN LACTOSA LONCO LECHE 12X1 LT"
   },
@@ -32354,10 +32350,6 @@
   {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
     "ItemCode": "100304062",
@@ -40004,14 +39996,6 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "300157026",
-    "ItemName": "YOGURT DANONE LIGHT & FREE VAINILLA CAJA 48X115GR"
-  },
-  {
-    "ItemCode": "300157024",
-    "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
-  },
-  {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -40432,10 +40416,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
-  },
-  {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
@@ -40670,14 +40650,6 @@
   {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
-    "ItemCode": "300157028",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "300157029",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
     "ItemCode": "100651010",
@@ -43584,10 +43556,6 @@
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
     "ItemCode": "200002007",
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "200302027",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "304860006",
+    "ItemName": "YOGHURT LONCOLECHE S/L SABOR FRUTILLA 24X140 GR"
+  },
+  {
+    "ItemCode": "300157026",
+    "ItemName": "YOGURT DANONE LIGHT & FREE VAINILLA CAJA 48X115GR"
+  },
+  {
+    "ItemCode": "300157024",
+    "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
+  },
+  {
+    "ItemCode": "300157029",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
   }
 ]
