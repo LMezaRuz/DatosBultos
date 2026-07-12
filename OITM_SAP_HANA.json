@@ -31232,10 +31232,6 @@
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
@@ -31740,16 +31736,8 @@
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
-  },
-  {
-    "ItemCode": "204700004",
-    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
     "ItemCode": "304760107",
@@ -39768,10 +39756,6 @@
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
@@ -40398,10 +40382,6 @@
   {
     "ItemCode": "100650003",
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "300154004",
@@ -44024,10 +44004,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
@@ -44436,10 +44412,6 @@
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -44558,10 +44530,6 @@
   {
     "ItemCode": "MAQ001300",
     "ItemName": "TARIFA SERVICIOS $1300"
-  },
-  {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
   {
     "ItemCode": "101151016",
@@ -45284,10 +45252,6 @@
     "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -46000,10 +45964,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
@@ -46016,11 +45976,51 @@
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "204700004",
+    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   }
 ]
