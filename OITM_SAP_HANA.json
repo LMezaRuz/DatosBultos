@@ -28548,10 +28548,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "203200042",
     "ItemName": "TIRITAS DE PECHUGA DE POLLO REBOZADAS CONG. 12X300 GR"
   },
@@ -30956,14 +30952,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "400010013",
-    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "304760250",
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -31582,10 +31570,6 @@
   {
     "ItemCode": "204140009",
     "ItemName": "HALLULLA PRECOCIDA CONGELADA 94X85 GR"
-  },
-  {
-    "ItemCode": "202730004",
-    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
   {
     "ItemCode": "101400001",
@@ -35668,10 +35652,6 @@
     "ItemName": "MARINADOR CROCANTE GYN 4 UN X 5 KG"
   },
   {
-    "ItemCode": "101100054",
-    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "400301075",
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -35746,10 +35726,6 @@
   {
     "ItemCode": "100654003",
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "400301076",
@@ -39604,10 +39580,6 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "100852009",
     "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   },
@@ -39758,10 +39730,6 @@
   {
     "ItemCode": "204300020",
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "104020005",
@@ -45492,10 +45460,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
@@ -46000,10 +45964,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101100054",
+    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "400010013",
+    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "202730004",
+    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   }
 ]
