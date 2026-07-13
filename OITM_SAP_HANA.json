@@ -38864,10 +38864,6 @@
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X500"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
@@ -38946,10 +38942,6 @@
   {
     "ItemCode": "600002024",
     "ItemName": "CHAMPIÑON BANDEJA"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "400003004",
@@ -44496,10 +44488,6 @@
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101002009",
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
@@ -45948,38 +45936,6 @@
     "ItemName": "CURRY DE GARBANZOS WASIL 16X380 G"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
-    "ItemCode": "304760478",
-    "ItemName": "TAPAPECHO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
-    "ItemCode": "200201005",
-    "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
-  },
-  {
-    "ItemCode": "200201019",
-    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
-  },
-  {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
-  },
-  {
-    "ItemCode": "204140007",
-    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "304760478",
+    "ItemName": "TAPAPECHO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
+  },
+  {
+    "ItemCode": "200201005",
+    "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
+  },
+  {
+    "ItemCode": "200201019",
+    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "204140007",
+    "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
