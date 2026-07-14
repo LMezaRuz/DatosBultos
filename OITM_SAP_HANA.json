@@ -43560,10 +43560,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -43666,10 +43662,6 @@
   {
     "ItemCode": "100559008",
     "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
-  },
-  {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
     "ItemCode": "400012005",
@@ -45044,10 +45036,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100555001",
-    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
   },
@@ -45832,38 +45820,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "400150012",
-    "ItemName": "RACK METALICO EXHIBICION MONIN"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
@@ -45904,30 +45860,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
@@ -45964,10 +45896,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
@@ -45978,10 +45906,6 @@
   {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "102790002",
@@ -46022,5 +45946,81 @@
   {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "100555001",
+    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
+  },
+  {
+    "ItemCode": "400150012",
+    "ItemName": "RACK METALICO EXHIBICION MONIN"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
