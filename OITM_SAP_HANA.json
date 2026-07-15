@@ -30524,10 +30524,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760243",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -31146,10 +31142,6 @@
   {
     "ItemCode": "204300033",
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.4 CAJA 7X2,4 KG"
-  },
-  {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
   {
     "ItemCode": "104670067",
@@ -32038,10 +32030,6 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
-    "ItemCode": "304760448",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "101100066",
@@ -43688,10 +43676,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101450007",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -44150,10 +44134,6 @@
   {
     "ItemCode": "400011014",
     "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "100303001",
@@ -45476,10 +45456,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -45570,10 +45546,6 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "104680002",
@@ -45952,10 +45924,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "104570009",
-    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101450007",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "304760448",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
+  },
+  {
+    "ItemCode": "104570009",
+    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   }
 ]
