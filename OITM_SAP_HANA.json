@@ -27300,10 +27300,6 @@
     "ItemName": "BROCOLI IQF 20X500 GR"
   },
   {
-    "ItemCode": "204790048",
-    "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
-  },
-  {
     "ItemCode": "302970005",
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
@@ -36428,10 +36424,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "200453031",
     "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
   },
@@ -43836,10 +43828,6 @@
     "ItemName": "MERLUZA AUSTRAL FILETE (AUSTRALIS) C/P S/E 1X10 KG"
   },
   {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -44984,14 +44972,6 @@
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
   {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
-  },
-  {
-    "ItemCode": "300404005",
-    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -45374,10 +45354,6 @@
   {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051019",
@@ -45780,10 +45756,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
@@ -45804,10 +45776,6 @@
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -45818,10 +45786,6 @@
   {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "103880016",
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "300404005",
+    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "204790048",
+    "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   }
 ]
