@@ -32560,10 +32560,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "103940020",
-    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
@@ -35370,10 +35366,6 @@
   {
     "ItemCode": "101007012",
     "ItemName": "LECHE CHOCOLATE BAJA EN AZUCAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101007013",
-    "ItemName": "LECHE FRUTILLA BAJA EN AZUCAR TKF 1X1 KG"
   },
   {
     "ItemCode": "101012006",
@@ -44204,14 +44196,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103940020",
+    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101007013",
+    "ItemName": "LECHE FRUTILLA BAJA EN AZUCAR TKF 1X1 KG"
   }
 ]
