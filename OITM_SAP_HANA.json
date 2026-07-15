@@ -30732,10 +30732,6 @@
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "100554029",
-    "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
-  },
-  {
     "ItemCode": "304110015",
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
@@ -40324,10 +40320,6 @@
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
   },
   {
-    "ItemCode": "100051004",
-    "ItemName": "PICKLE SURTIDO 6X1 KG"
-  },
-  {
     "ItemCode": "200051020",
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
@@ -40490,10 +40482,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100902001",
@@ -44244,10 +44232,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100554029",
+    "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
+  },
+  {
+    "ItemCode": "100051004",
+    "ItemName": "PICKLE SURTIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
