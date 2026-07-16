@@ -31432,10 +31432,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
@@ -44060,10 +44056,6 @@
     "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "100004007",
     "ItemName": "ACEITE VEGETAL GS 12X900 CC."
   },
@@ -45160,10 +45152,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -45424,10 +45412,6 @@
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -45538,10 +45522,6 @@
   {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "100302028",
@@ -46022,5 +46002,25 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
