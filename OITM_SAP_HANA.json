@@ -29940,10 +29940,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   },
   {
-    "ItemCode": "204790017",
-    "ItemName": "SALTEADO CHAPSUI 20X500 GR"
-  },
-  {
     "ItemCode": "104670001",
     "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
   },
@@ -31436,10 +31432,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "104570014",
     "ItemName": "SALSA DE MANJAR CALO 10X1 KG"
   },
@@ -32494,10 +32486,6 @@
   {
     "ItemCode": "303850010",
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "403130000",
@@ -36216,10 +36204,6 @@
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12X1 LT"
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
@@ -36644,16 +36628,8 @@
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "403130002",
@@ -39464,10 +39440,6 @@
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "200500006",
-    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -40192,10 +40164,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -40510,10 +40478,6 @@
   {
     "ItemCode": "300353064",
     "ItemName": "HUACHALOMO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "101008003",
@@ -42692,10 +42656,6 @@
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
-    "ItemCode": "400005008",
-    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
-  },
-  {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
@@ -43194,10 +43154,6 @@
   {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
-  },
-  {
-    "ItemCode": "101250002",
-    "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
   {
     "ItemCode": "101200001",
@@ -44226,10 +44182,6 @@
   {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "100552005",
@@ -45552,10 +45504,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -46022,5 +45970,57 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "400005008",
+    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "101250002",
+    "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790017",
+    "ItemName": "SALTEADO CHAPSUI 20X500 GR"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "200500006",
+    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   }
 ]
