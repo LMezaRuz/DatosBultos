@@ -31820,10 +31820,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "104320012",
     "ItemName": "PANNA COTTA TKF 10X1 KG"
   },
@@ -32270,10 +32266,6 @@
   {
     "ItemCode": "204180023",
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "304440013",
@@ -36828,10 +36820,6 @@
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100004004",
     "ItemName": "ACEITE CHEF VEGETAL 16X1  LT"
   },
@@ -40464,10 +40452,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "101201041",
-    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
@@ -40596,20 +40580,12 @@
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "101201011",
-    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201013",
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201012",
-    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201042",
@@ -44092,10 +44068,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "400250003",
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
@@ -44930,14 +44902,6 @@
   {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "101452004",
@@ -45968,10 +45932,6 @@
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "304440019",
     "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101201012",
+    "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201011",
+    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201041",
+    "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
