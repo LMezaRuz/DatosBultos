@@ -32628,10 +32628,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
     "ItemCode": "100001005",
     "ItemName": "ACEITE DE OLIVA SANTIAGO SACHET 300X10 ML"
   },
@@ -43328,10 +43324,6 @@
     "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
   },
   {
-    "ItemCode": "100500001",
-    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -45864,10 +45856,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
@@ -46022,5 +46010,17 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "100500001",
+    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   }
 ]
