@@ -28084,10 +28084,6 @@
     "ItemName": "CREMA DE CHOCOLATE GOLDEN CIOC 12X1 LT"
   },
   {
-    "ItemCode": "400050003",
-    "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
-  },
-  {
     "ItemCode": "304760191",
     "ItemName": "HUACHALOMO BRASIL CONG. LOCAL (20KG. APROX)"
   },
@@ -28406,10 +28402,6 @@
   {
     "ItemCode": "202730076",
     "ItemName": "SUPER CROISSANT CURVO BLEND 40X95 GR (88225)"
-  },
-  {
-    "ItemCode": "304760251",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
   {
     "ItemCode": "304440020",
@@ -31690,10 +31682,6 @@
   {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "204380022",
@@ -44428,10 +44416,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -44658,10 +44642,6 @@
   {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
     "ItemCode": "200308003",
@@ -44956,10 +44936,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
   },
@@ -44990,10 +44966,6 @@
   {
     "ItemCode": "204140018",
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "304760109",
@@ -45656,20 +45628,12 @@
     "ItemName": "CREMA ACIDA LONCOLECHE 12X140 GR"
   },
   {
-    "ItemCode": "204300078",
-    "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "102560020",
     "ItemName": "AJI CREMA SUAVE VINTAGE FOOD SERVICE TRAVERSO 30X450 GR"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "204790018",
@@ -46000,10 +45964,6 @@
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "204300078",
+    "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "304760251",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "400050003",
+    "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   }
 ]
