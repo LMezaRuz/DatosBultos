@@ -44448,10 +44448,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -44606,10 +44602,6 @@
   {
     "ItemCode": "100304022",
     "ItemName": "NECTAR DE NARANJA TETRA 6X1 LT."
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "100402002",
@@ -45692,16 +45684,8 @@
     "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "300407004",
@@ -45730,10 +45714,6 @@
   {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "103880016",
@@ -46022,5 +46002,25 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
