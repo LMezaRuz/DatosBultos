@@ -27464,10 +27464,6 @@
     "ItemName": "CIRUELA KG."
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "304760313",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL GRAN CARNES 20 KG (APROX)"
   },
@@ -30676,20 +30672,12 @@
     "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
   },
   {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
   },
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
     "ItemCode": "202910045",
@@ -32638,10 +32626,6 @@
   {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "204050012",
@@ -36494,10 +36478,6 @@
   {
     "ItemCode": "303840001",
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "103910027",
@@ -40944,10 +40924,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -43816,10 +43792,6 @@
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -44732,20 +44704,12 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
     "ItemCode": "101007021",
     "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "101353020",
@@ -44990,10 +44954,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "400100004",
@@ -45764,10 +45724,6 @@
     "ItemName": "SERVILLETA MESA BURDEO PREMIUM 12 PQTE X 50 UN (SE70036)"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100803007",
     "ItemName": "PECANES 1X13,6KG"
   },
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   }
 ]
