@@ -29944,10 +29944,6 @@
     "ItemName": "HARINA DE TRIGO SUPER PAN DOS 1X25 KG"
   },
   {
-    "ItemCode": "103810002",
-    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "304110013",
     "ItemName": "QUESO FINESSE DE BRIE HORMA SANTA ROSA 2X1 KG"
   },
@@ -30924,10 +30920,6 @@
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
@@ -31054,10 +31046,6 @@
   {
     "ItemCode": "103830008",
     "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
-  },
-  {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "203200043",
@@ -32642,10 +32630,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204380034",
@@ -40092,10 +40076,6 @@
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -44508,10 +44488,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
@@ -44832,10 +44808,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "300353070",
     "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -44866,10 +44838,6 @@
   {
     "ItemCode": "200100009",
     "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
   {
     "ItemCode": "100102015",
@@ -44942,10 +44910,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "101050003",
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "100950002",
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
+  },
+  {
+    "ItemCode": "103810002",
+    "ItemName": "DETERGENTE MATIC DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
