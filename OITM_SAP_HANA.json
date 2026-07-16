@@ -31220,10 +31220,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -39640,10 +39636,6 @@
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "400250006",
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
@@ -40726,10 +40718,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "400011008",
@@ -43312,10 +43300,6 @@
     "ItemName": "SUAVIZANTE LT"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
   },
@@ -43434,10 +43418,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "200500021",
-    "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
   {
     "ItemCode": "400050001",
@@ -43574,10 +43554,6 @@
   {
     "ItemCode": "400012008",
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "102560020",
@@ -44384,10 +44360,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100700002",
     "ItemName": "CREMA DE CHOCLO (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44724,10 +44696,6 @@
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -44916,10 +44884,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
@@ -44966,10 +44930,6 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "101403004",
@@ -45880,10 +45840,6 @@
     "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "200303012",
     "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
   },
@@ -46004,10 +45960,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -46022,5 +45974,53 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200500021",
+    "ItemName": "ESPINACA CONGELADA 1X1 KG."
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
   }
 ]
