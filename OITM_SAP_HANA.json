@@ -30636,10 +30636,6 @@
     "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
     "ItemCode": "103650014",
     "ItemName": "DURAZNO TROCITOS 1X3 KG"
   },
@@ -31210,10 +31206,6 @@
   {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
-    "ItemCode": "104620004",
-    "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
   {
     "ItemCode": "104620000",
@@ -35566,10 +35558,6 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
-    "ItemCode": "300353070",
-    "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
     "ItemCode": "300156011",
@@ -41656,10 +41644,6 @@
     "ItemName": "PAPAS NOISETTES / DUQUESAS MC CAIN 4X2,5 KG"
   },
   {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
     "ItemCode": "200250020",
     "ItemName": "PAPAS PREFRITAS 7mm 4X2,5 KG"
   },
@@ -42250,10 +42234,6 @@
   {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
-  },
-  {
-    "ItemCode": "200200011",
-    "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
     "ItemCode": "100304007",
@@ -44256,14 +44236,6 @@
     "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
   },
   {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
-    "ItemCode": "104620001",
-    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
     "ItemCode": "104620003",
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
@@ -44314,10 +44286,6 @@
   {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
     "ItemCode": "101402005",
@@ -44574,10 +44542,6 @@
   {
     "ItemCode": "101100054",
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
     "ItemCode": "304760109",
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300353070",
+    "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "104620001",
+    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "104620004",
+    "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "200200011",
+    "ItemName": "MUFFIN VAINILLA 36X110 GR"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   }
 ]
