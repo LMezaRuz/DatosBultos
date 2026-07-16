@@ -30744,10 +30744,6 @@
     "ItemName": "LECHE CONDENSADA 24X390 GR"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -32446,10 +32442,6 @@
   {
     "ItemCode": "204530027",
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL STANDARD CAJA ENTRE 4,5 A 4,9 KG APROX (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "104170010",
@@ -36706,10 +36698,6 @@
   {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
-  },
-  {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
   {
     "ItemCode": "100002013",
@@ -46022,5 +46010,17 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   }
 ]
