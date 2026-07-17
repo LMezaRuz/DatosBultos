@@ -29492,10 +29492,6 @@
     "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
   {
-    "ItemCode": "102600000",
-    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
-  },
-  {
     "ItemCode": "100554029",
     "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
   },
@@ -41700,10 +41696,6 @@
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
   {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
-  },
-  {
     "ItemCode": "300150004",
     "ItemName": "SALCHICHA 1X1 KILO"
   },
@@ -44716,10 +44708,6 @@
     "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
@@ -46022,5 +46010,17 @@
   {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "102600000",
+    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
   }
 ]
