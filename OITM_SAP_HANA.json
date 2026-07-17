@@ -30656,10 +30656,6 @@
     "ItemName": "MERLUZA AUSTRAL PORCIÓN AL VACÍO 1X 5 KG"
   },
   {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
@@ -31238,10 +31234,6 @@
   {
     "ItemCode": "203430019",
     "ItemName": "MORAS RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "104010018",
-    "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
   {
     "ItemCode": "101305006",
@@ -35510,10 +35502,6 @@
   {
     "ItemCode": "300353130",
     "ItemName": "ASADO DEL CARNICERO PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
-  },
-  {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
     "ItemCode": "103010011",
@@ -43708,10 +43696,6 @@
     "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
@@ -44944,10 +44928,6 @@
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "200305016",
-    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "400010023",
     "ItemName": "RINZA 1X1 UN"
   },
@@ -45536,10 +45516,6 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "200303024",
-    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -45968,10 +45944,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "200303024",
+    "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "104010018",
+    "ItemName": "SALSA DE OSTRA 12X510 GR"
+  },
+  {
+    "ItemCode": "200305016",
+    "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   }
 ]
