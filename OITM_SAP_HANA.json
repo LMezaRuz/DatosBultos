@@ -30724,10 +30724,6 @@
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
   {
-    "ItemCode": "202730009",
-    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
     "ItemCode": "103180001",
     "ItemName": "DURAZNOS TROCITOS WASIL 6X3 KG"
   },
@@ -40116,10 +40112,6 @@
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
   },
   {
-    "ItemCode": "202730082",
-    "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -43536,10 +43528,6 @@
     "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
   },
   {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
-  },
-  {
     "ItemCode": "300351009",
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
@@ -43660,10 +43648,6 @@
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
-    "ItemCode": "202730083",
-    "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
-  },
-  {
     "ItemCode": "300154030",
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
@@ -43766,10 +43750,6 @@
   {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
-    "ItemCode": "200003005",
-    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
   {
     "ItemCode": "103070013",
@@ -46022,5 +46002,25 @@
   {
     "ItemCode": "101150043",
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
+  },
+  {
+    "ItemCode": "200003005",
+    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
+  },
+  {
+    "ItemCode": "202730083",
+    "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
+  },
+  {
+    "ItemCode": "202730009",
+    "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
+  },
+  {
+    "ItemCode": "202730082",
+    "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
+  },
+  {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   }
 ]
