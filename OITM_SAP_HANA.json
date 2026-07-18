@@ -39932,10 +39932,6 @@
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
@@ -39962,10 +39958,6 @@
   {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "100556001",
@@ -40018,10 +40010,6 @@
   {
     "ItemCode": "103450020",
     "ItemName": "CIRUELAS SIN CAROZO 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "400005013",
@@ -40158,10 +40146,6 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
     "ItemCode": "100351007",
@@ -43344,10 +43328,6 @@
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -43882,10 +43862,6 @@
   {
     "ItemCode": "101201018",
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "100300015",
@@ -45112,10 +45088,6 @@
     "ItemName": "ABASTERO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
   },
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
   }
 ]
