@@ -42740,10 +42740,6 @@
     "ItemName": "CAFE NESTLE TRADICION TARRO 1X420 GR"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
@@ -43618,10 +43614,6 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
     "ItemCode": "303870012",
@@ -46022,5 +46014,13 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   }
 ]
