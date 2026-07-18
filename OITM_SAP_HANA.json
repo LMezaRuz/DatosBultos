@@ -30448,10 +30448,6 @@
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
   {
-    "ItemCode": "204380018",
-    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
@@ -30474,10 +30470,6 @@
   {
     "ItemCode": "101201022",
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "600002032",
@@ -30738,10 +30730,6 @@
   {
     "ItemCode": "203210109",
     "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
   },
   {
     "ItemCode": "100854016",
@@ -31956,10 +31944,6 @@
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
   },
   {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "104420000",
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
@@ -32010,10 +31994,6 @@
   {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "100402001",
@@ -32474,10 +32454,6 @@
   {
     "ItemCode": "100903003",
     "ItemName": "HARINA TEMPURA 1X1 KG."
-  },
-  {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
     "ItemCode": "101356002",
@@ -39276,10 +39252,6 @@
     "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
@@ -39844,10 +39816,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "104570015",
     "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   },
@@ -39938,10 +39906,6 @@
   {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "100559008",
@@ -45920,10 +45884,6 @@
     "ItemName": "LECHE ENTERA UHT 6x200 ml."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "204100010",
     "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "304430001",
     "ItemName": "QUESO CREMA CALO 1X100 GR"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380018",
+    "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
