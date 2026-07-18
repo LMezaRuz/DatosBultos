@@ -31952,10 +31952,6 @@
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
   {
-    "ItemCode": "302960002",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
-  },
-  {
     "ItemCode": "103910062",
     "ItemName": "MERMELADA FRAMBUESA EN FRASCO WATT’S 10X500 GR"
   },
@@ -39272,10 +39268,6 @@
     "ItemName": "HABAS 15X1 KG"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -43036,10 +43028,6 @@
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
@@ -44460,10 +44448,6 @@
     "ItemName": "PECANES 1X13,6KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "204790006",
     "ItemName": "ARVEJAS DIEZ PUNTOS 25X200 GR"
   },
@@ -44952,10 +44936,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "100900003",
     "ItemName": "CHUCHOCA 1X1 KG"
   },
@@ -45134,10 +45114,6 @@
   {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "204870023",
@@ -45644,14 +45620,6 @@
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
@@ -45686,10 +45654,6 @@
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100551001",
@@ -45888,10 +45852,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "204300002",
     "ItemName": "FILETILLO DE POLLO CONG. 6X2 KG IMP"
   },
@@ -46016,11 +45976,51 @@
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "300353073",
     "ItemName": "PUNTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "302960002",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
