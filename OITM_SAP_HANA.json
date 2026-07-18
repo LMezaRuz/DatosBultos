@@ -27888,10 +27888,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "204150012",
-    "ItemName": "MINI NAVETTE 100X15 GR"
-  },
-  {
     "ItemCode": "304760473",
     "ItemName": "POSTA PALETA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -32252,10 +32248,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
   {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -36216,10 +36208,6 @@
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
@@ -36526,10 +36514,6 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
     "ItemCode": "100803006",
@@ -39072,10 +39056,6 @@
     "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200250008",
-    "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
-  },
-  {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
@@ -40526,10 +40506,6 @@
   {
     "ItemCode": "100557019",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "101452002",
@@ -43248,10 +43224,6 @@
     "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "103830008",
-    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
-  },
-  {
     "ItemCode": "200002001",
     "ItemName": "EMPANADA PINO COCKTAIL  100X70 GR"
   },
@@ -44468,10 +44440,6 @@
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
   {
-    "ItemCode": "304440019",
-    "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
-  },
-  {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
@@ -45556,10 +45524,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -45686,10 +45650,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "100355006",
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "304440019",
+    "ItemName": "QUESO GAUDA CALO LAMINADO 4X2,5 KG"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "103830008",
+    "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
+  },
+  {
+    "ItemCode": "200250008",
+    "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "204150012",
+    "ItemName": "MINI NAVETTE 100X15 GR"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   }
 ]
