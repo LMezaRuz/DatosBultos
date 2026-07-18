@@ -45944,10 +45944,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
   },
@@ -46004,14 +46000,6 @@
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "203200038",
-    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
@@ -46020,7 +46008,19 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
+    "ItemCode": "203200038",
+    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   }
 ]
