@@ -29964,10 +29964,6 @@
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
   },
   {
-    "ItemCode": "203200038",
-    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "600002002",
     "ItemName": "PALTA HASS MALLA 1x1 un"
   },
@@ -43564,10 +43560,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -44334,10 +44326,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "103010008",
@@ -45204,10 +45192,6 @@
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "202910004",
     "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -45290,10 +45274,6 @@
   {
     "ItemCode": "300404008",
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100850015",
@@ -45600,10 +45580,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
@@ -45738,10 +45714,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "101354005",
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "203200038",
+    "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   }
 ]
