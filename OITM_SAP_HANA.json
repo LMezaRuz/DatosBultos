@@ -32468,10 +32468,6 @@
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100101002",
-    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -39752,10 +39748,6 @@
     "ItemName": "HABAS 15X1 KG"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -43044,10 +43036,6 @@
     "ItemName": "MERKEN MOLIDO 1X200 GR"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -43276,10 +43264,6 @@
     "ItemName": "MANTECA PROFESIONAL DELICIA 1X1 KG."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
@@ -43322,10 +43306,6 @@
   {
     "ItemCode": "204100016",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
-  },
-  {
-    "ItemCode": "204180003",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100601003",
@@ -46022,5 +46002,25 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100101002",
+    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "204180003",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   }
 ]
