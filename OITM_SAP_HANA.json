@@ -39060,10 +39060,6 @@
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "202730081",
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
@@ -39362,10 +39358,6 @@
   {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
-  },
-  {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
     "ItemCode": "100854012",
@@ -39882,10 +39874,6 @@
   {
     "ItemCode": "100303002",
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "304440005",
-    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
   {
     "ItemCode": "400105003",
@@ -43416,10 +43404,6 @@
     "ItemName": "SERVILLETA DE MESA CREMA TORK PREMIUM 12X50 UN. (SE70033)"
   },
   {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
@@ -45624,10 +45608,6 @@
     "ItemName": "RACK ENTERO CHULETA CENTRO BRASIL AURORA 25 KG (APROX)"
   },
   {
-    "ItemCode": "200453013",
-    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
-  },
-  {
     "ItemCode": "204300002",
     "ItemName": "FILETILLO DE POLLO CONG. 6X2 KG IMP"
   },
@@ -45988,10 +45968,6 @@
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
@@ -46022,5 +45998,29 @@
   {
     "ItemCode": "104210011",
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "304440005",
+    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "200453013",
+    "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   }
 ]
