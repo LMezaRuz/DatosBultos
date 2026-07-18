@@ -31352,10 +31352,6 @@
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
   {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
     "ItemCode": "300156002",
     "ItemName": "YOGURT FRAMBUESA 1X1 LT"
   },
@@ -35736,10 +35732,6 @@
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "101150026",
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
@@ -40006,10 +39998,6 @@
   {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
-  },
-  {
-    "ItemCode": "100559008",
-    "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
   },
   {
     "ItemCode": "101001005",
@@ -44856,10 +44844,6 @@
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "100003008",
     "ItemName": "ACEITE INDU LA REINA FREIR 4X5LTR"
   },
@@ -45120,10 +45104,6 @@
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -45316,10 +45296,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -45366,10 +45342,6 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "100852013",
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100559008",
+    "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   }
 ]
