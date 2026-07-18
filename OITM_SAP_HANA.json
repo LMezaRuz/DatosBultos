@@ -30660,10 +30660,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
@@ -31006,10 +31002,6 @@
   {
     "ItemCode": "204010001",
     "ItemName": "SALSA BLANCA GYN CONGELADA 3X2 KG"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "202800001",
@@ -31530,10 +31522,6 @@
   {
     "ItemCode": "304860009",
     "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
     "ItemCode": "100201016",
@@ -39212,10 +39200,6 @@
     "ItemName": "HELADO PUDU FRAMBUESA 1X5 LT"
   },
   {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
     "ItemCode": "103480001",
     "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
   },
@@ -39230,10 +39214,6 @@
   {
     "ItemCode": "204300089",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. AURORA 1X15KG (X-MAYOR)"
-  },
-  {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
   {
     "ItemCode": "101150040",
@@ -43056,10 +43036,6 @@
     "ItemName": "PAÑO SPONGI VIRUTEX 1X1 UN (1100580)(1300500)"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101250002",
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
@@ -43170,10 +43146,6 @@
   {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "300151003",
@@ -43774,10 +43746,6 @@
   {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
-  },
-  {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
   {
     "ItemCode": "200200019",
@@ -45908,10 +45876,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "200308003",
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
