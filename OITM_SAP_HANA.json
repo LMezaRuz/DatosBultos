@@ -28512,10 +28512,6 @@
     "ItemName": "MANTEQUILLA LAS PARCELAS DE VALDIVIA POTE 24X200 GR"
   },
   {
-    "ItemCode": "100701013",
-    "ItemName": "SOPA DE POLLO CON ARROZ (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
@@ -29604,10 +29600,6 @@
     "ItemName": "ESPECIAS DE COSTILLAS SIN AJO 1 X 5 KG"
   },
   {
-    "ItemCode": "304760430",
-    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304460009",
     "ItemName": "QUESO MOZZARELLA CORLASA 1X3,5 KG"
   },
@@ -30238,10 +30230,6 @@
   {
     "ItemCode": "300157005",
     "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
-  },
-  {
-    "ItemCode": "100701010",
-    "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "304760256",
@@ -36316,10 +36304,6 @@
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
@@ -38724,10 +38708,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT GOLD 4X2,5 KG"
   },
   {
-    "ItemCode": "203190026",
-    "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
-  },
-  {
     "ItemCode": "100151014",
     "ItemName": "CEREAL GRANOLA 12X370 GR"
   },
@@ -40020,10 +40000,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
-    "ItemCode": "203210096",
-    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
@@ -40526,10 +40502,6 @@
   {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
     "ItemCode": "400100003",
@@ -43760,10 +43732,6 @@
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "103640000",
     "ItemName": "JUGO ZUKO GO NARANJA 45X60 GR"
   },
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203190026",
+    "ItemName": "COSTILLAS BABY BACK RIBS AGROSUPER 24-28 OZ (12 KG APROX)"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "100701013",
+    "ItemName": "SOPA DE POLLO CON ARROZ (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100701010",
+    "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "304760430",
+    "ItemName": "GANSO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210096",
+    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   }
 ]
