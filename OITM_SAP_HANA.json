@@ -32280,10 +32280,6 @@
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "303660007",
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
@@ -36192,10 +36188,6 @@
     "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
   },
@@ -39450,10 +39442,6 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
     "ItemCode": "101250003",
@@ -43476,10 +43464,6 @@
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -44350,10 +44334,6 @@
   {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "200303017",
@@ -45428,10 +45408,6 @@
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
@@ -46022,5 +45998,29 @@
   {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   }
 ]
