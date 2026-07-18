@@ -30736,10 +30736,6 @@
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "400251016",
     "ItemName": "SERVILLETA INTERF. BLANCA (33X21,5) 24X250UN SE70053"
   },
@@ -31058,14 +31054,6 @@
   {
     "ItemCode": "300157018",
     "ItemName": "YOGURT LIGHT VAINILLA SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300157014",
-    "ItemName": "YOGURT LIGHT FRUTILLA SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300158001",
-    "ItemName": "YOGURT BATIDO SIN LACTOSA MORA 48 X125 GRS"
   },
   {
     "ItemCode": "102490000",
@@ -36460,10 +36448,6 @@
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
@@ -39316,10 +39300,6 @@
     "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
-    "ItemCode": "101008007",
-    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "200500019",
     "ItemName": "ESPARRAGOS 9X1 KG."
   },
@@ -39808,10 +39788,6 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -40204,10 +40180,6 @@
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
   },
@@ -40266,10 +40238,6 @@
   {
     "ItemCode": "204300080",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. SEARA 1X15 KG"
-  },
-  {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
     "ItemCode": "400252002",
@@ -43896,10 +43864,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44022,10 +43986,6 @@
   {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "300351016",
@@ -45324,10 +45284,6 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -45752,10 +45708,6 @@
     "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
   },
   {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
     "ItemCode": "204150012",
     "ItemName": "MINI NAVETTE 100X15 GR"
   },
@@ -46022,5 +45974,53 @@
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "101008007",
+    "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "300158001",
+    "ItemName": "YOGURT BATIDO SIN LACTOSA MORA 48 X125 GRS"
+  },
+  {
+    "ItemCode": "300157014",
+    "ItemName": "YOGURT LIGHT FRUTILLA SOPROLE 1X120 GR."
   }
 ]
