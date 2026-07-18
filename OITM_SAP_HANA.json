@@ -31620,10 +31620,6 @@
     "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
-    "ItemCode": "103940023",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -39640,10 +39636,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
-  },
-  {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
@@ -39882,10 +39874,6 @@
   {
     "ItemCode": "100855012",
     "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
     "ItemCode": "101354019",
@@ -43492,10 +43480,6 @@
     "ItemName": "PURE DE CASTAÑAS 1X1 KG"
   },
   {
-    "ItemCode": "100555001",
-    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
@@ -43998,10 +43982,6 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
     "ItemCode": "203200017",
@@ -44836,14 +44816,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
-  },
-  {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
   },
@@ -44928,20 +44900,12 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
     "ItemCode": "300403001",
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "304490000",
@@ -45644,10 +45608,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -45670,10 +45630,6 @@
   {
     "ItemCode": "203230002",
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "100903007",
@@ -45972,10 +45928,6 @@
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
@@ -46008,10 +45960,6 @@
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
@@ -46022,5 +45970,57 @@
   {
     "ItemCode": "203190036",
     "ItemName": "LOMO CENTRO PORCIONADO IQF S/C MP 17 KG APROX"
+  },
+  {
+    "ItemCode": "103940023",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100555001",
+    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
