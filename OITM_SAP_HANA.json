@@ -30792,10 +30792,6 @@
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
   {
-    "ItemCode": "204090008",
-    "ItemName": "KANIKAMA EL GOLFO 40X200 GR"
-  },
-  {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
@@ -30898,10 +30894,6 @@
   {
     "ItemCode": "200455016",
     "ItemName": "TRUTRO DE ALA COCIDA HOT 4X2 KG (VE)"
-  },
-  {
-    "ItemCode": "200453031",
-    "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
   },
   {
     "ItemCode": "104670068",
@@ -36280,10 +36272,6 @@
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
   },
   {
-    "ItemCode": "203430018",
-    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "203430016",
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
@@ -36464,10 +36452,6 @@
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "104040000",
     "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
   },
@@ -36618,10 +36602,6 @@
   {
     "ItemCode": "104010061",
     "ItemName": "MASA MIX CHILIS 8X2,04 KG"
-  },
-  {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
   },
   {
     "ItemCode": "203210108",
@@ -39040,10 +39020,6 @@
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "100152003",
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
@@ -40450,10 +40426,6 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "100101001",
@@ -45604,10 +45576,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -46022,5 +45990,37 @@
   {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "204090008",
+    "ItemName": "KANIKAMA EL GOLFO 40X200 GR"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "203430018",
+    "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200453031",
+    "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
   }
 ]
