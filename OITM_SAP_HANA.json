@@ -30648,10 +30648,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
@@ -32102,10 +32098,6 @@
   {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "202910014",
@@ -36080,10 +36072,6 @@
     "ItemName": "COSTILLAR DE CERDO KG. (NV)"
   },
   {
-    "ItemCode": "300353083",
-    "ItemName": "GUATA CALLO TROZADA KG."
-  },
-  {
     "ItemCode": "300158002",
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
@@ -36306,10 +36294,6 @@
   {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "100250007",
@@ -38778,10 +38762,6 @@
   {
     "ItemCode": "200301002",
     "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
-  },
-  {
-    "ItemCode": "200500006",
-    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
   {
     "ItemCode": "200500038",
@@ -44740,10 +44720,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   },
   {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
@@ -44762,10 +44738,6 @@
   {
     "ItemCode": "101201037",
     "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
     "ItemCode": "101201022",
@@ -45324,10 +45296,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -45764,10 +45732,6 @@
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "200500006",
+    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "300353083",
+    "ItemName": "GUATA CALLO TROZADA KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
