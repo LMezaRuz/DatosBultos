@@ -27532,10 +27532,6 @@
     "ItemName": "CAFE AMALFI EN PODS 1X50 UU."
   },
   {
-    "ItemCode": "203200039",
-    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
     "ItemCode": "202910055",
     "ItemName": "RACK ENTERO CHULETA CENTRO BRASIL LOCAL AURORA 25 KG (X-MAYOR)"
   },
@@ -28426,10 +28422,6 @@
   {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
-  },
-  {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8X1 KG"
   },
   {
     "ItemCode": "304440007",
@@ -43864,10 +43856,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -45232,10 +45220,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "204180003",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
@@ -45430,10 +45414,6 @@
   {
     "ItemCode": "203190031",
     "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "204180026",
@@ -45924,10 +45904,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
@@ -45942,10 +45918,6 @@
   {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "100050007",
@@ -46022,5 +45994,33 @@
   {
     "ItemCode": "300157014",
     "ItemName": "YOGURT LIGHT FRUTILLA SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "203200039",
+    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
+  },
+  {
+    "ItemCode": "204180003",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   }
 ]
