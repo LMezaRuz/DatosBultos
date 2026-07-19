@@ -29952,10 +29952,6 @@
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "103480008",
     "ItemName": "GALLETAS SPECULOOS BISCUITS 1X300 UN"
   },
@@ -35610,10 +35606,6 @@
   {
     "ItemCode": "200203007",
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
-  },
-  {
-    "ItemCode": "200201002",
-    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
     "ItemCode": "304440012",
@@ -42980,10 +42972,6 @@
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -45564,10 +45552,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -46022,5 +46006,21 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "200201002",
+    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   }
 ]
