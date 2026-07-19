@@ -31236,10 +31236,6 @@
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
   {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
   },
@@ -31634,10 +31630,6 @@
   {
     "ItemCode": "104290008",
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
-  },
-  {
-    "ItemCode": "300404005",
-    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
   },
   {
     "ItemCode": "400250007",
@@ -35794,10 +35786,6 @@
   {
     "ItemCode": "300351032",
     "ItemName": "ARROLLADO LOMO GRANEL PIEZA 1X1 KG"
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "100304027",
@@ -42676,10 +42664,6 @@
     "ItemName": "CABELLO DE ANGEL CORTO CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "103110002",
-    "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
-  },
-  {
     "ItemCode": "101100025",
     "ItemName": "CABELLO DE ANGEL CORTO 30X400 GR"
   },
@@ -44912,16 +44896,8 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "104680002",
@@ -45324,10 +45300,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
@@ -45630,10 +45602,6 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100900001",
@@ -45948,10 +45916,6 @@
     "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "203210072",
     "ItemName": "DESPUNTES VACUNO PROCESADO (MM)"
+  },
+  {
+    "ItemCode": "300404005",
+    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
+  },
+  {
+    "ItemCode": "103110002",
+    "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
