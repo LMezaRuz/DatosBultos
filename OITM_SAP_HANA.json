@@ -30876,10 +30876,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "400301032",
     "ItemName": "STICKER CHILI TB 1X1.000 UN"
   },
@@ -31986,10 +31982,6 @@
   {
     "ItemCode": "300353076",
     "ItemName": "TAPAPECHO AL VACIO CAT V PARAGUAY (66715) (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
     "ItemCode": "100302028",
@@ -39704,10 +39696,6 @@
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "400301034",
     "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
   },
@@ -44708,10 +44696,6 @@
     "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "204750028",
     "ItemName": "POSTA NEGRA CAT-V CONG. PARAGUAY FRIGOCHACO 25 KG (APROX)"
   },
@@ -45504,14 +45488,6 @@
     "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "103520000",
     "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
   },
@@ -45812,24 +45788,8 @@
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "204710000",
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "101050002",
@@ -45850,10 +45810,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "204790037",
@@ -46022,5 +45978,49 @@
   {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
