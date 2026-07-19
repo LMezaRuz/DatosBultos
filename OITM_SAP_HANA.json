@@ -31664,10 +31664,6 @@
     "ItemName": "COBERTURA NEUCOBER AMARGO 12X1 KG"
   },
   {
-    "ItemCode": "200302007",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
-  },
-  {
     "ItemCode": "100901003",
     "ItemName": "HARINA ORO 5 SACO 1X25 KG."
   },
@@ -31818,10 +31814,6 @@
   {
     "ItemCode": "304450017",
     "ItemName": "QUESO MANTECOSO ARTESANOS DEL SUR BARRA (3 KG APROX)"
-  },
-  {
-    "ItemCode": "203230007",
-    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "203210125",
@@ -43128,10 +43120,6 @@
     "ItemName": "CHOCOLATE DE LECHE SICAO 10X1 KG"
   },
   {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
-  },
-  {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
@@ -43848,10 +43836,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "203230006",
-    "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
-  },
-  {
     "ItemCode": "100352008",
     "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -44168,10 +44152,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
@@ -44320,10 +44300,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
@@ -44374,10 +44350,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "400008004",
@@ -45860,10 +45832,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
@@ -45904,10 +45872,6 @@
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -45942,10 +45906,6 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
-    "ItemCode": "101354007",
-    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
     "ItemCode": "101352009",
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
+  },
+  {
+    "ItemCode": "200302007",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
+  },
+  {
+    "ItemCode": "101354007",
+    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "203230007",
+    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203230006",
+    "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
