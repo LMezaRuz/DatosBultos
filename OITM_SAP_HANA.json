@@ -39832,10 +39832,6 @@
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -39902,10 +39898,6 @@
   {
     "ItemCode": "200201006",
     "ItemName": "MINI REJILLA DE MANZANA BRIDOR 100X40 GR"
-  },
-  {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
     "ItemCode": "202720028",
@@ -40434,10 +40426,6 @@
   {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "304760453",
@@ -42920,10 +42908,6 @@
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
-    "ItemCode": "200002011",
-    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
     "ItemCode": "400007009",
     "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
   },
@@ -43560,10 +43544,6 @@
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "103910037",
     "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
@@ -44074,10 +44054,6 @@
   {
     "ItemCode": "101006003",
     "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "101355001",
@@ -45096,10 +45072,6 @@
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "200308004",
     "ItemName": "PAILA MARINA NAC 20X500 GR"
   },
@@ -46020,7 +45992,35 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200002011",
+    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   }
 ]
