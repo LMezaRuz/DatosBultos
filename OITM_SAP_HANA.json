@@ -35792,10 +35792,6 @@
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   },
@@ -39530,10 +39526,6 @@
   {
     "ItemCode": "204300073",
     "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
-  },
-  {
-    "ItemCode": "100557019",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
   {
     "ItemCode": "101452002",
@@ -44264,10 +44256,6 @@
     "ItemName": "PESTO 1X190 GR"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100852024",
     "ItemName": "GALLETA TUAREG 35X120 GR"
   },
@@ -44322,14 +44310,6 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "200002011",
@@ -44856,10 +44836,6 @@
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
@@ -45324,10 +45300,6 @@
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "204790006",
     "ItemName": "ARVEJAS DIEZ PUNTOS 25X200 GR"
   },
@@ -45598,10 +45570,6 @@
   {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "100003003",
@@ -45944,10 +45912,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
@@ -46022,5 +45986,41 @@
   {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100557019",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   }
 ]
