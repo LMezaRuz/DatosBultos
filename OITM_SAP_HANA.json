@@ -45380,10 +45380,6 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   },
@@ -45908,10 +45904,6 @@
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
-    "ItemCode": "103140003",
-    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -46022,5 +46014,13 @@
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "103140003",
+    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   }
 ]
