@@ -35912,10 +35912,6 @@
     "ItemName": "SALSA DE MANJAR CALO 10X1 KG"
   },
   {
-    "ItemCode": "101150045",
-    "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
-  },
-  {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
   },
@@ -38908,10 +38904,6 @@
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
-    "ItemCode": "104570015",
-    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
-  },
-  {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
@@ -39058,10 +39050,6 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "403400007",
@@ -42956,10 +42944,6 @@
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
   {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -45696,14 +45680,6 @@
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
@@ -46016,11 +45992,35 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101150045",
+    "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
+  },
+  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "104570015",
+    "ItemName": "SALSA CHIRIMOYA ALEGRE JUAN MAESTRO 6X1 KG"
   }
 ]
