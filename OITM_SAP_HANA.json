@@ -30304,10 +30304,6 @@
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
@@ -38388,10 +38384,6 @@
     "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "103480004",
     "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
   },
@@ -39346,10 +39338,6 @@
   {
     "ItemCode": "400252002",
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
-  },
-  {
-    "ItemCode": "200302009",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "404600005",
@@ -44072,10 +44060,6 @@
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
   },
@@ -44578,10 +44562,6 @@
   {
     "ItemCode": "100701011",
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "101008005",
@@ -45152,10 +45132,6 @@
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101201022",
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
@@ -45512,10 +45488,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
@@ -45546,10 +45518,6 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "300404009",
@@ -45690,10 +45658,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
     "ItemCode": "400009002",
@@ -45856,10 +45820,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -46008,19 +45968,59 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "103140003",
     "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "200302009",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   }
 ]
