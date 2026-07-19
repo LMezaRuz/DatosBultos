@@ -28148,10 +28148,6 @@
     "ItemName": "PULPO ENTERO DEL SUR (ENTEROCTOPUS MEGALOCYATHUS) NAC KG"
   },
   {
-    "ItemCode": "103140003",
-    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
-  },
-  {
     "ItemCode": "404360033",
     "ItemName": "ESPONJA ANATOMICA 1X1 UN"
   },
@@ -30310,10 +30306,6 @@
   {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
     "ItemCode": "100101012",
@@ -35124,10 +35116,6 @@
     "ItemName": "CAJA DELIVERY MEDIANA TOMMY BEANS 1 X 250 UN"
   },
   {
-    "ItemCode": "101400002",
-    "ItemName": "CHAMPINON LAMINADO 1X400 GR"
-  },
-  {
     "ItemCode": "200460005",
     "ItemName": "POLLO ENTERO CONG CALBRE 2,2 X KG (APROX. 18 KGS)"
   },
@@ -38812,10 +38800,6 @@
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
   {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
     "ItemCode": "100751009",
     "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
   },
@@ -42036,10 +42020,6 @@
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
   },
   {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "100754008",
     "ItemName": "PURE DE CASTAÑAS 1X1 KG"
   },
@@ -44056,10 +44036,6 @@
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -44134,10 +44110,6 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
-    "ItemCode": "400252001",
-    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
     "ItemCode": "104680002",
@@ -44218,10 +44190,6 @@
   {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
     "ItemCode": "103940026",
@@ -44362,14 +44330,6 @@
   {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "100201015",
@@ -44546,10 +44506,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "400100003",
@@ -45096,10 +45052,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
@@ -45282,10 +45234,6 @@
   {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "101201022",
@@ -46022,5 +45970,57 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101400002",
+    "ItemName": "CHAMPINON LAMINADO 1X400 GR"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "400252001",
+    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
+  },
+  {
+    "ItemCode": "103140003",
+    "ItemName": "PAN RALLADO JAPONES AMARILLO 4MM 10X1 KG"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   }
 ]
