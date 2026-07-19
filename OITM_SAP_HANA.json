@@ -27004,10 +27004,6 @@
     "ItemName": "PAN DE PAPA 10 CM 210X60 GR"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "204310003",
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
   },
@@ -30292,10 +30288,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X1 KG"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101452006",
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
@@ -30646,10 +30638,6 @@
   {
     "ItemCode": "300154032",
     "ItemName": "MARGARINA SUREÑA MIX PAN 40X200 G"
-  },
-  {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
   {
     "ItemCode": "203200031",
@@ -36720,10 +36708,6 @@
     "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
   },
   {
-    "ItemCode": "200455001",
-    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
@@ -36786,10 +36770,6 @@
   {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
-  },
-  {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
     "ItemCode": "300353006",
@@ -40216,10 +40196,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -40252,20 +40228,12 @@
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
-  },
-  {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
     "ItemCode": "101150037",
     "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "204380022",
@@ -40938,10 +40906,6 @@
   {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "304760453",
@@ -42752,10 +42716,6 @@
     "ItemName": "ACEITE PARA FREIR BIDON 1X10 LT."
   },
   {
-    "ItemCode": "100355010",
-    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101006005",
     "ItemName": "LECHE SEMI DESCREMADA SOPROLE 12X1 LT."
   },
@@ -43006,10 +42966,6 @@
   {
     "ItemCode": "100901007",
     "ItemName": "HARINA SIN POLVOS ESTRELLA / FLOR 1X25 KG."
-  },
-  {
-    "ItemCode": "100355012",
-    "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
   },
   {
     "ItemCode": "400012008",
@@ -43704,10 +43660,6 @@
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "400201001",
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
   },
@@ -43758,10 +43710,6 @@
   {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "100701001",
@@ -45784,10 +45732,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "202910003",
     "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -46022,5 +45966,61 @@
   {
     "ItemCode": "304430001",
     "ItemName": "QUESO CREMA CALO 1X100 GR"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "200455001",
+    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355012",
+    "ItemName": "SYRUP PASSION FRUIT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355010",
+    "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   }
 ]
