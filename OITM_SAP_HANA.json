@@ -31368,10 +31368,6 @@
     "ItemName": "CHIPOTLES ADOBO 12X800 GR"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "100201014",
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
@@ -42460,10 +42456,6 @@
     "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
   {
-    "ItemCode": "400005008",
-    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
-  },
-  {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
   },
@@ -42844,10 +42836,6 @@
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -42870,10 +42858,6 @@
   {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "100050005",
@@ -43230,10 +43214,6 @@
   {
     "ItemCode": "103440002",
     "ItemName": "COMPOTA DE MANZANA MANGO PLATANO WATT'S 36X90 GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "304850037",
@@ -44484,10 +44464,6 @@
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "200308004",
     "ItemName": "PAILA MARINA NAC 20X500 GR"
   },
@@ -44730,10 +44706,6 @@
   {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "300405006",
@@ -45148,10 +45120,6 @@
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
@@ -45484,10 +45452,6 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -45582,10 +45546,6 @@
   {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
   },
   {
     "ItemCode": "204300085",
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "400005008",
+    "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   }
 ]
