@@ -31472,10 +31472,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
     "ItemCode": "203230005",
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
@@ -32252,10 +32248,6 @@
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
-    "ItemCode": "400005017",
-    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
-  },
-  {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
@@ -32394,10 +32386,6 @@
   {
     "ItemCode": "104070007",
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
-  },
-  {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
     "ItemCode": "400301072",
@@ -35872,10 +35860,6 @@
     "ItemName": "CONDIMENTO PARA SALSA DE TOMATE JUAN MAESTRO 5X1 KG"
   },
   {
-    "ItemCode": "101007010",
-    "ItemName": "LECHE 0% MG TKF 1X1 KG"
-  },
-  {
     "ItemCode": "103520016",
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
   },
@@ -36626,10 +36610,6 @@
   {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "101304001",
@@ -40532,10 +40512,6 @@
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -40602,10 +40578,6 @@
   {
     "ItemCode": "100552005",
     "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "100005004",
@@ -40768,10 +40740,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
@@ -40782,10 +40750,6 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
   {
     "ItemCode": "300154009",
@@ -43860,10 +43824,6 @@
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -44592,10 +44552,6 @@
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -44790,10 +44746,6 @@
   {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "200304004",
@@ -46022,5 +45974,53 @@
   {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "400005017",
+    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "101007010",
+    "ItemName": "LECHE 0% MG TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   }
 ]
