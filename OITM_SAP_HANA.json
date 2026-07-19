@@ -29236,10 +29236,6 @@
     "ItemName": "HELADO SOFT SABOR MANJAR 10X800 GR"
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "304760045",
     "ItemName": "PUNTA PICANA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
@@ -29486,10 +29482,6 @@
   {
     "ItemCode": "104660017",
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
     "ItemCode": "104670086",
@@ -39992,10 +39984,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
@@ -44372,10 +44360,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "102710013",
     "ItemName": "BEBIDA VEGETAL LONCOLECHE DE ALMENDRAS 6X1LT"
   },
@@ -45948,30 +45932,6 @@
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "103070007",
-    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -46022,5 +45982,45 @@
   {
     "ItemCode": "203200036",
     "ItemName": "NUGGETS DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "103070007",
+    "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
