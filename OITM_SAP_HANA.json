@@ -30780,10 +30780,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -31274,10 +31270,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "104600004",
@@ -32214,10 +32206,6 @@
   {
     "ItemCode": "103000001",
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
-  },
-  {
-    "ItemCode": "101009007",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
   },
   {
     "ItemCode": "100751053",
@@ -36508,10 +36496,6 @@
     "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "403250008",
     "ItemName": "TAPA POCILLO PLASTICO 1,5 OZ A 2 OZ 1 X 2500 UN"
   },
@@ -39744,10 +39728,6 @@
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201013",
-    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -40266,10 +40246,6 @@
   {
     "ItemCode": "300152007",
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
-  },
-  {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
   {
     "ItemCode": "100905002",
@@ -45968,10 +45944,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -46178,5 +46150,33 @@
   {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009007",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101201013",
+    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   }
 ]
