@@ -31616,10 +31616,6 @@
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "103020000",
     "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
   },
@@ -39024,10 +39020,6 @@
     "ItemName": "POLLO ENTERO CONG CALIBRE 2.0 a 2.2  (20 KG APROX)"
   },
   {
-    "ItemCode": "101008004",
-    "ItemName": "LECHE ENTERA UHT 6x200 ml."
-  },
-  {
     "ItemCode": "300353056",
     "ItemName": "TAPAPECHO KG (NV)"
   },
@@ -43296,10 +43288,6 @@
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -43538,10 +43526,6 @@
   {
     "ItemCode": "101200020",
     "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100250005",
@@ -45260,10 +45244,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
-  },
-  {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
@@ -45498,10 +45478,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "101404002",
@@ -45760,10 +45736,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
@@ -45926,10 +45898,6 @@
   {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
-  },
-  {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
     "ItemCode": "101003001",
@@ -46178,5 +46146,37 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "101008004",
+    "ItemName": "LECHE ENTERA UHT 6x200 ml."
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   }
 ]
