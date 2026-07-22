@@ -28216,10 +28216,6 @@
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
   {
-    "ItemCode": "303750001",
-    "ItemName": "LECHE PROTEIN SHOT SABOR VAINILLA PACK 6X100"
-  },
-  {
     "ItemCode": "103910036",
     "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
   },
@@ -30520,10 +30516,6 @@
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "103250000",
     "ItemName": "SOBRE QUESADILLAS TOMMY BEANS 1X2400 UN"
   },
@@ -32322,10 +32314,6 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "100005004",
-    "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
     "ItemCode": "200203008",
@@ -40092,10 +40080,6 @@
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
-    "ItemCode": "101009001",
-    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -43168,10 +43152,6 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100302006",
     "ItemName": "SPRITE 6X1,5 LT"
   },
@@ -43830,10 +43810,6 @@
   {
     "ItemCode": "101201029",
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103990003",
-    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
     "ItemCode": "104210008",
@@ -45524,10 +45500,6 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -45566,10 +45538,6 @@
   {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
   },
   {
     "ItemCode": "304490000",
@@ -45838,10 +45806,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "304760439",
@@ -46178,5 +46142,41 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "103990003",
+    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
+  },
+  {
+    "ItemCode": "101009001",
+    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100005004",
+    "ItemName": "ACEITE DE SESAMO 1X500 ML"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "303750001",
+    "ItemName": "LECHE PROTEIN SHOT SABOR VAINILLA PACK 6X100"
   }
 ]
