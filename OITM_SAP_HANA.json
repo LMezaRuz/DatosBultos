@@ -29804,10 +29804,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT V NACIONAL 20 KG. (APROX)"
   },
   {
-    "ItemCode": "103580001",
-    "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
-  },
-  {
     "ItemCode": "304760498",
     "ItemName": "ARRACHERA DE VACUNO CAT-V CORTE CRIOLLO 25 KG (APROX)"
   },
@@ -35276,10 +35272,6 @@
     "ItemName": "POLLO ENTERO CALIBRE 2,1CONG.  1 X 18,9 KGS"
   },
   {
-    "ItemCode": "200460011",
-    "ItemName": "POLLO ENTERO LOCAL CALIBRE 1.9"
-  },
-  {
     "ItemCode": "200460036",
     "ItemName": "MEDIA PECHUGA DE POLLO S/HUESO S/PIEL CAJA (APROX 15 KG)"
   },
@@ -35418,10 +35410,6 @@
   {
     "ItemCode": "102970024",
     "ItemName": "RELLENO CREMOSO DE CACAO Y AVELLANA VELA NOCCIOLA 1X6 KG"
-  },
-  {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
     "ItemCode": "103090003",
@@ -43464,10 +43452,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -44860,10 +44844,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "104570009",
-    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
     "ItemCode": "104670064",
     "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
   },
@@ -45460,10 +45440,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
@@ -45716,14 +45692,6 @@
     "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -45734,10 +45702,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "100550001",
@@ -46232,10 +46196,6 @@
     "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "204300020",
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
   },
@@ -46258,6 +46218,10 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "300404024",
+    "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
   {
     "ItemCode": "101009025",
@@ -46284,7 +46248,43 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "300404024",
-    "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "200460011",
+    "ItemName": "POLLO ENTERO LOCAL CALIBRE 1.9"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "104570009",
+    "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
+  },
+  {
+    "ItemCode": "103580001",
+    "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
   }
 ]
