@@ -30456,10 +30456,6 @@
     "ItemName": "TE LIPTON GREEN MANDARIN ORANGE 12 X 20 BLS"
   },
   {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
     "ItemCode": "104670080",
     "ItemName": "TE LIPTON BLACK PEACH MANGO 12 X 20 BLS"
   },
@@ -31262,10 +31258,6 @@
   {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
   {
     "ItemCode": "103520010",
@@ -36278,10 +36270,6 @@
   {
     "ItemCode": "103910048",
     "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "100701008",
@@ -44880,10 +44868,6 @@
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
   {
-    "ItemCode": "202910004",
-    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
-  },
-  {
     "ItemCode": "100903007",
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
@@ -45086,10 +45070,6 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
     "ItemCode": "101003002",
@@ -46268,6 +46248,10 @@
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
     "ItemCode": "203210058",
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
@@ -46284,7 +46268,23 @@
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "202910004",
+    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
   }
 ]
