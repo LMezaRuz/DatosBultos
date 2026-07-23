@@ -39564,10 +39564,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -39626,10 +39622,6 @@
   {
     "ItemCode": "100101001",
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "101358010",
@@ -42664,10 +42656,6 @@
     "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "300351012",
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   },
@@ -42766,10 +42754,6 @@
   {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
-  },
-  {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
     "ItemCode": "101300003",
@@ -45740,10 +45724,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
   },
   {
-    "ItemCode": "300001008",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
@@ -45798,10 +45778,6 @@
   {
     "ItemCode": "103070007",
     "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "300153003",
@@ -46124,8 +46100,28 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
     "ItemCode": "100303004",
@@ -46244,10 +46240,6 @@
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -46276,15 +46268,23 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "300001008",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   }
 ]
