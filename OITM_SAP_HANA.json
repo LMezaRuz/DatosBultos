@@ -31460,10 +31460,6 @@
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
-    "ItemCode": "103830010",
-    "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
-  },
-  {
     "ItemCode": "304340002",
     "ItemName": "JALEA PROTEIN SABOR GUINDA LONCO LECHE 6 PACK 4X100 GR"
   },
@@ -31766,10 +31762,6 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "103200000",
-    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
   {
     "ItemCode": "101150008",
@@ -35736,10 +35728,6 @@
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101007015",
-    "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
-  },
-  {
     "ItemCode": "104620003",
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
@@ -36050,10 +36038,6 @@
   {
     "ItemCode": "100304034",
     "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
-  },
-  {
-    "ItemCode": "300154030",
-    "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
   {
     "ItemCode": "300353015",
@@ -39358,10 +39342,6 @@
   {
     "ItemCode": "300156011",
     "ItemName": "YOGURT BOLSA CALAN CHIRIMOYA 12X1 LT"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
     "ItemCode": "200500036",
@@ -45660,10 +45640,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "204310017",
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
@@ -46132,10 +46108,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
-    "ItemCode": "300001008",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
     "ItemCode": "103650021",
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
@@ -46216,10 +46188,6 @@
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
@@ -46286,5 +46254,37 @@
   {
     "ItemCode": "101201024",
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103830010",
+    "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
+    "ItemCode": "300001008",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "103200000",
+    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
+  },
+  {
+    "ItemCode": "300154030",
+    "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
+  },
+  {
+    "ItemCode": "101007015",
+    "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
