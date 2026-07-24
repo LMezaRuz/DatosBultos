@@ -28444,10 +28444,6 @@
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
   {
-    "ItemCode": "403890000",
-    "ItemName": "STICKER WRAPS DOGGIS 10X1000 UN"
-  },
-  {
     "ItemCode": "203190031",
     "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
   },
@@ -28534,10 +28530,6 @@
   {
     "ItemCode": "200307011",
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
-  },
-  {
-    "ItemCode": "204100002",
-    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
     "ItemCode": "103830010",
@@ -35000,14 +34992,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "400301078",
-    "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
-  },
-  {
-    "ItemCode": "400301079",
-    "ItemName": "ETIQUETA RECTAN BARRIO CHICKEN GYN 1 X 1.000 UN"
-  },
-  {
     "ItemCode": "100356014",
     "ItemName": "TE TWININGS VERDE 1 X10 UN"
   },
@@ -35192,10 +35176,6 @@
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
-  },
-  {
     "ItemCode": "300353015",
     "ItemName": "GANSO AL VACIO CAT V BRASIL (20 KG APROX)"
   },
@@ -35356,10 +35336,6 @@
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
   {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "200051026",
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
@@ -35382,14 +35358,6 @@
   {
     "ItemCode": "101401002",
     "ItemName": "ENSALADA DE VERDURAS 16X340"
-  },
-  {
-    "ItemCode": "400301033",
-    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
     "ItemCode": "101150032",
@@ -44780,10 +44748,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -45892,10 +45856,6 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -45926,10 +45886,6 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "200303024",
@@ -46236,10 +46192,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -46290,5 +46242,53 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400301079",
+    "ItemName": "ETIQUETA RECTAN BARRIO CHICKEN GYN 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301078",
+    "ItemName": "ETIQUETA CIRCULAR BARRIO CHICKEN GYN  1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301033",
+    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "403890000",
+    "ItemName": "STICKER WRAPS DOGGIS 10X1000 UN"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "204100002",
+    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   }
 ]
