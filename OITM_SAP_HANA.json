@@ -28480,10 +28480,6 @@
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
   },
   {
-    "ItemCode": "204100013",
-    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
-  },
-  {
     "ItemCode": "102520002",
     "ItemName": "ACEITUNA VERDE RELLENA C/PIMENTON MAIFRE 10X1 KG"
   },
@@ -31548,10 +31544,6 @@
     "ItemName": "SALSA AJO 10 UN X 1 KG"
   },
   {
-    "ItemCode": "204300051",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
-  },
-  {
     "ItemCode": "100304062",
     "ItemName": "JUGO MANZANA 100% LV WATTS 6X200ML"
   },
@@ -32186,10 +32178,6 @@
   {
     "ItemCode": "103910047",
     "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "100304048",
@@ -36146,10 +36134,6 @@
   {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "100100006",
@@ -45128,10 +45112,6 @@
     "ItemName": "CHULETA VETADA RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
-    "ItemCode": "200050015",
-    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "102480001",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
@@ -46290,5 +46270,25 @@
   {
     "ItemCode": "203210126",
     "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
+  },
+  {
+    "ItemCode": "204300051",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "204100013",
+    "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "200050015",
+    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   }
 ]
