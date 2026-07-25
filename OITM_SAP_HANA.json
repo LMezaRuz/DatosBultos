@@ -38992,10 +38992,6 @@
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "100903004",
     "ItemName": "HARINA TOSTADA 20X1 KG"
   },
@@ -39666,10 +39662,6 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "200453031",
-    "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
   },
   {
     "ItemCode": "302890027",
@@ -43468,10 +43460,6 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200500022",
     "ItemName": "BROCOLI IQF 6X1 KG."
   },
@@ -45820,20 +45808,12 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "102930015",
@@ -46064,10 +46044,6 @@
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -46112,10 +46088,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -46152,10 +46124,6 @@
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -46166,10 +46134,6 @@
   {
     "ItemCode": "400252005",
     "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "103700006",
@@ -46202,10 +46166,6 @@
   {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100302028",
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200453031",
+    "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
   }
 ]
