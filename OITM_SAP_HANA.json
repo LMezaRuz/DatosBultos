@@ -30352,10 +30352,6 @@
     "ItemName": "PAN MOLDE MULTIGRANO SIN GLUTEN 4X400 GR"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "204390003",
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
   },
@@ -30602,10 +30598,6 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "600002041",
@@ -36172,16 +36164,8 @@
     "ItemName": "GALLETA MINI DE MANTEQUILLA 30X40 GR"
   },
   {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
-  },
-  {
-    "ItemCode": "103480001",
-    "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
   },
   {
     "ItemCode": "300353010",
@@ -40532,10 +40516,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
   },
   {
-    "ItemCode": "100101016",
-    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
   },
@@ -43000,10 +42980,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "101004002",
-    "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
   },
@@ -43820,10 +43796,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380022",
     "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   },
@@ -43958,10 +43930,6 @@
   {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "304410001",
@@ -45916,10 +45884,6 @@
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -46054,10 +46018,6 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100302015",
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "101100052",
     "ItemName": "CORBATA LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "100101016",
+    "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101004002",
+    "ItemName": "LECHE EVAPORADA 24X390 GR"
+  },
+  {
+    "ItemCode": "103480001",
+    "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   }
 ]
