@@ -31868,10 +31868,6 @@
     "ItemName": "PULPA DE CERDO KG (NV)"
   },
   {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
-  },
-  {
     "ItemCode": "100559006",
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
@@ -40200,10 +40196,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "200302029",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "103090005",
     "ItemName": "CREMA SIN LACTOSA LONCO LECHE 12X1 LT"
   },
@@ -45056,10 +45048,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
@@ -45222,10 +45210,6 @@
   {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
     "ItemCode": "400150009",
@@ -45432,10 +45416,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -45486,10 +45466,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
     "ItemCode": "101201011",
@@ -46088,16 +46064,8 @@
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "200453031",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200302029",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   }
 ]
