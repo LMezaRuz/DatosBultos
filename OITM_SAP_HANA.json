@@ -31600,10 +31600,6 @@
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
@@ -32326,10 +32322,6 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "400001007",
@@ -36176,10 +36168,6 @@
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
@@ -36554,10 +36542,6 @@
   {
     "ItemCode": "302960002",
     "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
     "ItemCode": "100600004",
@@ -39784,10 +39768,6 @@
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
@@ -40718,10 +40698,6 @@
   {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "300154034",
@@ -44204,10 +44180,6 @@
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
@@ -46068,10 +46040,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "202730015",
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
   },
@@ -46154,10 +46122,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "104670066",
@@ -46268,10 +46232,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   }
 ]
