@@ -28544,10 +28544,6 @@
     "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   },
   {
-    "ItemCode": "104030007",
-    "ItemName": "ACEITE SESAMO 12X1 LT"
-  },
-  {
     "ItemCode": "102670008",
     "ItemName": "BASE DE COCO PARA COCINAR Y MEZCLAR 36X250 GR"
   },
@@ -29990,10 +29986,6 @@
   {
     "ItemCode": "202730026",
     "ItemName": "CROISSANT RECTO BRIDOR 60X80 GR"
-  },
-  {
-    "ItemCode": "100500001",
-    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
   {
     "ItemCode": "304760351",
@@ -36188,10 +36180,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT V BRASIL (20 KG APROX)"
   },
   {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
@@ -39176,10 +39164,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
@@ -40174,10 +40158,6 @@
   {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
     "ItemCode": "304450005",
@@ -43520,10 +43500,6 @@
     "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "303840001",
     "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
@@ -43754,10 +43730,6 @@
   {
     "ItemCode": "304760439",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
     "ItemCode": "100200002",
@@ -45436,10 +45408,6 @@
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "204100002",
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
@@ -45844,10 +45812,6 @@
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
-    "ItemCode": "100600002",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
-  },
-  {
     "ItemCode": "104010039",
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
   },
@@ -45976,20 +45940,12 @@
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "104560006",
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "100558004",
-    "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
   {
     "ItemCode": "100801005",
@@ -46006,10 +45962,6 @@
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "100600003",
@@ -46220,14 +46172,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "200500079",
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
@@ -46290,5 +46234,61 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "104030007",
+    "ItemName": "ACEITE SESAMO 12X1 LT"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100500001",
+    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "100558004",
+    "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100600002",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   }
 ]
