@@ -32216,10 +32216,6 @@
     "ItemName": "CHAMPIÑON BANDEJA"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "103910025",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X360 GR"
   },
@@ -32306,10 +32302,6 @@
   {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
     "ItemCode": "202820017",
@@ -38908,10 +38900,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "101009008",
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
   },
@@ -43760,10 +43748,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -45088,10 +45072,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "204100002",
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
@@ -45952,10 +45932,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -46116,10 +46092,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -46240,10 +46212,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "300156004",
     "ItemName": "YOGURT DAMASCO 1X1 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   }
 ]
