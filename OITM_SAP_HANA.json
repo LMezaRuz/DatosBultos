@@ -30332,10 +30332,6 @@
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -31126,10 +31122,6 @@
   {
     "ItemCode": "100351002",
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
-  },
-  {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
     "ItemCode": "101100031",
@@ -39624,10 +39616,6 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
-  },
-  {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
@@ -39830,10 +39818,6 @@
   {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
-  },
-  {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
     "ItemCode": "400011012",
@@ -43596,10 +43580,6 @@
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -44660,10 +44640,6 @@
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
-    "ItemCode": "202910003",
-    "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
@@ -45164,10 +45140,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
@@ -45298,10 +45270,6 @@
   {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "202910004",
@@ -45792,10 +45760,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
@@ -45842,10 +45806,6 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "102660000",
@@ -46072,10 +46032,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "204180003",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
@@ -46290,5 +46246,49 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "202910003",
+    "ItemName": "CHULETA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "204180003",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   }
 ]
