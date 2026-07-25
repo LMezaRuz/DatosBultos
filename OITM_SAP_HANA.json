@@ -28812,10 +28812,6 @@
     "ItemName": "PULPA DE DURAZNO LA CABAÑA 10X1 KG"
   },
   {
-    "ItemCode": "303290000",
-    "ItemName": "COBERTURA DE CARAMELO CINNABON 1X22 KG"
-  },
-  {
     "ItemCode": "102540022",
     "ItemName": "AGUA CON GAS RIZOLA 6X500 CC"
   },
@@ -30280,10 +30276,6 @@
     "ItemName": "CONDIMENTO CEBOLLA PIMENTON TOMMY BEANS 5 UN X 1 KG"
   },
   {
-    "ItemCode": "100557019",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
-  },
-  {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
@@ -30450,10 +30442,6 @@
   {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
-  },
-  {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   },
   {
     "ItemCode": "100151009",
@@ -40128,10 +40116,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -40174,10 +40158,6 @@
   {
     "ItemCode": "101201013",
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "100550001",
@@ -42888,10 +42868,6 @@
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
   {
-    "ItemCode": "203230004",
-    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
@@ -43146,10 +43122,6 @@
   {
     "ItemCode": "300158003",
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "203200032",
@@ -43944,10 +43916,6 @@
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
-    "ItemCode": "300152010",
-    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
-  },
-  {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
@@ -44054,10 +44022,6 @@
   {
     "ItemCode": "101357003",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "104540004",
@@ -44988,10 +44952,6 @@
     "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
@@ -45154,10 +45114,6 @@
   {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
-  },
-  {
-    "ItemCode": "101100024",
-    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
   {
     "ItemCode": "400252006",
@@ -45530,10 +45486,6 @@
   {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
     "ItemCode": "202900000",
@@ -46212,18 +46164,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -46290,5 +46230,65 @@
   {
     "ItemCode": "204050013",
     "ItemName": "GYOZAS DE CERDO ARTESANAL 5X30 UN"
+  },
+  {
+    "ItemCode": "303290000",
+    "ItemName": "COBERTURA DE CARAMELO CINNABON 1X22 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100557019",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
+  },
+  {
+    "ItemCode": "101100024",
+    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
+  },
+  {
+    "ItemCode": "203230004",
+    "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "300152010",
+    "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
