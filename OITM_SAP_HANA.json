@@ -31776,10 +31776,6 @@
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
   },
   {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
     "ItemCode": "600001001",
     "ItemName": "MANZANA KG."
   },
@@ -39584,10 +39580,6 @@
     "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "400005013",
-    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
-  },
-  {
     "ItemCode": "101401006",
     "ItemName": "LENTEJAS WASIL 16X380GRS."
   },
@@ -42932,10 +42924,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "101150051",
     "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
@@ -43094,10 +43082,6 @@
   {
     "ItemCode": "202730073",
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
-    "ItemCode": "400005011",
-    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
     "ItemCode": "100557013",
@@ -44284,10 +44268,6 @@
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
   {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
-  },
-  {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
@@ -44434,10 +44414,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "300400008",
@@ -45788,10 +45764,6 @@
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -45804,20 +45776,12 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "202820019",
@@ -46120,10 +46084,6 @@
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400005011",
+    "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
+  },
+  {
+    "ItemCode": "400005013",
+    "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
   }
 ]
