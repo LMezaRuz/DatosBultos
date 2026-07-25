@@ -42124,10 +42124,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
-  },
-  {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
   },
@@ -42656,16 +42652,8 @@
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "202910036",
     "ItemName": "PANCETA DE CERDO MADURADA CONG. (CAJA DE 13 A 19 KG)"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
     "ItemCode": "300351009",
@@ -45740,10 +45728,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -46290,5 +46274,21 @@
   {
     "ItemCode": "300404005",
     "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   }
 ]
