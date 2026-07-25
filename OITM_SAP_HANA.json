@@ -27920,10 +27920,6 @@
     "ItemName": "PUNTA DE PICANA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "103880022",
-    "ItemName": "MAYONESA DELI KRAFT FLEX 4X18X90 GR"
-  },
-  {
     "ItemCode": "204300006",
     "ItemName": "TRUTRO DE ALA POLLO BLOQUE CONG. LOCAL 1X15 KG"
   },
@@ -30840,10 +30836,6 @@
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
-    "ItemCode": "202730004",
-    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
-  },
-  {
     "ItemCode": "304760050",
     "ItemName": "PLATEADA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
@@ -30882,10 +30874,6 @@
   {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
     "ItemCode": "100002009",
@@ -31046,10 +31034,6 @@
   {
     "ItemCode": "100851001",
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
     "ItemCode": "103180006",
@@ -36434,10 +36418,6 @@
   {
     "ItemCode": "600002014",
     "ItemName": "PEPINO 1x1 un."
-  },
-  {
-    "ItemCode": "204180003",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204000004",
@@ -42660,10 +42640,6 @@
     "ItemName": "PAPA STEAKHOUSE MC CAIN 9/18 6X2,5 KG"
   },
   {
-    "ItemCode": "100350004",
-    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
-  },
-  {
     "ItemCode": "100653001",
     "ItemName": "CASTAÑAS EN ALMIBAR FRASCO 1X1.150 GR."
   },
@@ -43158,10 +43134,6 @@
   {
     "ItemCode": "202620000",
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "104930000",
@@ -43728,10 +43700,6 @@
     "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "304760441",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -43846,10 +43814,6 @@
   {
     "ItemCode": "101353031",
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "400102004",
@@ -44154,10 +44118,6 @@
   {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "100110002",
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "103880022",
+    "ItemName": "MAYONESA DELI KRAFT FLEX 4X18X90 GR"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "204180003",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100350004",
+    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "304760441",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "202730004",
+    "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   }
 ]
