@@ -16372,10 +16372,6 @@
     "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR DOYPACK WATTS 12X350 GR"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "103700001",
     "ItemName": "JARABE DE REMOJO 4X5 LT"
   },
@@ -31496,10 +31492,6 @@
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
-    "ItemCode": "202910004",
-    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
-  },
-  {
     "ItemCode": "300353007",
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -32390,10 +32382,6 @@
   {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
     "ItemCode": "200456050",
@@ -39572,10 +39560,6 @@
     "ItemName": "CREMA DE CHOCLO 20X79 GR"
   },
   {
-    "ItemCode": "100600002",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
-  },
-  {
     "ItemCode": "100003008",
     "ItemName": "ACEITE INDU LA REINA FREIR 4X5LTR"
   },
@@ -40290,10 +40274,6 @@
   {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "400102003",
@@ -44608,10 +44588,6 @@
     "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
@@ -45780,10 +45756,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "101358012",
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "202910004",
+    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "100600002",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   }
 ]
