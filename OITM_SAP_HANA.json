@@ -35704,10 +35704,6 @@
     "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "400301007",
     "ItemName": "PAPEL TERMICO TOMMY BEANS ROLLO 1X60 UN"
   },
@@ -35826,10 +35822,6 @@
   {
     "ItemCode": "104670038",
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "200200033",
@@ -42092,10 +42084,6 @@
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
   {
-    "ItemCode": "400251002",
-    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
     "ItemCode": "100150002",
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
   },
@@ -42730,10 +42718,6 @@
   {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
-  },
-  {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
   {
     "ItemCode": "303840001",
@@ -44304,10 +44288,6 @@
     "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
   },
   {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
     "ItemCode": "100854002",
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
@@ -44712,10 +44692,6 @@
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
@@ -44746,10 +44722,6 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "101100052",
@@ -44890,10 +44862,6 @@
   {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "400251003",
@@ -45082,10 +45050,6 @@
   {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "204140004",
@@ -45342,10 +45306,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "200302008",
@@ -45750,10 +45710,6 @@
   {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "100351007",
@@ -46290,5 +46246,49 @@
   {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "400251002",
+    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   }
 ]
