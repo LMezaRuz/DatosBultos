@@ -31180,10 +31180,6 @@
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "300353007",
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -31610,10 +31606,6 @@
   {
     "ItemCode": "101401002",
     "ItemName": "ENSALADA DE VERDURAS 16X340"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "103750003",
@@ -39440,14 +39432,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101401004",
-    "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
-    "ItemCode": "103070003",
-    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
-  },
-  {
     "ItemCode": "103180010",
     "ItemName": "DURAZNOS CUBITOS REGIMEL 16X380 GR"
   },
@@ -43184,10 +43168,6 @@
     "ItemName": "CHAMPINON ENTERO WASIL 24X400"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
@@ -44416,10 +44396,6 @@
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -44514,10 +44490,6 @@
   {
     "ItemCode": "204300092",
     "ItemName": "FILETITO DE POLLO GRILLADO ALEGRA (3083) 6X1,5 KG"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "400150009",
@@ -44988,10 +44960,6 @@
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "200001001",
-    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
     "ItemCode": "200456022",
     "ItemName": "CARNE MOLIDA VACUNO 5% 1X1 KG CARNES ÑUBLE"
   },
@@ -45106,10 +45074,6 @@
   {
     "ItemCode": "104670097",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
     "ItemCode": "100902003",
@@ -45720,10 +45684,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
   {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "200001001",
+    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "103070003",
+    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401004",
+    "ItemName": "CHOCLO DULCE WASIL 16X340"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
   }
 ]
