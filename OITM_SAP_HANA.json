@@ -30884,10 +30884,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "100902004",
-    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
@@ -31978,10 +31974,6 @@
   {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "300353072",
@@ -40580,10 +40572,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
-    "ItemCode": "300001008",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
     "ItemCode": "300157044",
     "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
   },
@@ -43060,10 +43048,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "102780010",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 4X1 KG"
   },
@@ -43124,10 +43108,6 @@
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100601003",
     "ItemName": "CHOLGAS EN ACEITE 24x190 gr"
   },
@@ -43154,10 +43134,6 @@
   {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "101100065",
@@ -43766,10 +43742,6 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "203210115",
@@ -44550,14 +44522,6 @@
   {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "202730007",
@@ -46208,10 +46172,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "100902004",
+    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "300001008",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
   }
 ]
