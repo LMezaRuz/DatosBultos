@@ -28088,10 +28088,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "204310008",
-    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
-  },
-  {
     "ItemCode": "203610000",
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
@@ -29492,10 +29488,6 @@
     "ItemName": "JUGO MANZANA 100% LV WATTS 6X200ML"
   },
   {
-    "ItemCode": "103700005",
-    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
     "ItemCode": "304760494",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -30410,10 +30402,6 @@
   {
     "ItemCode": "104670067",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
-  },
-  {
-    "ItemCode": "100151009",
-    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
   {
     "ItemCode": "103940023",
@@ -31966,10 +31954,6 @@
   {
     "ItemCode": "103480004",
     "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "100754007",
@@ -43588,10 +43572,6 @@
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
@@ -43638,10 +43618,6 @@
   {
     "ItemCode": "202730020",
     "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
-  },
-  {
-    "ItemCode": "200201002",
-    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
     "ItemCode": "300154010",
@@ -46284,11 +46260,35 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
+    "ItemCode": "103520016",
+    "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "103520016",
-    "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
+    "ItemCode": "100151009",
+    "ItemName": "CEREAL CHOCAPIC 16X640 GR"
+  },
+  {
+    "ItemCode": "103700005",
+    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "204310008",
+    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
+  },
+  {
+    "ItemCode": "200201002",
+    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   }
 ]
