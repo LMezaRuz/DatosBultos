@@ -30720,10 +30720,6 @@
     "ItemName": "PLATEADA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "102930006",
     "ItemName": "CEREAL CHOCAPIC 18X330 GR"
   },
@@ -42948,10 +42944,6 @@
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "200200012",
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
@@ -43050,10 +43042,6 @@
   {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
     "ItemCode": "300152009",
@@ -45568,10 +45556,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
@@ -45614,10 +45598,6 @@
   {
     "ItemCode": "104210009",
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100004006",
@@ -45718,10 +45698,6 @@
   {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "101150043",
@@ -46032,10 +46008,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
   }
 ]
