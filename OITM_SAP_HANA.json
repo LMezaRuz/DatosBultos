@@ -30700,10 +30700,6 @@
     "ItemName": "TE BRASIL 1X100 UN."
   },
   {
-    "ItemCode": "202720027",
-    "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
-  },
-  {
     "ItemCode": "100351014",
     "ItemName": "CAFE CORONADO 24X170 GR"
   },
@@ -35452,10 +35448,6 @@
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
   {
-    "ItemCode": "104670000",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -35858,10 +35850,6 @@
   {
     "ItemCode": "600002002",
     "ItemName": "PALTA HASS MALLA 1x1 un"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "204140007",
@@ -43004,10 +42992,6 @@
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
@@ -46124,14 +46108,6 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "204310017",
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
@@ -46290,5 +46266,29 @@
   {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "202720027",
+    "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "104670000",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
   }
 ]
