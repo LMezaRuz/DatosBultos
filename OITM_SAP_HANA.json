@@ -41988,10 +41988,6 @@
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
   {
-    "ItemCode": "400301077",
-    "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
     "ItemCode": "300404004",
     "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
   },
@@ -44516,10 +44512,6 @@
     "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
-    "ItemCode": "100001007",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -44666,10 +44658,6 @@
   {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100600001",
@@ -45018,10 +45006,6 @@
   {
     "ItemCode": "101201022",
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "104670063",
@@ -45812,16 +45796,8 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
-  },
-  {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
     "ItemCode": "203190043",
@@ -45842,10 +45818,6 @@
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "403250022",
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "302970006",
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "400301077",
+    "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
+  },
+  {
+    "ItemCode": "100001007",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   }
 ]
