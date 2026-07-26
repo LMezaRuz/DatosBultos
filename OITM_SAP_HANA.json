@@ -31056,10 +31056,6 @@
     "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "102630001",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -39772,10 +39768,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
   {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
@@ -45056,10 +45048,6 @@
     "ItemName": "HAMBURGUESA VACUNO NF 30 X 135 GRS"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "200402009",
     "ItemName": "POPS COLORES 1X160 UN"
   },
@@ -46120,10 +46108,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -46290,5 +46274,21 @@
   {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
   }
 ]
