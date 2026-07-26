@@ -45452,10 +45452,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
   },
@@ -45540,10 +45536,6 @@
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -45626,10 +45618,6 @@
   {
     "ItemCode": "400005011",
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "400005012",
-    "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
   {
     "ItemCode": "100653002",
@@ -46192,10 +46180,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
   },
@@ -46290,5 +46274,21 @@
   {
     "ItemCode": "400301034",
     "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "400005012",
+    "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
