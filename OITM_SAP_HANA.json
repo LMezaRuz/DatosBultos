@@ -30636,10 +30636,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "103940009",
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -32438,10 +32434,6 @@
   {
     "ItemCode": "300154018",
     "ItemName": "MARGARINA HORNEO PREMIUM 1X 2.5 KG."
-  },
-  {
-    "ItemCode": "103940025",
-    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
     "ItemCode": "100901004",
@@ -43416,10 +43408,6 @@
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -43918,10 +43906,6 @@
   {
     "ItemCode": "101009017",
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101009014",
@@ -45424,10 +45408,6 @@
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
@@ -45522,10 +45502,6 @@
   {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "100902001",
@@ -45710,10 +45686,6 @@
   {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "100751024",
@@ -45926,10 +45898,6 @@
   {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
-  },
-  {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
     "ItemCode": "200051014",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "103940025",
+    "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   }
 ]
