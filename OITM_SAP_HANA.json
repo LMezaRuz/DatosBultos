@@ -39908,10 +39908,6 @@
     "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -39958,10 +39954,6 @@
   {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "204310008",
@@ -40042,10 +40034,6 @@
   {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "204300051",
@@ -44160,10 +44148,6 @@
     "ItemName": "FILETITO DE POLLO CROCANTE ALEGRA 4X1,5 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "203200038",
     "ItemName": "STEAK DE POLLO CROCANTE ALEGRA 3X2 KG"
   },
@@ -44604,10 +44588,6 @@
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -44700,10 +44680,6 @@
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400100002",
     "ItemName": "BOLSA HDPE NATURAL (8X25) 1X1 UN."
   },
@@ -44730,10 +44706,6 @@
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
-    "ItemCode": "202820001",
-    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
     "ItemCode": "200201017",
@@ -45920,10 +45892,6 @@
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100803007",
     "ItemName": "PECANES 1X13,6KG"
   },
@@ -45962,10 +45930,6 @@
   {
     "ItemCode": "300353114",
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "100355003",
@@ -46240,10 +46204,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "204310009",
     "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "202820001",
+    "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   }
 ]
