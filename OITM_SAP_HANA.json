@@ -29908,10 +29908,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO COCIDAS CONG. 12X400 GR"
   },
   {
-    "ItemCode": "104110000",
-    "ItemName": "TOFU 12X307 GRS."
-  },
-  {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
@@ -45128,10 +45124,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -45280,10 +45272,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -45430,10 +45418,6 @@
   {
     "ItemCode": "100355046",
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "400250004",
@@ -45968,10 +45952,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200051020",
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
@@ -46176,10 +46156,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -46214,10 +46190,6 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "200250012",
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "104110000",
+    "ItemName": "TOFU 12X307 GRS."
   }
 ]
