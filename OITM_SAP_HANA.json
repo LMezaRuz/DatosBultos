@@ -28576,10 +28576,6 @@
     "ItemName": "HUACHALOMO BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "104900003",
     "ItemName": "CONDIMENTO LOMO CERVEZA BF 1X10 KG"
   },
@@ -30768,10 +30764,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.) (X-MAYOR)"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "104670064",
     "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
   },
@@ -30834,10 +30826,6 @@
   {
     "ItemCode": "104010039",
     "ItemName": "SALSA BBQ HELLMANNS 15X500 GR"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "100005004",
@@ -39272,10 +39260,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
     "ItemCode": "200500007",
     "ItemName": "CHAMPIÑON LAM. CONGELADO 10X1 KG"
   },
@@ -43140,10 +43124,6 @@
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
@@ -45440,10 +45420,6 @@
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
-    "ItemCode": "400012003",
-    "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
@@ -45704,10 +45680,6 @@
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
   },
@@ -45922,10 +45894,6 @@
   {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100559004",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "400012003",
+    "ItemName": "PALA PLASTICA 1X1 UN."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   }
 ]
