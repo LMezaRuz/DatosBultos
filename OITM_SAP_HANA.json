@@ -32632,10 +32632,6 @@
     "ItemName": "CABELLO DE ANGEL CORTO LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
   },
@@ -35684,10 +35680,6 @@
     "ItemName": "POROTOS GRANADOS WASIL 16X380"
   },
   {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
-  },
-  {
     "ItemCode": "100355015",
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
@@ -36546,10 +36538,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
     "ItemCode": "400001004",
@@ -40678,10 +40666,6 @@
   {
     "ItemCode": "103910023",
     "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "200456009",
@@ -45984,10 +45968,6 @@
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
-  },
-  {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
@@ -46126,10 +46106,6 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "200455011",
@@ -46290,5 +46266,29 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   }
 ]
