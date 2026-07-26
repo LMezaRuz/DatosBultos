@@ -35540,10 +35540,6 @@
     "ItemName": "ANTICUCHO CARNE MIXTO UND."
   },
   {
-    "ItemCode": "400011005",
-    "ItemName": "ESPONJA DE ACERO 1X1 UN"
-  },
-  {
     "ItemCode": "304760037",
     "ItemName": "PALANCA AL VACIO CAT V BRASIL REFRIGERADO (LOCAL)"
   },
@@ -38952,10 +38948,6 @@
     "ItemName": "CERVEZA LATA 24 X 473 ML"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "400010004",
     "ItemName": "LIMPIA VIDRIOS GATILLO 1x500 CC."
   },
@@ -39250,10 +39242,6 @@
   {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "101450002",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
   {
     "ItemCode": "200308001",
@@ -42936,10 +42924,6 @@
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "400010025",
-    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
-  },
-  {
     "ItemCode": "104210009",
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
@@ -43548,10 +43532,6 @@
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -43690,10 +43670,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "200305015",
@@ -43836,10 +43812,6 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "203430017",
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
   },
@@ -43966,10 +43938,6 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101401004",
@@ -44402,10 +44370,6 @@
   {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "101100016",
@@ -46290,5 +46254,41 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "400010025",
+    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
+  },
+  {
+    "ItemCode": "101450002",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "400011005",
+    "ItemName": "ESPONJA DE ACERO 1X1 UN"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
