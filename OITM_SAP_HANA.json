@@ -29496,10 +29496,6 @@
     "ItemName": "JUGO MANZANA 100% LV WATTS 6X200ML"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "304760494",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -30376,10 +30372,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "204300020",
-    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
-  },
-  {
     "ItemCode": "101301001",
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
@@ -30406,10 +30398,6 @@
   {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
-  },
-  {
-    "ItemCode": "101201022",
-    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101403009",
@@ -32106,10 +32094,6 @@
   {
     "ItemCode": "101353027",
     "ItemName": "MAYONESA JB 10X950 GR"
-  },
-  {
-    "ItemCode": "101303008",
-    "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
     "ItemCode": "104670097",
@@ -35438,10 +35422,6 @@
   {
     "ItemCode": "104010061",
     "ItemName": "MASA MIX CHILIS 8X2,04 KG"
-  },
-  {
-    "ItemCode": "204180033",
-    "ItemName": "PAPA PRE FRITA 9MM CHILI'S SKON COATED 4X2,5KG"
   },
   {
     "ItemCode": "300353126",
@@ -43284,10 +43264,6 @@
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
-    "ItemCode": "302970004",
-    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
-  },
-  {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
@@ -45868,10 +45844,6 @@
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
@@ -46024,10 +45996,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -46098,10 +46066,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
     "ItemCode": "100004006",
@@ -46224,10 +46188,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101303008",
+    "ItemName": "GLUCOSA MEL 1X1 KG."
+  },
+  {
+    "ItemCode": "302970004",
+    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
+  },
+  {
+    "ItemCode": "204300020",
+    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "204180033",
+    "ItemName": "PAPA PRE FRITA 9MM CHILI'S SKON COATED 4X2,5KG"
+  },
+  {
+    "ItemCode": "101201022",
+    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   }
 ]
