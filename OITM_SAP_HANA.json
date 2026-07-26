@@ -31060,10 +31060,6 @@
     "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
   {
-    "ItemCode": "200203007",
-    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
-  },
-  {
     "ItemCode": "100303005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
@@ -38956,10 +38952,6 @@
     "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -42208,10 +42200,6 @@
     "ItemName": "HARINA ORO 5 SACO 1X25 KG."
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "400010006",
     "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
@@ -42266,10 +42254,6 @@
   {
     "ItemCode": "403250022",
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
     "ItemCode": "400010019",
@@ -42660,20 +42644,12 @@
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "300154014",
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "300100001",
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "300154003",
@@ -44560,10 +44536,6 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
@@ -45444,10 +45416,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45474,10 +45442,6 @@
   {
     "ItemCode": "102600001",
     "ItemName": "ARROZ G1 GRANO LARGO Y ANCHO BANQUETE PREMIUM 10X1 KG"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "100100002",
@@ -45824,14 +45788,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "202910044",
     "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
   },
@@ -46046,10 +46002,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "202900000",
@@ -46290,5 +46242,53 @@
   {
     "ItemCode": "304760458",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "200203007",
+    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
