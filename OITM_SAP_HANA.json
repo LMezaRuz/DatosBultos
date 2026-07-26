@@ -27712,10 +27712,6 @@
     "ItemName": "DESPUNTE REBANADO DE FILETE KG"
   },
   {
-    "ItemCode": "202800000",
-    "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
-  },
-  {
     "ItemCode": "103730008",
     "ItemName": "LECHE EN POLVO ENTERA INSTANTANEA 20X760 GR"
   },
@@ -30112,10 +30108,6 @@
     "ItemName": "CEREALCHOC DISPLAY 6X20X18 GR"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "304760245",
     "ItemName": "ASADO DEL CARNICERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -30726,10 +30718,6 @@
   {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "303210016",
@@ -32002,10 +31990,6 @@
   {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204300078",
-    "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
   },
   {
     "ItemCode": "204300079",
@@ -42116,10 +42100,6 @@
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "100401001",
-    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
-  },
-  {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
   },
@@ -42550,10 +42530,6 @@
   {
     "ItemCode": "204300091",
     "ItemName": "FILETITO DE POLLO CROCANTE ALEGRA 4X1,5 KG"
-  },
-  {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
     "ItemCode": "203200038",
@@ -45444,10 +45420,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -45740,10 +45712,6 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
@@ -45758,10 +45726,6 @@
   {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "400010009",
@@ -45888,10 +45852,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
   {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
@@ -45998,10 +45958,6 @@
   {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100355042",
@@ -46290,5 +46246,49 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "204300078",
+    "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100401001",
+    "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "202800000",
+    "ItemName": "CALAMAR TUBO 5X1 KG LOCAL"
   }
 ]
