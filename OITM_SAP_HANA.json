@@ -39432,10 +39432,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
-    "ItemCode": "203200033",
-    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
-  },
-  {
     "ItemCode": "204090008",
     "ItemName": "KANIKAMA EL GOLFO 40X200 GR"
   },
@@ -42136,10 +42132,6 @@
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
   },
@@ -42902,10 +42894,6 @@
   {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
     "ItemCode": "400200003",
@@ -44688,10 +44676,6 @@
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
@@ -45372,10 +45356,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -45560,10 +45540,6 @@
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
@@ -45598,10 +45574,6 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "400251001",
@@ -46032,14 +46004,6 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
@@ -46290,5 +46254,41 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "203200033",
+    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   }
 ]
