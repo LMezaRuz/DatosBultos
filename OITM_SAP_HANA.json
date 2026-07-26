@@ -30612,10 +30612,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
-    "ItemCode": "100559002",
-    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -32038,10 +32034,6 @@
   {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
-  },
-  {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
     "ItemCode": "204390008",
@@ -35220,10 +35212,6 @@
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
   },
   {
-    "ItemCode": "400301101",
-    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
     "ItemCode": "101100011",
     "ItemName": "QUIFARO CAROZZI 1X400 GR"
   },
@@ -35426,10 +35414,6 @@
   {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
-  },
-  {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
     "ItemCode": "304760244",
@@ -45272,10 +45256,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -45612,16 +45592,8 @@
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "403250008",
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "100559002",
+    "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "400301101",
+    "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   }
 ]
