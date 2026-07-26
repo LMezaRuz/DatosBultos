@@ -41988,10 +41988,6 @@
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "203210096",
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
@@ -44456,10 +44452,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DURAZNO 1X5 LT"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "102630002",
     "ItemName": "ATUN LOMITO NATURAL POUCH 10X1 KG"
   },
@@ -45464,10 +45456,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -45622,10 +45610,6 @@
   {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101354019",
@@ -45896,10 +45880,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
@@ -46022,10 +46002,6 @@
   {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "202800000",
@@ -46176,20 +46152,12 @@
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100002003",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
