@@ -35944,10 +35944,6 @@
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
     "ItemCode": "302960002",
     "ItemName": "COBERTURA SICAO SEMI AMARGO GANACHE 12X800 GR"
   },
@@ -42600,10 +42596,6 @@
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
   {
-    "ItemCode": "200001001",
-    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
@@ -44532,10 +44524,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -45368,10 +45356,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
@@ -45696,10 +45680,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
@@ -45832,18 +45812,6 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "101200014",
-    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
-  },
-  {
-    "ItemCode": "101200018",
-    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
-  },
-  {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
@@ -45934,10 +45902,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "404600005",
@@ -46102,10 +46066,6 @@
   {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "101202001",
@@ -46290,5 +46250,45 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "200001001",
+    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
+  },
+  {
+    "ItemCode": "101200014",
+    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200018",
+    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   }
 ]
