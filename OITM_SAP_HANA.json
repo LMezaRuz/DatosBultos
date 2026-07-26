@@ -30548,10 +30548,6 @@
     "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "304340001",
-    "ItemName": "JALEA PROTEIN SABOR PIÑA LONCO LECHE 6 PACK 4X100 GR"
-  },
-  {
     "ItemCode": "104210017",
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
@@ -39564,10 +39560,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
   {
-    "ItemCode": "300157032",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
     "ItemCode": "101150038",
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
@@ -43800,10 +43792,6 @@
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
     "ItemCode": "300150005",
     "ItemName": "CREMA LISTA LIGHT SIN LACTOSA LONCOLECHE 6X200 ML"
   },
@@ -45624,10 +45612,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -45968,38 +45952,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "200302015",
-    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
-    "ItemCode": "203210042",
-    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "304850035",
-    "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
-  },
-  {
-    "ItemCode": "304850042",
-    "ItemName": "YOGURT NATURAL FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
@@ -46130,10 +46082,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100450003",
@@ -46290,5 +46238,57 @@
   {
     "ItemCode": "100100002",
     "ItemName": "ARROZ BASMATI 1X1 KG."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "200302015",
+    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
+  },
+  {
+    "ItemCode": "203210042",
+    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "304850035",
+    "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
+  },
+  {
+    "ItemCode": "304850042",
+    "ItemName": "YOGURT NATURAL FULL PROTEIN LONCOLECHE 12X150 GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "304340001",
+    "ItemName": "JALEA PROTEIN SABOR PIÑA LONCO LECHE 6 PACK 4X100 GR"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   }
 ]
