@@ -38716,10 +38716,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -42396,10 +42392,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MELON 1X5 LT"
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
@@ -44352,10 +44344,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -45238,10 +45226,6 @@
   {
     "ItemCode": "304110017",
     "ItemName": "QUESO PROVOLETA BARRA 4 KG (APROX)"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "200051028",
@@ -46176,10 +46160,6 @@
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
   },
@@ -46290,5 +46270,25 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
   }
 ]
