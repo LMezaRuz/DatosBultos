@@ -39700,10 +39700,6 @@
     "ItemName": "GELATINA AMBROSOLI FRAMBUESA 1x100 G."
   },
   {
-    "ItemCode": "200201005",
-    "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -43256,10 +43252,6 @@
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
     "ItemCode": "100001007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
   },
@@ -45420,10 +45412,6 @@
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
   {
-    "ItemCode": "101451005",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
@@ -45508,16 +45496,8 @@
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
   },
   {
-    "ItemCode": "202910016",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "103180007",
@@ -45610,10 +45590,6 @@
   {
     "ItemCode": "101009007",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
-  },
-  {
-    "ItemCode": "200305008",
-    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
     "ItemCode": "104210009",
@@ -46016,10 +45992,6 @@
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
@@ -46290,5 +46262,33 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101451005",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "200201005",
+    "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "202910016",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "200305008",
+    "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
   }
 ]
