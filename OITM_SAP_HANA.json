@@ -31320,10 +31320,6 @@
     "ItemName": "CARBON RUCAPELLAN BOLSA 2.5 KG."
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "204870003",
     "ItemName": "COCHEZUELA (HUESO RODILLA) CAJA 15 KG APROX"
   },
@@ -31900,10 +31896,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -32168,10 +32160,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
@@ -32222,10 +32210,6 @@
   {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
     "ItemCode": "104190000",
@@ -39364,10 +39348,6 @@
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "100101001",
-    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
     "ItemCode": "101201022",
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
@@ -39898,10 +39878,6 @@
   {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100854012",
@@ -44660,10 +44636,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "100903007",
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
@@ -45426,10 +45398,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "204180032",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "100101001",
+    "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
+  },
+  {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
