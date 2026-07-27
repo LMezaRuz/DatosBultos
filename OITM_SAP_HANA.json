@@ -28576,10 +28576,6 @@
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
   },
@@ -44632,10 +44628,6 @@
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100903007",
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
@@ -45088,10 +45080,6 @@
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
@@ -45360,10 +45348,6 @@
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -45488,10 +45472,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
-  },
-  {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
@@ -45578,10 +45558,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "202910010",
@@ -45672,10 +45648,6 @@
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "100001004",
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
@@ -45750,10 +45722,6 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "200051017",
@@ -45846,10 +45814,6 @@
   {
     "ItemCode": "104670012",
     "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200302015",
@@ -46014,10 +45978,6 @@
   {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
     "ItemCode": "200500032",
@@ -46224,10 +46184,6 @@
     "ItemName": "ROMERO EN FRASCO 1X11 GR."
   },
   {
-    "ItemCode": "100552005",
-    "ItemName": "CANELA EN RAMA 1X250 GR"
-  },
-  {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
@@ -46290,5 +46246,49 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100552005",
+    "ItemName": "CANELA EN RAMA 1X250 GR"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   }
 ]
