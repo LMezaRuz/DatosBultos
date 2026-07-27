@@ -29628,10 +29628,6 @@
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "204700029",
     "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
   },
@@ -32062,10 +32058,6 @@
   {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
-  },
-  {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101100055",
@@ -39608,10 +39600,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "300157003",
     "ItemName": "YOGURT LIGHT SURTIDOS 1X120 CC"
   },
@@ -43072,10 +43060,6 @@
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
   {
-    "ItemCode": "400100004",
-    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -43230,10 +43214,6 @@
   {
     "ItemCode": "400201001",
     "ItemName": "FOSFOROS COPIHUE 1X10 UN."
-  },
-  {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
     "ItemCode": "400008001",
@@ -44426,10 +44406,6 @@
   {
     "ItemCode": "300352003",
     "ItemName": "PULPA DE CERDO KG (NV)"
-  },
-  {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
     "ItemCode": "200459004",
@@ -45772,10 +45748,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "101201033",
-    "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
@@ -45810,10 +45782,6 @@
   {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101201014",
-    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201049",
@@ -46290,5 +46258,37 @@
   {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6X1,5 LT"
+  },
+  {
+    "ItemCode": "101201014",
+    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201033",
+    "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "400100004",
+    "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   }
 ]
