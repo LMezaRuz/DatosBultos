@@ -28188,14 +28188,6 @@
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101200004",
-    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
-  },
-  {
-    "ItemCode": "101200003",
-    "ItemName": "JUGO POLVO FRUTILLA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "AFMQC0002",
     "ItemName": "MAQUINA CAFE VETRO VISAC 2 GRUPOS NEGRA"
   },
@@ -30850,10 +30842,6 @@
   {
     "ItemCode": "100852020",
     "ItemName": "GALLETA OBSESION 1X85 GR"
-  },
-  {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
   },
   {
     "ItemCode": "104010043",
@@ -40952,10 +40940,6 @@
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100001006",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X5 LT"
   },
@@ -43960,10 +43944,6 @@
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
@@ -46152,10 +46132,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "102710016",
     "ItemName": "BEBIDA VEGETAL BARISTA ALMENDRA VILAY 12X1 LT"
   },
@@ -46290,5 +46266,29 @@
   {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "101200003",
+    "ItemName": "JUGO POLVO FRUTILLA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200004",
+    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
   }
 ]
