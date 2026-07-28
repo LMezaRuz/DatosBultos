@@ -30060,10 +30060,6 @@
     "ItemName": "YOGHURT LONCOLECHE S/L TROZOS PAPAYA 24X140 GR"
   },
   {
-    "ItemCode": "101300003",
-    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
-  },
-  {
     "ItemCode": "101150084",
     "ItemName": "SALSA AJO 10 UN X 1 KG"
   },
@@ -32354,10 +32350,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "103630006",
@@ -44420,10 +44412,6 @@
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
@@ -46290,5 +46278,17 @@
   {
     "ItemCode": "202720032",
     "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101300003",
+    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   }
 ]
