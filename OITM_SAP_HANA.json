@@ -32332,10 +32332,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -40176,10 +40172,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
@@ -40352,10 +40344,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
@@ -40510,10 +40498,6 @@
   {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
-    "ItemCode": "300157033",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
     "ItemCode": "300157034",
@@ -43348,10 +43332,6 @@
     "ItemName": "MANTECA PROFESIONAL DELICIA 1X1 KG."
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
@@ -43678,10 +43658,6 @@
   {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
     "ItemCode": "400105005",
@@ -44434,10 +44410,6 @@
   {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "100701009",
@@ -46308,10 +46280,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -46474,5 +46442,37 @@
   {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   }
 ]
