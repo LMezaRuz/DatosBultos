@@ -30256,10 +30256,6 @@
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
   {
-    "ItemCode": "104010051",
-    "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
-  },
-  {
     "ItemCode": "202910036",
     "ItemName": "PANCETA DE CERDO MADURADA CONG. (CAJA DE 13 A 19 KG)"
   },
@@ -40256,10 +40252,6 @@
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -40438,10 +40430,6 @@
   {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "300152006",
@@ -43544,10 +43532,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
   {
-    "ItemCode": "100654003",
-    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
     "ItemCode": "100751004",
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
@@ -43952,10 +43936,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -44094,10 +44074,6 @@
   {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
-  },
-  {
-    "ItemCode": "100853004",
-    "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
   {
     "ItemCode": "101200023",
@@ -46474,5 +46450,29 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "104010051",
+    "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
+  },
+  {
+    "ItemCode": "100853004",
+    "ItemName": "GALLETA CRACKELET 1X85 GR."
+  },
+  {
+    "ItemCode": "100654003",
+    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   }
 ]
