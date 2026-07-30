@@ -31936,10 +31936,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
-  },
-  {
     "ItemCode": "100355005",
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
@@ -43172,10 +43168,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -43286,10 +43278,6 @@
   {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "100351002",
-    "ItemName": "CAFE INSTANTANEO 1X500 GR"
   },
   {
     "ItemCode": "101006003",
@@ -45580,10 +45568,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
@@ -45948,10 +45932,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "204000009",
     "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -46100,10 +46080,6 @@
     "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100356006",
-    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
@@ -46122,10 +46098,6 @@
   {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "101304002",
-    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
     "ItemCode": "101202001",
@@ -46478,5 +46450,33 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100356006",
+    "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "100351002",
+    "ItemName": "CAFE INSTANTANEO 1X500 GR"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101304002",
+    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   }
 ]
