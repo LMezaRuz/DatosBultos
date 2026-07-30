@@ -28448,10 +28448,6 @@
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
   {
-    "ItemCode": "203550030",
-    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
-  },
-  {
     "ItemCode": "200250034",
     "ItemName": "PAPAS PRE FRITAS 10 MM TRADICIONAL NAC 6X2 KG"
   },
@@ -44028,20 +44024,12 @@
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "203300000",
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
     "ItemCode": "204700007",
     "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "203200004",
@@ -45424,10 +45412,6 @@
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -45530,10 +45514,6 @@
   {
     "ItemCode": "204790025",
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "204180026",
@@ -45810,10 +45790,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "100100003",
@@ -46118,10 +46094,6 @@
   {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "202820001",
@@ -46478,5 +46450,33 @@
   {
     "ItemCode": "304760452",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "203550030",
+    "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   }
 ]
