@@ -42612,10 +42612,6 @@
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "400100002",
-    "ItemName": "BOLSA HDPE NATURAL (8X25) 1X1 UN."
-  },
-  {
     "ItemCode": "100751004",
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
@@ -43786,10 +43782,6 @@
   {
     "ItemCode": "100304048",
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "103670005",
@@ -45232,10 +45224,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -46404,28 +46392,8 @@
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "300404006",
@@ -46482,5 +46450,37 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "400100002",
+    "ItemName": "BOLSA HDPE NATURAL (8X25) 1X1 UN."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
