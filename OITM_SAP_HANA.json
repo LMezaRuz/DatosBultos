@@ -43348,10 +43348,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "300353073",
     "ItemName": "PUNTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -45048,10 +45044,6 @@
     "ItemName": "POPS COLORES 1X160 UN"
   },
   {
-    "ItemCode": "200303017",
-    "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
-  },
-  {
     "ItemCode": "300352003",
     "ItemName": "PULPA DE CERDO KG (NV)"
   },
@@ -45176,10 +45168,6 @@
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "104670049",
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
@@ -45254,10 +45242,6 @@
   {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "100201016",
@@ -46268,10 +46252,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -46482,5 +46462,25 @@
   {
     "ItemCode": "403600001",
     "ItemName": "TAPA VASO KIMBO 9 OZ 1X2000 UN"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "200303017",
+    "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   }
 ]
