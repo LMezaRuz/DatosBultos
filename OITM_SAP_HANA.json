@@ -39448,10 +39448,6 @@
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
@@ -39990,10 +39986,6 @@
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
     "ItemCode": "104670095",
@@ -45884,10 +45876,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA ADOBADA 10X2 KG"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESTLE DOLCA 1X400 GR"
   },
@@ -46468,10 +46456,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "200303017",
-    "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
@@ -46482,5 +46466,21 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "200303017",
+    "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   }
 ]
