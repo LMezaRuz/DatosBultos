@@ -31132,10 +31132,6 @@
     "ItemName": "SALSA DE AJI DULCE 12X730 ML"
   },
   {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
     "ItemCode": "303710002",
     "ItemName": "LECHE CULTIVADA LIGHT LONCOLECHE FRUTILLA 6X900 ML"
   },
@@ -31376,10 +31372,6 @@
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
   {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
-  },
-  {
     "ItemCode": "202730087",
     "ItemName": "TORTA BIZCOCHO CHOCOLATE INTENSO 2X10 POR."
   },
@@ -31522,10 +31514,6 @@
   {
     "ItemCode": "204700006",
     "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
     "ItemCode": "200302026",
@@ -35650,10 +35638,6 @@
   {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "100101005",
@@ -45568,10 +45552,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
@@ -45746,10 +45726,6 @@
   {
     "ItemCode": "200200032",
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101452004",
@@ -46072,10 +46048,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
   },
   {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
     "ItemCode": "202730067",
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
@@ -46320,10 +46292,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
   },
@@ -46444,10 +46412,6 @@
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101353020",
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
@@ -46470,14 +46434,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "101355006",
@@ -46620,10 +46576,6 @@
     "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
@@ -46672,15 +46624,63 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   }
 ]
