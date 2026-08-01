@@ -28400,10 +28400,6 @@
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "203200037",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. AURORA 1X15 KG"
   },
@@ -31466,10 +31462,6 @@
   {
     "ItemCode": "104070008",
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "203210107",
-    "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
     "ItemCode": "202820019",
@@ -35798,10 +35790,6 @@
   {
     "ItemCode": "203190005",
     "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "103140000",
@@ -46682,5 +46670,17 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "203210107",
+    "ItemName": "SMASH BURGER 35X150 GR"
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   }
 ]
