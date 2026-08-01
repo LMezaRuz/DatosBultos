@@ -30204,10 +30204,6 @@
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "103670010",
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
@@ -32160,10 +32156,6 @@
     "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
-  },
-  {
     "ItemCode": "203210112",
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
   },
@@ -32290,10 +32282,6 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
     "ItemCode": "204380028",
@@ -32498,10 +32486,6 @@
   {
     "ItemCode": "103180007",
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   },
   {
     "ItemCode": "304420003",
@@ -39752,10 +39736,6 @@
     "ItemName": "ACETO BALSAMICO IMPERATORE 12X500 CC."
   },
   {
-    "ItemCode": "101004001",
-    "ItemName": "LECHE CONDENSADA 24X390 GR"
-  },
-  {
     "ItemCode": "101004002",
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
@@ -40804,16 +40784,8 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "200455001",
@@ -44016,10 +43988,6 @@
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -44312,10 +44280,6 @@
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -44530,10 +44494,6 @@
   {
     "ItemCode": "600002025",
     "ItemName": "BROCOLI"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "600002008",
@@ -46682,5 +46642,45 @@
   {
     "ItemCode": "204310008",
     "ItemName": "MINI WAFFLE BELGA 110X35 GR"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101004001",
+    "ItemName": "LECHE CONDENSADA 24X390 GR"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "COBERTURA SICAO CHOCOLATE LECHE 12X800 GR"
   }
 ]
