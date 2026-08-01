@@ -43024,10 +43024,6 @@
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "100201001",
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
   },
@@ -43342,10 +43338,6 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "101100027",
@@ -45952,10 +45944,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -46220,10 +46208,6 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100102011",
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
@@ -46234,10 +46218,6 @@
   {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100101007",
@@ -46296,10 +46276,6 @@
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -46318,10 +46294,6 @@
   {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100201012",
@@ -46410,10 +46382,6 @@
   {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "204180026",
@@ -46682,5 +46650,37 @@
   {
     "ItemCode": "203190006",
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   }
 ]
