@@ -31484,10 +31484,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
   {
-    "ItemCode": "102490000",
-    "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
-  },
-  {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -40628,10 +40624,6 @@
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -43532,10 +43524,6 @@
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
   {
-    "ItemCode": "100900006",
-    "ItemName": "CHUÑO 1X500 GR"
-  },
-  {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
   },
@@ -44620,10 +44608,6 @@
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "104210000",
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
@@ -44648,10 +44632,6 @@
     "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -44662,10 +44642,6 @@
   {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "204290000",
@@ -46348,10 +46324,6 @@
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -46506,10 +46478,6 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "202730066",
@@ -46682,5 +46650,37 @@
   {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "102490000",
+    "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100900006",
+    "ItemName": "CHUÑO 1X500 GR"
   }
 ]
