@@ -39116,10 +39116,6 @@
     "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
   {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "100152002",
     "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
   },
@@ -46100,10 +46096,6 @@
     "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -46544,14 +46536,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100151020",
-    "ItemName": "CEREAL FITNESS 16 X 600 GR"
-  },
-  {
-    "ItemCode": "404360036",
-    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -46604,18 +46588,6 @@
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
   {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910036",
-    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "200050007",
     "ItemName": "FRUTILLA IQF 15X1 KG."
   },
@@ -46634,22 +46606,6 @@
   {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
-  },
-  {
-    "ItemCode": "100251007",
-    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
-  },
-  {
-    "ItemCode": "100654007",
-    "ItemName": "PIÑA RODAJAS 1x560 grs"
-  },
-  {
-    "ItemCode": "100701005",
-    "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
-  },
-  {
-    "ItemCode": "100752002",
-    "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
     "ItemCode": "103180006",
@@ -46682,5 +46638,49 @@
   {
     "ItemCode": "304760031",
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "100151020",
+    "ItemName": "CEREAL FITNESS 16 X 600 GR"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "100251007",
+    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
+  },
+  {
+    "ItemCode": "100654007",
+    "ItemName": "PIÑA RODAJAS 1x560 grs"
+  },
+  {
+    "ItemCode": "100701005",
+    "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
+  },
+  {
+    "ItemCode": "100752002",
+    "ItemName": "MIEL DE ABEJAS 1X500 GR"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910036",
+    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "404360036",
+    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
   }
 ]
