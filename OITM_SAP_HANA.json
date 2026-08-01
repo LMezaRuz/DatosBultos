@@ -31276,10 +31276,6 @@
     "ItemName": "FECULA DE PAPA 1X25 KG"
   },
   {
-    "ItemCode": "204300087",
-    "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
-  },
-  {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
@@ -46040,10 +46036,6 @@
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -46070,10 +46062,6 @@
   {
     "ItemCode": "202730082",
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "101305004",
@@ -46130,10 +46118,6 @@
   {
     "ItemCode": "103240007",
     "ItemName": "ENDULZANTE LIQUIDO ALULOSA ALUSWEET 18X270 ML"
-  },
-  {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
   {
     "ItemCode": "204790018",
@@ -46416,10 +46400,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -46612,10 +46592,6 @@
     "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -46682,5 +46658,29 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "204300087",
+    "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
   }
 ]
