@@ -35148,10 +35148,6 @@
     "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
   },
   {
-    "ItemCode": "100355016",
-    "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
-  },
-  {
     "ItemCode": "100554008",
     "ItemName": "MARINADORA CARNES BLANCAS 1 X 10 KG"
   },
@@ -42620,10 +42616,6 @@
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355010",
     "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
   },
@@ -43656,10 +43648,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "100355017",
-    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
   },
@@ -43744,10 +43732,6 @@
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
@@ -43766,10 +43750,6 @@
   {
     "ItemCode": "300001011",
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-30-38-2B-U76)"
-  },
-  {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
     "ItemCode": "200304006",
@@ -46408,10 +46388,6 @@
     "ItemName": "MINI WAFFLE BELGA 110X35 GR"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -46682,5 +46658,29 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355016",
+    "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
+  },
+  {
+    "ItemCode": "100355017",
+    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
   }
 ]
