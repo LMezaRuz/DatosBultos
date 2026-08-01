@@ -28360,10 +28360,6 @@
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
   },
   {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
     "ItemCode": "204300073",
     "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
   },
@@ -30928,10 +30924,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
-  },
-  {
     "ItemCode": "104670089",
     "ItemName": "TE EXCLUSIVE SELECTION CLASSIC EARL GREY LIPTON 6X25 BLS"
   },
@@ -31428,10 +31420,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
   {
-    "ItemCode": "202730081",
-    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -31810,10 +31798,6 @@
   {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
-    "ItemCode": "202730006",
-    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
   },
   {
     "ItemCode": "103940025",
@@ -46116,10 +46100,6 @@
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
   {
-    "ItemCode": "204310008",
-    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -46682,5 +46662,25 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730006",
+    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
+  },
+  {
+    "ItemCode": "202730081",
+    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
+  },
+  {
+    "ItemCode": "204310008",
+    "ItemName": "MINI WAFFLE BELGA 110X35 GR"
   }
 ]
