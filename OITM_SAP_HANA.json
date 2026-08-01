@@ -29696,10 +29696,6 @@
     "ItemName": "CHIPS NEUCOBER HORNEABLE SEMI AMARGO 24X500 GR"
   },
   {
-    "ItemCode": "102970009",
-    "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
-  },
-  {
     "ItemCode": "102970010",
     "ItemName": "CHOCOLATE DE LECHE 33% SICAO 1X10 KG"
   },
@@ -45020,10 +45016,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "300001010",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
@@ -45908,14 +45900,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
@@ -45986,10 +45970,6 @@
   {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "100559007",
@@ -46682,5 +46662,25 @@
   {
     "ItemCode": "304760049",
     "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "102970009",
+    "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   }
 ]
