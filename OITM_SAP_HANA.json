@@ -31012,10 +31012,6 @@
     "ItemName": "CREMA DE ZAPALLO WASIL 16X380 G"
   },
   {
-    "ItemCode": "103990003",
-    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
-  },
-  {
     "ItemCode": "101100050",
     "ItemName": "CABELLO DE ANGEL CORTO LUCCHETTI 1X5 KG"
   },
@@ -31628,10 +31624,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
   },
   {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "102710018",
     "ItemName": "BEBIDA VEGETAL BARISTA COCO VILAY 12X1 LT"
   },
@@ -31980,10 +31972,6 @@
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
@@ -32122,10 +32110,6 @@
   {
     "ItemCode": "101201023",
     "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204180017",
@@ -40180,10 +40164,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "101201046",
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
@@ -42440,10 +42420,6 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -42510,10 +42486,6 @@
   {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
     "ItemCode": "101100031",
@@ -46136,20 +46108,12 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
     "ItemCode": "404600005",
@@ -46636,24 +46600,12 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "203510007",
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
     "ItemCode": "100102012",
@@ -46682,5 +46634,53 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "103990003",
+    "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   }
 ]
