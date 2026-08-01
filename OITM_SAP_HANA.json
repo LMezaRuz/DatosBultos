@@ -27492,14 +27492,6 @@
     "ItemName": "ACEITE CHEF PEPITA UVA 12X1 LT"
   },
   {
-    "ItemCode": "100304054",
-    "ItemName": "SPRIM NECTAR BERRIES 24X190 ML."
-  },
-  {
-    "ItemCode": "100304055",
-    "ItemName": "SPRIM NECTAR MANZANA 24X190 ML."
-  },
-  {
     "ItemCode": "100352012",
     "ItemName": "CAFE DESCAFEINADO EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
@@ -34528,10 +34520,6 @@
     "ItemName": "NECTAR WATTS PIÑA LIGHT 1X1.5 LT."
   },
   {
-    "ItemCode": "100304042",
-    "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
-  },
-  {
     "ItemCode": "100350006",
     "ItemName": "CAFE DESCAFEINADO EN PODS 1X50 UN"
   },
@@ -35434,14 +35422,6 @@
   {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "300157033",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
     "ItemCode": "103520007",
@@ -41888,10 +41868,6 @@
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
-    "ItemCode": "100350004",
-    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
-  },
-  {
     "ItemCode": "101007008",
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
@@ -41986,10 +41962,6 @@
   {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
-  },
-  {
-    "ItemCode": "300351006",
-    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
     "ItemCode": "200003005",
@@ -42586,10 +42558,6 @@
   {
     "ItemCode": "300353104",
     "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
-  },
-  {
-    "ItemCode": "300157002",
-    "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
   {
     "ItemCode": "100852004",
@@ -45148,10 +45116,6 @@
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -45384,10 +45348,6 @@
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
@@ -45584,10 +45544,6 @@
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
@@ -45772,10 +45728,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
   },
   {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
@@ -45858,10 +45810,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "400012001",
@@ -46392,10 +46340,6 @@
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -46682,5 +46626,61 @@
   {
     "ItemCode": "304760031",
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "300157002",
+    "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100304042",
+    "ItemName": "SPRIM NECTAR WEDGE DURAZNO 24X190 ML"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "100350004",
+    "ItemName": "CAFE KIMBO MOLIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "300351006",
+    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100304055",
+    "ItemName": "SPRIM NECTAR MANZANA 24X190 ML."
+  },
+  {
+    "ItemCode": "100304054",
+    "ItemName": "SPRIM NECTAR BERRIES 24X190 ML."
   }
 ]
