@@ -34616,10 +34616,6 @@
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 1.9"
   },
   {
-    "ItemCode": "104060006",
-    "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
     "ItemCode": "300353112",
     "ItemName": "PUNTA GANSO KG."
   },
@@ -35336,10 +35332,6 @@
     "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
-    "ItemCode": "100751054",
-    "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
   },
@@ -35916,10 +35908,6 @@
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
   {
-    "ItemCode": "103180002",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -35986,10 +35974,6 @@
   {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
     "ItemCode": "101100054",
@@ -42992,10 +42976,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -44956,10 +44936,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
@@ -45286,10 +45262,6 @@
   {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
     "ItemCode": "204140007",
@@ -46212,10 +46184,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -46624,10 +46592,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
@@ -46682,5 +46646,41 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "104060006",
+    "ItemName": "CHANCACA IANSA 20X450GR"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "103180002",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
+  },
+  {
+    "ItemCode": "100751054",
+    "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   }
 ]
