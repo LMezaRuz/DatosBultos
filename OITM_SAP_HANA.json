@@ -43624,10 +43624,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100001007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X500 CC"
   },
@@ -46104,10 +46100,6 @@
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -46682,5 +46674,13 @@
   {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   }
 ]
