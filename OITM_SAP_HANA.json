@@ -27280,10 +27280,6 @@
     "ItemName": "LOMO LISO LOCAL (NV) KG"
   },
   {
-    "ItemCode": "404360036",
-    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
-  },
-  {
     "ItemCode": "102680010",
     "ItemName": "HELADO SOFT SABOR PISTACHO 10X800 GR"
   },
@@ -28398,10 +28394,6 @@
   {
     "ItemCode": "204090008",
     "ItemName": "KANIKAMA EL GOLFO 40X200 GR"
-  },
-  {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
     "ItemCode": "204790037",
@@ -29704,10 +29696,6 @@
     "ItemName": "DURAZNOS MITADES WASIL 6X3 KG"
   },
   {
-    "ItemCode": "103180006",
-    "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
-  },
-  {
     "ItemCode": "103480008",
     "ItemName": "GALLETAS SPECULOOS BISCUITS 1X300 UN"
   },
@@ -30952,10 +30940,6 @@
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
   {
-    "ItemCode": "103910036",
-    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910026",
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
   },
@@ -31176,10 +31160,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
@@ -31394,10 +31374,6 @@
   {
     "ItemCode": "204300020",
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.2 SEARA (APROX 15,4 KG)"
-  },
-  {
-    "ItemCode": "100151020",
-    "ItemName": "CEREAL FITNESS 16 X 600 GR"
   },
   {
     "ItemCode": "704920000",
@@ -34662,10 +34638,6 @@
   {
     "ItemCode": "100651002",
     "ItemName": "DURAZNO MITADES 24X580 GR"
-  },
-  {
-    "ItemCode": "100654007",
-    "ItemName": "PIÑA RODAJAS 1x560 grs"
   },
   {
     "ItemCode": "100700012",
@@ -46592,10 +46564,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -46682,5 +46650,37 @@
   {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "100151020",
+    "ItemName": "CEREAL FITNESS 16 X 600 GR"
+  },
+  {
+    "ItemCode": "100654007",
+    "ItemName": "PIÑA RODAJAS 1x560 grs"
+  },
+  {
+    "ItemCode": "103180006",
+    "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910036",
+    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "404360036",
+    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
