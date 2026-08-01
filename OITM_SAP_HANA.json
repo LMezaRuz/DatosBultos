@@ -32388,10 +32388,6 @@
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
   },
   {
-    "ItemCode": "103830009",
-    "ItemName": "MANJAR LONCOLECHE DP 12X750 GR"
-  },
-  {
     "ItemCode": "203200038",
     "ItemName": "STEAK CROCANTE DE POLLO ALEGRA 3X2 KG"
   },
@@ -40100,10 +40096,6 @@
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
@@ -43728,10 +43720,6 @@
     "ItemName": "GALLETA TUAREG 35X120 GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "200500048",
     "ItemName": "SOFRITO CON AJO 12X150 GR"
   },
@@ -46364,10 +46352,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
@@ -46682,5 +46666,21 @@
   {
     "ItemCode": "200200011",
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
+  },
+  {
+    "ItemCode": "103830009",
+    "ItemName": "MANJAR LONCOLECHE DP 12X750 GR"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   }
 ]
