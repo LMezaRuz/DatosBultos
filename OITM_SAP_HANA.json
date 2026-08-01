@@ -31608,10 +31608,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
@@ -35654,10 +35650,6 @@
   {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
-  },
-  {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "103070003",
@@ -43704,10 +43696,6 @@
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -46680,7 +46668,19 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
   }
 ]
