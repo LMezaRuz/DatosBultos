@@ -27796,10 +27796,6 @@
     "ItemName": "GALLETA BISCOFF LOTUS DULCE 10X250 GR"
   },
   {
-    "ItemCode": "103520000",
-    "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
@@ -30028,10 +30024,6 @@
     "ItemName": "FILETE SALMON ATLAN. SIN PIEL INDUS. 15 KG (APROX)(CAMANCHACA)"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "204530014",
     "ItemName": "SALMON ATLAN. TROZADO S/PIEL STAN. 6 KG (APROX)(CAMANCHACA)"
   },
@@ -30660,10 +30652,6 @@
     "ItemName": "CHOCLILLO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
   },
   {
-    "ItemCode": "104320012",
-    "ItemName": "PANNA COTTA TKF 10X1 KG"
-  },
-  {
     "ItemCode": "104210002",
     "ItemName": "RIGATI LUCCHETTI 30 X 400 GRS"
   },
@@ -30750,10 +30738,6 @@
   {
     "ItemCode": "103910026",
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
     "ItemCode": "104620007",
@@ -34972,10 +34956,6 @@
     "ItemName": "CAFIZA 1 X 1 UN"
   },
   {
-    "ItemCode": "400010023",
-    "ItemName": "RINZA 1X1 UN"
-  },
-  {
     "ItemCode": "202730082",
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
   },
@@ -38656,10 +38636,6 @@
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
@@ -42032,10 +42008,6 @@
     "ItemName": "PAPAS NOISETTES / DUQUESAS 4X2,5 KG"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
@@ -44444,10 +44416,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -44734,10 +44702,6 @@
   {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "100559006",
@@ -45928,10 +45892,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760251",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -46576,10 +46536,6 @@
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "300353004",
-    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
-  },
-  {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
@@ -46682,5 +46638,49 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "104320012",
+    "ItemName": "PANNA COTTA TKF 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "300353004",
+    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "103520000",
+    "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "400010023",
+    "ItemName": "RINZA 1X1 UN"
   }
 ]
