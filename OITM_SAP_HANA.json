@@ -25648,10 +25648,6 @@
     "ItemName": "MAQUINA VENDING FAS KLYO CON BOMBA"
   },
   {
-    "ItemCode": "AFACC0001",
-    "ItemName": "MOLINILLO TRANQUILO TRON NAC 1X1"
-  },
-  {
     "ItemCode": "AFACC0005",
     "ItemName": "TERMO BUNN 3.8 LT CON BASE"
   },
@@ -26134,10 +26130,6 @@
   {
     "ItemCode": "304760466",
     "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "AFMQC0018",
-    "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
   },
   {
     "ItemCode": "400301109",
@@ -45476,24 +45468,8 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "300353067",
-    "ItemName": "PALANCA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "300353113",
-    "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
     "ItemCode": "304760457",
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "600002017",
-    "ItemName": "PIMIENTO MORRÓN KG."
-  },
-  {
-    "ItemCode": "304760030",
-    "ItemName": "POSTA PALETA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
     "ItemCode": "300353054",
@@ -46136,10 +46112,6 @@
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
   {
-    "ItemCode": "304760045",
-    "ItemName": "PUNTA PICANA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
@@ -46304,16 +46276,8 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "304760042",
-    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "304760031",
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
   },
   {
     "ItemCode": "202900000",
@@ -46682,5 +46646,41 @@
   {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "304760045",
+    "ItemName": "PUNTA PICANA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760042",
+    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "300353067",
+    "ItemName": "PALANCA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "600002017",
+    "ItemName": "PIMIENTO MORRÓN KG."
+  },
+  {
+    "ItemCode": "300353113",
+    "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
+  },
+  {
+    "ItemCode": "304760030",
+    "ItemName": "POSTA PALETA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "AFACC0001",
+    "ItemName": "MOLINILLO TRANQUILO TRON NAC 1X1"
+  },
+  {
+    "ItemCode": "AFMQC0018",
+    "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
   }
 ]
