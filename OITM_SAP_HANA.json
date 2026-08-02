@@ -31608,10 +31608,6 @@
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201014",
-    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201044",
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -31802,10 +31798,6 @@
   {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
-    "ItemCode": "204310009",
-    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
   {
     "ItemCode": "400100003",
@@ -32150,10 +32142,6 @@
   {
     "ItemCode": "200100098",
     "ItemName": "HELADO VITTORE BANANA SPLIT 6 X 460 ML."
-  },
-  {
-    "ItemCode": "101201042",
-    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
     "ItemCode": "103200000",
@@ -34716,10 +34704,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "300404011",
     "ItemName": "QUESO GAUDA CALO LAMINADO 5 KG"
   },
@@ -35614,10 +35598,6 @@
   {
     "ItemCode": "303210016",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V  ARGENTINA - LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "304760004",
@@ -42896,10 +42876,6 @@
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
   },
   {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101002009",
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
@@ -42914,10 +42890,6 @@
   {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "200460014",
@@ -45340,10 +45312,6 @@
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -46148,10 +46116,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -46682,5 +46646,41 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "204310009",
+    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201014",
+    "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201042",
+    "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   }
 ]
