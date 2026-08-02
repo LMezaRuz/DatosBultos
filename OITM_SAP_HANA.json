@@ -29540,10 +29540,6 @@
     "ItemName": "PLATEADA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "304760005",
-    "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -45080,10 +45076,6 @@
     "ItemName": "PUNTA GANSO KG."
   },
   {
-    "ItemCode": "600002027",
-    "ItemName": "PEPINO FRUTA KG"
-  },
-  {
     "ItemCode": "300351019",
     "ItemName": "MORTADELA JAMONADA 1x150 GRS"
   },
@@ -45182,10 +45174,6 @@
   {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
-  },
-  {
-    "ItemCode": "100351017",
-    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
     "ItemCode": "200004004",
@@ -45788,10 +45776,6 @@
     "ItemName": "PLATEADA KG (NV)"
   },
   {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
-  },
-  {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
   },
@@ -45866,10 +45850,6 @@
   {
     "ItemCode": "600002008",
     "ItemName": "CEBOLLA KG."
-  },
-  {
-    "ItemCode": "600002017",
-    "ItemName": "PIMIENTO MORRÓN KG."
   },
   {
     "ItemCode": "400004007",
@@ -46220,10 +46200,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "304760042",
-    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -46256,10 +46232,6 @@
     "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "103810007",
     "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
   },
@@ -46274,10 +46246,6 @@
   {
     "ItemCode": "200460052",
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
-  },
-  {
-    "ItemCode": "300351009",
-    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
   {
     "ItemCode": "204300029",
@@ -46504,10 +46472,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -46682,5 +46646,41 @@
   {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100351017",
+    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "304760042",
+    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "600002027",
+    "ItemName": "PEPINO FRUTA KG"
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "600002017",
+    "ItemName": "PIMIENTO MORRÓN KG."
+  },
+  {
+    "ItemCode": "304760005",
+    "ItemName": "LOMO VETADO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "300351009",
+    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
   }
 ]
