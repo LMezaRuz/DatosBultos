@@ -31212,10 +31212,6 @@
     "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
   },
   {
-    "ItemCode": "204300092",
-    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -32086,10 +32082,6 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "103600002",
@@ -35060,10 +35052,6 @@
     "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "300351024",
     "ItemName": "BRESLAUER (MORTADELA) 12X350 GRS"
   },
@@ -35598,10 +35586,6 @@
   {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
     "ItemCode": "102930010",
@@ -42468,10 +42452,6 @@
     "ItemName": "GALLETA KUKY CLASICA 1X 120g"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
@@ -45740,26 +45720,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200460037",
-    "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
-  },
-  {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
-    "ItemCode": "400005007",
-    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -45990,10 +45950,6 @@
   {
     "ItemCode": "600001012",
     "ItemName": "PLATANOS KG."
-  },
-  {
-    "ItemCode": "300352003",
-    "ItemName": "PULPA DE CERDO KG (NV)"
   },
   {
     "ItemCode": "600001001",
@@ -46682,5 +46638,49 @@
   {
     "ItemCode": "102790000",
     "ItemName": "CAFE NESCAFE DECAF STICK 180X1,8 GR"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200460037",
+    "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "400005007",
+    "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
+  },
+  {
+    "ItemCode": "300352003",
+    "ItemName": "PULPA DE CERDO KG (NV)"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204300092",
+    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   }
 ]
