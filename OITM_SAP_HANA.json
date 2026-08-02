@@ -44372,10 +44372,6 @@
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
   {
-    "ItemCode": "400008002",
-    "ItemName": "LAVALOZAS CONCENTRADO 1x750 ML"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -45456,10 +45452,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "100251005",
     "ItemName": "CALDO GALLINA 30X8X11 GR"
   },
@@ -45728,10 +45720,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
-    "ItemCode": "102540004",
-    "ItemName": "AGUA MINERAL BIDON 1X6 LT"
-  },
-  {
     "ItemCode": "400008001",
     "ItemName": "LAVALOZAS QUIX 750ML"
   },
@@ -45778,10 +45766,6 @@
   {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100801001",
@@ -45948,16 +45932,8 @@
     "ItemName": "COSTILLAR DE CERDO AHUMADO KG. (NV)"
   },
   {
-    "ItemCode": "100302006",
-    "ItemName": "SPRITE 6X1,5 LT"
-  },
-  {
     "ItemCode": "300351006",
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
-  },
-  {
-    "ItemCode": "100302002",
-    "ItemName": "FANTA 6 X 1,5 LTS"
   },
   {
     "ItemCode": "300157005",
@@ -45970,10 +45946,6 @@
   {
     "ItemCode": "300157003",
     "ItemName": "YOGURT LIGHT SURTIDOS 1X120 CC"
-  },
-  {
-    "ItemCode": "100302003",
-    "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
   },
   {
     "ItemCode": "101358007",
@@ -46412,10 +46384,6 @@
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
   {
-    "ItemCode": "100300010",
-    "ItemName": "AGUA MINERAL CACHANTUN SIN GAS 1 X 1,6 LT"
-  },
-  {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
   },
@@ -46474,10 +46442,6 @@
   {
     "ItemCode": "100353002",
     "ItemName": "YERBA MATE 1x500 G."
-  },
-  {
-    "ItemCode": "400010006",
-    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
   {
     "ItemCode": "400050001",
@@ -46556,20 +46520,12 @@
     "ItemName": "PEPINO 1x1 un."
   },
   {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
-  },
-  {
     "ItemCode": "600002024",
     "ItemName": "CHAMPIÑON BANDEJA"
   },
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "100852012",
@@ -46676,11 +46632,55 @@
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
   {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
+  },
+  {
     "ItemCode": "100951003",
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
   {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
+    "ItemCode": "400008002",
+    "ItemName": "LAVALOZAS CONCENTRADO 1x750 ML"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "400010006",
+    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "100300010",
+    "ItemName": "AGUA MINERAL CACHANTUN SIN GAS 1 X 1,6 LT"
+  },
+  {
+    "ItemCode": "102540004",
+    "ItemName": "AGUA MINERAL BIDON 1X6 LT"
+  },
+  {
+    "ItemCode": "100302002",
+    "ItemName": "FANTA 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302003",
+    "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
+  },
+  {
+    "ItemCode": "100302006",
+    "ItemName": "SPRITE 6X1,5 LT"
   }
 ]
