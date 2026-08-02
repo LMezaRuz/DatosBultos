@@ -31124,10 +31124,6 @@
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
-    "ItemCode": "203230002",
-    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
-  },
-  {
     "ItemCode": "300401005",
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
@@ -31798,10 +31794,6 @@
   {
     "ItemCode": "203210112",
     "ItemName": "TIP GRILL PUNTA BRISKET AMERICANO 1 KG (5 BOLSAS X 1 KG) (MM)"
-  },
-  {
-    "ItemCode": "303850000",
-    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
     "ItemCode": "100202001",
@@ -34938,10 +34930,6 @@
   {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "202730079",
-    "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
   },
   {
     "ItemCode": "100304047",
@@ -39720,16 +39708,8 @@
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "200003003",
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
-    "ItemCode": "200200020",
-    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
     "ItemCode": "300351016",
@@ -42032,10 +42012,6 @@
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
   {
-    "ItemCode": "200001001",
-    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
     "ItemCode": "200002009",
     "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
   },
@@ -43894,14 +43870,6 @@
   {
     "ItemCode": "202820013",
     "ItemName": "CAMARON CH CRUDO PELADO 71/90 10X1 KG ANTARTICA"
-  },
-  {
-    "ItemCode": "203230000",
-    "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
-  },
-  {
-    "ItemCode": "203230001",
-    "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
   },
   {
     "ItemCode": "300351018",
@@ -46682,5 +46650,37 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "200200020",
+    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
+  },
+  {
+    "ItemCode": "203230002",
+    "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "203230001",
+    "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "203230000",
+    "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200001001",
+    "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
+  },
+  {
+    "ItemCode": "303850000",
+    "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "202730079",
+    "ItemName": "DONUT ROSA CON MARSHMALLOW 36X60 GR (60675)"
   }
 ]
