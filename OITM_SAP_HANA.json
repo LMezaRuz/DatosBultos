@@ -39512,10 +39512,6 @@
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
   {
-    "ItemCode": "100251007",
-    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
-  },
-  {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -45688,10 +45684,6 @@
     "ItemName": "PALANCA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "304760031",
-    "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "300353113",
     "ItemName": "POLLO GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
@@ -46044,10 +46036,6 @@
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -46118,10 +46106,6 @@
   {
     "ItemCode": "300353053",
     "ItemName": "POSTA ROSADA KG (NV)"
-  },
-  {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
   },
   {
     "ItemCode": "600002020",
@@ -46456,10 +46440,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "304760042",
-    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "300353070",
     "ItemName": "POSTA PALETA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
@@ -46474,10 +46454,6 @@
   {
     "ItemCode": "202910022",
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
-    "ItemCode": "204790017",
-    "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   },
   {
     "ItemCode": "304760045",
@@ -46530,10 +46506,6 @@
   {
     "ItemCode": "400010025",
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "204530031",
@@ -46640,10 +46612,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
   {
-    "ItemCode": "300351009",
-    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
-  },
-  {
     "ItemCode": "300157005",
     "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
   },
@@ -46682,5 +46650,37 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "304760042",
+    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760031",
+    "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300351009",
+    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
+  },
+  {
+    "ItemCode": "100251007",
+    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
+  },
+  {
+    "ItemCode": "204790017",
+    "ItemName": "SALTEADO CHAPSUI 20X500 GR"
   }
 ]
