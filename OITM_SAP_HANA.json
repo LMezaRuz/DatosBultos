@@ -29540,10 +29540,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN FULL PRO VAINILLA 18X250"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
   },
@@ -39236,10 +39232,6 @@
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "300152002",
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
@@ -39418,10 +39410,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "104190001",
-    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
   {
     "ItemCode": "304440005",
@@ -41492,10 +41480,6 @@
     "ItemName": "SPAGUETTI 1X5 KG"
   },
   {
-    "ItemCode": "101100008",
-    "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
     "ItemCode": "101100016",
     "ItemName": "TALLARIN 87 1X5 KG"
   },
@@ -41886,10 +41870,6 @@
   {
     "ItemCode": "100250001",
     "ItemName": "BASE PARA APANAR 1X1 KG."
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "101100028",
@@ -44280,10 +44260,6 @@
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "104670001",
     "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
   },
@@ -45452,10 +45428,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -46048,10 +46020,6 @@
     "ItemName": "MILO EN POLVO 15X1 KG"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
@@ -46178,10 +46146,6 @@
   {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "100550005",
@@ -46584,14 +46548,6 @@
     "ItemName": "AJINOMOTO 1X1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -46644,14 +46600,6 @@
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -46682,5 +46630,57 @@
   {
     "ItemCode": "204140018",
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "101100008",
+    "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "104190001",
+    "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
