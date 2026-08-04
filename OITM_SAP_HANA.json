@@ -28432,10 +28432,6 @@
     "ItemName": "SAL SACHET BIOSAL LIGHT 2000X1 GR"
   },
   {
-    "ItemCode": "104520001",
-    "ItemName": "SAL FINA EN POTE 12X850 GR"
-  },
-  {
     "ItemCode": "104520005",
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
   },
@@ -45252,10 +45248,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "400011019",
-    "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
-  },
-  {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
   },
@@ -45522,10 +45514,6 @@
   {
     "ItemCode": "101100033",
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101007018",
@@ -46682,5 +46670,17 @@
   {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
+  },
+  {
+    "ItemCode": "400011019",
+    "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "104520001",
+    "ItemName": "SAL FINA EN POTE 12X850 GR"
   }
 ]
