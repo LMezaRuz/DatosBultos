@@ -32224,10 +32224,6 @@
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
   },
   {
-    "ItemCode": "104010052",
-    "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
-  },
-  {
     "ItemCode": "104080006",
     "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
   },
@@ -35672,10 +35668,6 @@
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
-    "ItemCode": "200201010",
-    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -36358,10 +36350,6 @@
   {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "104010020",
@@ -39928,10 +39916,6 @@
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
   {
-    "ItemCode": "300405007",
-    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
-  },
-  {
     "ItemCode": "300353111",
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
@@ -42982,10 +42966,6 @@
   {
     "ItemCode": "300154018",
     "ItemName": "MARGARINA HORNEO PREMIUM 1X 2.5 KG."
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "101450004",
@@ -46240,10 +46220,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
@@ -46668,6 +46644,10 @@
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
+    "ItemCode": "200201019",
+    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+  },
+  {
     "ItemCode": "200201005",
     "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
   },
@@ -46680,7 +46660,27 @@
     "ItemName": "MINI REJILLA DE MAPLE PECAN 96X40 GR  (47917)"
   },
   {
-    "ItemCode": "200201019",
-    "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
+    "ItemCode": "200201010",
+    "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "104010052",
+    "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300405007",
+    "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   }
 ]
