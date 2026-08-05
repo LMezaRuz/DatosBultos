@@ -28284,10 +28284,6 @@
     "ItemName": "SALSA DE SOYA LEE KUM KEE 1X18,9 LT"
   },
   {
-    "ItemCode": "204090002",
-    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
-  },
-  {
     "ItemCode": "102810001",
     "ItemName": "CALDO MAGGI COSTILLA 30X8X11 GR"
   },
@@ -32392,10 +32388,6 @@
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
     "ItemCode": "103140002",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 4MM 10X1 KG"
   },
@@ -32506,10 +32498,6 @@
   {
     "ItemCode": "300404023",
     "ItemName": "QUESO GAUDA LAMINADO CALO 12X467GR"
-  },
-  {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
     "ItemCode": "104070012",
@@ -39980,10 +39968,6 @@
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
   {
-    "ItemCode": "204700005",
-    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
@@ -43852,10 +43836,6 @@
     "ItemName": "PULPA DE JUGO DE LIMON MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "100900006",
     "ItemName": "CHUÑO 1X500 GR"
   },
@@ -44014,10 +43994,6 @@
   {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
   {
     "ItemCode": "204790005",
@@ -44296,10 +44272,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
     "ItemCode": "304760532",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -44314,10 +44286,6 @@
   {
     "ItemCode": "101201013",
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
     "ItemCode": "104020000",
@@ -45680,10 +45648,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "101357001",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
@@ -46146,10 +46110,6 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
     "ItemCode": "101450004",
@@ -46710,5 +46670,45 @@
   {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "204090002",
+    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "204700005",
+    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   }
 ]
