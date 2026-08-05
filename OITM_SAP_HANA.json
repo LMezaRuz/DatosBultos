@@ -35940,10 +35940,6 @@
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
@@ -36266,10 +36262,6 @@
   {
     "ItemCode": "204530007",
     "ItemName": "SALMON EN PORCION CON PIEL 20X500 GR"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
     "ItemCode": "100304062",
@@ -42592,10 +42584,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "100550002",
-    "ItemName": "AJI DE COLOR 1X250 GR"
-  },
-  {
     "ItemCode": "100201001",
     "ItemName": "AZUCAR CUBO RUBIA IANSA 1X420 GR."
   },
@@ -45352,10 +45340,6 @@
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "104210011",
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
@@ -45438,10 +45422,6 @@
   {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "303850001",
-    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
   {
     "ItemCode": "100300007",
@@ -45626,10 +45606,6 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "200051020",
@@ -46404,10 +46380,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -46552,16 +46524,8 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "300351017",
@@ -46710,5 +46674,41 @@
   {
     "ItemCode": "400011012",
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "303850001",
+    "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
+    "ItemCode": "100550002",
+    "ItemName": "AJI DE COLOR 1X250 GR"
   }
 ]
