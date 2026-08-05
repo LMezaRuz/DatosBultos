@@ -16112,10 +16112,6 @@
     "ItemName": "MILANESA DE POLLO SADIA 4X2,5 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "304760556",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
@@ -27888,10 +27884,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "204300002",
     "ItemName": "FILETILLO DE POLLO CONG. 6X2 KG IMP"
   },
@@ -30146,10 +30138,6 @@
   {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "304760433",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "102700014",
@@ -36056,10 +36044,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "202910067",
     "ItemName": "MALAYITA DE CERDO 10X500 GR"
   },
@@ -39464,10 +39448,6 @@
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "200500042",
-    "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
-  },
-  {
     "ItemCode": "101100001",
     "ItemName": "TALLARIN SAN REMO 25X400 GR 87"
   },
@@ -42552,14 +42532,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "200500023",
-    "ItemName": "COLIFLOR IQF 7X1 KG."
-  },
-  {
-    "ItemCode": "200500046",
-    "ItemName": "CEBOLLA CUBO F/SERVICE 12 UN X 1 KG"
-  },
-  {
     "ItemCode": "101100032",
     "ItemName": "CARACOLES 1X5 KG"
   },
@@ -43722,10 +43694,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "203200033",
-    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
   {
     "ItemCode": "200455004",
@@ -46064,10 +46032,6 @@
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "203900007",
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
@@ -46238,10 +46202,6 @@
   {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "101400002",
@@ -46484,14 +46444,6 @@
     "ItemName": "ALETILLA VACUNO CONG. X KG ( CAJA DE 20 KG APROX.)"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790043",
     "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
@@ -46710,5 +46662,53 @@
   {
     "ItemCode": "204700005",
     "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "203200033",
+    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200500042",
+    "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200500023",
+    "ItemName": "COLIFLOR IQF 7X1 KG."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500046",
+    "ItemName": "CEBOLLA CUBO F/SERVICE 12 UN X 1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "304760433",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   }
 ]
