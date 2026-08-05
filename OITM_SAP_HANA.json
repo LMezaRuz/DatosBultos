@@ -31216,10 +31216,6 @@
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "104820013",
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
   },
@@ -31748,16 +31744,8 @@
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
   {
-    "ItemCode": "100250004",
-    "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
-  },
-  {
     "ItemCode": "202910025",
     "ItemName": "COSTILLAR DE CERDO ALEMAN LOCAL 10 KG APROX."
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "304760031",
@@ -45428,10 +45416,6 @@
     "ItemName": "PATE DE JAMON 16X125 GRS"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100200004",
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
@@ -46460,10 +46444,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -46710,5 +46690,25 @@
   {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100250004",
+    "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
   }
 ]
