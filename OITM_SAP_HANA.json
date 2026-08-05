@@ -38632,10 +38632,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "300353104",
-    "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
-  },
-  {
     "ItemCode": "200201005",
     "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
   },
@@ -41536,10 +41532,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
@@ -41778,10 +41770,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
   {
     "ItemCode": "100151009",
@@ -43348,10 +43336,6 @@
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "200500017",
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
@@ -44208,10 +44192,6 @@
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
   },
   {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
@@ -44696,10 +44676,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -44816,16 +44792,8 @@
     "ItemName": "TE TWININGS ROOIBOS 1X25 UN"
   },
   {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
     "ItemCode": "102930008",
@@ -46252,10 +46220,6 @@
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "101201046",
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
@@ -46350,14 +46314,6 @@
   {
     "ItemCode": "102780006",
     "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "104670049",
-    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "200001001",
@@ -46576,10 +46532,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -46668,12 +46620,60 @@
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
-    "ItemCode": "300353124",
-    "ItemName": "PUNTA DE PALETA PARAGUAY CAT V LOCAL (Cj 20 KG APROX)"
+    "ItemCode": "300353003",
+    "ItemName": "POSTA NEGRA AL VACIO CAT. V BRASIL - LOCAL X KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "104670049",
+    "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "304760049",
     "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "300353006",
+    "ItemName": "POSTA ROSADA AL VACIO CAT V BRASIL - LOCAL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "300353124",
+    "ItemName": "PUNTA DE PALETA PARAGUAY CAT V LOCAL (Cj 20 KG APROX)"
   },
   {
     "ItemCode": "304760031",
@@ -46682,10 +46682,6 @@
   {
     "ItemCode": "300353007",
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "300353006",
-    "ItemName": "POSTA ROSADA AL VACIO CAT V BRASIL - LOCAL (20 KG APROX)"
   },
   {
     "ItemCode": "303210016",
@@ -46700,15 +46696,19 @@
     "ItemName": "LOMO LISO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
   },
   {
-    "ItemCode": "300353133",
-    "ItemName": "PUNTA DE PICANA PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
-  },
-  {
     "ItemCode": "304760071",
     "ItemName": "TAPABARRIGA CATEGORIA V NACIONAL (CAJA 18 KG APROX)"
   },
   {
-    "ItemCode": "300353003",
-    "ItemName": "POSTA NEGRA AL VACIO CAT. V BRASIL - LOCAL X KG"
+    "ItemCode": "300353104",
+    "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "300353133",
+    "ItemName": "PUNTA DE PICANA PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
   }
 ]
