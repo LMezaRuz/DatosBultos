@@ -36184,10 +36184,6 @@
     "ItemName": "YOGURT VEGETAL DE LECHE SOYA SABOR FRUTILLA 12X130 GR"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "300157029",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
@@ -40176,10 +40172,6 @@
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
-  },
-  {
     "ItemCode": "101403001",
     "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
@@ -40258,10 +40250,6 @@
   {
     "ItemCode": "101201047",
     "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
-  },
-  {
-    "ItemCode": "101200025",
-    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
   },
   {
     "ItemCode": "100557002",
@@ -43312,10 +43300,6 @@
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "101200002",
-    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -43494,10 +43478,6 @@
   {
     "ItemCode": "300353006",
     "ItemName": "POSTA ROSADA AL VACIO CAT V BRASIL - LOCAL (20 KG APROX)"
-  },
-  {
-    "ItemCode": "101200001",
-    "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101200005",
@@ -45696,10 +45676,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -45770,10 +45746,6 @@
   {
     "ItemCode": "200051003",
     "ItemName": "PULPA DE FRAMBUESA C/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "300353114",
@@ -46050,10 +46022,6 @@
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
-    "ItemCode": "101201011",
-    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "101201028",
@@ -46492,10 +46460,6 @@
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
   {
-    "ItemCode": "101201025",
-    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -46710,5 +46674,41 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "101201011",
+    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200001",
+    "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200002",
+    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200025",
+    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
+  },
+  {
+    "ItemCode": "101201025",
+    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   }
 ]
