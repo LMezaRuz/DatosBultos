@@ -26960,10 +26960,6 @@
     "ItemName": "FILETE DE VACUNO PORCIONADO MM 5X200 GR (5 KG)(BD)"
   },
   {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
-  },
-  {
     "ItemCode": "203210086",
     "ItemName": "CHURRASCO DE POSTA (MUSCULO) GOURMET BD (MM) 5X1 KG"
   },
@@ -35812,10 +35808,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -43752,10 +43744,6 @@
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "200302026",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -45788,10 +45776,6 @@
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "204180012",
     "ItemName": "PAPAS PRE FRITAS 12 MM FARM FRITES 5X2,5 KG."
   },
@@ -46070,22 +46054,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100750008",
-    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
   {
     "ItemCode": "204380031",
@@ -46700,15 +46668,47 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
   },
   {
-    "ItemCode": "204300055",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "300001002",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5 % CALLET 6X1 KG"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "100750008",
+    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
+  },
+  {
+    "ItemCode": "204300055",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
