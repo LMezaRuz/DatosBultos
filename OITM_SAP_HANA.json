@@ -30604,10 +30604,6 @@
     "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
@@ -32266,10 +32262,6 @@
   {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
-  },
-  {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
     "ItemCode": "101303008",
@@ -36122,10 +36114,6 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "100251003",
@@ -42872,10 +42860,6 @@
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "304760540",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -43412,10 +43396,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "203210115",
-    "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
-  },
-  {
     "ItemCode": "103650000",
     "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
   },
@@ -43566,10 +43546,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "104010035",
@@ -45592,10 +45568,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -46536,10 +46508,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "203210071",
-    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
-  },
-  {
     "ItemCode": "300001009",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
   },
@@ -46696,19 +46664,51 @@
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+    "ItemCode": "203190032",
+    "ItemName": "CARNE AL ROJO 5 KG(MM)"
   },
   {
     "ItemCode": "203210085",
     "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
   },
   {
-    "ItemCode": "203190032",
-    "ItemName": "CARNE AL ROJO 5 KG(MM)"
-  },
-  {
     "ItemCode": "202910040",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "203210115",
+    "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210071",
+    "ItemName": "DESPUNTE REBANADO DE FILETE KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
   }
 ]
