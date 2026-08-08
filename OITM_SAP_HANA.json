@@ -14988,10 +14988,6 @@
     "ItemName": "CONDIMENTO SALSA CHILIS BF 1X10 KG"
   },
   {
-    "ItemCode": "203210135",
-    "ItemName": "CHURRASCO DE VACUNO 20X210 GR"
-  },
-  {
     "ItemCode": "204330000",
     "ItemName": "VOLCAN DE DULCE DE LECHE 24X80 GR"
   },
@@ -36320,10 +36316,6 @@
     "ItemName": "PAN FRICA REBANADO 75X115GR"
   },
   {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
@@ -36354,10 +36346,6 @@
   {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
-  },
-  {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "204180001",
@@ -39608,10 +39596,6 @@
     "ItemName": "PICKLES TRAVERSO 1 UN X 200 GRS"
   },
   {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
     "ItemCode": "400301031",
     "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   },
@@ -40566,10 +40550,6 @@
   {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "102780006",
@@ -44296,14 +44276,6 @@
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
@@ -45932,10 +45904,6 @@
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
   {
-    "ItemCode": "103910030",
-    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
@@ -45950,10 +45918,6 @@
   {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910033",
-    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
   {
     "ItemCode": "101009017",
@@ -46360,10 +46324,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -46734,5 +46694,45 @@
   {
     "ItemCode": "103770003",
     "ItemName": "MAIZ CURAGUA 10X1 KG"
+  },
+  {
+    "ItemCode": "203210135",
+    "ItemName": "CHURRASCO DE VACUNO 20X210 GR"
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "103910033",
+    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "103910030",
+    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   }
 ]
