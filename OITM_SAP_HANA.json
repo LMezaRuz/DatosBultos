@@ -39316,10 +39316,6 @@
     "ItemName": "AZUCAR DIETETICA 1 x 1 KGS"
   },
   {
-    "ItemCode": "400252007",
-    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
-  },
-  {
     "ItemCode": "200460006",
     "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
   },
@@ -43296,10 +43292,6 @@
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
@@ -43322,10 +43314,6 @@
   {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "203210129",
@@ -43492,10 +43480,6 @@
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
   },
   {
-    "ItemCode": "204300092",
-    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
@@ -43614,10 +43598,6 @@
   {
     "ItemCode": "300351023",
     "ItemName": "PATE DE TERNERA 16x125 GRS"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "304760255",
@@ -44884,10 +44864,6 @@
     "ItemName": "ACEITE MARAVILLA  300 X 8 CC"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "300404005",
     "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
   },
@@ -45268,10 +45244,6 @@
     "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
   },
   {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -45644,10 +45616,6 @@
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
@@ -45670,10 +45638,6 @@
   {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "200250016",
@@ -46076,10 +46040,6 @@
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
@@ -46400,10 +46360,6 @@
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
@@ -46430,10 +46386,6 @@
   {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "103810005",
@@ -46734,5 +46686,53 @@
   {
     "ItemCode": "300100001",
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204300092",
+    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "400252007",
+    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   }
 ]
