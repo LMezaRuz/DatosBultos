@@ -31648,10 +31648,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. BRASIL AURORA 6X2 KG"
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
@@ -42900,10 +42896,6 @@
     "ItemName": "SOFRITO CON AJO 12X150 GR"
   },
   {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
-  },
-  {
     "ItemCode": "100302029",
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
@@ -45180,10 +45172,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
   },
@@ -45354,10 +45342,6 @@
   {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "101353042",
@@ -46734,5 +46718,21 @@
   {
     "ItemCode": "303660008",
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   }
 ]
