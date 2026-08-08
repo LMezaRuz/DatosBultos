@@ -30972,10 +30972,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
   },
   {
-    "ItemCode": "304850010",
-    "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
-  },
-  {
     "ItemCode": "103910024",
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
@@ -31156,14 +31152,6 @@
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
   {
-    "ItemCode": "300157028",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
     "ItemCode": "101100052",
     "ItemName": "CORBATA LUCCHETTI 1X5 KG"
   },
@@ -31178,10 +31166,6 @@
   {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
     "ItemCode": "101200023",
@@ -32150,14 +32134,6 @@
   {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "300157050",
-    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
-  },
-  {
-    "ItemCode": "300157053",
-    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
   },
   {
     "ItemCode": "304850039",
@@ -35232,10 +35208,6 @@
     "ItemName": "CREMA ACIDA LONCOLECHE 12X140 GR"
   },
   {
-    "ItemCode": "300157052",
-    "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
-  },
-  {
     "ItemCode": "300300009",
     "ItemName": "GELATINA AMBROSOLI FRAMBUESA 1x100 G."
   },
@@ -35802,10 +35774,6 @@
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
     "ItemCode": "200002013",
@@ -36398,10 +36366,6 @@
   {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
   {
     "ItemCode": "104010050",
@@ -39640,10 +39604,6 @@
     "ItemName": "CURRY BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "304850042",
-    "ItemName": "YOGURT NATURAL FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
     "ItemCode": "400004008",
     "ItemName": "DETERGENTE OMO MATIC POLVO 1X800 GR"
   },
@@ -39690,10 +39650,6 @@
   {
     "ItemCode": "500001001",
     "ItemName": "PITCHER ACERO INOX. 20 OZ"
-  },
-  {
-    "ItemCode": "300151002",
-    "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
   {
     "ItemCode": "104670095",
@@ -46734,5 +46690,49 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "300151002",
+    "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
+  },
+  {
+    "ItemCode": "300157050",
+    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "300157052",
+    "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "300157053",
+    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "304850010",
+    "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
+  },
+  {
+    "ItemCode": "304850042",
+    "ItemName": "YOGURT NATURAL FULL PROTEIN LONCOLECHE 12X150 GR"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   }
 ]
