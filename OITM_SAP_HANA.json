@@ -28104,10 +28104,6 @@
     "ItemName": "COLIFLOR IQF 20X500 GR"
   },
   {
-    "ItemCode": "204790025",
-    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
-  },
-  {
     "ItemCode": "303010003",
     "ItemName": "CHIPS DE CHOCOLATE SICAO SEMI AMARGO 20 KG (ILD-DR-7174600-A14)"
   },
@@ -30624,10 +30620,6 @@
     "ItemName": "CREMA PARA BATIR LONCO LECHE 12X500 ML"
   },
   {
-    "ItemCode": "203190051",
-    "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
-  },
-  {
     "ItemCode": "202720038",
     "ItemName": "MUFFIN CHIPS CHOCOLATE VAINILLA 36X110 GR"
   },
@@ -31834,10 +31826,6 @@
   {
     "ItemCode": "203200033",
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
-  },
-  {
-    "ItemCode": "204300013",
-    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
   },
   {
     "ItemCode": "204300084",
@@ -35872,10 +35860,6 @@
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "101009005",
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
@@ -36590,10 +36574,6 @@
   {
     "ItemCode": "103650002",
     "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "204180003",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100557022",
@@ -43796,10 +43776,6 @@
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -43918,10 +43894,6 @@
   {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "304440016",
@@ -45868,10 +45840,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100557007",
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
@@ -46488,10 +46456,6 @@
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -46734,5 +46698,41 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204790025",
+    "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "203190051",
+    "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
+  },
+  {
+    "ItemCode": "204180003",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204300013",
+    "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   }
 ]
