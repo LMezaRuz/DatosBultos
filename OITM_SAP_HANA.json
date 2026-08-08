@@ -26364,10 +26364,6 @@
     "ItemName": "SALSA STREET BURGER GOURMET 12X250 GR"
   },
   {
-    "ItemCode": "104040021",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1X200 GR"
-  },
-  {
     "ItemCode": "104040026",
     "ItemName": "COMINO MOLIDO 1X200 GR"
   },
@@ -31340,10 +31336,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
@@ -32354,10 +32346,6 @@
   {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "200462109",
@@ -43360,10 +43348,6 @@
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
@@ -43772,10 +43756,6 @@
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
@@ -43898,10 +43878,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "303870001",
@@ -44042,10 +44018,6 @@
   {
     "ItemCode": "200402012",
     "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "101150032",
@@ -45780,10 +45752,6 @@
     "ItemName": "CHULETA CERDO KG (NV)"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -46148,10 +46116,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
@@ -46298,10 +46262,6 @@
   {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
     "ItemCode": "102710019",
@@ -46734,5 +46694,45 @@
   {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "104040021",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1X200 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
