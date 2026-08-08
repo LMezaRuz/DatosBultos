@@ -26328,10 +26328,6 @@
     "ItemName": "MERMELADA DE PIÑA GOLD 1X5 KG"
   },
   {
-    "ItemCode": "103910021",
-    "ItemName": "MERMELADA GOLD DAMASCO WATTS 3X5 KG"
-  },
-  {
     "ItemCode": "103930009",
     "ItemName": "MIX FRUTOS SECOS THAI 16X100 GR"
   },
@@ -34544,10 +34540,6 @@
     "ItemName": "QUESO GOUDA MOLFINO BARRA NACIONAL PIEZA X KG (3,75 APROX)"
   },
   {
-    "ItemCode": "300405005",
-    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
-  },
-  {
     "ItemCode": "302890004",
     "ItemName": "FIAMBRE SANDWICH LAMINADO SAN JORGE 4X500 GR"
   },
@@ -35676,10 +35668,6 @@
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
   {
-    "ItemCode": "100751044",
-    "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
-  },
-  {
     "ItemCode": "400010022",
     "ItemName": "CAFIZA 1 X 1 UN"
   },
@@ -36042,10 +36030,6 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "103520007",
@@ -39964,10 +39948,6 @@
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100751043",
-    "ItemName": "MERMELADA WATTS GOLD GUINDA 5 GALON"
-  },
-  {
     "ItemCode": "101200008",
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
@@ -40102,10 +40082,6 @@
   {
     "ItemCode": "300157033",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "300157032",
@@ -46172,10 +46148,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
@@ -46426,10 +46398,6 @@
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "102610000",
@@ -46734,5 +46702,37 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100751044",
+    "ItemName": "MERMELADA WATTS GOLD FRAMBUESA 5 GALON"
+  },
+  {
+    "ItemCode": "100751043",
+    "ItemName": "MERMELADA WATTS GOLD GUINDA 5 GALON"
+  },
+  {
+    "ItemCode": "103910021",
+    "ItemName": "MERMELADA GOLD DAMASCO WATTS 3X5 KG"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "300405005",
+    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   }
 ]
