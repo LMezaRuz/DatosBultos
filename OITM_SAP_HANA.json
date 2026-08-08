@@ -31872,10 +31872,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "100751011",
-    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
     "ItemCode": "103180004",
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 24X425 GRS"
   },
@@ -39564,10 +39560,6 @@
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100751006",
     "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
   },
@@ -42996,16 +42988,8 @@
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100751012",
-    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
-  },
-  {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
   },
   {
     "ItemCode": "104680000",
@@ -43402,10 +43386,6 @@
   {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "100901005",
@@ -45184,10 +45164,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT V PARAGUAY (20 KLS APROX)"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "202910004",
     "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -45566,10 +45542,6 @@
   {
     "ItemCode": "100351011",
     "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
     "ItemCode": "200051017",
@@ -46048,10 +46020,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204300013",
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
   },
@@ -46108,10 +46076,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -46122,10 +46086,6 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "200500007",
@@ -46734,5 +46694,45 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100751012",
+    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100751011",
+    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   }
 ]
