@@ -28180,10 +28180,6 @@
     "ItemName": "SISTEMA FILTRO HQS-WF"
   },
   {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "704920006",
     "ItemName": "PALTA HASS CALIBRE 10-18 FIRME CAJA 15 KG"
   },
@@ -31528,10 +31524,6 @@
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
@@ -32646,10 +32638,6 @@
   {
     "ItemCode": "204380018",
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "204380027",
@@ -36546,10 +36534,6 @@
   {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
-    "ItemCode": "204380030",
-    "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "202820011",
@@ -40540,10 +40524,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -43396,10 +43376,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101200026",
     "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
   },
@@ -43860,10 +43836,6 @@
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
   {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
@@ -43962,10 +43934,6 @@
   {
     "ItemCode": "200500038",
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201022",
@@ -44418,10 +44386,6 @@
   {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "101251002",
@@ -46436,10 +46400,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
@@ -46486,14 +46446,6 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "400105001",
@@ -46716,10 +46668,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -46734,5 +46682,57 @@
   {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "204380030",
+    "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
