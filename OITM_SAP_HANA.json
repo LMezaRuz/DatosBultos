@@ -30464,10 +30464,6 @@
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
   {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
-  },
-  {
     "ItemCode": "102710016",
     "ItemName": "BEBIDA VEGETAL BARISTA ALMENDRA VILAY 12X1 LT"
   },
@@ -31814,10 +31810,6 @@
   {
     "ItemCode": "104570009",
     "ItemName": "SALSA MANGO MARACUYA 6X1 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100003006",
@@ -40064,10 +40056,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
-  },
-  {
     "ItemCode": "100701008",
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -40478,10 +40466,6 @@
   {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "100304034",
@@ -43992,10 +43976,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "204300092",
-    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
     "ItemCode": "400252007",
     "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
   },
@@ -44050,10 +44030,6 @@
   {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "400150009",
@@ -46396,10 +46372,6 @@
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
   {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
@@ -46648,14 +46620,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
   {
-    "ItemCode": "304110020",
-    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
-  },
-  {
-    "ItemCode": "304110019",
-    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -46734,5 +46698,41 @@
   {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "304110020",
+    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
+  },
+  {
+    "ItemCode": "304110019",
+    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204300092",
+    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   }
 ]
