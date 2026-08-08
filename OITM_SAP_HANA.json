@@ -36208,10 +36208,6 @@
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   },
   {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
@@ -40246,10 +40242,6 @@
   {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
     "ItemCode": "202620000",
@@ -46734,5 +46726,13 @@
   {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   }
 ]
