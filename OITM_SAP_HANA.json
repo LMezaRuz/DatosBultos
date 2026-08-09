@@ -31840,10 +31840,6 @@
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "402740003",
     "ItemName": "BOLSA PARA GASTRONOMICO 1X1000 UN"
   },
@@ -32000,16 +31996,8 @@
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "100700004",
     "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "400301077",
-    "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
   },
   {
     "ItemCode": "101100062",
@@ -35052,10 +35040,6 @@
     "ItemName": "BRESLAUER (MORTADELA) 12X350 GRS"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "101150059",
     "ItemName": "MARINADOR CROCANTE GYN 4 UN X 5 KG"
   },
@@ -35082,10 +35066,6 @@
   {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
     "ItemCode": "104010039",
@@ -35126,10 +35106,6 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "101304002",
@@ -39442,10 +39418,6 @@
   {
     "ItemCode": "303100002",
     "ItemName": "CREMA ACIDA QUILLAYES 8X160 GR"
-  },
-  {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
     "ItemCode": "300156002",
@@ -45540,10 +45512,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -45994,10 +45962,6 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
   {
     "ItemCode": "400011002",
@@ -46734,5 +46698,41 @@
   {
     "ItemCode": "304760544",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "400301077",
+    "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   }
 ]
