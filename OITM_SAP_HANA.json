@@ -39800,10 +39800,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101006003",
     "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
   },
@@ -39938,10 +39934,6 @@
   {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
     "ItemCode": "400011001",
@@ -42780,10 +42772,6 @@
     "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "103520016",
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
   },
@@ -45136,16 +45124,8 @@
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
     "ItemCode": "100852011",
@@ -46084,10 +46064,6 @@
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100202002",
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
@@ -46138,10 +46114,6 @@
   {
     "ItemCode": "204380036",
     "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "104010002",
@@ -46336,10 +46308,6 @@
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -46366,10 +46334,6 @@
   {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100900001",
@@ -46490,10 +46454,6 @@
   {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
     "ItemCode": "304430000",
@@ -46652,16 +46612,8 @@
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "100600001",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
     "ItemCode": "101202001",
@@ -46720,10 +46672,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -46734,5 +46682,57 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100600001",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   }
 ]
