@@ -26164,10 +26164,6 @@
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "102970005",
-    "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
-  },
-  {
     "ItemCode": "102970015",
     "ItemName": "CHOCOLATE BLANCO SIN AZUCAR CALLEBAUT 5X5 KG"
   },
@@ -26478,10 +26474,6 @@
   {
     "ItemCode": "104670063",
     "ItemName": "TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "104820002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X1 LT"
   },
   {
     "ItemCode": "104820004",
@@ -28210,10 +28202,6 @@
   {
     "ItemCode": "103750000",
     "ItemName": "LECHE CON PLATANO 12X1 LT"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "704920004",
@@ -31004,10 +30992,6 @@
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "103910024",
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
@@ -31796,10 +31780,6 @@
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -32474,10 +32454,6 @@
   {
     "ItemCode": "100351006",
     "ItemName": "CAFE NESTLE TRADICION (LATA) 1X170 GR"
-  },
-  {
-    "ItemCode": "204100002",
-    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
     "ItemCode": "200003002",
@@ -43220,10 +43196,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -43622,10 +43594,6 @@
   {
     "ItemCode": "101201034",
     "ItemName": "BAVAROIS DE PIÑA 1X1 TKF KG"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "204380030",
@@ -46556,16 +46524,8 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "104670097",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "400011003",
@@ -46688,10 +46648,6 @@
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -46734,5 +46690,49 @@
   {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
+  },
+  {
+    "ItemCode": "104820002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X1 LT"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "102970005",
+    "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
+  },
+  {
+    "ItemCode": "204100002",
+    "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   }
 ]
