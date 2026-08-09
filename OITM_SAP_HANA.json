@@ -29252,10 +29252,6 @@
     "ItemName": "*INACTIVO* POSTA ROSADA BRASIL LOCAL 20KG. (APROX)"
   },
   {
-    "ItemCode": "304760185",
-    "ItemName": "PLATEADA BRASIL CONG. LOCAL (20KG. APROX)"
-  },
-  {
     "ItemCode": "304840004",
     "ItemName": "YOGURT YOGU YOGU SABOR MORA BOLSA 20X500 GR"
   },
@@ -31826,10 +31822,6 @@
   {
     "ItemCode": "302970004",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "203200033",
@@ -40376,10 +40368,6 @@
     "ItemName": "DELICREAM VAINILLA C/COCO RALLADO TKF 1X1 KG."
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
@@ -44116,10 +44104,6 @@
     "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -44762,10 +44746,6 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "101452005",
@@ -46148,10 +46128,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "300353111",
-    "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
-  },
-  {
     "ItemCode": "400010014",
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
@@ -46504,10 +46480,6 @@
     "ItemName": "MANI SALADO 1X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -46628,10 +46600,6 @@
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -46728,11 +46696,43 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
+    "ItemCode": "304460007",
+    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "300353111",
+    "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "304460007",
-    "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "304760185",
+    "ItemName": "PLATEADA BRASIL CONG. LOCAL (20KG. APROX)"
   }
 ]
