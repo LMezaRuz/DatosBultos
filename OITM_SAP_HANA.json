@@ -35904,10 +35904,6 @@
     "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "101007006",
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
   },
@@ -36270,10 +36266,6 @@
   {
     "ItemCode": "103250007",
     "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
-  },
-  {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
   {
     "ItemCode": "204310009",
@@ -42360,10 +42352,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "303660005",
-    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "303630000",
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
@@ -42402,10 +42390,6 @@
   {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
     "ItemCode": "102930010",
@@ -45876,10 +45860,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -46252,10 +46232,6 @@
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -46512,10 +46488,6 @@
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "204370008",
     "ItemName": "NOT HOTDOG 4X680 GR"
   },
@@ -46668,10 +46640,6 @@
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -46734,5 +46702,37 @@
   {
     "ItemCode": "304760530",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660005",
+    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   }
 ]
