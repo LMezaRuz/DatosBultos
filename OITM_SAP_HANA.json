@@ -31784,10 +31784,6 @@
     "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -36256,10 +36252,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "400003004",
     "ItemName": "DESINFECTANTE LYSOFORM SURTIDOS 1X360 CC"
   },
@@ -39924,10 +39916,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "304760537",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -43124,10 +43112,6 @@
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
@@ -44136,10 +44120,6 @@
     "ItemName": "OSOBUCO KG (NV)"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380023",
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
@@ -44366,10 +44346,6 @@
   {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
-  },
-  {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
   {
     "ItemCode": "304760517",
@@ -46734,5 +46710,29 @@
   {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   }
 ]
