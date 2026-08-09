@@ -25712,10 +25712,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK 54X100 GR (CAJA 5,4 KG) MM"
   },
   {
-    "ItemCode": "101150070",
-    "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
-  },
-  {
     "ItemCode": "103480029",
     "ItemName": "GALLETA MINI MOROCHA 24X50 GR"
   },
@@ -32032,10 +32028,6 @@
     "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
@@ -35704,10 +35696,6 @@
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -35862,10 +35850,6 @@
   {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "101150038",
@@ -40388,10 +40372,6 @@
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
@@ -40748,14 +40728,6 @@
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
@@ -40786,10 +40758,6 @@
   {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
   {
     "ItemCode": "200304004",
@@ -46734,5 +46702,37 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150070",
+    "ItemName": "CONDIMENTO SABOR CHIPOTLE 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   }
 ]
