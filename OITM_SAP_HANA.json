@@ -31752,10 +31752,6 @@
     "ItemName": "MOSTAZA SUAVE TRAVERSO VINTAGE 10X450 GR"
   },
   {
-    "ItemCode": "204300085",
-    "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
   },
@@ -31962,10 +31958,6 @@
   {
     "ItemCode": "202730083",
     "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
-  },
-  {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
     "ItemCode": "204300086",
@@ -32298,10 +32290,6 @@
   {
     "ItemCode": "204150012",
     "ItemName": "MINI NAVETTE 100X15 GR"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "204180032",
@@ -36224,10 +36212,6 @@
     "ItemName": "NUGGETS CROCANTE DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -36408,10 +36392,6 @@
     "ItemName": "PAPAS PRE FRITAS 10 MM TRADICIONAL NAC 6X2 KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
@@ -36498,10 +36478,6 @@
   {
     "ItemCode": "300352005",
     "ItemName": "COSTILLAR DE CERDO KG. (NV)"
-  },
-  {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
     "ItemCode": "300353007",
@@ -39558,10 +39534,6 @@
   {
     "ItemCode": "101100003",
     "ItemName": "ESPIRALES CAROZZI 1X5 KG"
-  },
-  {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
   },
   {
     "ItemCode": "200500019",
@@ -43828,10 +43800,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
     "ItemCode": "300403001",
     "ItemName": "QUESO CREMA SWISS FARMERS 1X1,36 KG"
   },
@@ -43866,10 +43834,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
     "ItemCode": "101354019",
@@ -46096,10 +46060,6 @@
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
-  },
-  {
     "ItemCode": "202910004",
     "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -46596,10 +46556,6 @@
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -46614,10 +46570,6 @@
   {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "304460002",
@@ -46734,5 +46686,53 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "204300085",
+    "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
   }
 ]
