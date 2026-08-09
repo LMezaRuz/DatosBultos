@@ -35016,10 +35016,6 @@
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
   },
   {
-    "ItemCode": "101358005",
-    "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
     "ItemCode": "303680000",
     "ItemName": "PACK PROBIOTICO MULTIFRUTA UNV 6X90 ML"
   },
@@ -45348,10 +45344,6 @@
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100754002",
     "ItemName": "DULCE MEMBRILLO POTE WATTS 12X500"
   },
@@ -45720,10 +45712,6 @@
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "101305008",
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
@@ -45774,10 +45762,6 @@
   {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "200500079",
@@ -45940,10 +45924,6 @@
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -46002,10 +45982,6 @@
   {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "203190006",
@@ -46280,10 +46256,6 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
@@ -46300,10 +46272,6 @@
     "ItemName": "TE SUPERIOR PURE CEYLON 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
@@ -46318,10 +46286,6 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "300001002",
@@ -46596,10 +46560,6 @@
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
@@ -46734,5 +46694,45 @@
   {
     "ItemCode": "204300083",
     "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101358005",
+    "ItemName": "SALSA PARA PIZZA 1X3 KG."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
