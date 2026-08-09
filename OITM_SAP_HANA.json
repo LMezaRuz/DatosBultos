@@ -31900,10 +31900,6 @@
     "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
   },
   {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
     "ItemCode": "204790025",
     "ItemName": "CHOCLO GRANO CUKIT 20 X 500 GR"
   },
@@ -34864,10 +34860,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "300300011",
     "ItemName": "GELATINA AMBROSOLI PIÑA 1x100 g."
   },
@@ -35286,10 +35278,6 @@
   {
     "ItemCode": "104020003",
     "ItemName": "ARVEJAS WASIL 48X300 GR"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "101150038",
@@ -43420,10 +43408,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
@@ -45232,10 +45216,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X1 LT"
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -45388,10 +45368,6 @@
     "ItemName": "PAPAS PRE FRITAS 10 MM TRADICIONAL NAC 6X2 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "200462109",
     "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
   },
@@ -45526,10 +45502,6 @@
   {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "102780010",
@@ -46116,10 +46088,6 @@
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
@@ -46378,14 +46346,6 @@
   {
     "ItemCode": "100302029",
     "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100302009",
@@ -46734,5 +46694,45 @@
   {
     "ItemCode": "102930015",
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
