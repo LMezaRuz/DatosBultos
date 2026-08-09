@@ -30660,10 +30660,6 @@
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101201029",
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
@@ -30754,10 +30750,6 @@
   {
     "ItemCode": "104210025",
     "ItemName": "TALLARIN LUCCHETTI 25 X 400 GR N 77"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "204300092",
@@ -31344,10 +31336,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "304760049",
-    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "204390003",
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
   },
@@ -31398,10 +31386,6 @@
   {
     "ItemCode": "204090011",
     "ItemName": "PIURE CRUDO IQF 30X300 GR"
-  },
-  {
-    "ItemCode": "400104014",
-    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
   {
     "ItemCode": "104670061",
@@ -34778,10 +34762,6 @@
   {
     "ItemCode": "300353132",
     "ItemName": "LOMO LISO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
-  },
-  {
-    "ItemCode": "400301047",
-    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
     "ItemCode": "104040000",
@@ -39316,10 +39296,6 @@
     "ItemName": "YOGURT LIGHT DURAZNO SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "101150042",
-    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
     "ItemCode": "101007010",
     "ItemName": "LECHE 0% MG TKF 1X1 KG"
   },
@@ -43016,10 +42992,6 @@
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "300353083",
     "ItemName": "GUATA CALLO TROZADA KG."
   },
@@ -45220,10 +45192,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
     "ItemCode": "104210011",
     "ItemName": "SPAGUETTI IMP. BERRAK 20 X 400 GR"
   },
@@ -46316,10 +46284,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
@@ -46338,10 +46302,6 @@
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "101352009",
@@ -46656,10 +46616,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100352008",
     "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -46734,5 +46690,49 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "400104014",
+    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
+  },
+  {
+    "ItemCode": "101150042",
+    "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "400301047",
+    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "304760049",
+    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   }
 ]
