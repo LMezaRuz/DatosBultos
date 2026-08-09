@@ -32364,10 +32364,6 @@
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
   {
-    "ItemCode": "304760511",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
     "ItemCode": "100800001",
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
@@ -39652,10 +39648,6 @@
     "ItemName": "HARINA TOSTADA 20X1 KG"
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "101201035",
     "ItemName": "BAVAROIS DE NARANJA TKF 1X1 KG"
   },
@@ -39994,10 +39986,6 @@
   {
     "ItemCode": "202720038",
     "ItemName": "MUFFIN CHIPS CHOCOLATE VAINILLA 36X110 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "103700007",
@@ -43836,10 +43824,6 @@
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -44458,10 +44442,6 @@
   {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
-  },
-  {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "204180034",
@@ -46492,10 +46472,6 @@
     "ItemName": "MERLUZA  IMP (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -46734,5 +46710,29 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304760511",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
   }
 ]
