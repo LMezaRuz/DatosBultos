@@ -28048,10 +28048,6 @@
     "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
   },
   {
-    "ItemCode": "204100006",
-    "ItemName": "MERLUZA AUSTRAL PORCIÓN AL VACÍO 1X 5 KG"
-  },
-  {
     "ItemCode": "204100013",
     "ItemName": "FILETE DE CORVINA SIN PIEL 500 A 1000 GR"
   },
@@ -30390,10 +30386,6 @@
   {
     "ItemCode": "204700025",
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "304760004",
@@ -35956,10 +35948,6 @@
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
   {
-    "ItemCode": "204050012",
-    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "100557022",
     "ItemName": "CLAVO DE OLOR MOLIDO 1X250 GR."
   },
@@ -38844,10 +38832,6 @@
     "ItemName": "CHULETA CENTRO RACK SEARA X KGS (18 KGS APROX)"
   },
   {
-    "ItemCode": "101353033",
-    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
-  },
-  {
     "ItemCode": "101201049",
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
@@ -39500,10 +39484,6 @@
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
@@ -39662,10 +39642,6 @@
   {
     "ItemCode": "101201028",
     "ItemName": "LECHE ASADA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
     "ItemCode": "101200008",
@@ -43228,10 +43204,6 @@
     "ItemName": "MANZANA KG."
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "101003003",
     "ItemName": "CREMA VEGETAL CALO 12X1"
   },
@@ -43242,10 +43214,6 @@
   {
     "ItemCode": "304760033",
     "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "300352001",
@@ -45520,10 +45488,6 @@
     "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -45574,10 +45538,6 @@
   {
     "ItemCode": "200500023",
     "ItemName": "COLIFLOR IQF 7X1 KG."
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "203200017",
@@ -45936,10 +45896,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. 6X2.500 GR."
   },
@@ -46010,10 +45966,6 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100557021",
-    "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
     "ItemCode": "100402002",
@@ -46628,10 +46580,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO JUAN MAESTRO 40X100 GRS."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "204300013",
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
   },
@@ -46734,5 +46682,57 @@
   {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "204100006",
+    "ItemName": "MERLUZA AUSTRAL PORCIÓN AL VACÍO 1X 5 KG"
+  },
+  {
+    "ItemCode": "101353033",
+    "ItemName": "MAYONESA CASERA EN POLVO 10X1 KG."
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "204050012",
+    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100557021",
+    "ItemName": "HUMO LIQUIDO 1X165 CC."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   }
 ]
