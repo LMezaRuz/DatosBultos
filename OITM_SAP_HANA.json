@@ -35252,10 +35252,6 @@
     "ItemName": "CHAMPIÑON LAM. CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
@@ -39066,10 +39062,6 @@
   {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
     "ItemCode": "100201014",
@@ -44328,10 +44320,6 @@
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -45024,10 +45012,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 12X800 GR"
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
-  },
-  {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
@@ -45166,10 +45150,6 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "304760511",
@@ -45774,10 +45754,6 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
     "ItemCode": "400251004",
@@ -46734,5 +46710,29 @@
   {
     "ItemCode": "202730042",
     "ItemName": "MINI MUFFIN RELLENO DE CARAMELO 42X26 GR"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   }
 ]
