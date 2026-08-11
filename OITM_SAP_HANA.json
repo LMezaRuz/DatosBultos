@@ -31460,10 +31460,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
   },
   {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
     "ItemCode": "204710002",
     "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
   },
@@ -44456,10 +44452,6 @@
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -46080,10 +46072,6 @@
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "200308003",
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
@@ -46142,10 +46130,6 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "200456024",
@@ -46782,5 +46766,21 @@
   {
     "ItemCode": "103760003",
     "ItemName": "LECHE LONCOLECHE FRUTILLA SIN LACTOSA 12X1 LT"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   }
 ]
