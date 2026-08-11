@@ -32124,10 +32124,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
@@ -32522,10 +32518,6 @@
   {
     "ItemCode": "102810002",
     "ItemName": "CALDO MAGGI VERDURA 30X8X11 GR"
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "103210007",
@@ -35696,10 +35688,6 @@
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "300158003",
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
@@ -36354,10 +36342,6 @@
   {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
-  },
-  {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
   },
   {
     "ItemCode": "101009031",
@@ -40292,10 +40276,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
@@ -40424,10 +40404,6 @@
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
   },
   {
-    "ItemCode": "200051018",
-    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101353021",
     "ItemName": "MAYONESA HELLMANS FS 10X940 GR"
   },
@@ -40476,10 +40452,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
@@ -40502,10 +40474,6 @@
   {
     "ItemCode": "101009025",
     "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "300152006",
@@ -43900,10 +43868,6 @@
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
@@ -46732,16 +46696,8 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760531",
-    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "300154014",
@@ -46782,5 +46738,49 @@
   {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "304760531",
+    "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "200051018",
+    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   }
 ]
