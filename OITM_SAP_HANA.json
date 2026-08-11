@@ -32484,10 +32484,6 @@
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -36544,10 +36540,6 @@
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
   {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
@@ -39888,10 +39880,6 @@
     "ItemName": "PAPEL TERMICO TOMMY BEANS ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
     "ItemCode": "101201056",
     "ItemName": "FLAN CON LECHE FRUTILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -40506,10 +40494,6 @@
   {
     "ItemCode": "101201032",
     "ItemName": "CREMELL TIRAMISU TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "200051019",
@@ -44304,10 +44288,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
@@ -45812,10 +45792,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
   {
-    "ItemCode": "400005017",
-    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -46056,10 +46032,6 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
@@ -46178,10 +46150,6 @@
   {
     "ItemCode": "200500042",
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "101357006",
@@ -46352,10 +46320,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -46486,10 +46450,6 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
     "ItemCode": "202910004",
@@ -46776,11 +46736,51 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "400005017",
+    "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   }
 ]
