@@ -32016,10 +32016,6 @@
     "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
@@ -36078,10 +36074,6 @@
   {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
     "ItemCode": "204140009",
@@ -40420,10 +40412,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -40434,14 +40422,6 @@
   {
     "ItemCode": "101355005",
     "ItemName": "SALSA QUESO AGROSILVA 12X980 GRS"
-  },
-  {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
     "ItemCode": "100251002",
@@ -43456,14 +43436,6 @@
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "100654002",
-    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
     "ItemCode": "300353124",
     "ItemName": "PUNTA DE PALETA PARAGUAY CAT V LOCAL (Cj 20 KG APROX)"
   },
@@ -43874,10 +43846,6 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "300157010",
-    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
   {
     "ItemCode": "103850000",
@@ -44330,10 +44298,6 @@
   {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "200250004",
@@ -46364,10 +46328,6 @@
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -46834,5 +46794,45 @@
   {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "100654002",
+    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "300157010",
+    "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
