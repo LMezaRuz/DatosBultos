@@ -31912,10 +31912,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA BR LOC ECOFRIGO 25KG APROX.(X-MAYOR)"
   },
   {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
@@ -35714,10 +35710,6 @@
   {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
-    "ItemCode": "103520009",
-    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
     "ItemCode": "101008007",
@@ -40542,10 +40534,6 @@
   {
     "ItemCode": "400251007",
     "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "300153009",
@@ -45696,10 +45684,6 @@
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
   {
-    "ItemCode": "200003005",
-    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
     "ItemCode": "100300012",
     "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
@@ -46022,10 +46006,6 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100304013",
@@ -46708,10 +46688,6 @@
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
@@ -46834,5 +46810,29 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "103520009",
+    "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
+  },
+  {
+    "ItemCode": "200003005",
+    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
   }
 ]
