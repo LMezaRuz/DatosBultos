@@ -32340,10 +32340,6 @@
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
   {
-    "ItemCode": "102610006",
-    "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
-  },
-  {
     "ItemCode": "103760006",
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA EXTRA CALCIO 12X1 LT"
   },
@@ -32418,10 +32414,6 @@
   {
     "ItemCode": "104670053",
     "ItemName": "TE TWININGS FRUTOS SILVESTRES 1X10 UN"
-  },
-  {
-    "ItemCode": "200500021",
-    "ItemName": "ESPINACA CONGELADA 1X1 KG."
   },
   {
     "ItemCode": "104670067",
@@ -35942,10 +35934,6 @@
   {
     "ItemCode": "300001003",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
-    "ItemCode": "101150016",
-    "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "400301007",
@@ -39520,10 +39508,6 @@
     "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "200051001",
-    "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "300353079",
     "ItemName": "POSTA NEGRA AL VACIO CAT V ARGENTINA - LOCAL 20 KG (APROX)"
   },
@@ -40498,10 +40482,6 @@
   {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
     "ItemCode": "100251002",
@@ -42760,10 +42740,6 @@
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
   },
   {
-    "ItemCode": "101200026",
-    "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
@@ -43310,10 +43286,6 @@
   {
     "ItemCode": "101002002",
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "100304010",
@@ -45592,10 +45564,6 @@
     "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "101450003",
     "ItemName": "SUCEDANEO DE LIMON 300 X 8 CC."
   },
@@ -45726,10 +45694,6 @@
   {
     "ItemCode": "404360007",
     "ItemName": "PAN RALLADO BOLSA 1X250 GRS."
-  },
-  {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "300404008",
@@ -46834,5 +46798,41 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "102610006",
+    "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
+  },
+  {
+    "ItemCode": "101200026",
+    "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "200500021",
+    "ItemName": "ESPINACA CONGELADA 1X1 KG."
+  },
+  {
+    "ItemCode": "200051001",
+    "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "101150016",
+    "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   }
 ]
