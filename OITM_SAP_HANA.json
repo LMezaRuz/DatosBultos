@@ -39820,10 +39820,6 @@
     "ItemName": "DURAZNO MITADES 24X580 GR"
   },
   {
-    "ItemCode": "101300003",
-    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
@@ -43096,10 +43092,6 @@
     "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "100351010",
     "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
   },
@@ -46208,10 +46200,6 @@
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "100101002",
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
@@ -46808,6 +46796,18 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "300353004",
+    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
+  },
+  {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
@@ -46824,15 +46824,15 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "300353004",
-    "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101300003",
+    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   }
 ]
