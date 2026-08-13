@@ -31424,10 +31424,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EX. PROTEINA CAPPUCCINO 18X200"
   },
   {
-    "ItemCode": "304440005",
-    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
-  },
-  {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
@@ -32274,10 +32270,6 @@
   {
     "ItemCode": "303870002",
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
-  },
-  {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
   {
     "ItemCode": "303850011",
@@ -36116,10 +36108,6 @@
     "ItemName": "PECHUGA DE POLLO C/HUESO Y PIEL CONG. 1 X 15 KG"
   },
   {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
@@ -39720,10 +39708,6 @@
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
   },
@@ -40034,10 +40018,6 @@
   {
     "ItemCode": "300353080",
     "ItemName": "ABASTERO AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "100751024",
@@ -40386,10 +40366,6 @@
   {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "101303001",
@@ -43148,10 +43124,6 @@
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -43286,10 +43258,6 @@
   {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
     "ItemCode": "101353011",
@@ -43692,10 +43660,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104670049",
     "ItemName": "TE TWININGS NARANJA MANGO CANELA 1X10 UN"
   },
@@ -44096,10 +44060,6 @@
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -44122,10 +44082,6 @@
   {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
   },
   {
     "ItemCode": "101357006",
@@ -46834,5 +46790,49 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "304440005",
+    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   }
 ]
