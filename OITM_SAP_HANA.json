@@ -30796,10 +30796,6 @@
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "204380025",
     "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
   },
@@ -31222,10 +31218,6 @@
   {
     "ItemCode": "102710017",
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
-  },
-  {
-    "ItemCode": "200307011",
-    "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
     "ItemCode": "300153011",
@@ -44428,10 +44420,6 @@
     "ItemName": "CREMA A BASE DE COCO VILAY 18X330 ML"
   },
   {
-    "ItemCode": "100557018",
-    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
-  },
-  {
     "ItemCode": "900621403",
     "ItemName": "Materiales de Oficina"
   },
@@ -44558,10 +44546,6 @@
   {
     "ItemCode": "100051001",
     "ItemName": "CHUCRUT TRAVERSO 1 UN X 200 GRS"
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "100110008",
@@ -45772,10 +45756,6 @@
     "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "100701016",
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -46166,10 +46146,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "103700007",
@@ -46676,14 +46652,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "202910040",
-    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "204870001",
-    "ItemName": "RECORTES Y TROZOS (TRIMMINGS 70/30) CAJA 10 A 20 KG APROX"
-  },
-  {
     "ItemCode": "203510016",
     "ItemName": "HAMBURGUESA DE VACUNO 75X70 GR"
   },
@@ -46714,10 +46682,6 @@
   {
     "ItemCode": "304760502",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
-    "ItemCode": "202910064",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.) (X-MAYOR)"
   },
   {
     "ItemCode": "103880017",
@@ -46778,10 +46742,6 @@
   {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
-  },
-  {
-    "ItemCode": "203210114",
-    "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
   },
   {
     "ItemCode": "100201012",
@@ -46856,11 +46816,51 @@
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
+    "ItemCode": "202730080",
+    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+  },
+  {
+    "ItemCode": "202910064",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.) (X-MAYOR)"
+  },
+  {
+    "ItemCode": "202910040",
+    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "204870001",
+    "ItemName": "RECORTES Y TROZOS (TRIMMINGS 70/30) CAJA 10 A 20 KG APROX"
+  },
+  {
     "ItemCode": "203510015",
     "ItemName": "HAMBURGUESA DE VACUNO 45X120 GR"
   },
   {
-    "ItemCode": "202730080",
-    "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
+    "ItemCode": "203210114",
+    "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
+  },
+  {
+    "ItemCode": "100557018",
+    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "200307011",
+    "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   }
 ]
