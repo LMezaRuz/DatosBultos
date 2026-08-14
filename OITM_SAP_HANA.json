@@ -36408,10 +36408,6 @@
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "203210124",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
   },
@@ -40188,10 +40184,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
@@ -43532,10 +43524,6 @@
     "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
   },
   {
-    "ItemCode": "300157044",
-    "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -46592,10 +46580,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
@@ -46664,10 +46648,6 @@
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "203550001",
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
@@ -46698,14 +46678,6 @@
   {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "104560004",
@@ -46862,5 +46834,33 @@
   {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "300157044",
+    "ItemName": "LONCO PROTEIN YOGURT NAT ENDULZADO 24X140 GRS"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   }
 ]
