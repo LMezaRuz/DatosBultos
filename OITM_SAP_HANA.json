@@ -28236,10 +28236,6 @@
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "204180027",
     "ItemName": "PAPAS NOISETTES / DUQUESAS 4X2,5 KG"
   },
@@ -38460,10 +38456,6 @@
     "ItemName": "MARGARINA SUREÑA POTE MIX 12X500"
   },
   {
-    "ItemCode": "204380027",
-    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "300001014",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 7X400 GR"
   },
@@ -40402,10 +40394,6 @@
   {
     "ItemCode": "303870000",
     "ItemName": "MARGARINA CALO VEGETAL LIGHT 12X450 G"
-  },
-  {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
   {
     "ItemCode": "204300013",
@@ -44428,10 +44416,6 @@
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO OIKOS NATURAL S/AZUCAR 48X150"
   },
@@ -46136,10 +46120,6 @@
     "ItemName": "SALSA TERIYAKI 12X250 GR"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -46328,10 +46308,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -46432,10 +46408,6 @@
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
@@ -46470,10 +46442,6 @@
   {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
     "ItemCode": "101050002",
@@ -46520,10 +46488,6 @@
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -46550,10 +46514,6 @@
   {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100201005",
@@ -46606,10 +46566,6 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "104560004",
@@ -46812,10 +46768,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -46832,16 +46784,68 @@
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
-    "ItemCode": "100750008",
-    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100750008",
+    "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "204380027",
+    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "203510016",
@@ -46858,9 +46862,5 @@
   {
     "ItemCode": "203210114",
     "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   }
 ]
