@@ -35132,10 +35132,6 @@
     "ItemName": "PITCHER 12 ONZAS PARA LECHE"
   },
   {
-    "ItemCode": "400252007",
-    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
-  },
-  {
     "ItemCode": "400252008",
     "ItemName": "TOALLA JUMBO PREMIUM D/H 6 X 150 MTS TO70021"
   },
@@ -43184,10 +43180,6 @@
     "ItemName": "MASA PARA PIZZA 1X1 UN"
   },
   {
-    "ItemCode": "100355020",
-    "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -43976,10 +43968,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -44018,10 +44006,6 @@
   {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
     "ItemCode": "200051005",
@@ -45480,10 +45464,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
-  },
-  {
     "ItemCode": "200201018",
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
@@ -45956,10 +45936,6 @@
     "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
@@ -46416,10 +46392,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "400251011",
-    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
     "ItemCode": "204300055",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
   },
@@ -46744,14 +46716,6 @@
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355004",
-    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -46918,5 +46882,41 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355020",
+    "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355004",
+    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% CALLETS 6X1 KG"
+  },
+  {
+    "ItemCode": "400251011",
+    "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
+  },
+  {
+    "ItemCode": "400252007",
+    "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
