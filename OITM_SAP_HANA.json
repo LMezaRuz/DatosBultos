@@ -30268,10 +30268,6 @@
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760483",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760493",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -36680,14 +36676,6 @@
     "ItemName": "MARGARINA CALO 12X450"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "100151002",
     "ItemName": "CEREAL GOLD 1X750 GR"
   },
@@ -39538,10 +39526,6 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
-  },
-  {
-    "ItemCode": "100902004",
-    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
   },
   {
     "ItemCode": "101150012",
@@ -46408,10 +46392,6 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "204100016",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
@@ -46680,10 +46660,6 @@
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
@@ -46804,10 +46780,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -46912,11 +46884,39 @@
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
   {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100902004",
+    "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
+  },
+  {
+    "ItemCode": "304760483",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   }
 ]
