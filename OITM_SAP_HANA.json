@@ -30676,10 +30676,6 @@
     "ItemName": "PANCETA DE CERDO MADURADA CONG. (CAJA DE 13 A 19 KG)"
   },
   {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
     "ItemCode": "203430016",
     "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
   },
@@ -36250,10 +36246,6 @@
   {
     "ItemCode": "102530001",
     "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "103730009",
@@ -44632,10 +44624,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101403001",
-    "ItemName": "PALMITOS RODAJAS  12x800 g."
-  },
-  {
     "ItemCode": "101351011",
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
@@ -46832,10 +46820,6 @@
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -46918,5 +46902,21 @@
   {
     "ItemCode": "100555004",
     "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101403001",
+    "ItemName": "PALMITOS RODAJAS  12x800 g."
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
