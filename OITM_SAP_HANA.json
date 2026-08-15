@@ -30252,10 +30252,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
   },
   {
-    "ItemCode": "204100016",
-    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
-  },
-  {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
   },
@@ -31634,10 +31630,6 @@
   {
     "ItemCode": "103520016",
     "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "200304007",
@@ -44724,10 +44716,6 @@
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -44762,10 +44750,6 @@
   {
     "ItemCode": "101351011",
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100800001",
@@ -44926,10 +44910,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "100905002",
@@ -46140,10 +46120,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -46398,10 +46374,6 @@
   {
     "ItemCode": "100700004",
     "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "400005009",
@@ -46904,10 +46876,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -46918,5 +46886,37 @@
   {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "204100016",
+    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   }
 ]
