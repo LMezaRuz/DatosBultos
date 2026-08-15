@@ -28128,10 +28128,6 @@
     "ItemName": "PERNIL DE CERDO CONG. BRASIL 20 KG APROX."
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "104070005",
     "ItemName": "CEBOLLA PERLA TRAVERSO 24 X 500 GR"
   },
@@ -29518,10 +29514,6 @@
   {
     "ItemCode": "104670054",
     "ItemName": "TE TWINING VERDE Y MENTA 1X10UN"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "102630001",
@@ -31554,10 +31546,6 @@
   {
     "ItemCode": "202910060",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
-  },
-  {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
   {
     "ItemCode": "200250041",
@@ -40084,10 +40072,6 @@
     "ItemName": "MEDIA PECHUGA SIN HUESO SIN PIEL CONG. 1X15 KG APROX"
   },
   {
-    "ItemCode": "100902002",
-    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "200302017",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
   },
@@ -43812,10 +43796,6 @@
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "300404005",
-    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -44588,16 +44568,8 @@
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "100852024",
     "ItemName": "GALLETA TUAREG 35X120 GR"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "101352008",
@@ -45522,10 +45494,6 @@
   {
     "ItemCode": "200301003",
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "204300022",
@@ -46832,10 +46800,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100557019",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
@@ -46918,5 +46882,41 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "300404005",
+    "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100902002",
+    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
