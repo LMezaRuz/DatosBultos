@@ -29524,10 +29524,6 @@
     "ItemName": "TE TWINING VERDE Y MENTA 1X10UN"
   },
   {
-    "ItemCode": "102710019",
-    "ItemName": "BEBIDA VEGETAL COCO SABOR ORIGINAL VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "102630001",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -30022,10 +30018,6 @@
   {
     "ItemCode": "104260002",
     "ItemName": "PIÑAS EN TROCITOS WASIL 6X3"
-  },
-  {
-    "ItemCode": "102710017",
-    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
     "ItemCode": "104560008",
@@ -32698,10 +32690,6 @@
   {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
-    "ItemCode": "100555004",
-    "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
   {
     "ItemCode": "202910050",
@@ -36718,10 +36706,6 @@
   {
     "ItemCode": "103070017",
     "ItemName": "CEREZAS CON CAROZO WASIL 16X500 GR"
-  },
-  {
-    "ItemCode": "200050015",
-    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "204380030",
@@ -46044,10 +46028,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -46394,10 +46374,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100900001",
@@ -46918,5 +46894,29 @@
   {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "102710017",
+    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "102710019",
+    "ItemName": "BEBIDA VEGETAL COCO SABOR ORIGINAL VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200050015",
+    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "100555004",
+    "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   }
 ]
