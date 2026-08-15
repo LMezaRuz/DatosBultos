@@ -35912,10 +35912,6 @@
     "ItemName": "PACK PROBIOTICO MORA CALAN 6X90ML"
   },
   {
-    "ItemCode": "400151006",
-    "ItemName": "DISPENSADOR MONIN PUMP 750"
-  },
-  {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
@@ -36238,10 +36234,6 @@
   {
     "ItemCode": "101150048",
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "103910030",
@@ -36614,10 +36606,6 @@
   {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "200500079",
@@ -40136,10 +40124,6 @@
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -40442,10 +40426,6 @@
   {
     "ItemCode": "100152002",
     "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "200051018",
@@ -44800,10 +44780,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
@@ -46684,10 +46660,6 @@
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -46876,10 +46848,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
@@ -46900,10 +46868,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -46918,5 +46882,41 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "400151006",
+    "ItemName": "DISPENSADOR MONIN PUMP 750"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   }
 ]
