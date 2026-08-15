@@ -31464,10 +31464,6 @@
     "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "202720037",
-    "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
-  },
-  {
     "ItemCode": "103880037",
     "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
   },
@@ -31676,16 +31672,8 @@
     "ItemName": "SALSA DE SOYA LEE KUM KEE 1X18,9 LT"
   },
   {
-    "ItemCode": "202730015",
-    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
-  },
-  {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
-  },
-  {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
     "ItemCode": "103600002",
@@ -32610,10 +32598,6 @@
   {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
-    "ItemCode": "101403001",
-    "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
   {
     "ItemCode": "202910050",
@@ -35178,10 +35162,6 @@
   {
     "ItemCode": "600002011",
     "ItemName": "COCHAYUYO 1x250 g."
-  },
-  {
-    "ItemCode": "100750006",
-    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
   },
   {
     "ItemCode": "101009010",
@@ -40424,10 +40404,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
     "ItemCode": "100651009",
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
@@ -44388,10 +44364,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -46556,10 +46528,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "304760490",
-    "ItemName": "GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760527",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -46918,5 +46886,37 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "202720037",
+    "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
+  },
+  {
+    "ItemCode": "202730015",
+    "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "101403001",
+    "ItemName": "PALMITOS RODAJAS  12x800 g."
+  },
+  {
+    "ItemCode": "304760490",
+    "ItemName": "GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100750006",
+    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
+  },
+  {
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   }
 ]
