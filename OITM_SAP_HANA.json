@@ -46392,10 +46392,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -46732,10 +46728,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
@@ -46918,5 +46910,13 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
   }
 ]
