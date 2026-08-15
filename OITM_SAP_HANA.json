@@ -32120,10 +32120,6 @@
     "ItemName": "SALSA POROTO ENTERO 6X3,15 KG"
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
-  },
-  {
     "ItemCode": "204300077",
     "ItemName": "TRUTRO ALA POLLO CONG. 18 KG (APROX)"
   },
@@ -36560,10 +36556,6 @@
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
   },
   {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -40700,10 +40692,6 @@
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -44088,10 +44076,6 @@
     "ItemName": "HARINA ORO 5 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100555002",
-    "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -44166,10 +44150,6 @@
   {
     "ItemCode": "101008005",
     "ItemName": "LECHE BLANCA SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100300011",
@@ -44744,10 +44724,6 @@
     "ItemName": "KETCHUP JB 10X1 KG"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100002004",
     "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
@@ -44782,10 +44758,6 @@
   {
     "ItemCode": "100302037",
     "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "100303003",
@@ -46364,10 +46336,6 @@
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
@@ -46918,5 +46886,37 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100555002",
+    "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   }
 ]
