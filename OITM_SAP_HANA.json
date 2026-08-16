@@ -30120,10 +30120,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "203200038",
-    "ItemName": "STEAK CROCANTE DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "304760255",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -30174,10 +30170,6 @@
   {
     "ItemCode": "104620004",
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
-  },
-  {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
   {
     "ItemCode": "100304033",
@@ -43676,10 +43668,6 @@
     "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "101200002",
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -46918,5 +46906,17 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203200038",
+    "ItemName": "STEAK CROCANTE DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   }
 ]
