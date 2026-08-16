@@ -36284,10 +36284,6 @@
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "200500007",
     "ItemName": "CHAMPIÑON LAM. CONGELADO 10X1 KG"
   },
@@ -36734,10 +36730,6 @@
   {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101100063",
@@ -40844,10 +40836,6 @@
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
@@ -43400,10 +43388,6 @@
     "ItemName": "SPAGUETTI 1X5 KG"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "200005005",
     "ItemName": "MASA PARA PIZZA 1X1 UN"
   },
@@ -44314,10 +44298,6 @@
   {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
-  },
-  {
-    "ItemCode": "400011015",
-    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
     "ItemCode": "100903001",
@@ -45552,10 +45532,6 @@
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "101357001",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
@@ -45646,10 +45622,6 @@
   {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
     "ItemCode": "100050004",
@@ -45758,10 +45730,6 @@
   {
     "ItemCode": "100751003",
     "ItemName": "MERMELADA DE DURAZNO 1X250 GR"
-  },
-  {
-    "ItemCode": "400010018",
-    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400100005",
@@ -45976,10 +45944,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "400008003",
-    "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
-  },
-  {
     "ItemCode": "101006006",
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -46150,10 +46114,6 @@
   {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "202910004",
-    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
   {
     "ItemCode": "100351017",
@@ -46918,5 +46878,45 @@
   {
     "ItemCode": "300353126",
     "ItemName": "FILETE PARAGUAY CAT V LOCAL  (CAJA DE 20 KG APROX)"
+  },
+  {
+    "ItemCode": "400011015",
+    "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "400008003",
+    "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
+  },
+  {
+    "ItemCode": "202910004",
+    "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400010018",
+    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   }
 ]
