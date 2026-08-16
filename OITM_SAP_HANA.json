@@ -45608,14 +45608,6 @@
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "203430021",
     "ItemName": "FRANUI CHOCOLATE PINK 24X150 GR"
   },
@@ -45646,10 +45638,6 @@
   {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "101354010",
@@ -46516,10 +46504,6 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
-  },
-  {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
   },
@@ -46816,14 +46800,6 @@
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -46918,5 +46894,29 @@
   {
     "ItemCode": "100351002",
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
