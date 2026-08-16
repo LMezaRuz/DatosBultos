@@ -36092,10 +36092,6 @@
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
-    "ItemCode": "100355015",
-    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "303870006",
     "ItemName": "MARGARINA SURENA 12X450 GR"
   },
@@ -36218,10 +36214,6 @@
   {
     "ItemCode": "204000004",
     "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100355020",
-    "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
   {
     "ItemCode": "204090002",
@@ -42712,10 +42704,6 @@
     "ItemName": "SALMON AHUMADO SLICE SOUTHWIND 1X1 KG"
   },
   {
-    "ItemCode": "100355008",
-    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "200305006",
     "ItemName": "PINZAS DE JAIBA 10X1 KG"
   },
@@ -46918,5 +46906,17 @@
   {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "100355020",
+    "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355015",
+    "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355008",
+    "ItemName": "SYRUP FRAMBUESA MONIN 1X750 ML"
   }
 ]
