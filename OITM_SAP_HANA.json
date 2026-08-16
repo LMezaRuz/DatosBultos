@@ -35532,10 +35532,6 @@
     "ItemName": "YOGURT DAMASCO 1X1 LT"
   },
   {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
@@ -44120,14 +44116,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
@@ -46036,14 +46024,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -46334,10 +46314,6 @@
   {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "100750003",
@@ -46918,5 +46894,29 @@
   {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
