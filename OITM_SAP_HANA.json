@@ -35748,20 +35748,12 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
   {
     "ItemCode": "101009015",
     "ItemName": "LECHE VAINILLA 6X200CC"
-  },
-  {
-    "ItemCode": "100651011",
-    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
     "ItemCode": "101002008",
@@ -43552,20 +43544,12 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "104670010",
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
   {
     "ItemCode": "200305008",
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "300353126",
@@ -45636,14 +45620,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
-  },
-  {
     "ItemCode": "100303007",
     "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
   },
@@ -46918,5 +46894,29 @@
   {
     "ItemCode": "200455011",
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "100651011",
+    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   }
 ]
