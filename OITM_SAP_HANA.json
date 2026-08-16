@@ -31668,10 +31668,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR DAMASCO 1X5 LT"
   },
   {
-    "ItemCode": "100304048",
-    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "202720039",
     "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
   },
@@ -32146,10 +32142,6 @@
   {
     "ItemCode": "200303024",
     "ItemName": "MERLUZA (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
-  },
-  {
-    "ItemCode": "100304046",
-    "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "104670088",
@@ -40260,10 +40252,6 @@
     "ItemName": "LECHE EVAPORADA 24X390 GR"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "200460023",
     "ItemName": "TRUTRO ENTERO INTERFOLIADO 1X15 KG COPACOL"
   },
@@ -44528,18 +44516,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100101001",
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
@@ -46228,10 +46204,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "100300015",
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
@@ -46254,10 +46226,6 @@
   {
     "ItemCode": "200200033",
     "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "203430009",
@@ -46918,5 +46886,37 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100304046",
+    "ItemName": "NECTAR PERA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304048",
+    "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   }
 ]
