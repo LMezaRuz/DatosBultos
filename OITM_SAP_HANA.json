@@ -43396,10 +43396,6 @@
     "ItemName": "ESCALOPA KAYSER 26X120 GR."
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "100151009",
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
@@ -44372,10 +44368,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
-    "ItemCode": "101358012",
-    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
-  },
-  {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
@@ -44806,10 +44798,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "300400010",
@@ -46918,5 +46906,17 @@
   {
     "ItemCode": "300157052",
     "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "101358012",
+    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   }
 ]
