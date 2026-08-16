@@ -30888,10 +30888,6 @@
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "300353134",
     "ItemName": "ASIENTO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
   },
@@ -31908,10 +31904,6 @@
     "ItemName": "MOSTAZA POUCH DISPENSADOR KRAFT 6X2 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "203200043",
     "ItemName": "DINO NUGGET DE POLLO SADIA 12X360 GR"
   },
@@ -32322,10 +32314,6 @@
   {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
-  },
-  {
-    "ItemCode": "102600000",
-    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
   },
   {
     "ItemCode": "204380017",
@@ -36130,10 +36118,6 @@
   {
     "ItemCode": "204310017",
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
     "ItemCode": "101250001",
@@ -43220,10 +43204,6 @@
     "ItemName": "FRUTILLAS AL JUGO 1X3 KG."
   },
   {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
     "ItemCode": "300154018",
     "ItemName": "MARGARINA HORNEO PREMIUM 1X 2.5 KG."
   },
@@ -44550,10 +44530,6 @@
   {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "104670010",
@@ -46344,10 +46320,6 @@
     "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
   },
   {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
@@ -46400,20 +46372,12 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
     "ItemCode": "100900005",
@@ -46434,10 +46398,6 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
-    "ItemCode": "101100022",
-    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
     "ItemCode": "101050003",
@@ -46490,10 +46450,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "101002005",
@@ -46918,5 +46874,49 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "102600000",
+    "ItemName": "ARROZ RISOTTO ITALIANO TUCAPEL  10X1 KG"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "101100022",
+    "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   }
 ]
