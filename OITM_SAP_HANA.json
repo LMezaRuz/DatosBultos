@@ -30140,10 +30140,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "204390005",
-    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
-  },
-  {
     "ItemCode": "304760533",
     "ItemName": "GANSO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -31872,10 +31868,6 @@
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "203200038",
     "ItemName": "STEAK CROCANTE DE POLLO ALEGRA 3X2 KG"
   },
@@ -31894,10 +31886,6 @@
   {
     "ItemCode": "101006001",
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
     "ItemCode": "100050005",
@@ -42908,10 +42896,6 @@
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   },
@@ -44164,10 +44148,6 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "203210109",
-    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
     "ItemCode": "304760543",
     "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -44748,10 +44728,6 @@
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "200200032",
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
@@ -45142,10 +45118,6 @@
   {
     "ItemCode": "200500022",
     "ItemName": "BROCOLI IQF 6X1 KG."
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
     "ItemCode": "300353083",
@@ -46172,10 +46144,6 @@
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
   {
-    "ItemCode": "203200017",
-    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -46438,10 +46406,6 @@
   {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "200250011",
@@ -46918,5 +46882,41 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "203210109",
+    "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "204390005",
+    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "203200017",
+    "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   }
 ]
