@@ -27492,10 +27492,6 @@
     "ItemName": "BASE PARA ADEREZO RANCH 36X88,5 GR"
   },
   {
-    "ItemCode": "103880037",
-    "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
-  },
-  {
     "ItemCode": "104550013",
     "ItemName": "SALSA DE SOYA LEE KUM KEE 1X18,9 LT"
   },
@@ -35660,10 +35656,6 @@
     "ItemName": "AJI CREMA TRAVERSO VINTAGE 10X450 GR"
   },
   {
-    "ItemCode": "202620000",
-    "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
     "ItemCode": "203480000",
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
@@ -36442,10 +36434,6 @@
   {
     "ItemCode": "101150084",
     "ItemName": "SALSA AJO 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
     "ItemCode": "100004001",
@@ -39546,10 +39534,6 @@
   {
     "ItemCode": "300154011",
     "ItemName": "HORNITO PANADERIA BOLSA 10X1KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "200460026",
@@ -45340,10 +45324,6 @@
     "ItemName": "PAPEL MANTEQUILLA ESTUCHE 30X7.5 MTS."
   },
   {
-    "ItemCode": "100350001",
-    "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
-  },
-  {
     "ItemCode": "100002001",
     "ItemName": "ACEITE MARAVILLA  300 X 8 CC"
   },
@@ -46000,10 +45980,6 @@
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
   },
@@ -46066,10 +46042,6 @@
   {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "200051005",
@@ -46404,10 +46376,6 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
-    "ItemCode": "100110002",
-    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
-  },
-  {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
@@ -46446,10 +46414,6 @@
   {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "100101017",
@@ -46716,14 +46680,6 @@
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
     "ItemCode": "203210058",
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
@@ -46880,10 +46836,6 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "103180007",
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
@@ -46940,14 +46892,6 @@
     "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
   },
   {
-    "ItemCode": "300351017",
-    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "304440005",
-    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -46994,5 +46938,61 @@
   {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "103880037",
+    "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
+  },
+  {
+    "ItemCode": "202620000",
+    "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "100350001",
+    "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "300351017",
+    "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "304440005",
+    "ItemName": "QUESO GAUDA LAMINADO 10 PUNTOS 20X500 GR (ID)"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "100110002",
+    "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
