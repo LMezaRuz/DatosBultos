@@ -31384,10 +31384,6 @@
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
-    "ItemCode": "101357005",
-    "ItemName": "SALSA DE SOYA 1X500 CC."
-  },
-  {
     "ItemCode": "403890000",
     "ItemName": "STICKER WRAPS DOGGIS 10X1000 UN"
   },
@@ -32352,10 +32348,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101452003",
-    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -32390,10 +32382,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
   {
     "ItemCode": "202730016",
@@ -36342,10 +36330,6 @@
   {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
-    "ItemCode": "200453014",
-    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
     "ItemCode": "100202016",
@@ -43940,10 +43924,6 @@
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "100304033",
-    "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -46994,5 +46974,25 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100304033",
+    "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
+  },
+  {
+    "ItemCode": "200453014",
+    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "101357005",
+    "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "101452003",
+    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   }
 ]
