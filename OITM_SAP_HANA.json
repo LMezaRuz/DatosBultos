@@ -28512,10 +28512,6 @@
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
   {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
-  },
-  {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
   },
@@ -32482,10 +32478,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "304760027",
@@ -44324,10 +44316,6 @@
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
@@ -44614,10 +44602,6 @@
   {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
     "ItemCode": "203210129",
@@ -46520,10 +46504,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
@@ -46994,5 +46974,25 @@
   {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   }
 ]
