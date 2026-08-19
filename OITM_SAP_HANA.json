@@ -28284,10 +28284,6 @@
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
   {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
@@ -28542,10 +28538,6 @@
   {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "103830001",
-    "ItemName": "MANJAR LONCOLECHE PARA PASTELERIA 4 X 3 KG"
   },
   {
     "ItemCode": "200051007",
@@ -30488,10 +30480,6 @@
     "ItemName": "POLLO ENTERO IMP. CONG. CALIBRE 2.4 CAJA 7X2,4 KG"
   },
   {
-    "ItemCode": "304760436",
-    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "203210125",
     "ItemName": "CARNE MECHADA EN TROZO AHUMADA 5X1 KG"
   },
@@ -31850,10 +31838,6 @@
   {
     "ItemCode": "101355023",
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
   {
     "ItemCode": "101008005",
@@ -36142,10 +36126,6 @@
   {
     "ItemCode": "400010021",
     "ItemName": "LUSTRAMUEBLES CREMA 1X250 ML"
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
     "ItemCode": "101012003",
@@ -40608,14 +40588,6 @@
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -44488,10 +44460,6 @@
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
-    "ItemCode": "202730007",
-    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
     "ItemCode": "304760489",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -46496,10 +46464,6 @@
     "ItemName": "TRENZA DE MAPLE Y NUEZ PECAN 60X98GR"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
@@ -46672,10 +46636,6 @@
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
-  },
-  {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
   },
@@ -46738,10 +46698,6 @@
   {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "200002006",
@@ -46994,5 +46950,49 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "304760436",
+    "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202730007",
+    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "103830001",
+    "ItemName": "MANJAR LONCOLECHE PARA PASTELERIA 4 X 3 KG"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
