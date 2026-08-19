@@ -24440,10 +24440,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
   },
   {
-    "ItemCode": "100650001",
-    "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
-  },
-  {
     "ItemCode": "101002002",
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
   },
@@ -28536,10 +28532,6 @@
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
   {
-    "ItemCode": "400150009",
-    "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
-  },
-  {
     "ItemCode": "200051007",
     "ItemName": "PULPA DE MELON TUNA MINUTO VERDE 10 X 1 KG"
   },
@@ -31380,10 +31372,6 @@
     "ItemName": "CREMA A BASE DE COCO VILAY 18X330 ML"
   },
   {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
@@ -32342,10 +32330,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "101354005",
@@ -44484,10 +44468,6 @@
     "ItemName": "GYOZA DE CERDO DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -46440,10 +46420,6 @@
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
-    "ItemCode": "200454024",
-    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
-  },
-  {
     "ItemCode": "200250016",
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
@@ -46700,10 +46676,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -46794,10 +46766,6 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
   {
     "ItemCode": "100557023",
@@ -46994,5 +46962,37 @@
   {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "200454024",
+    "ItemName": "CHULETA VETADA 180 GR 1X5,4 KG (MM)"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "400150009",
+    "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100650001",
+    "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   }
 ]
