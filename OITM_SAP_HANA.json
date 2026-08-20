@@ -24780,10 +24780,6 @@
     "ItemName": "CHOCLO EN GRANO DULCE 24X425 GR"
   },
   {
-    "ItemCode": "104010054",
-    "ItemName": "SALSA STREET BURGER GOURMET 12X250 GR"
-  },
-  {
     "ItemCode": "104090003",
     "ItemName": "LOCOS COCIDOS CALIBRE 12 EN FRASCO 12X1 KG"
   },
@@ -32334,10 +32330,6 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
     "ItemCode": "203430009",
@@ -44632,10 +44624,6 @@
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
@@ -45250,10 +45238,6 @@
   {
     "ItemCode": "200500038",
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
-  },
-  {
-    "ItemCode": "100852004",
-    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   },
   {
     "ItemCode": "104600001",
@@ -46444,10 +46428,6 @@
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
@@ -47050,5 +47030,25 @@
   {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "104010054",
+    "ItemName": "SALSA STREET BURGER GOURMET 12X250 GR"
+  },
+  {
+    "ItemCode": "100852004",
+    "ItemName": "GALLETA OBLEA SABOR BOCADO 1X140 GR."
   }
 ]
