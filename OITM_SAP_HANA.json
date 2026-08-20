@@ -31612,10 +31612,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
@@ -31710,10 +31706,6 @@
   {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "304760177",
-    "ItemName": "PALANCA PARAGUAY CONG. LOCAL (20KG. APROX)"
   },
   {
     "ItemCode": "204710003",
@@ -31970,10 +31962,6 @@
   {
     "ItemCode": "200304002",
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
-  },
-  {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
     "ItemCode": "304760162",
@@ -36028,10 +36016,6 @@
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
   },
   {
-    "ItemCode": "304760442",
-    "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -36334,10 +36318,6 @@
   {
     "ItemCode": "101150016",
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "100101007",
@@ -40308,10 +40288,6 @@
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -40454,10 +40430,6 @@
   {
     "ItemCode": "400252008",
     "ItemName": "TOALLA JUMBO PREMIUM D/H 6 X 150 MTS TO70021"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "100356014",
@@ -45616,10 +45588,6 @@
     "ItemName": "PATE DE CERDO 16x125 GRS"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -46976,10 +46944,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
   },
@@ -47050,5 +47014,41 @@
   {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "304760177",
+    "ItemName": "PALANCA PARAGUAY CONG. LOCAL (20KG. APROX)"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "304760442",
+    "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   }
 ]
