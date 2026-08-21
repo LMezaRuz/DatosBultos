@@ -40224,10 +40224,6 @@
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
-    "ItemCode": "100651009",
-    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
-  },
-  {
     "ItemCode": "101401003",
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
@@ -44528,10 +44524,6 @@
     "ItemName": "SERVILLETA MESA BURDEO PREMIUM 12 PQTE X 50 UN (SE70036)"
   },
   {
-    "ItemCode": "100151005",
-    "ItemName": "NESTUM 5 CEREALES 24X250 GR"
-  },
-  {
     "ItemCode": "400011019",
     "ItemName": "TRAPERO HUMEDO PISO FLOTANTE C/OJAL 1X10 UN (1100776)"
   },
@@ -45748,10 +45740,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "100351007",
-    "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
@@ -45866,10 +45854,6 @@
   {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "100351009",
-    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
     "ItemCode": "100557021",
@@ -46326,10 +46310,6 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "400252006",
@@ -47120,6 +47100,10 @@
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
   },
   {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -47128,7 +47112,23 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+    "ItemCode": "100651009",
+    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
+  },
+  {
+    "ItemCode": "100151005",
+    "ItemName": "NESTUM 5 CEREALES 24X250 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100351009",
+    "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
+  },
+  {
+    "ItemCode": "100351007",
+    "ItemName": "CAFE MONTERREY 1X170 GR"
   }
 ]
