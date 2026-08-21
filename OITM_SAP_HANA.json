@@ -36288,10 +36288,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
   {
-    "ItemCode": "202910069",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
@@ -45888,10 +45884,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "304110019",
-    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -46668,10 +46660,6 @@
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "200462020",
-    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL CONG.  (20 KG APROX)"
-  },
-  {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
@@ -46690,10 +46678,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "204300055",
@@ -46726,10 +46710,6 @@
   {
     "ItemCode": "200453031",
     "ItemName": "LOMO CENTRO DE CERDO (18 KG APROX.)"
-  },
-  {
-    "ItemCode": "204300018",
-    "ItemName": "PECHUGA DE POLLO DESHUESADA S/PIEL 18 KG. LOCAL"
   },
   {
     "ItemCode": "101358007",
@@ -46768,16 +46748,8 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100350009",
     "ItemName": "CAFE FOLKS BLEND GRANO X1 KG (100% arábica)"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
   {
     "ItemCode": "204790021",
@@ -46984,10 +46956,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -46998,10 +46966,6 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "100152006",
-    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
   {
     "ItemCode": "203200033",
@@ -47116,10 +47080,6 @@
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
   {
-    "ItemCode": "203190006",
-    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760443",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX),"
   },
@@ -47130,5 +47090,45 @@
   {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100152006",
+    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200462020",
+    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL CONG.  (20 KG APROX)"
+  },
+  {
+    "ItemCode": "204300018",
+    "ItemName": "PECHUGA DE POLLO DESHUESADA S/PIEL 18 KG. LOCAL"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190006",
+    "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910069",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304110019",
+    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
   }
 ]
