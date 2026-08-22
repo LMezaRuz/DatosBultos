@@ -40080,10 +40080,6 @@
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
@@ -43104,10 +43100,6 @@
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100355001",
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
   },
@@ -43398,10 +43390,6 @@
   {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "400100008",
@@ -44900,10 +44888,6 @@
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
   },
@@ -46192,10 +46176,6 @@
     "ItemName": "LECHE SEMIDESCREMADA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "203230005",
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
@@ -47142,5 +47122,25 @@
   {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   }
 ]
