@@ -30688,10 +30688,6 @@
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
   {
-    "ItemCode": "204300021",
-    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
-  },
-  {
     "ItemCode": "302590002",
     "ItemName": "ANCHOAS EN ACEITE SMART CHOICE 50X46 GR"
   },
@@ -45872,10 +45868,6 @@
     "ItemName": "CANELA MOLIDA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -46130,10 +46122,6 @@
   {
     "ItemCode": "200500047",
     "ItemName": "PIMENTON SLICE F/S ROJO 12 UN X 1 KG"
-  },
-  {
-    "ItemCode": "200453019",
-    "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
     "ItemCode": "100251007",
@@ -47024,24 +47012,8 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "400005014",
-    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
-  },
-  {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "104670066",
@@ -47142,5 +47114,33 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "400005014",
+    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "200453019",
+    "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
+  },
+  {
+    "ItemCode": "204300021",
+    "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   }
 ]
