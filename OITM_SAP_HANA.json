@@ -30712,10 +30712,6 @@
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "103880016",
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
@@ -31712,10 +31708,6 @@
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
-    "ItemCode": "100202014",
-    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
-  },
-  {
     "ItemCode": "101007018",
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
@@ -31794,10 +31786,6 @@
   {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "103940025",
@@ -42500,10 +42488,6 @@
     "ItemName": "YOGURT LIGHT VAINILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -43416,10 +43400,6 @@
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
   {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
     "ItemCode": "101200002",
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -43434,18 +43414,6 @@
   {
     "ItemCode": "101201035",
     "ItemName": "BAVAROIS DE NARANJA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "202720026",
-    "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "202720025",
-    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
-    "ItemCode": "203480000",
-    "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
   {
     "ItemCode": "102700021",
@@ -45556,10 +45524,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
@@ -46080,10 +46044,6 @@
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
     "ItemCode": "101100033",
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
@@ -46158,10 +46118,6 @@
   {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "103810004",
@@ -46740,10 +46696,6 @@
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
@@ -46820,16 +46772,8 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
     "ItemCode": "200051006",
@@ -47142,5 +47086,61 @@
   {
     "ItemCode": "202820019",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "202720026",
+    "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
+  },
+  {
+    "ItemCode": "202720025",
+    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
+  },
+  {
+    "ItemCode": "203480000",
+    "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "100202014",
+    "ItemName": "ENDULZANTE IANSA CERO K  SUCRALOSA 1 X 250 ML"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   }
 ]
