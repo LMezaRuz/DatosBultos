@@ -31328,10 +31328,6 @@
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
   },
   {
-    "ItemCode": "103880037",
-    "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
-  },
-  {
     "ItemCode": "302970004",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
@@ -43552,10 +43548,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "101150032",
-    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
@@ -44484,10 +44476,6 @@
     "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
@@ -44498,10 +44486,6 @@
   {
     "ItemCode": "202720028",
     "ItemName": "GALLETA AMERICANA DE AVENA CON PASAS 36X80 GR"
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "202730015",
@@ -44898,10 +44882,6 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "102480001",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
   {
     "ItemCode": "300351006",
@@ -46304,10 +46284,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "101007021",
     "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -46334,10 +46310,6 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "101355004",
@@ -46374,10 +46346,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "304440016",
@@ -47016,10 +46984,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -47142,5 +47106,41 @@
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "103880037",
+    "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "102480001",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "101150032",
+    "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   }
 ]
