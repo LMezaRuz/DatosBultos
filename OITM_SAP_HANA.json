@@ -43036,10 +43036,6 @@
     "ItemName": "JABON ESPUMA 6X1000 ML  JA70006"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "103150000",
     "ItemName": "ESTRAGON DESHIDRATADO GOURMET 1X5 GR"
   },
@@ -43122,10 +43118,6 @@
   {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
-  },
-  {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
     "ItemCode": "200304006",
@@ -43270,10 +43262,6 @@
   {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "100905001",
@@ -43502,10 +43490,6 @@
   {
     "ItemCode": "100557014",
     "ItemName": "ROMERO EN FRASCO 1X11 GR."
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
     "ItemCode": "100559008",
@@ -45456,10 +45440,6 @@
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
@@ -45690,10 +45670,6 @@
   {
     "ItemCode": "104560008",
     "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
-  },
-  {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
     "ItemCode": "100555002",
@@ -46732,10 +46708,6 @@
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
@@ -47142,5 +47114,33 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
   }
 ]
