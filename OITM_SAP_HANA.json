@@ -28220,10 +28220,6 @@
     "ItemName": "COGOTE DE VACUNO LOCAL (APROX 20 KG)"
   },
   {
-    "ItemCode": "202820009",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
-  },
-  {
     "ItemCode": "302890025",
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
@@ -30880,10 +30876,6 @@
     "ItemName": "COBERTURA SICAO AMARGO 58% CACAO 10X1 KG"
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "204300091",
     "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
@@ -32030,10 +32022,6 @@
   {
     "ItemCode": "104210021",
     "ItemName": "ESPIRAL INTEGRAL 1X400 GR"
-  },
-  {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
   {
     "ItemCode": "104500010",
@@ -43456,10 +43444,6 @@
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
     "ItemCode": "400301035",
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
   },
@@ -44864,10 +44848,6 @@
     "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
   {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
-  },
-  {
     "ItemCode": "200500038",
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
   },
@@ -46148,10 +46128,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
@@ -46888,10 +46864,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
@@ -47032,10 +47004,6 @@
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -47142,5 +47110,37 @@
   {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "202820009",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   }
 ]
