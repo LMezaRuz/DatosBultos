@@ -28084,10 +28084,6 @@
     "ItemName": "PANGASIUS  (150/220)  10X1 KG"
   },
   {
-    "ItemCode": "200200020",
-    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
-  },
-  {
     "ItemCode": "202910018",
     "ItemName": "PERNIL DE CERDO CONG. BRASIL 20 KG APROX."
   },
@@ -28434,10 +28430,6 @@
   {
     "ItemCode": "204750006",
     "ItemName": "COGOTE DE VACUNO LOCAL (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
   },
   {
     "ItemCode": "101352009",
@@ -32604,10 +32596,6 @@
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "204380036",
     "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
   },
@@ -35760,10 +35748,6 @@
     "ItemName": "MANTECA IND AMASA VEGETAL 12X1KG"
   },
   {
-    "ItemCode": "203190041",
-    "ItemName": "BANDERITA DE CERDO 5X1 KG (MM)"
-  },
-  {
     "ItemCode": "101009008",
     "ItemName": "LECHE FRUTILLA LONCO 12X1 LT"
   },
@@ -36762,10 +36746,6 @@
   {
     "ItemCode": "100250006",
     "ItemName": "BASE PARA APANAR TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "104670012",
-    "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
   },
   {
     "ItemCode": "304760450",
@@ -40512,10 +40492,6 @@
     "ItemName": "CHURRASCO DE POLLO 10 PUNTOS 25X120 GR (UN)"
   },
   {
-    "ItemCode": "202620000",
-    "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -43624,10 +43600,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "302890052",
-    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
-  },
-  {
     "ItemCode": "100152006",
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
@@ -43702,10 +43674,6 @@
   {
     "ItemCode": "204300045",
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
-  },
-  {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
   {
     "ItemCode": "101451005",
@@ -44058,10 +44026,6 @@
   {
     "ItemCode": "101201044",
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
     "ItemCode": "300351023",
@@ -46592,10 +46556,6 @@
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -47142,5 +47102,45 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "202620000",
+    "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200200020",
+    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
+  },
+  {
+    "ItemCode": "104670012",
+    "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "203190041",
+    "ItemName": "BANDERITA DE CERDO 5X1 KG (MM)"
+  },
+  {
+    "ItemCode": "302890052",
+    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   }
 ]
