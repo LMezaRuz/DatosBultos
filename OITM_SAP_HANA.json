@@ -39852,10 +39852,6 @@
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   },
@@ -45240,10 +45236,6 @@
     "ItemName": "HARINA TEMPURA 1X1 KG."
   },
   {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -45932,10 +45924,6 @@
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "202730020",
-    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
-  },
-  {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -45962,10 +45950,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
   },
   {
     "ItemCode": "104670066",
@@ -46628,10 +46612,6 @@
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -46646,10 +46626,6 @@
   {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "104040000",
@@ -47008,14 +46984,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100300009",
-    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
-  },
-  {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -47034,10 +47002,6 @@
   {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "101100008",
@@ -47142,5 +47106,41 @@
   {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "100300009",
+    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "202730020",
+    "ItemName": "DONUT GLASEADA CON CHOCOLATE Y TOPPING 48X53GR (38589)"
   }
 ]
