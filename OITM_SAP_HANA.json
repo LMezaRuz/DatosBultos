@@ -28388,10 +28388,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
   {
-    "ItemCode": "10000100",
-    "ItemName": "ACEITE CHEF OLIVA 12X1 LT"
-  },
-  {
     "ItemCode": "204750006",
     "ItemName": "COGOTE DE VACUNO LOCAL (APROX 20 KG)"
   },
@@ -30592,10 +30588,6 @@
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
   {
-    "ItemCode": "102500002",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
-  },
-  {
     "ItemCode": "104660017",
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
@@ -30958,10 +30950,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
     "ItemCode": "200307011",
@@ -36350,10 +36338,6 @@
   {
     "ItemCode": "204140015",
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "103880017",
@@ -43084,10 +43068,6 @@
     "ItemName": "HARINA INTEGRAL S/P 1x1 kg."
   },
   {
-    "ItemCode": "200305006",
-    "ItemName": "PINZAS DE JAIBA 10X1 KG"
-  },
-  {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
@@ -43672,10 +43652,6 @@
     "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
   },
   {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
     "ItemCode": "300157032",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
   },
@@ -44140,10 +44116,6 @@
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
@@ -44406,10 +44378,6 @@
   {
     "ItemCode": "200462109",
     "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "200301002",
-    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
   },
   {
     "ItemCode": "204700026",
@@ -46308,10 +46276,6 @@
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "202730053",
     "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   },
@@ -47142,5 +47106,41 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "10000100",
+    "ItemName": "ACEITE CHEF OLIVA 12X1 LT"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "102500002",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
+  },
+  {
+    "ItemCode": "200301002",
+    "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
+  },
+  {
+    "ItemCode": "200305006",
+    "ItemName": "PINZAS DE JAIBA 10X1 KG"
   }
 ]
