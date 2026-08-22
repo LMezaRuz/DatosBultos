@@ -30352,10 +30352,6 @@
     "ItemName": "TRUTRO CUARTO DE POLLO LOCAL 1X15 KG APROX."
   },
   {
-    "ItemCode": "202730044",
-    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
-  },
-  {
     "ItemCode": "402740001",
     "ItemName": "SACO GRANDE KRAFT BARRIO CHICKEN 1 X 250 UN"
   },
@@ -30984,10 +30980,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
@@ -31594,10 +31586,6 @@
   {
     "ItemCode": "103650000",
     "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
   {
     "ItemCode": "303850000",
@@ -36216,10 +36204,6 @@
     "ItemName": "VIRUTILLA FINA PARA OLLA GRANDE 3 PAQ 40 UN"
   },
   {
-    "ItemCode": "202730007",
-    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
     "ItemCode": "304760477",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -40094,10 +40078,6 @@
   {
     "ItemCode": "101007015",
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "101352009",
@@ -46712,10 +46692,6 @@
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
   {
-    "ItemCode": "204100016",
-    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
-  },
-  {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
@@ -47142,5 +47118,29 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204100016",
+    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "202730044",
+    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "202730007",
+    "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   }
 ]
