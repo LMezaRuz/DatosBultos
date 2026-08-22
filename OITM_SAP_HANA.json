@@ -23112,10 +23112,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "204380036",
-    "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "101358014",
     "ItemName": "SALSA TOMATE POMAROLA ITALIANA 24X200 G"
   },
@@ -23150,10 +23146,6 @@
   {
     "ItemCode": "204370008",
     "ItemName": "NOT HOTDOG 4X680 GR"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "103650037",
@@ -23962,10 +23954,6 @@
   {
     "ItemCode": "104520008",
     "ItemName": "SAL BIOSAL 30 X 125 GR"
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "304450018",
@@ -31568,10 +31556,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "203230003",
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
@@ -32570,10 +32554,6 @@
   {
     "ItemCode": "101201030",
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
     "ItemCode": "103910025",
@@ -40740,10 +40720,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100304060",
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
@@ -47142,5 +47118,29 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "204380036",
+    "ItemName": "PULPA DE PIÑA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   }
 ]
