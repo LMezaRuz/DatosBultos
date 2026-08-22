@@ -46048,10 +46048,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -46468,10 +46464,6 @@
     "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
   },
   {
-    "ItemCode": "100651009",
-    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
-  },
-  {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
   },
@@ -46604,10 +46596,6 @@
     "ItemName": "MERMELADA MORA WATTS 12X360 GR"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
@@ -46634,10 +46622,6 @@
   {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
     "ItemCode": "103910040",
@@ -47142,5 +47126,21 @@
   {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "100651009",
+    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   }
 ]
