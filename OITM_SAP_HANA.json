@@ -23520,20 +23520,12 @@
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
-    "ItemCode": "103700001",
-    "ItemName": "JARABE DE REMOJO 4X5 LT"
-  },
-  {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
     "ItemCode": "104290004",
     "ItemName": "LENTEJAS CON CHORIZO WASIL16X380 G"
-  },
-  {
-    "ItemCode": "104290009",
-    "ItemName": "PASTELERA DE CHOCLO WASIL 16X380 GR"
   },
   {
     "ItemCode": "102680016",
@@ -31080,10 +31072,6 @@
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
   },
   {
-    "ItemCode": "103070002",
-    "ItemName": "HABAS 16X380 GR"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -31190,10 +31178,6 @@
   {
     "ItemCode": "101303015",
     "ItemName": "REMOJO TRES LECHES 12X1 LT"
-  },
-  {
-    "ItemCode": "100654006",
-    "ItemName": "PINA CUBITOS 24X560 WASIL"
   },
   {
     "ItemCode": "103640002",
@@ -31470,10 +31454,6 @@
   {
     "ItemCode": "304760506",
     "ItemName": "PUNTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
-    "ItemCode": "104560001",
-    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
     "ItemCode": "104010018",
@@ -36240,10 +36220,6 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "200200011",
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
@@ -36286,10 +36262,6 @@
   {
     "ItemCode": "400251007",
     "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
-  },
-  {
-    "ItemCode": "100654005",
-    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
   {
     "ItemCode": "403400007",
@@ -43052,10 +43024,6 @@
     "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
   {
-    "ItemCode": "101403009",
-    "ItemName": "PALMITOS ENTERO WASIL 24X400"
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
@@ -43560,10 +43528,6 @@
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
   {
-    "ItemCode": "101401006",
-    "ItemName": "LENTEJAS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "104040015",
     "ItemName": "CHIPOTLES ADOBO 12X800 GR"
   },
@@ -43614,10 +43578,6 @@
   {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103070003",
-    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
   {
     "ItemCode": "100304009",
@@ -43738,10 +43698,6 @@
   {
     "ItemCode": "100002005",
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "100351007",
@@ -45708,10 +45664,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -47142,5 +47094,53 @@
   {
     "ItemCode": "103910062",
     "ItemName": "MERMELADA FRAMBUESA EN FRASCO WATT’S 10X500 GR"
+  },
+  {
+    "ItemCode": "100654005",
+    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
+  },
+  {
+    "ItemCode": "100654006",
+    "ItemName": "PINA CUBITOS 24X560 WASIL"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401006",
+    "ItemName": "LENTEJAS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
+  },
+  {
+    "ItemCode": "101403009",
+    "ItemName": "PALMITOS ENTERO WASIL 24X400"
+  },
+  {
+    "ItemCode": "103070002",
+    "ItemName": "HABAS 16X380 GR"
+  },
+  {
+    "ItemCode": "103070003",
+    "ItemName": "POROTOS ROJOS WASIL 16X380 G"
+  },
+  {
+    "ItemCode": "103700001",
+    "ItemName": "JARABE DE REMOJO 4X5 LT"
+  },
+  {
+    "ItemCode": "104290009",
+    "ItemName": "PASTELERA DE CHOCLO WASIL 16X380 GR"
+  },
+  {
+    "ItemCode": "104560001",
+    "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   }
 ]
