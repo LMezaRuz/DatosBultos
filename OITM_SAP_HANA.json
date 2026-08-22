@@ -32232,10 +32232,6 @@
     "ItemName": "BEBIDA VEGETAL SOYA LONCOLECHE 6X1 LT"
   },
   {
-    "ItemCode": "103750003",
-    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -32542,10 +32538,6 @@
   {
     "ItemCode": "100152002",
     "ItemName": "SEMILLA DE AMAPOLA AZUL 1X1 KG"
-  },
-  {
-    "ItemCode": "100754006",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
   },
   {
     "ItemCode": "101303005",
@@ -43540,14 +43532,6 @@
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009032",
-    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
-  },
-  {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
   },
@@ -44138,10 +44122,6 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "102480008",
@@ -46584,18 +46564,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -47142,5 +47110,37 @@
   {
     "ItemCode": "200305006",
     "ItemName": "PINZAS DE JAIBA 10X1 KG"
+  },
+  {
+    "ItemCode": "100754006",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "103750003",
+    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "101009032",
+    "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   }
 ]
