@@ -30604,10 +30604,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
-  },
-  {
     "ItemCode": "104670077",
     "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
   },
@@ -32132,10 +32128,6 @@
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
   {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201037",
     "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
   },
@@ -32182,10 +32174,6 @@
   {
     "ItemCode": "300156002",
     "ItemName": "YOGURT FRAMBUESA 1X1 LT"
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101305004",
@@ -39868,10 +39856,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "101201055",
-    "ItemName": "FLAN CON LECHE VAINILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
-  },
-  {
     "ItemCode": "104320009",
     "ItemName": "CREME BRULEE TKF 10 X 1 KG"
   },
@@ -44972,10 +44956,6 @@
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
@@ -45614,10 +45594,6 @@
   {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100251001",
-    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
     "ItemCode": "101150051",
@@ -47142,5 +47118,29 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
+  },
+  {
+    "ItemCode": "100251001",
+    "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201055",
+    "ItemName": "FLAN CON LECHE VAINILLA DIET (REND. 3 KG) TKF 1 X 60 GRS"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   }
 ]
