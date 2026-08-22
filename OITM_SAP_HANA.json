@@ -32008,10 +32008,6 @@
     "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "103480001",
     "ItemName": "GALLETA MINI COCADITAS 30X40 GR"
   },
@@ -32106,10 +32102,6 @@
   {
     "ItemCode": "101250003",
     "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "104030007",
@@ -36300,10 +36292,6 @@
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "304430011",
     "ItemName": "QUESO CREMA HUILCO 36X190 GR"
   },
@@ -36364,16 +36352,8 @@
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "200300004",
     "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "400301085",
@@ -40508,10 +40488,6 @@
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
   },
   {
-    "ItemCode": "104040000",
-    "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
-  },
-  {
     "ItemCode": "202730082",
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
   },
@@ -40546,10 +40522,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "103750004",
@@ -44496,10 +44468,6 @@
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
-  },
-  {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
@@ -45278,10 +45246,6 @@
   {
     "ItemCode": "101351011",
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "104580000",
@@ -46604,16 +46568,8 @@
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "100902001",
@@ -46838,10 +46794,6 @@
   {
     "ItemCode": "200050007",
     "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "101452001",
@@ -47142,5 +47094,53 @@
   {
     "ItemCode": "300157053",
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "104040000",
+    "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   }
 ]
