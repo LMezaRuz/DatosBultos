@@ -24380,14 +24380,6 @@
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "100652002",
     "ItemName": "ARANDANOS WASIL TETRA 16X380 GR"
   },
@@ -32300,10 +32292,6 @@
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
@@ -32594,10 +32582,6 @@
   {
     "ItemCode": "200302029",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "203480000",
@@ -39892,10 +39876,6 @@
     "ItemName": "CAFE FINA SELECCION 1X200 GR"
   },
   {
-    "ItemCode": "400251004",
-    "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
-  },
-  {
     "ItemCode": "100701005",
     "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
   },
@@ -40726,10 +40706,6 @@
   {
     "ItemCode": "100651009",
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
-  },
-  {
-    "ItemCode": "101403009",
-    "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
   {
     "ItemCode": "100201002",
@@ -44192,10 +44168,6 @@
     "ItemName": "PINZAS DE JAIBA 10X1 KG"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
   },
@@ -44500,10 +44472,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -44666,10 +44634,6 @@
   {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
-  },
-  {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
   {
     "ItemCode": "100900005",
@@ -46808,10 +46772,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
@@ -46906,10 +46866,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "400011016",
@@ -47142,5 +47098,49 @@
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400251004",
+    "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
+  },
+  {
+    "ItemCode": "101403009",
+    "ItemName": "PALMITOS ENTERO WASIL 24X400"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   }
 ]
