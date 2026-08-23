@@ -31976,10 +31976,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "104420000",
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
@@ -32394,10 +32390,6 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "101100066",
@@ -35738,10 +35730,6 @@
   {
     "ItemCode": "100852017",
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
   },
   {
     "ItemCode": "203190060",
@@ -44168,10 +44156,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
   {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6X1,5 LT"
   },
@@ -44298,10 +44282,6 @@
   {
     "ItemCode": "101304002",
     "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
     "ItemCode": "101351012",
@@ -45186,10 +45166,6 @@
   {
     "ItemCode": "500001086",
     "ItemName": "FILTRO DE CAFE ICBA 500 UNDS BUNN"
-  },
-  {
-    "ItemCode": "300401001",
-    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
   {
     "ItemCode": "404360023",
@@ -46984,10 +46960,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
@@ -47142,5 +47114,33 @@
   {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "300401001",
+    "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (3,5 KG APROX)"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
