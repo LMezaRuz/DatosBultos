@@ -23836,10 +23836,6 @@
     "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "304760480",
-    "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "103460000",
     "ItemName": "PALTA HASS HUERTO EXPERTO 1X1KG"
   },
@@ -31148,10 +31144,6 @@
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
-    "ItemCode": "304760481",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "203190008",
     "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
   },
@@ -32298,10 +32290,6 @@
   {
     "ItemCode": "103910025",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "203210101",
-    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "304420001",
@@ -36120,10 +36108,6 @@
     "ItemName": "TRIMMING DE CERDO 80/20 CONGELADO 24 KG (APROX)"
   },
   {
-    "ItemCode": "202910058",
-    "ItemName": "RACK ENTERO CHULETA VETADA BR LOC ECOFRIGO 25KG APROX.(X-MAYOR)"
-  },
-  {
     "ItemCode": "403400007",
     "ItemName": "CAJA PAPAS KIDS DOGGIS 1X300 UN"
   },
@@ -36382,10 +36366,6 @@
   {
     "ItemCode": "103730009",
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
-  },
-  {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
     "ItemCode": "202720026",
@@ -39846,10 +39826,6 @@
   {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
-    "ItemCode": "200453014",
-    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
     "ItemCode": "200100036",
@@ -44092,10 +44068,6 @@
     "ItemName": "LECHE ASADA TKF 1X1 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "101201030",
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
   },
@@ -44228,10 +44200,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
-    "ItemCode": "100552004",
-    "ItemName": "CANELA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -44356,10 +44324,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
   },
@@ -44390,10 +44354,6 @@
   {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "100050007",
@@ -46804,10 +46764,6 @@
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -47142,5 +47098,49 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "203210101",
+    "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "304760481",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760480",
+    "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910058",
+    "ItemName": "RACK ENTERO CHULETA VETADA BR LOC ECOFRIGO 25KG APROX.(X-MAYOR)"
+  },
+  {
+    "ItemCode": "200453014",
+    "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "100552004",
+    "ItemName": "CANELA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   }
 ]
