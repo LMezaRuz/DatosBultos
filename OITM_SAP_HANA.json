@@ -32272,10 +32272,6 @@
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
-  },
-  {
     "ItemCode": "102500002",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
@@ -35890,10 +35886,6 @@
   {
     "ItemCode": "302970006",
     "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "304760485",
@@ -39596,20 +39588,12 @@
     "ItemName": "HELADO PUDU LIMON MENTA Y JENGIBRE 1X5 LT"
   },
   {
-    "ItemCode": "200100028",
-    "ItemName": "HELADO PUDU VAINILLA 1X5 LT"
-  },
-  {
     "ItemCode": "200100030",
     "ItemName": "HELADO PUDU COOKIES & CREAM 1X5 LT"
   },
   {
     "ItemCode": "200100027",
     "ItemName": "HELADO PUDU FRAMBUESA 1X5 LT"
-  },
-  {
-    "ItemCode": "200100031",
-    "ItemName": "HELADO PUDU CHOCOLATE 80% 1X5 LT"
   },
   {
     "ItemCode": "400252007",
@@ -43760,10 +43744,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -46360,10 +46340,6 @@
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -46768,10 +46744,6 @@
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -47012,10 +46984,6 @@
     "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
-  },
-  {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
@@ -47042,10 +47010,6 @@
   {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
   },
   {
     "ItemCode": "303850001",
@@ -47142,5 +47106,41 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "200100031",
+    "ItemName": "HELADO PUDU CHOCOLATE 80% 1X5 LT"
+  },
+  {
+    "ItemCode": "200100028",
+    "ItemName": "HELADO PUDU VAINILLA 1X5 LT"
   }
 ]
