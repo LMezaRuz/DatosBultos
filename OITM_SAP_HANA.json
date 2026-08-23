@@ -31368,10 +31368,6 @@
     "ItemName": "ALMEJA JULIANA 24X500 GR"
   },
   {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
@@ -31728,10 +31724,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
     "ItemCode": "203210111",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -31874,10 +31866,6 @@
   {
     "ItemCode": "204140008",
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
-  },
-  {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
     "ItemCode": "200203013",
@@ -32136,10 +32124,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
-  },
-  {
     "ItemCode": "204300021",
     "ItemName": "MEDIA PECHUGA MARINADA DE POLLO LOCAL 6X2 KG"
   },
@@ -32386,10 +32370,6 @@
   {
     "ItemCode": "704920003",
     "ItemName": "PALTA HASS CALIBRE 10-18 PREMADURA CAJA 10KG"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
   },
   {
     "ItemCode": "101002006",
@@ -39956,10 +39936,6 @@
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
   },
@@ -44244,10 +44220,6 @@
     "ItemName": "CACAO EN POLVO CALLEBAUT 2X5 KG"
   },
   {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
@@ -46404,10 +46376,6 @@
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -46466,10 +46434,6 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "200307004",
@@ -46916,10 +46880,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -47142,5 +47102,45 @@
   {
     "ItemCode": "204380017",
     "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "COBERTURA SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   }
 ]
