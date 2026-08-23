@@ -31596,10 +31596,6 @@
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
@@ -43724,10 +43720,6 @@
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "100353002",
     "ItemName": "YERBA MATE 1x500 G."
   },
@@ -44190,14 +44182,6 @@
   {
     "ItemCode": "100855012",
     "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
-  },
-  {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
     "ItemCode": "102700021",
@@ -44702,10 +44686,6 @@
   {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "101355010",
@@ -47142,5 +47122,25 @@
   {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   }
 ]
