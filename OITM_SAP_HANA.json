@@ -31924,10 +31924,6 @@
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
   },
   {
-    "ItemCode": "102520000",
-    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
-  },
-  {
     "ItemCode": "102480005",
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
@@ -32586,10 +32582,6 @@
   {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "104210017",
@@ -43408,10 +43400,6 @@
     "ItemName": "CEREAL ZUCOSOS 16X700 GR"
   },
   {
-    "ItemCode": "100557019",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
-  },
-  {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
   },
@@ -46908,10 +46896,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "203200039",
-    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -46920,20 +46904,8 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
-    "ItemCode": "100800002",
-    "ItemName": "HUESILLO FANCY 1X1 KG"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
-  },
-  {
-    "ItemCode": "100557001",
-    "ItemName": "CURCUMA MOLIDA 1X1 KG"
   },
   {
     "ItemCode": "100550001",
@@ -47016,16 +46988,8 @@
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "101305001",
@@ -47142,5 +47106,41 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "203200039",
+    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100557019",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
+  },
+  {
+    "ItemCode": "100800002",
+    "ItemName": "HUESILLO FANCY 1X1 KG"
+  },
+  {
+    "ItemCode": "100557001",
+    "ItemName": "CURCUMA MOLIDA 1X1 KG"
+  },
+  {
+    "ItemCode": "102520000",
+    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   }
 ]
