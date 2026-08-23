@@ -31496,10 +31496,6 @@
     "ItemName": "PLATEADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
     "ItemCode": "204750007",
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
@@ -32210,10 +32206,6 @@
   {
     "ItemCode": "304760482",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "704920003",
@@ -43568,10 +43560,6 @@
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
@@ -46340,10 +46328,6 @@
     "ItemName": "TE BRASIL 1X100 UN."
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -46980,10 +46964,6 @@
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47142,5 +47122,25 @@
   {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   }
 ]
