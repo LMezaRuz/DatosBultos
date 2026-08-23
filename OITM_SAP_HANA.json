@@ -45296,10 +45296,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "200201019",
     "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
   },
@@ -46292,10 +46288,6 @@
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -46524,10 +46516,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -46630,10 +46618,6 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "203200033",
-    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
   {
     "ItemCode": "203210101",
@@ -47020,14 +47004,6 @@
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "104210013",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
@@ -47058,10 +47034,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "101400001",
@@ -47142,5 +47114,33 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "203200033",
+    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   }
 ]
