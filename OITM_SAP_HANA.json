@@ -36140,10 +36140,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
     "ItemCode": "204300077",
     "ItemName": "TRUTRO ALA POLLO CONG. 18 KG (APROX)"
   },
@@ -43584,10 +43580,6 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "400005014",
-    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
-  },
-  {
     "ItemCode": "300153011",
     "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
@@ -43654,10 +43646,6 @@
   {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "200003002",
@@ -43814,10 +43802,6 @@
   {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "200003006",
@@ -45536,10 +45520,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "200303020",
     "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
@@ -45610,10 +45590,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "100101017",
@@ -46004,10 +45980,6 @@
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -46340,10 +46312,6 @@
     "ItemName": "PALMITO ENTERO 12X800 GR NAL"
   },
   {
-    "ItemCode": "400011009",
-    "ItemName": "PAÑO DE COCINA 1X12 UN."
-  },
-  {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
@@ -46604,10 +46572,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
@@ -46618,14 +46582,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "100556001",
@@ -47044,10 +47000,6 @@
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380030",
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
@@ -47142,5 +47094,53 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400005014",
+    "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "400011009",
+    "ItemName": "PAÑO DE COCINA 1X12 UN."
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
   }
 ]
