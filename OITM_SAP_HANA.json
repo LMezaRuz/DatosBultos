@@ -36556,10 +36556,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -40260,10 +40256,6 @@
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "300403009",
-    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
     "ItemCode": "300350003",
     "ItemName": "MECHADA DE VACUNO VERDURA REFRIGERADA 12X1 KG (VE)"
   },
@@ -40398,10 +40390,6 @@
   {
     "ItemCode": "300157045",
     "ItemName": "LONCO PROTEIN YOGURT FRUTILLA 24X140 GRS"
-  },
-  {
-    "ItemCode": "101302002",
-    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "100559002",
@@ -43960,10 +43948,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -44340,10 +44324,6 @@
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100110002",
     "ItemName": "MECHADA DE VACUNO GOURMET 12X1,2 KG (VE)"
   },
@@ -44384,10 +44364,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100852012",
-    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -44406,10 +44382,6 @@
   {
     "ItemCode": "200003006",
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
     "ItemCode": "101357006",
@@ -44522,10 +44494,6 @@
   {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
     "ItemCode": "100852019",
@@ -46224,10 +46192,6 @@
     "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "200308004",
     "ItemName": "PAILA MARINA NAC 20X500 GR"
   },
@@ -46506,10 +46470,6 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
     "ItemCode": "300150001",
@@ -47076,10 +47036,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "100600003",
-    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -47142,5 +47098,49 @@
   {
     "ItemCode": "203200047",
     "ItemName": "MILANESA DE POLLO SADIA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100852012",
+    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "101302002",
+    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100600003",
+    "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "300403009",
+    "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   }
 ]
