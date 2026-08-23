@@ -24264,10 +24264,6 @@
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "102960004",
-    "ItemName": "CACAO EN POLVO CALLEBAUT 2X5 KG"
-  },
-  {
     "ItemCode": "103730008",
     "ItemName": "LECHE EN POLVO ENTERA INSTANTANEA 20X760 GR"
   },
@@ -40084,10 +40080,6 @@
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "300001008",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
-  },
-  {
     "ItemCode": "400301006",
     "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   },
@@ -43980,10 +43972,6 @@
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -47142,5 +47130,17 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "300001008",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG"
+  },
+  {
+    "ItemCode": "102960004",
+    "ItemName": "CACAO EN POLVO CALLEBAUT 2X5 KG"
   }
 ]
