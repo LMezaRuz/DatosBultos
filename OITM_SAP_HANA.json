@@ -28576,10 +28576,6 @@
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
   {
-    "ItemCode": "100653004",
-    "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
-  },
-  {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -31594,10 +31590,6 @@
   {
     "ItemCode": "204380025",
     "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
   {
     "ItemCode": "300152004",
@@ -36688,10 +36680,6 @@
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
-    "ItemCode": "200051006",
-    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "100201009",
     "ItemName": "AZUCAR RUBIA IANSA 20X500 GR"
   },
@@ -39540,10 +39528,6 @@
     "ItemName": "PUNTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760439",
-    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "100852021",
     "ItemName": "GALLETA DONUTS 1X100 GRS"
   },
@@ -39854,10 +39838,6 @@
   {
     "ItemCode": "600002019",
     "ItemName": "TOMATE KG."
-  },
-  {
-    "ItemCode": "102790000",
-    "ItemName": "CAFE NESCAFE DECAF STICK 180X1,8 GR"
   },
   {
     "ItemCode": "101452004",
@@ -44672,10 +44652,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
-  },
-  {
     "ItemCode": "900621403",
     "ItemName": "Materiales de Oficina"
   },
@@ -46272,10 +46248,6 @@
     "ItemName": "PUNTA PALETA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -46290,10 +46262,6 @@
   {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "203190049",
@@ -46628,10 +46596,6 @@
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
@@ -46884,10 +46848,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
@@ -46986,10 +46946,6 @@
   {
     "ItemCode": "204380030",
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "101150083",
@@ -47146,5 +47102,49 @@
   {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "102790000",
+    "ItemName": "CAFE NESCAFE DECAF STICK 180X1,8 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "304760439",
+    "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100653004",
+    "ItemName": "CEREZAS MARRASQUINO VERDES 1X1.115 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "200051006",
+    "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   }
 ]
