@@ -24432,10 +24432,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "300001009",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
-  },
-  {
     "ItemCode": "304760515",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -32180,14 +32176,6 @@
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
   {
-    "ItemCode": "304760479",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "304760495",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -32566,10 +32554,6 @@
   {
     "ItemCode": "202910066",
     "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
   },
   {
     "ItemCode": "100352003",
@@ -39852,10 +39836,6 @@
     "ItemName": "ETIQUETA CIRCULAR HUMMUS (10 rollos de 1000 UND)"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "400301032",
     "ItemName": "STICKER CHILI TB 1X1.000 UN"
   },
@@ -40218,10 +40198,6 @@
   {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "300100001",
-    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
   {
     "ItemCode": "103910033",
@@ -46900,10 +46876,6 @@
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -46982,10 +46954,6 @@
   {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "101351004",
@@ -47146,5 +47114,37 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "304760479",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54.5% 2X10 KG"
+  },
+  {
+    "ItemCode": "300100001",
+    "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "300001009",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33.6% 2X10 KG"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
   }
 ]
