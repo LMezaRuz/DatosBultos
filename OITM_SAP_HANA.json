@@ -24144,10 +24144,6 @@
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "102930011",
     "ItemName": "CEREALBAR FRUTAS MAS YOGHURT  6X20X21 GR."
   },
@@ -31736,10 +31732,6 @@
     "ItemName": "MANJAR LONCOLECHE BOLSA 10X920 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "300156007",
     "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
@@ -35582,10 +35574,6 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
   {
     "ItemCode": "100302013",
@@ -40104,16 +40092,8 @@
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "100351014",
     "ItemName": "CAFE CORONADO 24X170 GR"
-  },
-  {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
   {
     "ItemCode": "102710016",
@@ -40124,16 +40104,8 @@
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
   },
   {
     "ItemCode": "102500002",
@@ -40162,10 +40134,6 @@
   {
     "ItemCode": "104600003",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
     "ItemCode": "103910061",
@@ -40508,10 +40476,6 @@
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "300100001",
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
@@ -40570,10 +40534,6 @@
   {
     "ItemCode": "202910044",
     "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
     "ItemCode": "303210008",
@@ -40874,10 +40834,6 @@
   {
     "ItemCode": "100854012",
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
-  },
-  {
-    "ItemCode": "103910048",
-    "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
   },
   {
     "ItemCode": "103830010",
@@ -43492,10 +43448,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "100304060",
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
@@ -44270,10 +44222,6 @@
   {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
-  },
-  {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
     "ItemCode": "100302009",
@@ -47146,5 +47094,57 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910048",
+    "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   }
 ]
