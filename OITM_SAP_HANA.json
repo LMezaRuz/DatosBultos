@@ -30532,10 +30532,6 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG IQF 12X1 KG"
   },
   {
-    "ItemCode": "202720032",
-    "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
-  },
-  {
     "ItemCode": "104010051",
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
   },
@@ -31008,10 +31004,6 @@
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
-  },
-  {
     "ItemCode": "203210130",
     "ItemName": "CHURRASCO DE VACUNO 30X160 GR (MM)"
   },
@@ -31474,10 +31466,6 @@
   {
     "ItemCode": "204310008",
     "ItemName": "MINI WAFFLE BELGA 110X35 GR"
-  },
-  {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "304760484",
@@ -35878,10 +35866,6 @@
   {
     "ItemCode": "304110017",
     "ItemName": "QUESO PROVOLETA BARRA 4 KG (APROX)"
-  },
-  {
-    "ItemCode": "302970006",
-    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
   },
   {
     "ItemCode": "304110015",
@@ -43556,10 +43540,6 @@
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -45464,10 +45444,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
@@ -45910,10 +45886,6 @@
   {
     "ItemCode": "101150041",
     "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
     "ItemCode": "200203013",
@@ -47036,10 +47008,6 @@
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
   },
@@ -47054,10 +47022,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
     "ItemCode": "101000008",
@@ -47170,5 +47134,41 @@
   {
     "ItemCode": "204790005",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "302970006",
+    "ItemName": "CHOCOLATE AMARGO SIN AZUCAR CALLEBAUT 6X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "202720032",
+    "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
   }
 ]
