@@ -43792,10 +43792,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -43850,10 +43846,6 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
     "ItemCode": "100101006",
@@ -45984,10 +45976,6 @@
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
@@ -46596,10 +46584,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "200462012",
     "ItemName": "POSTA NEGRA AL VACIO CAT V BRASIL CONG. (20 KG APROX)"
   },
@@ -46900,58 +46884,6 @@
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
-    "ItemCode": "100751004",
-    "ItemName": "MERMELADA DE MORA 1X250 GR"
-  },
-  {
-    "ItemCode": "100751006",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "304760456",
-    "ItemName": "TAPABARRIGA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "101100008",
-    "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
-    "ItemCode": "204750001",
-    "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100600006",
-    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
@@ -46978,10 +46910,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
     "ItemCode": "104010005",
@@ -47030,10 +46958,6 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100101017",
-    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "101351007",
@@ -47124,10 +47048,6 @@
     "ItemName": "CHULETA CENTRO RACK CONG. X KG (PESO APROX. 20 KG)"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
@@ -47170,5 +47090,85 @@
   {
     "ItemCode": "400100001",
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100101017",
+    "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "100751004",
+    "ItemName": "MERMELADA DE MORA 1X250 GR"
+  },
+  {
+    "ItemCode": "100751006",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "304760456",
+    "ItemName": "TAPABARRIGA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "101100008",
+    "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "204750001",
+    "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100600006",
+    "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   }
 ]
