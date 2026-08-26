@@ -31204,10 +31204,6 @@
     "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.1 (APROX 21 KG)"
   },
   {
-    "ItemCode": "304760454",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "103210006",
     "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
   },
@@ -31744,10 +31740,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "102500000",
-    "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
-  },
-  {
     "ItemCode": "103910018",
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
@@ -32072,10 +32064,6 @@
     "ItemName": "MUFFIN RELLENO DE FRUTOS ROJOS 20X95 GR"
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200302027",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
@@ -32110,10 +32098,6 @@
   {
     "ItemCode": "304760535",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760482",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
     "ItemCode": "200250039",
@@ -43632,10 +43616,6 @@
     "ItemName": "MAYONESA 10X930 GR"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
@@ -43698,10 +43678,6 @@
   {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "200200020",
@@ -45580,10 +45556,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "101403001",
-    "ItemName": "PALMITOS RODAJAS  12x800 g."
-  },
-  {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
@@ -46700,10 +46672,6 @@
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
-    "ItemCode": "304460012",
-    "ItemName": "QUESO MOZZARELLA NOAL BARRA 5X2,6 KG APROX"
-  },
-  {
     "ItemCode": "103880030",
     "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
@@ -46936,10 +46904,6 @@
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "101000008",
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
@@ -47006,10 +46970,6 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "400105001",
@@ -47170,5 +47130,45 @@
   {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "304760482",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760454",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "101403001",
+    "ItemName": "PALMITOS RODAJAS  12x800 g."
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "102500000",
+    "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
+  },
+  {
+    "ItemCode": "304460012",
+    "ItemName": "QUESO MOZZARELLA NOAL BARRA 5X2,6 KG APROX"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   }
 ]
