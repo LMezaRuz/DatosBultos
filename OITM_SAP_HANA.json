@@ -28536,10 +28536,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "102610001",
-    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
-  },
-  {
     "ItemCode": "403130000",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
@@ -31920,10 +31916,6 @@
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "102970011",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
   },
@@ -32070,10 +32062,6 @@
   {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
-    "ItemCode": "304760108",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "202910022",
@@ -43248,10 +43236,6 @@
     "ItemName": "PRIETAS 1x250 g."
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -46272,10 +46256,6 @@
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 1X10 KG"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -46828,10 +46808,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -46990,10 +46966,6 @@
   {
     "ItemCode": "204300013",
     "ItemName": "TRUTRO CUARTO POLLO CONG. 1X15 KG"
-  },
-  {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
     "ItemCode": "300351017",
@@ -47170,5 +47142,33 @@
   {
     "ItemCode": "203210123",
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "304760108",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "102610001",
+    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   }
 ]
