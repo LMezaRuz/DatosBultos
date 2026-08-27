@@ -31356,10 +31356,6 @@
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
-    "ItemCode": "101007019",
-    "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
-  },
-  {
     "ItemCode": "102480001",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
@@ -40412,10 +40408,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA DORASOL 48X160 GR"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -43076,10 +43068,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
-  },
-  {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
   },
@@ -45484,10 +45472,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "100202011",
-    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -46896,10 +46880,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
@@ -47104,10 +47084,6 @@
     "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -47178,5 +47154,29 @@
   {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "101007019",
+    "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100202011",
+    "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   }
 ]
