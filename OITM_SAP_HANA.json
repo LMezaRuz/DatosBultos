@@ -28304,10 +28304,6 @@
     "ItemName": "NOT MAYO ORIGINAL 12X1 KG"
   },
   {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
     "ItemCode": "103880022",
     "ItemName": "MAYONESA DELI KRAFT FLEX 4X18X90 GR"
   },
@@ -28560,20 +28556,12 @@
     "ItemName": "JAMON SANDWICH  1x500 g."
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "202730047",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
     "ItemCode": "100852018",
     "ItemName": "GALLETA DIN DON 1X115 GR"
-  },
-  {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
     "ItemCode": "104210015",
@@ -28622,10 +28610,6 @@
   {
     "ItemCode": "300153010",
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "204380022",
@@ -31488,10 +31472,6 @@
     "ItemName": "KETCHUP PET TRAVERSO 24X350 GR"
   },
   {
-    "ItemCode": "104560008",
-    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
-  },
-  {
     "ItemCode": "304450005",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
   },
@@ -31942,10 +31922,6 @@
   {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "103180007",
-    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
     "ItemCode": "100900009",
@@ -32718,10 +32694,6 @@
   {
     "ItemCode": "100002009",
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X500"
-  },
-  {
-    "ItemCode": "101009038",
-    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   },
   {
     "ItemCode": "101009039",
@@ -43716,10 +43688,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "100151015",
     "ItemName": "CEREAL ZUCOSOS NESTLE 1X800GR"
   },
@@ -44108,10 +44076,6 @@
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "101009013",
     "ItemName": "CHOCO AVELLANAS LONCO 12X1 K"
   },
@@ -44234,10 +44198,6 @@
   {
     "ItemCode": "104610008",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE NARANJA 12 DISPL X 16 UN x 45gr."
-  },
-  {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "102520000",
@@ -47178,5 +47138,45 @@
   {
     "ItemCode": "203190043",
     "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "104560008",
+    "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "103180007",
+    "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101009038",
+    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   }
 ]
