@@ -23508,10 +23508,6 @@
     "ItemName": "ARRACHERA DE VACUNO CAT-V CORTE CRIOLLO 25 KG (APROX)"
   },
   {
-    "ItemCode": "102560002",
-    "ItemName": "AJI PEBRE JB PET 24X240 GR"
-  },
-  {
     "ItemCode": "300157013",
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
@@ -24266,10 +24262,6 @@
   {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
-  },
-  {
-    "ItemCode": "101450007",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
     "ItemCode": "101452006",
@@ -30976,10 +30968,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
     "ItemCode": "104620004",
     "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
   },
@@ -31846,10 +31834,6 @@
   {
     "ItemCode": "600002022",
     "ItemName": "ZAPALLO ITALIANO 1x1 un."
-  },
-  {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
     "ItemCode": "400007001",
@@ -35884,10 +35868,6 @@
     "ItemName": "ENDULZANTE STEVIA LIQUIDO 1X270 ML"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -39824,10 +39804,6 @@
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "400010006",
     "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
@@ -43104,10 +43080,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "204000002",
     "ItemName": "OSOBUCO DE MANO VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -43646,10 +43618,6 @@
   {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "200500036",
@@ -44924,10 +44892,6 @@
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "200051004",
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
   },
@@ -45106,10 +45070,6 @@
   {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
-  },
-  {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
     "ItemCode": "100855012",
@@ -45832,10 +45792,6 @@
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
   {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -46348,10 +46304,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
@@ -46752,10 +46704,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "101201015",
     "ItemName": "JALEA DE MANZANA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -46826,10 +46774,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "100152002",
@@ -47178,5 +47122,61 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "101450007",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "102560002",
+    "ItemName": "AJI PEBRE JB PET 24X240 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
