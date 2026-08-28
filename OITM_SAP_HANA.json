@@ -22232,10 +22232,6 @@
     "ItemName": "QUESO MANTECOSO TROZADO LAS PARCELAS 16X350 GR"
   },
   {
-    "ItemCode": "203210114",
-    "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
-  },
-  {
     "ItemCode": "304430010",
     "ItemName": "QUESO CREMA NATURAL LAS PARCELAS DE VALDIVIA 28X150 GR"
   },
@@ -22542,10 +22538,6 @@
   {
     "ItemCode": "103520012",
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
-  },
-  {
-    "ItemCode": "203510012",
-    "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
   },
   {
     "ItemCode": "303840003",
@@ -27766,10 +27758,6 @@
   {
     "ItemCode": "104660003",
     "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
-  },
-  {
-    "ItemCode": "204870001",
-    "ItemName": "RECORTES Y TROZOS (TRIMMINGS 70/30) CAJA 10 A 20 KG APROX"
   },
   {
     "ItemCode": "200305014",
@@ -39564,10 +39552,6 @@
     "ItemName": "MINI REJILLA DE FRUTILLA BRIDOR 100X40 GR"
   },
   {
-    "ItemCode": "100552003",
-    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -43828,10 +43812,6 @@
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "100303005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
   },
@@ -44450,10 +44430,6 @@
   {
     "ItemCode": "100050001",
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
-  },
-  {
-    "ItemCode": "202910040",
-    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
   },
   {
     "ItemCode": "100556004",
@@ -46628,10 +46604,6 @@
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -46960,10 +46932,6 @@
     "ItemName": "YERBA MATE 1x500 G."
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -47178,5 +47146,37 @@
   {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100552003",
+    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
+  },
+  {
+    "ItemCode": "203510012",
+    "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
+  },
+  {
+    "ItemCode": "204870001",
+    "ItemName": "RECORTES Y TROZOS (TRIMMINGS 70/30) CAJA 10 A 20 KG APROX"
+  },
+  {
+    "ItemCode": "202910040",
+    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 95VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "203210114",
+    "ItemName": "DESPUNTE DE HAMBURGUESA 1X1KG (MM)"
   }
 ]
