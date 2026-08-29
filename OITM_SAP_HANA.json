@@ -24484,10 +24484,6 @@
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
@@ -31714,10 +31710,6 @@
   {
     "ItemCode": "400010020",
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "400252001",
-    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
     "ItemCode": "202730029",
@@ -39644,10 +39636,6 @@
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
   },
   {
-    "ItemCode": "400250005",
-    "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
-  },
-  {
     "ItemCode": "400010008",
     "ItemName": "CERA CREMA VIRGINIA 12X340 CC"
   },
@@ -43904,10 +43892,6 @@
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
   },
   {
-    "ItemCode": "400011014",
-    "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
   },
@@ -46196,16 +46180,8 @@
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "400012003",
     "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "100902007",
@@ -47056,10 +47032,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "102560022",
     "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
   },
@@ -47070,10 +47042,6 @@
   {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "400010017",
@@ -47144,10 +47112,6 @@
     "ItemName": "GUANTE DE VINILO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -47198,5 +47162,41 @@
   {
     "ItemCode": "103650021",
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "400250005",
+    "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "400011014",
+    "ItemName": "PAÑO LIMPIA MUEBLE AMARILLO 1X1 UN. (1100751)"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "400252001",
+    "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
