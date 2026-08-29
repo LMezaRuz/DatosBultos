@@ -30712,10 +30712,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "101452006",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "400007016",
     "ItemName": "ALCOHOL GEL 6X1000 ML  JA70012"
   },
@@ -30874,10 +30870,6 @@
   {
     "ItemCode": "304760467",
     "ItemName": "LOMO LISO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "304110001",
-    "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
   },
   {
     "ItemCode": "203190012",
@@ -31474,10 +31466,6 @@
   {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "204750007",
@@ -36246,10 +36234,6 @@
   {
     "ItemCode": "204700028",
     "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "404600006",
@@ -43416,10 +43400,6 @@
     "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
@@ -43744,10 +43724,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
     "ItemCode": "103910049",
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
@@ -43986,10 +43962,6 @@
   {
     "ItemCode": "400005017",
     "ItemName": "GUANTE DE VINILO TALLA L 1X100 UN."
-  },
-  {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
   },
   {
     "ItemCode": "100050008",
@@ -45120,10 +45092,6 @@
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100050001",
-    "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
-  },
-  {
     "ItemCode": "100556004",
     "ItemName": "OREGANO ENTERO GOURMET 1X50 GR"
   },
@@ -45158,10 +45126,6 @@
   {
     "ItemCode": "400250001",
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
-  },
-  {
-    "ItemCode": "200500019",
-    "ItemName": "ESPARRAGOS 9X1 KG."
   },
   {
     "ItemCode": "101100006",
@@ -46108,10 +46072,6 @@
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -46434,10 +46394,6 @@
   {
     "ItemCode": "202910017",
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "300157034",
@@ -46880,10 +46836,6 @@
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
@@ -47198,5 +47150,53 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100050001",
+    "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304110001",
+    "ItemName": "QUESO EDAM QUILLAYES BOLA X KG (12 UN X 325 GR APROX)"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "200500019",
+    "ItemName": "ESPARRAGOS 9X1 KG."
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101452006",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
