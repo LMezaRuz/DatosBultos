@@ -32224,10 +32224,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "100852012",
-    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -32294,10 +32290,6 @@
   {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
     "ItemCode": "103850000",
@@ -32462,10 +32454,6 @@
   {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
     "ItemCode": "403250022",
@@ -36046,10 +36034,6 @@
   {
     "ItemCode": "204100016",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "102480008",
@@ -46052,10 +46036,6 @@
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "400250004",
     "ItemName": "PAPEL HIGIENICO JUMBO D.HOJA 6X250 MT  HI55024"
   },
@@ -46788,10 +46768,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
@@ -46934,10 +46910,6 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "100653003",
@@ -47140,10 +47112,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100050001",
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100852012",
+    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   }
 ]
