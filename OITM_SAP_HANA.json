@@ -32320,14 +32320,6 @@
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
   },
@@ -40392,10 +40384,6 @@
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "304760177",
     "ItemName": "PALANCA PARAGUAY CONG. LOCAL (20KG. APROX)"
   },
@@ -47032,10 +47020,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "202730053",
-    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
-  },
-  {
     "ItemCode": "202730073",
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
   },
@@ -47198,5 +47182,21 @@
   {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202730053",
+    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
   }
 ]
