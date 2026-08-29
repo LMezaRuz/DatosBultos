@@ -45608,10 +45608,6 @@
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "101200002",
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -46084,10 +46080,6 @@
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "300353112",
     "ItemName": "PUNTA GANSO KG."
   },
@@ -46498,10 +46490,6 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
     "ItemCode": "104010005",
@@ -47076,10 +47064,6 @@
     "ItemName": "MOSTAZA 10X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -47098,10 +47082,6 @@
   {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "200003002",
@@ -47198,5 +47178,25 @@
   {
     "ItemCode": "204530018",
     "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   }
 ]
