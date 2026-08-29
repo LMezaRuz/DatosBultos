@@ -31652,10 +31652,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "302960000",
-    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
-  },
-  {
     "ItemCode": "100854015",
     "ItemName": "TIKA PATAGONIA 14 X 150 GR"
   },
@@ -36174,10 +36170,6 @@
   {
     "ItemCode": "600001003",
     "ItemName": "NARANJA KG."
-  },
-  {
-    "ItemCode": "300353078",
-    "ItemName": "HUACHALOMO KG. (NV)"
   },
   {
     "ItemCode": "400003004",
@@ -46912,14 +46904,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760162",
-    "ItemName": "POSTA NEGRA PARAGUAY LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "304760488",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760528",
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -46984,10 +46968,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100302002",
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
@@ -47048,10 +47028,6 @@
     "ItemName": "PATE DE JAMON 16X125 GRS"
   },
   {
-    "ItemCode": "303210014",
-    "ItemName": "PLATEADA KG (P&H)"
-  },
-  {
     "ItemCode": "200500079",
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
@@ -47068,36 +47044,8 @@
     "ItemName": "VIENESAS MODINGER 1X1 KG"
   },
   {
-    "ItemCode": "200460052",
-    "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "300351009",
-    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
-  },
-  {
-    "ItemCode": "300351011",
-    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
-  },
-  {
-    "ItemCode": "304760447",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "304850017",
@@ -47168,10 +47116,6 @@
     "ItemName": "PATE DE CERDO 16x125 GRS"
   },
   {
-    "ItemCode": "300351023",
-    "ItemName": "PATE DE TERNERA 16x125 GRS"
-  },
-  {
     "ItemCode": "200460012",
     "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
   },
@@ -47198,5 +47142,61 @@
   {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
+  },
+  {
+    "ItemCode": "300353078",
+    "ItemName": "HUACHALOMO KG. (NV)"
+  },
+  {
+    "ItemCode": "200460052",
+    "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "300351009",
+    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
+  },
+  {
+    "ItemCode": "300351011",
+    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
+  },
+  {
+    "ItemCode": "300351023",
+    "ItemName": "PATE DE TERNERA 16x125 GRS"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
+  },
+  {
+    "ItemCode": "303210014",
+    "ItemName": "PLATEADA KG (P&H)"
+  },
+  {
+    "ItemCode": "304760162",
+    "ItemName": "POSTA NEGRA PARAGUAY LOCAL (20KG. APROX)"
+  },
+  {
+    "ItemCode": "304760447",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "304760488",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   }
 ]
