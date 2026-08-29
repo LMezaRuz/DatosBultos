@@ -24056,10 +24056,6 @@
     "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "103910036",
     "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
   },
@@ -24526,10 +24522,6 @@
   {
     "ItemCode": "103650002",
     "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "103650000",
-    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
   },
   {
     "ItemCode": "204100010",
@@ -30508,10 +30500,6 @@
     "ItemName": "PECTINA X-58 14 X 500 GR"
   },
   {
-    "ItemCode": "202730044",
-    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
-  },
-  {
     "ItemCode": "202730049",
     "ItemName": "MUFFIN RELLENO DE CARAMELO 20X95 GR"
   },
@@ -31430,10 +31418,6 @@
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "103200000",
@@ -43900,10 +43884,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "103650001",
-    "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
-  },
-  {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
@@ -45008,10 +44988,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 25X200 GRS"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "100350013",
     "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 6X1 KG"
   },
@@ -45938,10 +45914,6 @@
   {
     "ItemCode": "100350003",
     "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "101201048",
@@ -47184,10 +47156,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "202730044",
+    "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
+  },
+  {
+    "ItemCode": "103650001",
+    "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "103650000",
+    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
