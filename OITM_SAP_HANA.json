@@ -42436,10 +42436,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
   },
@@ -44804,10 +44800,6 @@
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
   {
-    "ItemCode": "101403003",
-    "ItemName": "PALMITO ENTERO 12X800 GR NAL"
-  },
-  {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
@@ -44886,10 +44878,6 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
     "ItemCode": "103700004",
@@ -45090,10 +45078,6 @@
   {
     "ItemCode": "304760592",
     "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103880036",
-    "ItemName": "MAYONESA POUCH DISPENSADOR HEINZ 4X3 KG"
   },
   {
     "ItemCode": "104540004",
@@ -45406,10 +45390,6 @@
   {
     "ItemCode": "104670004",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
   {
     "ItemCode": "304460002",
@@ -46612,10 +46592,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "302960000",
-    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
-  },
-  {
     "ItemCode": "200462002",
     "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
   },
@@ -47044,10 +47020,6 @@
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -47140,10 +47112,6 @@
     "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "202730045",
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "103880036",
+    "ItemName": "MAYONESA POUCH DISPENSADOR HEINZ 4X3 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101403003",
+    "ItemName": "PALMITO ENTERO 12X800 GR NAL"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
   }
 ]
