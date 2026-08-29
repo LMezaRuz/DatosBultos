@@ -23428,10 +23428,6 @@
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
   {
-    "ItemCode": "100350003",
-    "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "102740005",
     "ItemName": "BOLSAS FACILITA (25X 38 CM) 1X100 UN"
   },
@@ -42864,14 +42860,6 @@
     "ItemName": "JUGO POLVO GUINDA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100352003",
-    "ItemName": "CAFE BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "100352005",
-    "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
     "ItemCode": "100951003",
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
@@ -42910,10 +42898,6 @@
   {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
-  },
-  {
-    "ItemCode": "100352004",
-    "ItemName": "CAFE INTENSO EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
     "ItemCode": "100557001",
@@ -44618,10 +44602,6 @@
   {
     "ItemCode": "101305003",
     "ItemName": "SALSA DE NARANJA FOOD SERVICE 1X1 LT."
-  },
-  {
-    "ItemCode": "100352008",
-    "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
     "ItemCode": "100355002",
@@ -47198,5 +47178,25 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "100352003",
+    "ItemName": "CAFE BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352004",
+    "ItemName": "CAFE INTENSO EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352005",
+    "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100352008",
+    "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100350003",
+    "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   }
 ]
