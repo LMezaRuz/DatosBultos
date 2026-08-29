@@ -23668,10 +23668,6 @@
     "ItemName": "CHAMPIÑON BANDEJA"
   },
   {
-    "ItemCode": "203430015",
-    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "104290008",
     "ItemName": "CREMA DE LENTEJAS WASIL 16X380 G"
   },
@@ -39732,10 +39728,6 @@
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
   },
@@ -42496,10 +42488,6 @@
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100450002",
     "ItemName": "JENGIBRE ENCURTIDO ROSADO 1X1 KG"
   },
@@ -42924,10 +42912,6 @@
     "ItemName": "CANELA MOLIDA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "204390008",
     "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
   },
@@ -43204,14 +43188,6 @@
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "203430014",
-    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
   },
@@ -43338,10 +43314,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
     "ItemCode": "104670067",
@@ -44920,10 +44892,6 @@
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100558004",
     "ItemName": "PIMIENTA NEGRA ENTERA 1X1 KG"
   },
@@ -45828,10 +45796,6 @@
     "ItemName": "PRIETAS 1x250 g."
   },
   {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
     "ItemCode": "300353004",
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
@@ -45902,10 +45866,6 @@
   {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "101305005",
@@ -46640,10 +46600,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "100304054",
     "ItemName": "SPRIM NECTAR BERRIES 24X190 ML."
   },
@@ -47132,10 +47088,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -47198,5 +47150,53 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "203430014",
+    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "203430015",
+    "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   }
 ]
