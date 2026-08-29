@@ -23440,10 +23440,6 @@
     "ItemName": "BOLSAS FACILITA (25X 38 CM) 1X100 UN"
   },
   {
-    "ItemCode": "104070012",
-    "ItemName": "PICKLE MAIFRE 10X1 KG"
-  },
-  {
     "ItemCode": "204100018",
     "ItemName": "FILETE DE VIDRIOLA DE JUAN FERNANDEZ 600 - 2500 GR (10 KG APROX)"
   },
@@ -36396,10 +36392,6 @@
     "ItemName": "MEDIALUNA DE MANTEQUILLA PREMIUM 168X45 GR"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "403890000",
     "ItemName": "STICKER WRAPS DOGGIS 10X1000 UN"
   },
@@ -40016,10 +40008,6 @@
     "ItemName": "PEREJIL 1x125 g."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -43440,10 +43428,6 @@
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
   {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -43780,10 +43764,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -44050,10 +44030,6 @@
   {
     "ItemCode": "300156010",
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
-  },
-  {
-    "ItemCode": "100800002",
-    "ItemName": "HUESILLO FANCY 1X1 KG"
   },
   {
     "ItemCode": "100557010",
@@ -46056,10 +46032,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "200302015",
-    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
     "ItemCode": "300152009",
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
@@ -46174,10 +46146,6 @@
   {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "101201048",
@@ -46402,10 +46370,6 @@
   {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "102660000",
@@ -46680,10 +46644,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -46698,10 +46658,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "200500036",
-    "ItemName": "POROTO GRANADO 15X1 KG"
   },
   {
     "ItemCode": "204180032",
@@ -46854,10 +46810,6 @@
   {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "200500017",
@@ -47198,5 +47150,53 @@
   {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "104070012",
+    "ItemName": "PICKLE MAIFRE 10X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "200302015",
+    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
+  },
+  {
+    "ItemCode": "200500036",
+    "ItemName": "POROTO GRANADO 15X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "100800002",
+    "ItemName": "HUESILLO FANCY 1X1 KG"
   }
 ]
