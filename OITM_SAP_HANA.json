@@ -31912,10 +31912,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "103990003",
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
@@ -46184,10 +46180,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
@@ -47198,5 +47190,13 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   }
 ]
