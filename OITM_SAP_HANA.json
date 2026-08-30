@@ -40136,10 +40136,6 @@
     "ItemName": "SAL PARRILLERA LOBOS 15X750 G"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -42708,10 +42704,6 @@
     "ItemName": "AGUA MINERAL SIN GAS BOTELLA DESECHABLE VITAL 12X330 CC."
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "200500042",
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
   },
@@ -43390,10 +43382,6 @@
   {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "200100003",
-    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
   {
     "ItemCode": "101000002",
@@ -44836,10 +44824,6 @@
     "ItemName": "COBERTURA PARA HELADOS SICAO SEMI AMARGO BALDE 10 KG (YYD-B21)"
   },
   {
-    "ItemCode": "200100011",
-    "ItemName": "HELADO SAN FCO. FRAMBUESA (AGUA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "300001004",
     "ItemName": "CHOCOLATE CALLEBAUT ORIGEN MADAGASCAR 67% 4X2.5 KG"
   },
@@ -45264,10 +45248,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
   },
@@ -45302,10 +45282,6 @@
   {
     "ItemCode": "200303014",
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
-  },
-  {
-    "ItemCode": "200100008",
-    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
   },
   {
     "ItemCode": "200051001",
@@ -46936,10 +46912,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
@@ -47096,10 +47068,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "304410001",
-    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
-  },
-  {
     "ItemCode": "103830005",
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "200100011",
+    "ItemName": "HELADO SAN FCO. FRAMBUESA (AGUA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200100003",
+    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
+  },
+  {
+    "ItemCode": "200100008",
+    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "304410001",
+    "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   }
 ]
