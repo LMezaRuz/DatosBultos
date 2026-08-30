@@ -32308,10 +32308,6 @@
     "ItemName": "CALDO MAGGI VERDURA 30X8X11 GR"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
@@ -45928,10 +45924,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -46888,20 +46880,8 @@
     "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101150038",
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
   },
   {
     "ItemCode": "101150051",
@@ -46910,14 +46890,6 @@
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "202910017",
@@ -47132,10 +47104,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
