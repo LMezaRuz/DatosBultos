@@ -31560,16 +31560,8 @@
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
   {
-    "ItemCode": "101251002",
-    "ItemName": "TRIGO MOTE 1X1 KG"
-  },
-  {
     "ItemCode": "304440006",
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
-  },
-  {
-    "ItemCode": "100800002",
-    "ItemName": "HUESILLO FANCY 1X1 KG"
   },
   {
     "ItemCode": "204300021",
@@ -31722,10 +31714,6 @@
   {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
-    "ItemCode": "104060006",
-    "ItemName": "CHANCACA IANSA 20X450GR"
   },
   {
     "ItemCode": "104010035",
@@ -47198,5 +47186,17 @@
   {
     "ItemCode": "204180032",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "100800002",
+    "ItemName": "HUESILLO FANCY 1X1 KG"
+  },
+  {
+    "ItemCode": "104060006",
+    "ItemName": "CHANCACA IANSA 20X450GR"
+  },
+  {
+    "ItemCode": "101251002",
+    "ItemName": "TRIGO MOTE 1X1 KG"
   }
 ]
