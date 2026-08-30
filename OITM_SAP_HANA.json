@@ -28212,10 +28212,6 @@
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
-    "ItemCode": "101357003",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
-  },
-  {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
@@ -28554,10 +28550,6 @@
   {
     "ItemCode": "101007022",
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "103250002",
-    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
   {
     "ItemCode": "304760318",
@@ -31538,10 +31530,6 @@
   {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
     "ItemCode": "103210006",
@@ -40440,10 +40428,6 @@
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -44300,10 +44284,6 @@
     "ItemName": "CAFE NESTLE TRADICION (LATA) 1X170 GR"
   },
   {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "100201014",
     "ItemName": "AZUCAR SACHET IANSA (STICK) 800X5G"
   },
@@ -46120,10 +46100,6 @@
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
   {
-    "ItemCode": "200462109",
-    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -46316,16 +46292,8 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "100202002",
@@ -46760,10 +46728,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "303850003",
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
@@ -46928,10 +46892,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "203200047",
     "ItemName": "MILANESA DE POLLO SADIA 4X2,5 KG"
   },
@@ -46974,10 +46934,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "100450003",
@@ -47148,10 +47104,6 @@
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
@@ -47198,5 +47150,53 @@
   {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101357003",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "200462109",
+    "ItemName": "MOLIDA CONGELADA 4% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "103250002",
+    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
