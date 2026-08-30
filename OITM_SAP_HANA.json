@@ -40712,10 +40712,6 @@
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
   },
@@ -40822,10 +40818,6 @@
   {
     "ItemCode": "202910069",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
     "ItemCode": "200250003",
@@ -44748,10 +44740,6 @@
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "204300080",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. SEARA 1X15 KG"
   },
@@ -44858,10 +44846,6 @@
   {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "104080006",
@@ -46608,10 +46592,6 @@
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
     "ItemCode": "100302005",
     "ItemName": "COCA COLA LIGHT 6X1,5 LT"
   },
@@ -46798,10 +46778,6 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "200500008",
@@ -47198,5 +47174,29 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   }
 ]
