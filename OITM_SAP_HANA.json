@@ -40736,10 +40736,6 @@
     "ItemName": "QUESO GAUDA CALO PIEZA 2,5 KG (APROX)"
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "103520009",
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
@@ -44796,10 +44792,6 @@
     "ItemName": "PESTO 1X190 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "204300018",
     "ItemName": "PECHUGA DE POLLO DESHUESADA S/PIEL 18 KG. LOCAL"
   },
@@ -47198,5 +47190,13 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   }
 ]
