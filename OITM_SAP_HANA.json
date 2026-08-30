@@ -32272,10 +32272,6 @@
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "100151019",
     "ItemName": "ZUCOSOS CEREAL 16X700 GR"
   },
@@ -46080,10 +46076,6 @@
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
@@ -46584,16 +46576,8 @@
     "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "203200039",
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100355003",
@@ -46714,10 +46698,6 @@
   {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "103940023",
@@ -47198,5 +47178,25 @@
   {
     "ItemCode": "300001010",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG (W2-U73)"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
