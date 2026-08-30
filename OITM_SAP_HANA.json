@@ -23324,10 +23324,6 @@
     "ItemName": "PLATEADA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "104210008",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "204530010",
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
@@ -46008,10 +46004,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT GOLD 4X2,5 KG (CHK-U75)"
   },
   {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
   },
@@ -46316,10 +46308,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "202720037",
     "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
   },
@@ -46448,16 +46436,8 @@
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
-  },
-  {
     "ItemCode": "100852001",
     "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "100852007",
@@ -46742,14 +46722,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "400105004",
@@ -47108,18 +47080,6 @@
     "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103650024",
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
@@ -47198,5 +47158,45 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104210008",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   }
 ]
