@@ -24332,10 +24332,6 @@
     "ItemName": "AJI PEBRE JB PET 24X240 GR"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "302890031",
     "ItemName": "PRIETA ARTESANAL 15X1 KG"
   },
@@ -39420,10 +39416,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "100852002",
     "ItemName": "GALLETA KUKY CLASICA 1X 120g"
   },
@@ -40266,10 +40258,6 @@
   {
     "ItemCode": "100302003",
     "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
   {
     "ItemCode": "400301047",
@@ -43556,10 +43544,6 @@
     "ItemName": "LECHE DESCREMADA UHT COLUN 6X200 CC"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
@@ -43830,10 +43814,6 @@
   {
     "ItemCode": "100101016",
     "ItemName": "ARROZ G2 LARGO ANCHO MIRAFLORES 10X1 KG (571657)"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "100751010",
@@ -46864,10 +46844,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -46898,10 +46874,6 @@
   {
     "ItemCode": "100557010",
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "300157007",
@@ -47198,5 +47170,33 @@
   {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
   }
 ]
