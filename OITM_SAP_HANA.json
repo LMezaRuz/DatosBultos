@@ -42972,10 +42972,6 @@
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
   {
-    "ItemCode": "100903001",
-    "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
@@ -46300,10 +46296,6 @@
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "100101002",
-    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "204530004",
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
@@ -46488,10 +46480,6 @@
     "ItemName": "NUGGETS CROCANTE DE POLLO ALEGRA 3X2 KG"
   },
   {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
-  },
-  {
     "ItemCode": "300100001",
     "ItemName": "PULPA DILUIDA DE NARANJA BIDON 1X5 LT"
   },
@@ -46502,10 +46490,6 @@
   {
     "ItemCode": "103980004",
     "ItemName": "CABALLA AL NATURAL CAJA 24 UNIDADES (CAMANCHACA)"
-  },
-  {
-    "ItemCode": "204530018",
-    "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
   },
   {
     "ItemCode": "302960001",
@@ -47198,5 +47182,21 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "204530018",
+    "ItemName": "HAMBURGUESA SALMON ATLAN. STAN. 30X100GR (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "100101002",
+    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100903001",
+    "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   }
 ]
