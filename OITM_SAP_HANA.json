@@ -28392,10 +28392,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -44048,10 +44044,6 @@
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "400252004",
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
   },
@@ -44226,10 +44218,6 @@
   {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "100653004",
@@ -44542,10 +44530,6 @@
   {
     "ItemCode": "202730015",
     "ItemName": "DONUT AZUCARADA 72X49 GR (38848)"
-  },
-  {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
     "ItemCode": "302890048",
@@ -47152,10 +47136,6 @@
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
@@ -47166,10 +47146,6 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100557006",
@@ -47198,5 +47174,29 @@
   {
     "ItemCode": "203210102",
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   }
 ]
