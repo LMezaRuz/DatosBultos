@@ -24388,10 +24388,6 @@
     "ItemName": "AJI PEBRE JB PET 24X240 GR"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "302890031",
     "ItemName": "PRIETA ARTESANAL 15X1 KG"
   },
@@ -39984,10 +39980,6 @@
     "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "100750006",
-    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -44108,10 +44100,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
@@ -44312,10 +44300,6 @@
     "ItemName": "JALEA FRUTILLA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   },
@@ -44338,10 +44322,6 @@
   {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "100557019",
@@ -45808,10 +45788,6 @@
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
-    "ItemCode": "400001007",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -46620,10 +46596,6 @@
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
   {
-    "ItemCode": "202910034",
-    "ItemName": "COSTILLAS BABY BACK RIBS 20-24 (OZ) (10 KG APROX)"
-  },
-  {
     "ItemCode": "203550001",
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
@@ -47198,5 +47170,33 @@
   {
     "ItemCode": "202730041",
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
+  },
+  {
+    "ItemCode": "400001007",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100750006",
+    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910034",
+    "ItemName": "COSTILLAS BABY BACK RIBS 20-24 (OZ) (10 KG APROX)"
   }
 ]
