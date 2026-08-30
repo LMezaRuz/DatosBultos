@@ -23756,10 +23756,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. BRASIL AURORA 6X2 KG"
   },
   {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
     "ItemCode": "203430018",
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
@@ -28214,10 +28210,6 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
-  },
-  {
-    "ItemCode": "103670004",
-    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
   },
   {
     "ItemCode": "303630000",
@@ -35730,10 +35722,6 @@
   {
     "ItemCode": "203210105",
     "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "300353079",
@@ -43300,10 +43288,6 @@
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101250002",
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
@@ -45844,10 +45828,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
   },
@@ -46920,10 +46900,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
@@ -47198,5 +47174,29 @@
   {
     "ItemCode": "204530010",
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103670004",
+    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
