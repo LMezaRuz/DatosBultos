@@ -23408,10 +23408,6 @@
     "ItemName": "TE LIPTON CLEAN GREEN CITRUS 12 X 20 BLS"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "102970000",
     "ItemName": "CHOCOLATE NEUCOBER BLANCO 29% MONEDAS 6X1 KG"
   },
@@ -23640,10 +23636,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "103660000",
-    "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
-  },
-  {
     "ItemCode": "600002034",
     "ItemName": "POMELO KG."
   },
@@ -23746,10 +23738,6 @@
   {
     "ItemCode": "600002024",
     "ItemName": "CHAMPIÑON BANDEJA"
-  },
-  {
-    "ItemCode": "104210017",
-    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
   {
     "ItemCode": "104290008",
@@ -28280,10 +28268,6 @@
     "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
   },
   {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103920003",
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
@@ -28298,10 +28282,6 @@
   {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
     "ItemCode": "100450007",
@@ -40524,10 +40504,6 @@
     "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
   },
   {
-    "ItemCode": "103650022",
-    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "400301047",
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
@@ -40554,10 +40530,6 @@
   {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
     "ItemCode": "202910069",
@@ -44372,10 +44344,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "100300009",
-    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "203210042",
     "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "100351009",
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
+  },
+  {
+    "ItemCode": "100300009",
+    "ItemName": "AGUA MINERAL CON GS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650022",
+    "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103660000",
+    "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
+  },
+  {
+    "ItemCode": "104210017",
+    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   }
 ]
