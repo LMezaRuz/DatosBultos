@@ -31056,10 +31056,6 @@
     "ItemName": "TAPAPECHO KG (NV)"
   },
   {
-    "ItemCode": "204380031",
-    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "304760490",
     "ItemName": "GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -31374,10 +31370,6 @@
   {
     "ItemCode": "203200041",
     "ItemName": "TIRAS DE PECHUGA DE POLLO COCIDAS CONG. 12X400 GR"
-  },
-  {
-    "ItemCode": "202820011",
-    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
   },
   {
     "ItemCode": "304760452",
@@ -35890,10 +35882,6 @@
   {
     "ItemCode": "300351019",
     "ItemName": "MORTADELA JAMONADA 1x150 GRS"
-  },
-  {
-    "ItemCode": "203210124",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
   },
   {
     "ItemCode": "202730086",
@@ -44600,10 +44588,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "200051001",
-    "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "200457001",
     "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
@@ -44622,10 +44606,6 @@
   {
     "ItemCode": "103880008",
     "ItemName": "MAYONESA TRAVERSO DOYPACK 10X900GR"
-  },
-  {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
   {
     "ItemCode": "300353104",
@@ -46068,10 +46048,6 @@
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
@@ -46632,10 +46608,6 @@
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
@@ -47144,10 +47116,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -47198,5 +47166,37 @@
   {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "202820011",
+    "ItemName": "CAMARON IMP CHINO COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "203210124",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200051001",
+    "ItemName": "PULPA DE CHIRIMOYA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380031",
+    "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
