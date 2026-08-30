@@ -45872,10 +45872,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "101301001",
     "ItemName": "CHOCOLATE GRANULADO DECORACION 1X1 KG."
   },
@@ -46848,10 +46844,6 @@
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -47198,5 +47190,13 @@
   {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   }
 ]
