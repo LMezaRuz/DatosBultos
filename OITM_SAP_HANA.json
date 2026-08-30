@@ -24104,10 +24104,6 @@
     "ItemName": "LECHE LONCOLECHE BREAK CARAMEL MACCHIATO 18X250"
   },
   {
-    "ItemCode": "100854010",
-    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
-  },
-  {
     "ItemCode": "104610006",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
@@ -28420,10 +28416,6 @@
     "ItemName": "ESPARRAGOS 9X1 KG."
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
@@ -30988,10 +30980,6 @@
     "ItemName": "ASADO DEL CARNICERO PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "203190045",
     "ItemName": "LOMITO CERVEZA 6X1 KG (MP)"
   },
@@ -31022,10 +31010,6 @@
   {
     "ItemCode": "300403007",
     "ItemName": "QUESO CREMA 1X226 GR"
-  },
-  {
-    "ItemCode": "102500002",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
   {
     "ItemCode": "103700005",
@@ -31114,10 +31098,6 @@
   {
     "ItemCode": "300154015",
     "ItemName": "MARGARINA SOPROLE PAN 1X250 GR."
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "304760046",
@@ -39976,10 +39956,6 @@
     "ItemName": "KIWI KG."
   },
   {
-    "ItemCode": "100852001",
-    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
-  },
-  {
     "ItemCode": "600002004",
     "ItemName": "AJI VERDE KG."
   },
@@ -40852,10 +40828,6 @@
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "104020000",
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
@@ -40870,10 +40842,6 @@
   {
     "ItemCode": "101201035",
     "ItemName": "BAVAROIS DE NARANJA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "203430014",
-    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "100302001",
@@ -43210,10 +43178,6 @@
   {
     "ItemCode": "101100020",
     "ItemName": "CORBATA 1X5 KG"
-  },
-  {
-    "ItemCode": "100852007",
-    "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
   },
   {
     "ItemCode": "100752001",
@@ -46144,14 +46108,6 @@
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
   },
   {
-    "ItemCode": "101357008",
-    "ItemName": "SALSA DE SOYA LA PRIMERA 6X1 LT."
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "104670010",
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
@@ -46264,16 +46220,8 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
-  },
-  {
     "ItemCode": "103520007",
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "100852016",
@@ -47198,5 +47146,57 @@
   {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100854010",
+    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "100852001",
+    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100852007",
+    "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "102500002",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
+  },
+  {
+    "ItemCode": "101357008",
+    "ItemName": "SALSA DE SOYA LA PRIMERA 6X1 LT."
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "203430014",
+    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   }
 ]
