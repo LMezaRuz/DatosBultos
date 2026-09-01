@@ -24284,10 +24284,6 @@
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
@@ -31296,10 +31292,6 @@
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
@@ -32114,10 +32106,6 @@
   {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "204100016",
-    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
   {
     "ItemCode": "103210000",
@@ -39988,10 +39976,6 @@
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
     "ItemCode": "100601004",
     "ItemName": "CHORITOS NATURAL 24x190 gr"
   },
@@ -40440,10 +40424,6 @@
     "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100750006",
-    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
-  },
-  {
     "ItemCode": "300157026",
     "ItemName": "YOGURT DANONE LIGHT & FREE VAINILLA CAJA 48X115GR"
   },
@@ -40614,10 +40594,6 @@
   {
     "ItemCode": "300157045",
     "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
-  },
-  {
-    "ItemCode": "300157044",
-    "ItemName": "YOGURT PROTEIN SABOR NATURAL ENDULZADO LONCOLECHE 24X140 GR"
   },
   {
     "ItemCode": "300157046",
@@ -44372,10 +44348,6 @@
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -46308,10 +46280,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "200459004",
     "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
   },
@@ -46614,10 +46582,6 @@
   {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "200201001",
-    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
     "ItemCode": "300351017",
@@ -47172,10 +47136,6 @@
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "300154017",
     "ItemName": "MARGARINA CALO 72X125 GR"
   },
@@ -47262,5 +47222,45 @@
   {
     "ItemCode": "300404006",
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "204100016",
+    "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300157044",
+    "ItemName": "YOGURT PROTEIN SABOR NATURAL ENDULZADO LONCOLECHE 24X140 GR"
+  },
+  {
+    "ItemCode": "200201001",
+    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100750006",
+    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   }
 ]
