@@ -28312,10 +28312,6 @@
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "303660007",
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
@@ -28406,10 +28402,6 @@
   {
     "ItemCode": "202820002",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "103940021",
-    "ItemName": "MOSTAZA POUCH DISPENSADOR KRAFT 6X2 KG"
   },
   {
     "ItemCode": "101452003",
@@ -46412,10 +46404,6 @@
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -46932,10 +46920,6 @@
     "ItemName": "CEBOLLA CUBO F/SERVICE 12 UN X 1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -47262,5 +47246,21 @@
   {
     "ItemCode": "204700030",
     "ItemName": "TORTA DE PROFITEROLES 12 PORCIONES"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "103940021",
+    "ItemName": "MOSTAZA POUCH DISPENSADOR KRAFT 6X2 KG"
   }
 ]
