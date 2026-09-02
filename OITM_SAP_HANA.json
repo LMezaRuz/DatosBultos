@@ -28280,10 +28280,6 @@
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
   {
-    "ItemCode": "202730045",
-    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
-  },
-  {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
@@ -31464,10 +31460,6 @@
     "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
   },
   {
-    "ItemCode": "103200000",
-    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
-  },
-  {
     "ItemCode": "302960002",
     "ItemName": "CHOCOLATE SUC SICAO SEMI AMARGO GANACHE 12X800 GR (ISD-A99)"
   },
@@ -31666,10 +31658,6 @@
   {
     "ItemCode": "202910027",
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
-  },
-  {
-    "ItemCode": "200200020",
-    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
     "ItemCode": "200203013",
@@ -32106,10 +32094,6 @@
   {
     "ItemCode": "104010055",
     "ItemName": "SALSA TERIYAKI 12X250 GR"
-  },
-  {
-    "ItemCode": "100651009",
-    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
     "ItemCode": "103910018",
@@ -42592,10 +42576,6 @@
     "ItemName": "TE TWININGS DARJEELING 1X25 UN"
   },
   {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
-  },
-  {
     "ItemCode": "100450007",
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
@@ -42830,10 +42810,6 @@
   {
     "ItemCode": "100854017",
     "ItemName": "TIKA CHILOE 14 X 150 GR"
-  },
-  {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
   {
     "ItemCode": "100852019",
@@ -43696,10 +43672,6 @@
     "ItemName": "POLENTA 1X1 KG"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
@@ -43910,10 +43882,6 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
     "ItemCode": "100751051",
@@ -47128,10 +47096,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
   },
@@ -47174,10 +47138,6 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "101403004",
@@ -47262,5 +47222,45 @@
   {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "200200020",
+    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "202730045",
+    "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "100651009",
+    "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
+  },
+  {
+    "ItemCode": "103200000",
+    "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   }
 ]
