@@ -36020,10 +36020,6 @@
     "ItemName": "REPOLLO 1x1 un."
   },
   {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
     "ItemCode": "600002020",
     "ItemName": "ZANAHORIA KG."
   },
@@ -40568,10 +40564,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "100302007",
     "ItemName": "COCA COLA LATA 6X220 CC."
   },
@@ -44284,10 +44276,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
   },
@@ -46640,10 +46628,6 @@
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
@@ -47076,10 +47060,6 @@
     "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -47262,5 +47242,25 @@
   {
     "ItemCode": "103540027",
     "ItemName": "MASA DE EMPANADA 1X1 UN"
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   }
 ]
