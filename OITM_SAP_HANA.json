@@ -36592,10 +36592,6 @@
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "104210015",
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
@@ -44228,10 +44224,6 @@
     "ItemName": "GELATINA EN HOJAS 1X12 GR."
   },
   {
-    "ItemCode": "103110004",
-    "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
-  },
-  {
     "ItemCode": "200200018",
     "ItemName": "MUFFIN DE ARANDANOS CONG. 9X105 GR"
   },
@@ -44354,10 +44346,6 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "200302007",
@@ -46304,10 +46292,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "103940021",
-    "ItemName": "MOSTAZA POUCH DISPENSADOR KRAFT 6X2 KG"
-  },
-  {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
@@ -47314,5 +47298,21 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "103940021",
+    "ItemName": "MOSTAZA POUCH DISPENSADOR KRAFT 6X2 KG"
+  },
+  {
+    "ItemCode": "103110004",
+    "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   }
 ]
