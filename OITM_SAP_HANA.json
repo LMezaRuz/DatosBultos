@@ -28512,10 +28512,6 @@
     "ItemName": "CHOCOLATE REAL SICAO BLANCO 33% 10X1 KG (CHW-A05)"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "300351008",
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
   },
@@ -31164,10 +31160,6 @@
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
   {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "102710018",
     "ItemName": "BEBIDA VEGETAL BARISTA COCO VILAY 12X1 LT"
   },
@@ -32118,10 +32110,6 @@
   {
     "ItemCode": "400301070",
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
-  },
-  {
-    "ItemCode": "304760485",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
     "ItemCode": "304760484",
@@ -35754,10 +35742,6 @@
   {
     "ItemCode": "100700012",
     "ItemName": "CREMA DE CHOCLO 20X79 GR"
-  },
-  {
-    "ItemCode": "100701003",
-    "ItemName": "SOPA POLLO FIDEOS 20X70 GR"
   },
   {
     "ItemCode": "100601004",
@@ -45080,20 +45064,12 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "100701006",
-    "ItemName": "SOPA DE COSTILLA 20X60 GR"
-  },
-  {
     "ItemCode": "100654004",
     "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
   },
   {
     "ItemCode": "100701002",
     "ItemName": "SOPA POLLO SEMOLA 20X68 GR"
-  },
-  {
-    "ItemCode": "100251007",
-    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
   },
   {
     "ItemCode": "404360007",
@@ -46224,10 +46200,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -46286,10 +46258,6 @@
   {
     "ItemCode": "202910070",
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "101200005",
@@ -46438,10 +46406,6 @@
   {
     "ItemCode": "304760193",
     "ItemName": "ASADO CARNICERO BRASIL CONG. LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "200307011",
-    "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
     "ItemCode": "100902007",
@@ -46650,10 +46614,6 @@
   {
     "ItemCode": "104670097",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "302890006",
@@ -46926,10 +46886,6 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "101353020",
@@ -47322,5 +47278,49 @@
   {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "200307011",
+    "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "100701003",
+    "ItemName": "SOPA POLLO FIDEOS 20X70 GR"
+  },
+  {
+    "ItemCode": "100701006",
+    "ItemName": "SOPA DE COSTILLA 20X60 GR"
+  },
+  {
+    "ItemCode": "100251007",
+    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "304760485",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   }
 ]
