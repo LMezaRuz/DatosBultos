@@ -39980,14 +39980,6 @@
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
   {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
-    "ItemCode": "200307010",
-    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
     "ItemCode": "101353031",
     "ItemName": "MAYONESA AL AJO AGROSILVA 12X980 GRS"
   },
@@ -47108,10 +47100,6 @@
     "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -47208,10 +47196,6 @@
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "304760552",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -47264,30 +47248,6 @@
     "ItemName": "ABASTERO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "300157041",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "202910060",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "300405004",
-    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -47316,11 +47276,51 @@
     "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
   },
   {
+    "ItemCode": "202910060",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
+  },
+  {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
   },
   {
     "ItemCode": "400301070",
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "300405004",
+    "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "300157041",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "200307010",
+    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
   }
 ]
