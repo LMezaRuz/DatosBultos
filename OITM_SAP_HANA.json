@@ -23676,18 +23676,6 @@
     "ItemName": "CAFE ADDESO EXCLUSIVO EN CAPSULA COMPATIBLE (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "202720043",
-    "ItemName": "MUFFIN VAINILLA SIN AZUCAR 24X90 GR"
-  },
-  {
-    "ItemCode": "202720042",
-    "ItemName": "MUFFIN ARANDANOS SIN AZUCAR 24X95 GR"
-  },
-  {
-    "ItemCode": "204330000",
-    "ItemName": "VOLCAN DE DULCE DE LECHE 24X80 GR"
-  },
-  {
     "ItemCode": "200454009",
     "ItemName": "PERNIL MANO CERDO ALEMANIA (10 KGS APROX)"
   },
@@ -32042,10 +32030,6 @@
   {
     "ItemCode": "300157033",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
-    "ItemCode": "101100066",
-    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "104570014",
@@ -46696,10 +46680,6 @@
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -47322,5 +47302,25 @@
   {
     "ItemCode": "304760485",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101100066",
+    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "202720043",
+    "ItemName": "MUFFIN VAINILLA SIN AZUCAR 24X90 GR"
+  },
+  {
+    "ItemCode": "202720042",
+    "ItemName": "MUFFIN ARANDANOS SIN AZUCAR 24X95 GR"
+  },
+  {
+    "ItemCode": "204330000",
+    "ItemName": "VOLCAN DE DULCE DE LECHE 24X80 GR"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
   }
 ]
