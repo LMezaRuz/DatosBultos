@@ -46500,10 +46500,6 @@
     "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
     "ItemCode": "200304002",
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
   },
@@ -46586,10 +46582,6 @@
   {
     "ItemCode": "101007018",
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "103650002",
@@ -47288,14 +47280,6 @@
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
   },
   {
-    "ItemCode": "304760552",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
-  },
-  {
     "ItemCode": "304760452",
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX"
   },
@@ -47312,15 +47296,31 @@
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "202820020",
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
     "ItemCode": "202910060",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760552",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   }
 ]
