@@ -24004,10 +24004,6 @@
     "ItemName": "MANJAR LONCOLECHE DP 12X750 GR"
   },
   {
-    "ItemCode": "101201013",
-    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -42984,10 +42980,6 @@
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
   {
-    "ItemCode": "101201017",
-    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "400100008",
     "ItemName": "ROLLO PREPICADO REUTILIZABLE 1X106 MT (TO70036)"
   },
@@ -44080,10 +44072,6 @@
     "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
@@ -44346,10 +44334,6 @@
   {
     "ItemCode": "101009009",
     "ItemName": "LONCO PROTEIN MILK CAPP 12X1 LTS"
-  },
-  {
-    "ItemCode": "101201023",
-    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "101305004",
@@ -46108,10 +46092,6 @@
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201044",
-    "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
@@ -47362,5 +47342,25 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201013",
+    "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201044",
+    "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101201023",
+    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201017",
+    "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
   }
 ]
