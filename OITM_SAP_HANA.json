@@ -23772,10 +23772,6 @@
     "ItemName": "QUESO MANTECOSO LAMINADO ARTESANOS DEL SUR 16X400 GR"
   },
   {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "202910072",
     "ItemName": "MALAYITA DE CERDO 5X1 KG"
   },
@@ -36088,10 +36084,6 @@
     "ItemName": "DINO NUGGET DE POLLO SADIA 12X360 GR"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101009010",
     "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
   },
@@ -40336,10 +40328,6 @@
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
   {
-    "ItemCode": "204390008",
-    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -44064,10 +44052,6 @@
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "100852024",
     "ItemName": "GALLETA TUAREG 35X120 GR"
   },
@@ -46096,10 +46080,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -47362,5 +47342,25 @@
   {
     "ItemCode": "302960001",
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204390008",
+    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
