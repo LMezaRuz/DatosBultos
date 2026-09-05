@@ -23796,10 +23796,6 @@
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "204140021",
     "ItemName": "MUFFIN 3 CHOCOLATES 36X125 GR"
   },
@@ -43760,10 +43756,6 @@
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100700007",
     "ItemName": "CREMA DE TOMATE (REND. 14 LT) TKF 1 X 1 KG"
   },
@@ -44176,10 +44168,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "304760604",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX) (X-MAYOR)"
   },
@@ -44574,10 +44562,6 @@
   {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "100853004",
@@ -46228,10 +46212,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -46840,10 +46820,6 @@
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
@@ -47116,10 +47092,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -47362,5 +47334,33 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   }
 ]
