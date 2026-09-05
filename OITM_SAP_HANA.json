@@ -28308,10 +28308,6 @@
     "ItemName": "VIENESAS TRADICIONAL PACEL 1 X 1 UN"
   },
   {
-    "ItemCode": "100251012",
-    "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -28462,10 +28458,6 @@
   {
     "ItemCode": "600001008",
     "ItemName": "KIWI KG."
-  },
-  {
-    "ItemCode": "104670008",
-    "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
   {
     "ItemCode": "300351030",
@@ -35756,10 +35748,6 @@
     "ItemName": "CERA CREMA VIRGINIA 12X340 CC"
   },
   {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
-  },
-  {
     "ItemCode": "204270008",
     "ItemName": "PIZZA FAMILIAR PEPPERONI MASA A LA PIEDRA 4X410 GR"
   },
@@ -40304,10 +40292,6 @@
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "304760504",
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -44044,10 +44028,6 @@
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
   },
   {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
-  },
-  {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
   },
@@ -44130,10 +44110,6 @@
   {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100902002",
@@ -44310,10 +44286,6 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100700002",
@@ -44520,10 +44492,6 @@
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100800002",
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
@@ -44618,10 +44586,6 @@
   {
     "ItemCode": "400301079",
     "ItemName": "ETIQUETA RECTAN BARRIO CHICKEN GYN 1 X 1.000 UN"
-  },
-  {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
     "ItemCode": "101352009",
@@ -46340,10 +46304,6 @@
     "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
-    "ItemCode": "100202016",
-    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
-  },
-  {
     "ItemCode": "100401001",
     "ItemName": "AMARGO DE ANGOSTURA FRASCO 1X100 CC."
   },
@@ -47228,10 +47188,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "100600001",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
     "ItemCode": "104210010",
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
@@ -47254,10 +47210,6 @@
   {
     "ItemCode": "202730073",
     "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "300156009",
@@ -47306,10 +47258,6 @@
   {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "100450007",
@@ -47362,5 +47310,57 @@
   {
     "ItemCode": "101201017",
     "ItemName": "FLAN CON LECHE VAINILLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100202016",
+    "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100600001",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "100251012",
+    "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "104670008",
+    "ItemName": "TE TWININGS MENTA 1X10 UN"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
   }
 ]
