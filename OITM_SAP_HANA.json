@@ -28240,10 +28240,6 @@
     "ItemName": "MINI SYRUP AVELLANA 1X50 ML"
   },
   {
-    "ItemCode": "103070008",
-    "ItemName": "FRUTILLAS AL JUGO SMART CHOICE 6 X 2.5 KG"
-  },
-  {
     "ItemCode": "204000020",
     "ItemName": "NUGGETS DE POLLO MEAL MART 6X1,8 KG (KOSHER)"
   },
@@ -40124,10 +40120,6 @@
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "200302017",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
   },
@@ -40700,10 +40692,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "103180002",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
-  },
-  {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
@@ -40750,10 +40738,6 @@
   {
     "ItemCode": "101100011",
     "ItemName": "QUIFARO CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "100250007",
-    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
     "ItemCode": "204300048",
@@ -43808,10 +43792,6 @@
     "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
@@ -44294,10 +44274,6 @@
   {
     "ItemCode": "304760604",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX) (X-MAYOR)"
-  },
-  {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
     "ItemCode": "300151004",
@@ -46352,10 +46328,6 @@
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
-    "ItemCode": "100654003",
-    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
     "ItemCode": "100900006",
     "ItemName": "CHUÑO 1X500 GR"
   },
@@ -46454,10 +46426,6 @@
   {
     "ItemCode": "100500001",
     "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "100351009",
@@ -46650,10 +46618,6 @@
   {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "104210013",
@@ -46932,16 +46896,8 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "100600007",
-    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
-  },
-  {
     "ItemCode": "100151020",
     "ItemName": "CEREAL FITNESS 16 X 600 GR"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
     "ItemCode": "100559004",
@@ -47120,10 +47076,6 @@
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
@@ -47296,10 +47248,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
@@ -47362,5 +47310,57 @@
   {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100250007",
+    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100600007",
+    "ItemName": "ATUN LOMITO EN ACEITE 48X160 GR"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "103070008",
+    "ItemName": "FRUTILLAS AL JUGO SMART CHOICE 6 X 2.5 KG"
+  },
+  {
+    "ItemCode": "103180002",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
+  },
+  {
+    "ItemCode": "100654003",
+    "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   }
 ]
