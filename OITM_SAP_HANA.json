@@ -46472,10 +46472,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
   },
@@ -46788,10 +46784,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -46834,14 +46826,6 @@
   {
     "ItemCode": "400005011",
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790018",
@@ -46958,10 +46942,6 @@
   {
     "ItemCode": "204300086",
     "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "300400009",
@@ -47362,5 +47342,25 @@
   {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   }
 ]
