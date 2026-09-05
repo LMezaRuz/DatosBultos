@@ -23684,10 +23684,6 @@
     "ItemName": "ASADO DEL CARNICERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "304760553",
-    "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760593",
     "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
@@ -30916,10 +30912,6 @@
     "ItemName": "PUNTA PALETA VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "204000004",
-    "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760132",
     "ItemName": "SOBRECOSTILLA VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -32058,10 +32050,6 @@
   {
     "ItemCode": "204380031",
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "100300007",
@@ -36058,10 +36046,6 @@
   {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "204300079",
-    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
   },
   {
     "ItemCode": "202730078",
@@ -43632,10 +43616,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -45876,10 +45856,6 @@
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
-    "ItemCode": "400005006",
-    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
-  },
-  {
     "ItemCode": "400010014",
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
@@ -46126,10 +46102,6 @@
   {
     "ItemCode": "202910070",
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
-    "ItemCode": "202910066",
-    "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
     "ItemCode": "100304047",
@@ -47064,10 +47036,6 @@
     "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
@@ -47356,11 +47324,43 @@
     "ItemName": "SEMOLA 1x500 g."
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204300079",
+    "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
+  },
+  {
+    "ItemCode": "202910066",
+    "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204000004",
+    "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "304760553",
+    "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "400005006",
+    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   }
 ]
