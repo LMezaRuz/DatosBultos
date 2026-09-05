@@ -24184,10 +24184,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANZANA 1X5 LT"
   },
   {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
@@ -28422,10 +28418,6 @@
   {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
-  },
-  {
-    "ItemCode": "100450007",
-    "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
     "ItemCode": "600001006",
@@ -36444,10 +36436,6 @@
     "ItemName": "CHURRASCO DE VACUNO 20X210 GR"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "100651011",
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
@@ -40698,10 +40686,6 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "104210017",
@@ -46128,10 +46112,6 @@
     "ItemName": "JALEA DE MELON TUNA (REND. 15 LT) TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "400251004",
     "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
   },
@@ -46360,10 +46340,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "102930015",
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
@@ -46458,10 +46434,6 @@
   {
     "ItemCode": "204180034",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "304850039",
@@ -47036,10 +47008,6 @@
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
   },
@@ -47362,5 +47330,37 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100450007",
+    "ItemName": "ALGA NORI BLUE 1X100 UN."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   }
 ]
