@@ -23512,10 +23512,6 @@
     "ItemName": "ACEITE CHEF PEPITA UVA 12X1 LT"
   },
   {
-    "ItemCode": "302890027",
-    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
   },
@@ -40036,10 +40032,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "102960004",
-    "ItemName": "CACAO CALLEBAUT EN POLVO 2X5 KG (DCP-91B)"
-  },
-  {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
   },
@@ -42498,10 +42490,6 @@
   {
     "ItemCode": "200302010",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
-  },
-  {
-    "ItemCode": "300001009",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 10 KG (823-595)"
   },
   {
     "ItemCode": "100553003",
@@ -46720,10 +46708,6 @@
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "300153012",
     "ItemName": "MANTEQUILLA SIN SAL SOPROLE PAN 1X250 GR."
   },
@@ -47232,10 +47216,6 @@
     "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -47362,5 +47342,25 @@
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "302890027",
+    "ItemName": "JAMON PIERNA PACEL 25X250 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "102960004",
+    "ItemName": "CACAO CALLEBAUT EN POLVO 2X5 KG (DCP-91B)"
+  },
+  {
+    "ItemCode": "300001009",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 10 KG (823-595)"
   }
 ]
