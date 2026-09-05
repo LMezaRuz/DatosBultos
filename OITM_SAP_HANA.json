@@ -31136,10 +31136,6 @@
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
   },
@@ -31684,10 +31680,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
   },
   {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
     "ItemCode": "202730011",
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
@@ -32228,10 +32220,6 @@
     "ItemName": "CHOCOLATE REAL SICAO BLANCO 33% 10X1 KG (CHW-A05)"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
   },
@@ -32330,14 +32318,6 @@
   {
     "ItemCode": "103910048",
     "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "100754003",
@@ -43548,10 +43528,6 @@
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "100557019",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
@@ -44212,10 +44188,6 @@
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
   },
   {
-    "ItemCode": "300154028",
-    "ItemName": "MARGARINA CALO MIX 12X350 GRS"
-  },
-  {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
@@ -44226,10 +44198,6 @@
   {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
-    "ItemCode": "300154034",
-    "ItemName": "MARGARINA CALO 12X450"
   },
   {
     "ItemCode": "101010006",
@@ -46460,20 +46428,12 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
   },
   {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "101006006",
@@ -46690,10 +46650,6 @@
   {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
   },
   {
     "ItemCode": "302960001",
@@ -47362,5 +47318,49 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154034",
+    "ItemName": "MARGARINA CALO 12X450"
+  },
+  {
+    "ItemCode": "300154028",
+    "ItemName": "MARGARINA CALO MIX 12X350 GRS"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   }
 ]
