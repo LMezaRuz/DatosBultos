@@ -23104,10 +23104,6 @@
     "ItemName": "FILETE DE PECHUGA DE POLLO EN CUBOS COCIDOS SADIA 12X400 GR"
   },
   {
-    "ItemCode": "104560006",
-    "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
-  },
-  {
     "ItemCode": "303840003",
     "ItemName": "MANTECA BATERKRIM VEGETAL 1X20 KG"
   },
@@ -30444,10 +30440,6 @@
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "303100002",
     "ItemName": "CREMA ACIDA QUILLAYES 8X160 GR"
   },
@@ -31994,10 +31986,6 @@
   {
     "ItemCode": "103600003",
     "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "300157049",
@@ -36432,10 +36420,6 @@
     "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "103480004",
-    "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
-  },
-  {
     "ItemCode": "204700029",
     "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
   },
@@ -39576,10 +39560,6 @@
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "400301023",
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
@@ -39906,10 +39886,6 @@
   {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "300154004",
@@ -40278,10 +40254,6 @@
   {
     "ItemCode": "300351012",
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
-    "ItemCode": "101452003",
-    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   },
   {
     "ItemCode": "100250002",
@@ -45644,10 +45616,6 @@
     "ItemName": "PEPINO 1x1 un."
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100852011",
     "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
@@ -45694,10 +45662,6 @@
   {
     "ItemCode": "400250005",
     "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
-  },
-  {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
   },
   {
     "ItemCode": "100202013",
@@ -47362,5 +47326,41 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "101452003",
+    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "103480004",
+    "ItemName": "GALLETA MINI PALMERITAS  30X40 GR"
+  },
+  {
+    "ItemCode": "104560006",
+    "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
   }
 ]
