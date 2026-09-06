@@ -23580,14 +23580,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "101200015",
-    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
-  },
-  {
-    "ItemCode": "101200020",
-    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
-  },
-  {
     "ItemCode": "303850016",
     "ItemName": "MANTEQUILLA CON SAL TONADITA 20X125 GR"
   },
@@ -32014,10 +32006,6 @@
   {
     "ItemCode": "304850037",
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
-    "ItemCode": "100251004",
-    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
   },
   {
     "ItemCode": "400005009",
@@ -46852,16 +46840,8 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101200018",
-    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
   {
     "ItemCode": "101200016",
@@ -47356,11 +47336,31 @@
     "ItemName": "CHUCRUT 6X1 KG"
   },
   {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100251004",
+    "ItemName": "CALDO CONCENTRADO DE AVE 1X1 KG"
+  },
+  {
+    "ItemCode": "101200020",
+    "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200015",
+    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200018",
+    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
+  },
+  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   }
 ]
