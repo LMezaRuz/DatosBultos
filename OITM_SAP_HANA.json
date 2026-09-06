@@ -31600,10 +31600,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "203230004",
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -31654,10 +31650,6 @@
   {
     "ItemCode": "100751053",
     "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
-  },
-  {
-    "ItemCode": "304760441",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "204300022",
@@ -36764,10 +36756,6 @@
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
   {
-    "ItemCode": "304760042",
-    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
@@ -39866,10 +39854,6 @@
   {
     "ItemCode": "300351030",
     "ItemName": "LONGANIZA MODINGER 1x1 kg."
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "100351003",
@@ -43246,10 +43230,6 @@
   {
     "ItemCode": "300353104",
     "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
-  },
-  {
-    "ItemCode": "304760483",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
     "ItemCode": "100002003",
@@ -47136,10 +47116,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "304760488",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -47362,5 +47338,29 @@
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "304760441",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "304760488",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760042",
+    "ItemName": "LOMO LISO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304760483",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   }
 ]
