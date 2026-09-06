@@ -23632,10 +23632,6 @@
     "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
   },
   {
-    "ItemCode": "103010004",
-    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
-  },
-  {
     "ItemCode": "103010006",
     "ItemName": "COBERTURA NEUCOBER BLANCO 12X1 KG"
   },
@@ -31568,10 +31564,6 @@
     "ItemName": "TRUTRO CORTO 12X800 GR"
   },
   {
-    "ItemCode": "204380027",
-    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -36006,10 +35998,6 @@
   {
     "ItemCode": "203610000",
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "304760021",
@@ -46912,10 +46900,6 @@
     "ItemName": "COSTILLAR DE CERDO AHUMADO 10 KG APROX (MM)"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   },
@@ -47344,6 +47328,10 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
     "ItemCode": "304760439",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -47360,7 +47348,19 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+    "ItemCode": "103010004",
+    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
+  },
+  {
+    "ItemCode": "204380027",
+    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   }
 ]
