@@ -30108,10 +30108,6 @@
     "ItemName": "HELADO VITTORE CHOCOLATE KING 6X220 ML"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "204140017",
     "ItemName": "PAN MOLDE MIGA INTEGRAL 16X16 CM CONGELADO 3X2,5 KG"
   },
@@ -39420,10 +39416,6 @@
     "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
   },
@@ -43240,10 +43232,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
@@ -43614,10 +43602,6 @@
   {
     "ItemCode": "100350003",
     "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
-  },
-  {
-    "ItemCode": "101010006",
-    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
   },
   {
     "ItemCode": "101009007",
@@ -45524,10 +45508,6 @@
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
   {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA 6X1 KG"
   },
@@ -46104,10 +46084,6 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
-  },
-  {
     "ItemCode": "304760553",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -46268,10 +46244,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
   },
@@ -46414,10 +46386,6 @@
   {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "202720036",
@@ -46766,10 +46734,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "300351017",
@@ -47362,5 +47326,41 @@
   {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101010006",
+    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   }
 ]
