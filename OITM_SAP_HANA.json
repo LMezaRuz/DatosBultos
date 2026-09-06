@@ -31364,10 +31364,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA CERDO 10X1KG"
   },
   {
-    "ItemCode": "103210000",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
-  },
-  {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
   },
@@ -32066,10 +32062,6 @@
   {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "304760318",
@@ -39632,10 +39624,6 @@
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   },
   {
-    "ItemCode": "101150010",
-    "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
-  },
-  {
     "ItemCode": "100557007",
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
@@ -42664,16 +42652,8 @@
     "ItemName": "NARANJA KG."
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "100751003",
     "ItemName": "MERMELADA DE DURAZNO 1X250 GR"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
     "ItemCode": "300353054",
@@ -43456,10 +43436,6 @@
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "100800001",
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
@@ -43474,10 +43450,6 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "200302001",
@@ -45972,10 +45944,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "202720036",
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
   },
@@ -46436,10 +46404,6 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   },
@@ -46546,10 +46510,6 @@
   {
     "ItemCode": "100900006",
     "ItemName": "CHUÑO 1X500 GR"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "100550001",
@@ -47362,5 +47322,45 @@
   {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "103210000",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "101150010",
+    "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
