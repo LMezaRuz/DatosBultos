@@ -23616,10 +23616,6 @@
     "ItemName": "CHIPS NEUCOBER HORNEABLE SEMI AMARGO 24X500 GR"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "300157053",
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
   },
@@ -28024,10 +28020,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT V BRASIL REFRIGERADO LOCAL  (20 KG APROX)"
   },
   {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
     "ItemCode": "100554025",
     "ItemName": "MARINADOR INTEGRAL GOURMET BIDFOOD 1X10KG"
   },
@@ -30878,10 +30870,6 @@
   {
     "ItemCode": "304760443",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX),"
-  },
-  {
-    "ItemCode": "204300092",
-    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
   },
   {
     "ItemCode": "202820019",
@@ -40120,10 +40108,6 @@
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
@@ -43500,10 +43484,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR FRUTILLA 1X5 LT"
   },
   {
-    "ItemCode": "100303005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -45468,10 +45448,6 @@
     "ItemName": "MILO EN POLVO 15X1 KG"
   },
   {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
-  },
-  {
     "ItemCode": "200002009",
     "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
   },
@@ -46936,10 +46912,6 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "101355006",
     "ItemName": "CHUCRUT 6X1 KG"
   },
@@ -47360,7 +47332,35 @@
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
   },
   {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "204300092",
+    "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "100303005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR PIÑA 1X5 LT"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR FRAMBUESA 1X5 LT"
   }
 ]
