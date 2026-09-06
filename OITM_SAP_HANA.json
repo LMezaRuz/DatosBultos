@@ -43768,10 +43768,6 @@
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
-    "ItemCode": "300351030",
-    "ItemName": "LONGANIZA MODINGER 1x1 kg."
-  },
-  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
@@ -47244,10 +47240,6 @@
     "ItemName": "PIMIENTO MORRÓN KG."
   },
   {
-    "ItemCode": "600002004",
-    "ItemName": "AJI VERDE KG."
-  },
-  {
     "ItemCode": "600001004",
     "ItemName": "MANDARINA KG."
   },
@@ -47276,10 +47268,6 @@
     "ItemName": "GUATA CALLO TROZADA KG."
   },
   {
-    "ItemCode": "300352003",
-    "ItemName": "PULPA DE CERDO KG (NV)"
-  },
-  {
     "ItemCode": "300353050",
     "ItemName": "OSOBUCO KG (NV)"
   },
@@ -47300,10 +47288,6 @@
     "ItemName": "LIMON KG."
   },
   {
-    "ItemCode": "600002005",
-    "ItemName": "AJOS KG"
-  },
-  {
     "ItemCode": "600001001",
     "ItemName": "MANZANA KG."
   },
@@ -47318,18 +47302,6 @@
   {
     "ItemCode": "600002020",
     "ItemName": "ZANAHORIA KG."
-  },
-  {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
-  },
-  {
-    "ItemCode": "300352001",
-    "ItemName": "CHULETA CERDO KG (NV)"
-  },
-  {
-    "ItemCode": "300353049",
-    "ItemName": "ABASTERO KG (NV)"
   },
   {
     "ItemCode": "300353006",
@@ -47362,5 +47334,33 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "600002005",
+    "ItemName": "AJOS KG"
+  },
+  {
+    "ItemCode": "300352001",
+    "ItemName": "CHULETA CERDO KG (NV)"
+  },
+  {
+    "ItemCode": "300353049",
+    "ItemName": "ABASTERO KG (NV)"
+  },
+  {
+    "ItemCode": "600002004",
+    "ItemName": "AJI VERDE KG."
+  },
+  {
+    "ItemCode": "300352003",
+    "ItemName": "PULPA DE CERDO KG (NV)"
+  },
+  {
+    "ItemCode": "300351030",
+    "ItemName": "LONGANIZA MODINGER 1x1 kg."
   }
 ]
