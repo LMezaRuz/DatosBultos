@@ -23596,10 +23596,6 @@
     "ItemName": "MANTEQUILLA CON SAL TONADITA 20X125 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "203190005",
     "ItemName": "RACK ENTERO CHULETA CENTRO LOCAL X KG (20 KG APROX.)"
   },
@@ -24290,10 +24286,6 @@
   {
     "ItemCode": "104020007",
     "ItemName": "MIX CHOCLO PALMITO WASIL 16X380 GR"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
     "ItemCode": "304760550",
@@ -28396,10 +28388,6 @@
     "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
   },
   {
-    "ItemCode": "101011001",
-    "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -31084,10 +31072,6 @@
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
   },
@@ -31698,10 +31682,6 @@
   {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "303000002",
@@ -36258,10 +36238,6 @@
   {
     "ItemCode": "203200043",
     "ItemName": "DINO NUGGET DE POLLO SADIA 12X360 GR"
-  },
-  {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
   },
   {
     "ItemCode": "101009010",
@@ -42772,10 +42748,6 @@
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "204180034",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
@@ -45620,10 +45592,6 @@
     "ItemName": "CHOLGAS EN ACEITE 24x190 gr"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "100100002",
     "ItemName": "ARROZ BASMATI 1X1 KG."
   },
@@ -46204,10 +46172,6 @@
     "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -46648,10 +46612,6 @@
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "102960004",
     "ItemName": "CACAO CALLEBAUT EN POLVO 2X5 KG (DCP-91B)"
   },
@@ -46988,14 +46948,6 @@
     "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
     "ItemCode": "304760553",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -47280,10 +47232,6 @@
     "ItemName": "GALLETA OBSESION 1X85 GR"
   },
   {
-    "ItemCode": "100852012",
-    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
@@ -47362,5 +47310,57 @@
   {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101011001",
+    "ItemName": "QUESO RALLADO 1X1 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100852012",
+    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   }
 ]
