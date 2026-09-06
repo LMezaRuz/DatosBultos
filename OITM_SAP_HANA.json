@@ -23240,10 +23240,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT V BRASIL CONG. (20 KG APROX)"
   },
   {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
-  },
-  {
     "ItemCode": "102480007",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
@@ -39568,14 +39564,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "204150020",
-    "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "204150019",
-    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
     "ItemCode": "300151002",
     "ItemName": "PACK PROBIOTICO FRUTILLA UNV 6X90 ML"
   },
@@ -41996,10 +41984,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN DOÑA OLIVA 4X5 LT"
   },
   {
-    "ItemCode": "300400005",
-    "ItemName": "QUESO EDAM QUILLAYES BOLA (325 GR APROX.)"
-  },
-  {
     "ItemCode": "101201021",
     "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
   },
@@ -42558,10 +42542,6 @@
   {
     "ItemCode": "200459004",
     "ItemName": "PECHUGA PAVO DESHUESADA  C/M  kg"
-  },
-  {
-    "ItemCode": "101357001",
-    "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
   {
     "ItemCode": "304760485",
@@ -44912,10 +44892,6 @@
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
   {
-    "ItemCode": "300401004",
-    "ItemName": "QUESO CAMEMBERT 1X100 GR."
-  },
-  {
     "ItemCode": "400010006",
     "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
@@ -46416,10 +46392,6 @@
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
   },
@@ -46462,10 +46434,6 @@
   {
     "ItemCode": "103480000",
     "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "202670000",
@@ -46760,10 +46728,6 @@
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -46862,10 +46826,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
   },
   {
     "ItemCode": "101150026",
@@ -47066,10 +47026,6 @@
   {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "200051008",
@@ -47362,5 +47318,49 @@
   {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "300400005",
+    "ItemName": "QUESO EDAM QUILLAYES BOLA (325 GR APROX.)"
+  },
+  {
+    "ItemCode": "300401004",
+    "ItemName": "QUESO CAMEMBERT 1X100 GR."
+  },
+  {
+    "ItemCode": "204150019",
+    "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "204150020",
+    "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "101357001",
+    "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
   }
 ]
