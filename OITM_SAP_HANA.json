@@ -28112,10 +28112,6 @@
     "ItemName": "PUNTA DE PICANA PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "303850010",
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
   },
@@ -28186,10 +28182,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
     "ItemCode": "203190043",
@@ -32082,10 +32074,6 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "400012005",
-    "ItemName": "ATOMIZADOR 1X1000 CC."
   },
   {
     "ItemCode": "100558006",
@@ -42520,10 +42508,6 @@
     "ItemName": "ACETO BALSAMICO IMPERATORE 12X500 CC."
   },
   {
-    "ItemCode": "200002011",
-    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
-  },
-  {
     "ItemCode": "101201016",
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
@@ -43186,10 +43170,6 @@
   {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
-  },
-  {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
     "ItemCode": "100102015",
@@ -46544,10 +46524,6 @@
     "ItemName": "CARNE DE CENTOLLA NAC 10X500 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
@@ -47200,10 +47176,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "104010020",
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
@@ -47362,5 +47334,33 @@
   {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200002011",
+    "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "400012005",
+    "ItemName": "ATOMIZADOR 1X1000 CC."
   }
 ]
