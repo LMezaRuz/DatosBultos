@@ -28388,10 +28388,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "204140013",
-    "ItemName": "PAN FRICA REBANADO 75X115GR"
-  },
-  {
     "ItemCode": "100854017",
     "ItemName": "TIKA CHILOE 14 X 150 GR"
   },
@@ -31226,10 +31222,6 @@
   {
     "ItemCode": "101200007",
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "203210062",
-    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "102930010",
@@ -42876,10 +42868,6 @@
     "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "304760541",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -44250,10 +44238,6 @@
   {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "100951003",
@@ -45976,10 +45960,6 @@
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -46102,10 +46082,6 @@
   {
     "ItemCode": "104060006",
     "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
     "ItemCode": "300401004",
@@ -46232,10 +46208,6 @@
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "304760549",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -46282,10 +46254,6 @@
   {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "300351017",
@@ -46342,10 +46310,6 @@
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
   {
     "ItemCode": "102960004",
@@ -47332,10 +47296,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
@@ -47362,5 +47322,45 @@
   {
     "ItemCode": "101402006",
     "ItemName": "ALCAPARRAS 1X110 GR"
+  },
+  {
+    "ItemCode": "204140013",
+    "ItemName": "PAN FRICA REBANADO 75X115GR"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "203210062",
+    "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
