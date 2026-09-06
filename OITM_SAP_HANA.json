@@ -24068,10 +24068,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANZANA 1X5 LT"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -24192,16 +24188,8 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104070012",
-    "ItemName": "PICKLE MAIFRE 10X1 KG"
-  },
-  {
     "ItemCode": "103910038",
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101150020",
@@ -31928,10 +31916,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "200050015",
-    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "100352003",
     "ItemName": "CAFE BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -35728,10 +35712,6 @@
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -39144,10 +39124,6 @@
     "ItemName": "MARINADOR CROCANTE GYN 4 UN X 5 KG"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "400301007",
     "ItemName": "PAPEL TERMICO TOMMY BEANS ROLLO 1X60 UN"
   },
@@ -40066,10 +40042,6 @@
   {
     "ItemCode": "300403009",
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
-  },
-  {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101150036",
@@ -44072,10 +44044,6 @@
     "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
-  },
-  {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
   },
@@ -45050,10 +45018,6 @@
   {
     "ItemCode": "100751050",
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "400250006",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
   {
     "ItemCode": "200500023",
@@ -46620,10 +46584,6 @@
     "ItemName": "EMPANADA CARNE MONGOLIANA 40 GR 2X50 UN"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "200455004",
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
@@ -47256,10 +47216,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
@@ -47362,5 +47318,49 @@
   {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "104070012",
+    "ItemName": "PICKLE MAIFRE 10X1 KG"
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "400250006",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
+  },
+  {
+    "ItemCode": "200050015",
+    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   }
 ]
