@@ -24284,14 +24284,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
     "ItemCode": "304760551",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -30988,10 +30980,6 @@
     "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
   },
   {
-    "ItemCode": "304440006",
-    "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
-  },
-  {
     "ItemCode": "200458003",
     "ItemName": "GRASA DE VACUNO CONGELADA (APROX 20KG)"
   },
@@ -36396,10 +36384,6 @@
     "ItemName": "BANDERITA DE CERDO 5X1 KG (MM)"
   },
   {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
   },
@@ -39966,10 +39950,6 @@
   {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
     "ItemCode": "300153014",
@@ -43844,20 +43824,12 @@
     "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
   },
   {
     "ItemCode": "101201041",
@@ -43882,10 +43854,6 @@
   {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "300001002",
@@ -44058,10 +44026,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "204790031",
@@ -44278,10 +44242,6 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "100356001",
@@ -45704,10 +45664,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
   {
-    "ItemCode": "204790038",
-    "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
-  },
-  {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   },
@@ -46190,10 +46146,6 @@
   {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "204790044",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "101201014",
@@ -46796,10 +46748,6 @@
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
   {
-    "ItemCode": "200500041",
-    "ItemName": "SOFRITO CON AJO FOOD SERVICE 20UN X 500 GRS"
-  },
-  {
     "ItemCode": "200003002",
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
@@ -47374,5 +47322,57 @@
   {
     "ItemCode": "100854010",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
+  },
+  {
+    "ItemCode": "304440006",
+    "ItemName": "DESPUNTE DE QUESO GAUDA 2X5 KG (ID)"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "200500041",
+    "ItemName": "SOFRITO CON AJO FOOD SERVICE 20UN X 500 GRS"
+  },
+  {
+    "ItemCode": "204790038",
+    "ItemName": "ARVEJAS DIEZ PUNTOS 10X500 GR"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790044",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   }
 ]
