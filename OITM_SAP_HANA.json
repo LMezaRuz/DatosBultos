@@ -24388,10 +24388,6 @@
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
   },
   {
-    "ItemCode": "304760550",
-    "ItemName": "GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "101009028",
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
   },
@@ -31120,10 +31116,6 @@
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
-    "ItemCode": "202820022",
-    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
-  },
-  {
     "ItemCode": "100302006",
     "ItemName": "SPRITE 6X1,5 LT"
   },
@@ -31134,10 +31126,6 @@
   {
     "ItemCode": "100302004",
     "ItemName": "COCA COLA ZERO 6X1,5 LT"
-  },
-  {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
   },
   {
     "ItemCode": "203200003",
@@ -36240,10 +36228,6 @@
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "204300085",
-    "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
     "ItemCode": "204300046",
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
@@ -39144,10 +39128,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "200460040",
-    "ItemName": "PECHUGA DE POLLO C/HUESO Y PIEL CONG. 1 X 15 KG"
-  },
-  {
     "ItemCode": "600002001",
     "ItemName": "CEBOLLA MORADA KG"
   },
@@ -39930,10 +39910,6 @@
   {
     "ItemCode": "101002007",
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
-  },
-  {
-    "ItemCode": "204090002",
-    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
   {
     "ItemCode": "200308003",
@@ -46048,10 +46024,6 @@
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "203200039",
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
@@ -46500,10 +46472,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "101355010",
     "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
@@ -46738,10 +46706,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "100852012",
@@ -47372,10 +47336,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO 1X1 KG."
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "204300055",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
   },
@@ -47390,5 +47350,45 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204090002",
+    "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
+  },
+  {
+    "ItemCode": "202820022",
+    "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "200460040",
+    "ItemName": "PECHUGA DE POLLO C/HUESO Y PIEL CONG. 1 X 15 KG"
+  },
+  {
+    "ItemCode": "204300085",
+    "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "304760550",
+    "ItemName": "GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   }
 ]
