@@ -24024,10 +24024,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
-  },
-  {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
   },
@@ -36400,10 +36396,6 @@
     "ItemName": "TE EXCLUSIVE SELECTION JUICY FOREST FRUITS LIPTON 6X25 BLS"
   },
   {
-    "ItemCode": "101300003",
-    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
-  },
-  {
     "ItemCode": "104610006",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
@@ -40276,10 +40268,6 @@
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "400012003",
-    "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
     "ItemCode": "400008002",
     "ItemName": "LAVALOZAS CONCENTRADO 1x750 ML"
   },
@@ -43044,10 +43032,6 @@
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
-    "ItemCode": "202730046",
-    "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
-  },
-  {
     "ItemCode": "300156003",
     "ItemName": "YOGURT FRUTILLA 1X1 LT"
   },
@@ -45788,10 +45772,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
   },
   {
-    "ItemCode": "100852012",
-    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -46250,10 +46230,6 @@
   {
     "ItemCode": "400251006",
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "400001004",
@@ -47390,5 +47366,29 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100852012",
+    "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
+  },
+  {
+    "ItemCode": "202730046",
+    "ItemName": "MINI BERLINA RELLENA CON CARAMELO 175X25 GR"
+  },
+  {
+    "ItemCode": "101300003",
+    "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400012003",
+    "ItemName": "PALA PLASTICA 1X1 UN."
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   }
 ]
