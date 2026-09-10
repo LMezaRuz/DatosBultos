@@ -23836,20 +23836,12 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "100350003",
     "ItemName": "CAFE EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "304760582",
     "ItemName": "CHOCLILLO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760545",
-    "ItemName": "ABASTERO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
     "ItemCode": "203230001",
@@ -43100,10 +43092,6 @@
     "ItemName": "BICARBONATO SOBRE 1X100 GRS"
   },
   {
-    "ItemCode": "100555001",
-    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
     "ItemCode": "103940020",
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
@@ -43398,10 +43386,6 @@
   {
     "ItemCode": "304760456",
     "ItemName": "TAPABARRIGA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "304760448",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "100850001",
@@ -43714,10 +43698,6 @@
   {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "101305003",
@@ -46420,10 +46400,6 @@
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "100801001",
-    "ItemName": "PASAS MORENAS 1X1 KG"
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -47348,10 +47324,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "304760546",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "103750005",
     "ItemName": "BEBIDA LACTEA SABOR CHOCOLATE SHAKE A SHAKE 6X190 ML"
   },
@@ -47390,5 +47362,33 @@
   {
     "ItemCode": "204530031",
     "ItemName": "SALMON AHUMADO (PERFECT SLICE) 1 KG"
+  },
+  {
+    "ItemCode": "304760545",
+    "ItemName": "ABASTERO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "100555001",
+    "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
+  },
+  {
+    "ItemCode": "304760448",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760546",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100801001",
+    "ItemName": "PASAS MORENAS 1X1 KG"
   }
 ]
