@@ -24508,10 +24508,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
@@ -28564,10 +28560,6 @@
     "ItemName": "TIKA PATAGONIA 14 X 150 GR"
   },
   {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
     "ItemCode": "202820002",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -31506,10 +31498,6 @@
   {
     "ItemCode": "101100066",
     "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "104210000",
-    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
   },
   {
     "ItemCode": "101201037",
@@ -40388,10 +40376,6 @@
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "400301102",
     "ItemName": "SOBRE PAPAS FRITAS FSC JUAN MAESTRO 1 X 4000 UN"
   },
@@ -40790,10 +40774,6 @@
   {
     "ItemCode": "102580001",
     "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
-  },
-  {
-    "ItemCode": "100152005",
-    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
     "ItemCode": "304340003",
@@ -43956,10 +43936,6 @@
     "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
   },
   {
-    "ItemCode": "101100004",
-    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
-  },
-  {
     "ItemCode": "100555002",
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
@@ -44142,14 +44118,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "100751012",
-    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
-  },
-  {
-    "ItemCode": "100751011",
-    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
   {
     "ItemCode": "100751025",
@@ -46696,10 +46664,6 @@
     "ItemName": "SALMON FILETE CON PIEL TRIM D AL VACIO KG"
   },
   {
-    "ItemCode": "202910060",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
-  },
-  {
     "ItemCode": "101100033",
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
@@ -46742,10 +46706,6 @@
   {
     "ItemCode": "100751004",
     "ItemName": "MERMELADA DE MORA 1X250 GR"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "300001002",
@@ -47058,10 +47018,6 @@
   {
     "ItemCode": "101402003",
     "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "102560016",
@@ -47390,5 +47346,49 @@
   {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "202910060",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100152005",
+    "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "101100004",
+    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "104210000",
+    "ItemName": "FETTUCCINE 88 TRATTORIA 25X400 GR"
+  },
+  {
+    "ItemCode": "100751012",
+    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
+  },
+  {
+    "ItemCode": "100751011",
+    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   }
 ]
