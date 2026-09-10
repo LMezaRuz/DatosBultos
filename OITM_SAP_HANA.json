@@ -28232,10 +28232,6 @@
     "ItemName": "PALA PLASTICA 1X1 UN."
   },
   {
-    "ItemCode": "101303008",
-    "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
     "ItemCode": "204380018",
     "ItemName": "PULPA DE FRAMBUESA SIN AZUCAR RIO ALTO 5X1 KG"
   },
@@ -31970,10 +31966,6 @@
   {
     "ItemCode": "102930011",
     "ItemName": "CEREALBAR FRUTAS MAS YOGHURT  6X20X21 GR."
-  },
-  {
-    "ItemCode": "102930012",
-    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
   {
     "ItemCode": "202730046",
@@ -47390,5 +47382,13 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101303008",
+    "ItemName": "GLUCOSA MEL 1X1 KG."
+  },
+  {
+    "ItemCode": "102930012",
+    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   }
 ]
