@@ -24068,10 +24068,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100751052",
     "ItemName": "MERMELADA WATTS FRAMBUESA 6X1 KG"
   },
@@ -28300,10 +28296,6 @@
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
@@ -30420,10 +30412,6 @@
     "ItemName": "HUACHALOMO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "204750001",
-    "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
-  },
-  {
     "ItemCode": "304760245",
     "ItemName": "ASADO DEL CARNICERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -30862,10 +30850,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "103910033",
-    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
   {
     "ItemCode": "102490000",
@@ -31534,10 +31518,6 @@
   {
     "ItemCode": "102710018",
     "ItemName": "BEBIDA VEGETAL BARISTA COCO VILAY 12X1 LT"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "204700027",
@@ -45964,10 +45944,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA CHEF 1X5 LT"
   },
   {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
-  },
-  {
     "ItemCode": "200455001",
     "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
@@ -46668,10 +46644,6 @@
     "ItemName": "CAFE INTENSO EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "300401004",
     "ItemName": "QUESO CAMEMBERT 1X100 GR."
   },
@@ -47256,10 +47228,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -47390,5 +47358,37 @@
   {
     "ItemCode": "304760442",
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "103910033",
+    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "204750001",
+    "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   }
 ]
