@@ -23324,20 +23324,12 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "100701008",
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "103010010",
     "ItemName": "COBERTURA CHOCOLATE DE LECHE SICAO 1X10 KG"
-  },
-  {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
     "ItemCode": "304760585",
@@ -23800,24 +23792,8 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "101200024",
-    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
-    "ItemCode": "101200023",
-    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
-  },
-  {
     "ItemCode": "304760446",
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "103640002",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA PLATANO 10X15 GR"
-  },
-  {
-    "ItemCode": "101200022",
-    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
     "ItemCode": "101200018",
@@ -24226,10 +24202,6 @@
   {
     "ItemCode": "202910059",
     "ItemName": "PALETA DE CERDO C/HUESO BRASIL AURORA 25 KG (APROX)"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
     "ItemCode": "103070017",
@@ -28222,10 +28194,6 @@
   {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
-  },
-  {
-    "ItemCode": "204650000",
-    "ItemName": "SURTIDO DE MARISCOS 10x1 KG"
   },
   {
     "ItemCode": "202730063",
@@ -43560,10 +43528,6 @@
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101200021",
-    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
-  },
-  {
     "ItemCode": "100355006",
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
@@ -44658,10 +44622,6 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
     "ItemCode": "204700029",
@@ -45902,10 +45862,6 @@
   {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "300353108",
@@ -47390,5 +47346,49 @@
   {
     "ItemCode": "303850003",
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "204650000",
+    "ItemName": "SURTIDO DE MARISCOS 10x1 KG"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "101200023",
+    "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200024",
+    "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
+  },
+  {
+    "ItemCode": "103640002",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA PLATANO 10X15 GR"
+  },
+  {
+    "ItemCode": "101200022",
+    "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
+  },
+  {
+    "ItemCode": "101200021",
+    "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   }
 ]
