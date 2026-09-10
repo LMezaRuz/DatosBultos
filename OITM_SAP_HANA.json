@@ -32404,10 +32404,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101006003",
     "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
   },
@@ -44740,14 +44736,6 @@
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
   },
@@ -47390,5 +47378,17 @@
   {
     "ItemCode": "101200021",
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   }
 ]
