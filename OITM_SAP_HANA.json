@@ -24356,10 +24356,6 @@
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
   },
   {
-    "ItemCode": "102710017",
-    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
   },
@@ -30334,10 +30330,6 @@
   {
     "ItemCode": "103520010",
     "ItemName": "HARINA ESPECIALIDAD PIZZA YANINE 1X25 KG"
-  },
-  {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
   },
   {
     "ItemCode": "202910063",
@@ -39864,10 +39856,6 @@
     "ItemName": "CREMA DE CHOCLO 20X79 GR"
   },
   {
-    "ItemCode": "102710016",
-    "ItemName": "BEBIDA VEGETAL BARISTA ALMENDRA VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
   },
@@ -40132,10 +40120,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
@@ -40230,10 +40214,6 @@
   {
     "ItemCode": "101301002",
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "101353011",
@@ -44192,10 +44172,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "100654005",
-    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
-  },
-  {
     "ItemCode": "202910047",
     "ItemName": "COSTILLAR DE CERDO MARRANA IMP. USA (20 KG APROX)"
   },
@@ -46356,10 +46332,6 @@
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
   },
@@ -46500,10 +46472,6 @@
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
-  },
-  {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
@@ -46594,10 +46562,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "100450001",
@@ -46910,10 +46874,6 @@
   {
     "ItemCode": "304760192",
     "ItemName": "SOBRECOSTILLA BRASIL CONG. LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "300404006",
-    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
   {
     "ItemCode": "304760186",
@@ -47292,10 +47252,6 @@
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -47356,10 +47312,6 @@
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "400252006",
     "ItemName": "TOALLA INTERFOLIADA D.HOJA 16X200 UN TO70027"
   },
@@ -47402,5 +47354,53 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100654005",
+    "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
+  },
+  {
+    "ItemCode": "102710017",
+    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "102710016",
+    "ItemName": "BEBIDA VEGETAL BARISTA ALMENDRA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "300404006",
+    "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   }
 ]
