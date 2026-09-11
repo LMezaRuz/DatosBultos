@@ -32012,10 +32012,6 @@
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
   {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
   },
@@ -47384,10 +47380,6 @@
     "ItemName": "AJI EN CREMA 10X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
@@ -47402,5 +47394,13 @@
   {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   }
 ]
