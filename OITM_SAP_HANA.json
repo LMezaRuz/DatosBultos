@@ -23956,10 +23956,6 @@
     "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
@@ -32364,10 +32360,6 @@
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
   {
-    "ItemCode": "100700004",
-    "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "104670095",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
@@ -34764,10 +34756,6 @@
     "ItemName": "HELADO PUDU FRAMBUESA 1X5 LT"
   },
   {
-    "ItemCode": "100852031",
-    "ItemName": "GALLETA DE SODA LIGHT 1X1 UN"
-  },
-  {
     "ItemCode": "101100013",
     "ItemName": "RIGATONI CAROZZI 1X400 GR"
   },
@@ -35650,10 +35638,6 @@
   {
     "ItemCode": "104640002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO SACHET 300 X 8 CC"
-  },
-  {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
     "ItemCode": "100151009",
@@ -39450,10 +39434,6 @@
   {
     "ItemCode": "600002009",
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
-  },
-  {
-    "ItemCode": "104600003",
-    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
   },
   {
     "ItemCode": "300156003",
@@ -43588,10 +43568,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
@@ -43962,10 +43938,6 @@
   {
     "ItemCode": "104010002",
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
-  },
-  {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
   {
     "ItemCode": "304340004",
@@ -44362,10 +44334,6 @@
   {
     "ItemCode": "103700005",
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "100552004",
@@ -46092,10 +46060,6 @@
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760488",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -46684,10 +46648,6 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "103210000",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
@@ -46742,10 +46702,6 @@
   {
     "ItemCode": "101400001",
     "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "100100003",
@@ -47402,5 +47358,49 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "100852031",
+    "ItemName": "GALLETA DE SODA LIGHT 1X1 UN"
+  },
+  {
+    "ItemCode": "104600003",
+    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "304760488",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100700004",
+    "ItemName": "CREMA DE POLLO (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   }
 ]
