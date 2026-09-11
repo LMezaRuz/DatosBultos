@@ -35512,10 +35512,6 @@
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
     "ItemCode": "100701013",
     "ItemName": "SOPA DE POLLO CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
@@ -35612,56 +35608,8 @@
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
   },
   {
-    "ItemCode": "203230039",
-    "ItemName": "EMPANADA RAVIOLERA QUESO - JAMON 25 GR 14X24 UN"
-  },
-  {
-    "ItemCode": "204790053",
-    "ItemName": "PALTA MOLIDA CON TROZOS 10X1 KG"
-  },
-  {
-    "ItemCode": "302940002",
-    "ItemName": "CERVEZA LAGER BARRIL PET 20 LT"
-  },
-  {
-    "ItemCode": "302940003",
-    "ItemName": "CERVEZA IPA BARRIL PET 20 LT"
-  },
-  {
-    "ItemCode": "302940004",
-    "ItemName": "CERVEZA IPA BARRIL PET 30 LT"
-  },
-  {
-    "ItemCode": "302940005",
-    "ItemName": "CERVEZA STOUT BARRIL PET 20 LT"
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
-  },
-  {
-    "ItemCode": "302940006",
-    "ItemName": "CERVEZA STOUT BARRIL PET 30 LT"
-  },
-  {
-    "ItemCode": "202730093",
-    "ItemName": "PAN DE QUESO CRUDO 26X400 GR"
-  },
-  {
-    "ItemCode": "203230040",
-    "ItemName": "EMPANADA MEDIALUNA PINO 16X600 GR"
-  },
-  {
-    "ItemCode": "302940007",
-    "ItemName": "CERVEZA LAGER BARRIL PET 30 LT"
-  },
-  {
-    "ItemCode": "202910074",
-    "ItemName": "COSTILLAR DE LOMO BRASIL LOCAL 10 KG"
-  },
-  {
-    "ItemCode": "204750029",
-    "ItemName": "CUBOS DE TAPAPECHO CONG. 2,5X2,5 CM 1X5 KG"
   },
   {
     "ItemCode": "104680000",
@@ -35684,14 +35632,6 @@
     "ItemName": "CURCUMA MOLIDA 1X1 KG"
   },
   {
-    "ItemCode": "202620001",
-    "ItemName": "ATUN EN TROZO IMP AL VACIO SMART CHOICE 20X500 GR"
-  },
-  {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
     "ItemCode": "400007010",
     "ItemName": "JABON LIQUIDO 6X1000 ML  JA70005"
   },
@@ -35700,32 +35640,8 @@
     "ItemName": "CURCUMA MOLIDA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "203210140",
-    "ItemName": "HAMBURGUESA DE VACUNO SMASH 32X113 GR"
-  },
-  {
-    "ItemCode": "303850020",
-    "ItemName": "MANTEQUILLA CON SAL TONADITA 24X125 GR"
-  },
-  {
     "ItemCode": "100557003",
     "ItemName": "CURRY 1X250 GR."
-  },
-  {
-    "ItemCode": "303850021",
-    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
-  },
-  {
-    "ItemCode": "104900005",
-    "ItemName": "HUMO EN POLVO 1X15 KG"
-  },
-  {
-    "ItemCode": "102510004",
-    "ItemName": "ACEITE BELMONT VEGETAL 4X5 LT"
-  },
-  {
-    "ItemCode": "102660005",
-    "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   },
   {
     "ItemCode": "400001004",
@@ -44400,10 +44316,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "304760441",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "304760450",
     "ItemName": "PLATEADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -47402,5 +47314,93 @@
   {
     "ItemCode": "100800002",
     "ItemName": "HUESILLO FANCY 1X1 KG"
+  },
+  {
+    "ItemCode": "304760441",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "203230039",
+    "ItemName": "EMPANADA RAVIOLERA QUESO - JAMON 25 GR 14X24 UN"
+  },
+  {
+    "ItemCode": "204790053",
+    "ItemName": "PALTA MOLIDA CON TROZOS 10X1 KG"
+  },
+  {
+    "ItemCode": "302940002",
+    "ItemName": "CERVEZA LAGER BARRIL PET 20 LT"
+  },
+  {
+    "ItemCode": "302940003",
+    "ItemName": "CERVEZA IPA BARRIL PET 20 LT"
+  },
+  {
+    "ItemCode": "302940004",
+    "ItemName": "CERVEZA IPA BARRIL PET 30 LT"
+  },
+  {
+    "ItemCode": "302940005",
+    "ItemName": "CERVEZA STOUT BARRIL PET 20 LT"
+  },
+  {
+    "ItemCode": "302940006",
+    "ItemName": "CERVEZA STOUT BARRIL PET 30 LT"
+  },
+  {
+    "ItemCode": "202730093",
+    "ItemName": "PAN DE QUESO CRUDO 26X400 GR"
+  },
+  {
+    "ItemCode": "203230040",
+    "ItemName": "EMPANADA MEDIALUNA PINO 16X600 GR"
+  },
+  {
+    "ItemCode": "302940007",
+    "ItemName": "CERVEZA LAGER BARRIL PET 30 LT"
+  },
+  {
+    "ItemCode": "202910074",
+    "ItemName": "COSTILLAR DE LOMO BRASIL LOCAL 10 KG"
+  },
+  {
+    "ItemCode": "204750029",
+    "ItemName": "CUBOS DE TAPAPECHO CONG. 2,5X2,5 CM 1X5 KG"
+  },
+  {
+    "ItemCode": "202620001",
+    "ItemName": "ATUN EN TROZO IMP AL VACIO SMART CHOICE 20X500 GR"
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
+  },
+  {
+    "ItemCode": "203210140",
+    "ItemName": "HAMBURGUESA DE VACUNO SMASH 32X113 GR"
+  },
+  {
+    "ItemCode": "303850020",
+    "ItemName": "MANTEQUILLA CON SAL TONADITA 24X125 GR"
+  },
+  {
+    "ItemCode": "303850021",
+    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
+  },
+  {
+    "ItemCode": "104900005",
+    "ItemName": "HUMO EN POLVO 1X15 KG"
+  },
+  {
+    "ItemCode": "102510004",
+    "ItemName": "ACEITE BELMONT VEGETAL 4X5 LT"
+  },
+  {
+    "ItemCode": "102660005",
+    "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   }
 ]
