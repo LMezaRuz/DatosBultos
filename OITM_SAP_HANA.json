@@ -27976,10 +27976,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 25X200 GR"
   },
   {
-    "ItemCode": "103670004",
-    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
-  },
-  {
     "ItemCode": "103940002",
     "ItemName": "MOSTAZA HEINZ FLEX 12X350 GR"
   },
@@ -35664,10 +35660,6 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
-  },
-  {
     "ItemCode": "202910006",
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
@@ -35682,10 +35674,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "100102011",
@@ -35818,10 +35806,6 @@
   {
     "ItemCode": "104620000",
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
-  },
-  {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
     "ItemCode": "101402004",
@@ -42672,10 +42656,6 @@
     "ItemName": "YOGHURT ACTIVIA TROZO FRUTILLA SEMILLAS 24X140 GR"
   },
   {
-    "ItemCode": "101011002",
-    "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -42906,10 +42886,6 @@
   {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
-  },
-  {
-    "ItemCode": "104620001",
-    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
     "ItemCode": "400001001",
@@ -43414,10 +43390,6 @@
   {
     "ItemCode": "203510007",
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
-  },
-  {
-    "ItemCode": "203230006",
-    "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "202730080",
@@ -45168,10 +45140,6 @@
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "203230007",
-    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -45288,10 +45256,6 @@
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
   {
-    "ItemCode": "100854010",
-    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
-  },
-  {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
@@ -45326,10 +45290,6 @@
   {
     "ItemCode": "101200007",
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "103880015",
-    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
     "ItemCode": "300157027",
@@ -45836,10 +45796,6 @@
     "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
     "ItemCode": "400011015",
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
@@ -46186,10 +46142,6 @@
   {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
-  },
-  {
-    "ItemCode": "400011012",
-    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
     "ItemCode": "400001005",
@@ -47414,5 +47366,53 @@
   {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
+  },
+  {
+    "ItemCode": "203230006",
+    "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203230007",
+    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "103670004",
+    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "104620001",
+    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
+  },
+  {
+    "ItemCode": "103880015",
+    "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
+  },
+  {
+    "ItemCode": "400011012",
+    "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
+  },
+  {
+    "ItemCode": "100854010",
+    "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 8 DISPLAY x 6 UN 37 GRS"
+  },
+  {
+    "ItemCode": "101011002",
+    "ItemName": "QUESO RALLADO 1X40 GR."
   }
 ]
