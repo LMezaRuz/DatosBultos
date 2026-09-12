@@ -31472,10 +31472,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT AMARGO 53,9% SIN AZUCAR 6X1 KG (CSD-U68)"
   },
   {
-    "ItemCode": "203430009",
-    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
-  },
-  {
     "ItemCode": "104820017",
     "ItemName": "VINAGRE DE MANZANA PET MONTANER 30 X 500 ML"
   },
@@ -43388,10 +43384,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
   },
@@ -46492,16 +46484,8 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100101001",
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "103070000",
@@ -47160,10 +47144,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "200100015",
     "ItemName": "HELADO SAN FCO. PIÑA (AGUA) 1 X 4,8 LTS"
   },
@@ -47242,10 +47222,6 @@
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
     "ItemCode": "204790022",
@@ -47356,20 +47332,12 @@
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "103070006",
@@ -47382,14 +47350,6 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "100552004",
@@ -47414,5 +47374,45 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "203430009",
+    "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   }
 ]
