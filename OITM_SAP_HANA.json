@@ -35740,10 +35740,6 @@
     "ItemName": "PALETA DE CERDO C/HUESO BRASIL AURORA 25 KG (APROX)"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
@@ -39800,10 +39796,6 @@
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
   },
   {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
-  },
-  {
     "ItemCode": "100854005",
     "ItemName": "PAPAS FRITAS LAYS 1X230 GR"
   },
@@ -40280,10 +40272,6 @@
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "101150010",
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
@@ -40618,10 +40606,6 @@
   {
     "ItemCode": "100300015",
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "200308004",
@@ -44108,10 +44092,6 @@
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -44854,10 +44834,6 @@
   {
     "ItemCode": "204300084",
     "ItemName": "TRUTRO ALA DE POLLO CONG. BRASIL AURORA 6X2 KG"
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "400005011",
@@ -47168,10 +47144,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
@@ -47190,10 +47162,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
     "ItemCode": "100200003",
@@ -47258,10 +47226,6 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101007021",
@@ -47414,5 +47378,41 @@
   {
     "ItemCode": "300152002",
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE 1X3 UN. (1100581)(C200505)"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   }
 ]
