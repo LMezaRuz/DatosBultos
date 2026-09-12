@@ -45240,10 +45240,6 @@
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100051004",
-    "ItemName": "PICKLE SURTIDO 6X1 KG"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -45742,10 +45738,6 @@
   {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
-  },
-  {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
   {
     "ItemCode": "303870004",
@@ -46268,10 +46260,6 @@
     "ItemName": "HELADO SAN FCO. PIÑA (AGUA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "100050008",
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
@@ -46386,34 +46374,6 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "204700028",
-    "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
-  },
-  {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
-    "ItemCode": "203190033",
-    "ItemName": "COSTILLAR DE CERDO AHUMADO 10 KG APROX (MM)"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "203200003",
-    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "204700005",
@@ -46740,10 +46700,6 @@
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
-    "ItemCode": "304760458",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -47004,26 +46960,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
-    "ItemCode": "202720035",
-    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
-    "ItemCode": "203200033",
-    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
-  },
-  {
     "ItemCode": "204310017",
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
@@ -47086,10 +47022,6 @@
   {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "104080006",
@@ -47414,5 +47346,73 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "202720035",
+    "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "203200033",
+    "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "204700028",
+    "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "203190033",
+    "ItemName": "COSTILLAR DE CERDO AHUMADO 10 KG APROX (MM)"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "203200003",
+    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "304760458",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100051004",
+    "ItemName": "PICKLE SURTIDO 6X1 KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   }
 ]
