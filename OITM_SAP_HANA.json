@@ -23728,10 +23728,6 @@
     "ItemName": "MARGARINA CALO VEGETAL LIGHT 12X450 G"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "204150014",
     "ItemName": "PAN CIABATTA 48X125 GR"
   },
@@ -28272,10 +28268,6 @@
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "200458004",
     "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
@@ -31620,10 +31612,6 @@
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "203210102",
-    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
-  },
-  {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
   },
@@ -31690,10 +31678,6 @@
   {
     "ItemCode": "204750030",
     "ItemName": "LOMO LISO PORC. CAT V CONG. 40x250 GR"
-  },
-  {
-    "ItemCode": "203190033",
-    "ItemName": "COSTILLAR DE CERDO AHUMADO 10 KG APROX (MM)"
   },
   {
     "ItemCode": "304760108",
@@ -36132,10 +36116,6 @@
     "ItemName": "ENDULZANTE STEVIA 1X100 UN."
   },
   {
-    "ItemCode": "204700028",
-    "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
-  },
-  {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
@@ -40120,10 +40100,6 @@
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
@@ -43872,10 +43848,6 @@
     "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
   },
   {
-    "ItemCode": "203200003",
-    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
     "ItemCode": "100300008",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
@@ -45860,10 +45832,6 @@
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
-    "ItemCode": "204700005",
-    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
-  },
-  {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
@@ -45990,10 +45958,6 @@
   {
     "ItemCode": "101201028",
     "ItemName": "LECHE ASADA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
     "ItemCode": "400250007",
@@ -46708,10 +46672,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
@@ -47414,5 +47374,45 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "204700028",
+    "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "203210102",
+    "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
+  },
+  {
+    "ItemCode": "203190033",
+    "ItemName": "COSTILLAR DE CERDO AHUMADO 10 KG APROX (MM)"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "203200003",
+    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "204700005",
+    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   }
 ]
