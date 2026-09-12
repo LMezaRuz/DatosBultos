@@ -30248,10 +30248,6 @@
     "ItemName": "CHOCLILLO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
   },
   {
-    "ItemCode": "100650003",
-    "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
-  },
-  {
     "ItemCode": "103010006",
     "ItemName": "COBERTURA NEUCOBER BLANCO 12X1 KG"
   },
@@ -36644,14 +36640,6 @@
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100651011",
-    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
-  },
-  {
-    "ItemCode": "100651010",
-    "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
     "ItemCode": "200200012",
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
@@ -40152,10 +40140,6 @@
     "ItemName": "SACO GRANDE KRAFT MAMUT 1 X 250 UN"
   },
   {
-    "ItemCode": "200460006",
-    "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
-  },
-  {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG (W2N-595)"
   },
@@ -40720,10 +40704,6 @@
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
   {
-    "ItemCode": "202910027",
-    "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
-  },
-  {
     "ItemCode": "300154032",
     "ItemName": "MARGARINA SUREÑA MIX PAN 40X200 G"
   },
@@ -40734,10 +40714,6 @@
   {
     "ItemCode": "300157034",
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
     "ItemCode": "300152006",
@@ -44184,10 +44160,6 @@
     "ItemName": "DURAZNO EN MITADES WASIL 16X500 GR"
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -44422,10 +44394,6 @@
   {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "203190049",
@@ -46004,14 +45972,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
     "ItemCode": "101009026",
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
@@ -47414,5 +47374,45 @@
   {
     "ItemCode": "304760446",
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "100651010",
+    "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "100651011",
+    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
+  },
+  {
+    "ItemCode": "100650003",
+    "ItemName": "COCTEL DE FRUTAS WASIL 24X560"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "202910027",
+    "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
+  },
+  {
+    "ItemCode": "200460006",
+    "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
   }
 ]
