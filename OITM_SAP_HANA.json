@@ -36264,10 +36264,6 @@
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
   {
-    "ItemCode": "203190008",
-    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
-  },
-  {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
   },
@@ -36438,10 +36434,6 @@
   {
     "ItemCode": "202720036",
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
-  },
-  {
-    "ItemCode": "204300083",
-    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
   },
   {
     "ItemCode": "200456050",
@@ -44468,14 +44460,6 @@
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101000003",
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
@@ -44542,10 +44526,6 @@
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "100651009",
@@ -46196,10 +46176,6 @@
     "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
-    "ItemCode": "300152006",
-    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
     "ItemCode": "300152007",
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
   },
@@ -46924,10 +46900,6 @@
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
   },
   {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
     "ItemCode": "304760593",
     "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
@@ -47414,5 +47386,33 @@
   {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "204300083",
+    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "203190008",
+    "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
+  },
+  {
+    "ItemCode": "300152006",
+    "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   }
 ]
