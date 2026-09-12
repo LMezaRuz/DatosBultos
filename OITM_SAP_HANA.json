@@ -20384,10 +20384,6 @@
     "ItemName": "ACEITE CHEF DE OLIVA EXTRA VIRGEN CON MARAVILLA 12 X 1 LT"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "MAQ001400",
     "ItemName": "TARIFA SERVICIOS $1400"
   },
@@ -32376,10 +32372,6 @@
     "ItemName": "CAFE ADDESO EXCLUSIVO EN CAPSULA COMPATIBLE (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "104660017",
-    "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "202720025",
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
@@ -36292,10 +36284,6 @@
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
   {
-    "ItemCode": "104010003",
-    "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
-  },
-  {
     "ItemCode": "103990003",
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
@@ -39362,10 +39350,6 @@
   {
     "ItemCode": "100557011",
     "ItemName": "ENELDO EN SOBRE 1x8 g."
-  },
-  {
-    "ItemCode": "100350009",
-    "ItemName": "CAFE FOLKS BLEND GRANO X1 KG (100% arábica)"
   },
   {
     "ItemCode": "100654007",
@@ -46120,10 +46104,6 @@
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
@@ -46322,10 +46302,6 @@
   {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
     "ItemCode": "102480001",
@@ -47414,5 +47390,29 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "104010003",
+    "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100350009",
+    "ItemName": "CAFE FOLKS BLEND GRANO X1 KG (100% arábica)"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "104660017",
+    "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   }
 ]
