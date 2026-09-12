@@ -31508,10 +31508,6 @@
     "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   },
   {
-    "ItemCode": "202910010",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760515",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -32182,10 +32178,6 @@
   {
     "ItemCode": "202720025",
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
-    "ItemCode": "300154033",
-    "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
   },
   {
     "ItemCode": "202730006",
@@ -39470,10 +39462,6 @@
   {
     "ItemCode": "101007019",
     "ItemName": "LECHE POLVO S/LACTOSA SEMIDESCREMADA 1X800 GRS"
-  },
-  {
-    "ItemCode": "300154010",
-    "ItemName": "HORNITO HOJA 20X1"
   },
   {
     "ItemCode": "203430017",
@@ -47304,14 +47292,6 @@
     "ItemName": "HUESILLO FANCY 1X1 KG"
   },
   {
-    "ItemCode": "304760546",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47414,5 +47394,25 @@
   {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "304760546",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300154010",
+    "ItemName": "HORNITO HOJA 20X1"
+  },
+  {
+    "ItemCode": "300154033",
+    "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
+  },
+  {
+    "ItemCode": "202910010",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   }
 ]
