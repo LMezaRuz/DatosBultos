@@ -20468,10 +20468,6 @@
     "ItemName": "ASADO CARNICERO BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "203210130",
     "ItemName": "CHURRASCO DE VACUNO 30X160 GR (MM)"
   },
@@ -24330,10 +24326,6 @@
   {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
-  },
-  {
-    "ItemCode": "101100055",
-    "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "102680016",
@@ -28362,10 +28354,6 @@
   {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
-  },
-  {
-    "ItemCode": "102480001",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
   },
   {
     "ItemCode": "100904003",
@@ -35416,10 +35404,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "103010011",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 1X10 KG"
   },
@@ -36534,10 +36518,6 @@
   {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "101003001",
@@ -40834,10 +40814,6 @@
   {
     "ItemCode": "103720007",
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
-  },
-  {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
     "ItemCode": "103720008",
@@ -46512,10 +46488,6 @@
     "ItemName": "HARINA ORO 5 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -47072,10 +47044,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100300014",
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
@@ -47276,10 +47244,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "102970009",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
   },
@@ -47408,11 +47372,47 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "102480001",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN 1X5 LTS"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101100055",
+    "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   }
 ]
