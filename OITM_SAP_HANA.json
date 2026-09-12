@@ -31808,10 +31808,6 @@
     "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "102460014",
     "ItemName": "CREMA DE ACAI 2X5 KG"
   },
@@ -35938,10 +35934,6 @@
   {
     "ItemCode": "103050009",
     "ItemName": "CAJA PAQUETE ESPECIAL PICOTEO"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "204140007",
@@ -43112,10 +43104,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
   {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
     "ItemCode": "101201030",
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
   },
@@ -45452,10 +45440,6 @@
     "ItemName": "JAIBA MARMOLA CARNE NAC (CANCER EDWARDSII) 1X 500 GRS"
   },
   {
-    "ItemCode": "400012005",
-    "ItemName": "ATOMIZADOR 1X1000 CC."
-  },
-  {
     "ItemCode": "100852019",
     "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
   },
@@ -45630,10 +45614,6 @@
   {
     "ItemCode": "101007018",
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "203210101",
@@ -46288,10 +46268,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
@@ -46916,10 +46892,6 @@
     "ItemName": "HARINA TODO USO SIN POLVO YANINE 1X25 KG"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -47160,10 +47132,6 @@
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100101002",
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
@@ -47262,10 +47230,6 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "400005013",
@@ -47414,5 +47378,41 @@
   {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "400012005",
+    "ItemName": "ATOMIZADOR 1X1000 CC."
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   }
 ]
