@@ -35100,10 +35100,6 @@
     "ItemName": "LIMPIA VIDRIOS GATILLO 1x500 CC."
   },
   {
-    "ItemCode": "202910069",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
     "ItemCode": "104670001",
     "ItemName": "TE TWININGS EARL GREY 20 GR 1X10 UN"
   },
@@ -35990,10 +35986,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "104020000",
-    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
   {
     "ItemCode": "100801003",
@@ -40140,10 +40132,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
   },
@@ -43054,10 +43042,6 @@
   {
     "ItemCode": "300157012",
     "ItemName": "YOGURT FRAMBUESA BATIDO SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300351016",
-    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
     "ItemCode": "100801005",
@@ -46588,10 +46572,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
-    "ItemCode": "202910022",
-    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
-  },
-  {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   },
@@ -46766,10 +46746,6 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
     "ItemCode": "200500032",
@@ -47192,10 +47168,6 @@
     "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "200250010",
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
@@ -47264,10 +47236,6 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -47294,14 +47262,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101352003",
@@ -47414,5 +47374,45 @@
   {
     "ItemCode": "204100002",
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
+  },
+  {
+    "ItemCode": "202910069",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "202910022",
+    "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "300351016",
+    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
+  },
+  {
+    "ItemCode": "104020000",
+    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
