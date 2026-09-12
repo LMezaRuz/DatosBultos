@@ -31144,10 +31144,6 @@
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
   {
-    "ItemCode": "200307009",
-    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
     "ItemCode": "204870022",
     "ItemName": "HIGADO DE VACUNO CONG. USA LOCAL VALLEY 25 KG (APROX) (X-MAYOR)"
   },
@@ -31502,10 +31498,6 @@
   {
     "ItemCode": "304760526",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204790029",
-    "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
   {
     "ItemCode": "103700000",
@@ -35060,10 +35052,6 @@
     "ItemName": "MERMELADA DE PAPAYA C/TROZOS DE FRUTA 0/AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "204000004",
-    "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "202720032",
     "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
   },
@@ -35210,10 +35198,6 @@
   {
     "ItemCode": "200302017",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 71/90 1X1 KG"
-  },
-  {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
     "ItemCode": "100854017",
@@ -39968,10 +39952,6 @@
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
   },
   {
-    "ItemCode": "200250033",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG_LOCAL"
-  },
-  {
     "ItemCode": "100353002",
     "ItemName": "YERBA MATE 1x500 G."
   },
@@ -43468,10 +43448,6 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X380 G"
   },
   {
-    "ItemCode": "101352012",
-    "ItemName": "KETCHUP JB 10X1 KG"
-  },
-  {
     "ItemCode": "300001003",
     "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 6X1 KG (823-U73)"
   },
@@ -44128,10 +44104,6 @@
     "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -44218,10 +44190,6 @@
   {
     "ItemCode": "304760440",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
   },
   {
     "ItemCode": "100754003",
@@ -46812,10 +46780,6 @@
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
-  },
-  {
     "ItemCode": "200002011",
     "ItemName": "EMPANADA CAMARON QUESO 40 GR 2X50 UN"
   },
@@ -46958,10 +46922,6 @@
   {
     "ItemCode": "304760585",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
     "ItemCode": "300001007",
@@ -47180,10 +47140,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -47238,10 +47194,6 @@
   {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "400250002",
@@ -47414,5 +47366,53 @@
   {
     "ItemCode": "204090009",
     "ItemName": "ALMEJA JULIANA 24X500 GR"
+  },
+  {
+    "ItemCode": "204000004",
+    "ItemName": "HUESO CARNUDO VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "200307009",
+    "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "200250033",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG_LOCAL"
+  },
+  {
+    "ItemCode": "101352012",
+    "ItemName": "KETCHUP JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "204790029",
+    "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   }
 ]
