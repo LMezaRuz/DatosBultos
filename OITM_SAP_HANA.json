@@ -42520,10 +42520,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "200003003",
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
@@ -43558,10 +43554,6 @@
   {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
     "ItemCode": "400012003",
@@ -47414,5 +47406,13 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   }
 ]
