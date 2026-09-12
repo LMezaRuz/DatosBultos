@@ -24624,14 +24624,6 @@
     "ItemName": "NOT MILK ZERO (0% AZUCAR) 12X1 LT"
   },
   {
-    "ItemCode": "102530002",
-    "ItemName": "ADEREZO COLESLAW PARA ENSALADAS 4 X 4,09 KG"
-  },
-  {
-    "ItemCode": "102530003",
-    "ItemName": "ADEREZO MOSTAZA CON MIEL 4 X 3,97 KG"
-  },
-  {
     "ItemCode": "102740001",
     "ItemName": "BOLSA DE PAPEL PARA GALLETAS (CAJA)"
   },
@@ -25014,10 +25006,6 @@
   {
     "ItemCode": "104140000",
     "ItemName": "CRUTONES 8 X 1,13 KG"
-  },
-  {
-    "ItemCode": "104010014",
-    "ItemName": "SALSA CHIMENESA 12X500 GR"
   },
   {
     "ItemCode": "104030001",
@@ -33556,10 +33544,6 @@
     "ItemName": "LOMITO SAL PIMIENTA AJO 8 X 1,5 KG"
   },
   {
-    "ItemCode": "200402027",
-    "ItemName": "BRETZEL CREMA 40 UN X 125 GR"
-  },
-  {
     "ItemCode": "200453002",
     "ItemName": "PALETA CERDO PORCIONADA AGROSUPER KG"
   },
@@ -35324,10 +35308,6 @@
     "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
-  },
-  {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
   },
@@ -35530,10 +35510,6 @@
   {
     "ItemCode": "101100004",
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "303840001",
-    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
   },
   {
     "ItemCode": "101150051",
@@ -41660,10 +41636,6 @@
     "ItemName": "ARVEJAS CONGELADAS 15X1 KG"
   },
   {
-    "ItemCode": "101151004",
-    "ItemName": "SALSA BBQ UNIFOOD 12 UN X 1 KG"
-  },
-  {
     "ItemCode": "200303002",
     "ItemName": "ROLLITO APANADOS MERLUZA 20X500 GR"
   },
@@ -42014,10 +41986,6 @@
   {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
-    "ItemCode": "101151001",
-    "ItemName": "SALSA MOSTAZA UNIFOOD 12 X 1 KG"
   },
   {
     "ItemCode": "100850001",
@@ -47414,5 +47382,37 @@
   {
     "ItemCode": "104560001",
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
+  },
+  {
+    "ItemCode": "303840001",
+    "ItemName": "MANTECA CRUCINA COMBINADA MODIFICADA 20X1 KG"
+  },
+  {
+    "ItemCode": "101151001",
+    "ItemName": "SALSA MOSTAZA UNIFOOD 12 X 1 KG"
+  },
+  {
+    "ItemCode": "101151004",
+    "ItemName": "SALSA BBQ UNIFOOD 12 UN X 1 KG"
+  },
+  {
+    "ItemCode": "102530002",
+    "ItemName": "ADEREZO COLESLAW PARA ENSALADAS 4 X 4,09 KG"
+  },
+  {
+    "ItemCode": "102530003",
+    "ItemName": "ADEREZO MOSTAZA CON MIEL 4 X 3,97 KG"
+  },
+  {
+    "ItemCode": "104010014",
+    "ItemName": "SALSA CHIMENESA 12X500 GR"
+  },
+  {
+    "ItemCode": "200402027",
+    "ItemName": "BRETZEL CREMA 40 UN X 125 GR"
   }
 ]
