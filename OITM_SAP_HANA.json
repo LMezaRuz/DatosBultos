@@ -39456,10 +39456,6 @@
     "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
   },
   {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
     "ItemCode": "101009027",
     "ItemName": "SHAKE SHAKE CHOCOLATE 6X170 GR"
   },
@@ -42066,10 +42062,6 @@
   {
     "ItemCode": "400005001",
     "ItemName": "MASCARILLA 3 PLIE C/ELASTICO 1X50 UN."
-  },
-  {
-    "ItemCode": "100050004",
-    "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
   },
   {
     "ItemCode": "101200015",
@@ -44952,10 +44944,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "303870009",
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
   },
@@ -45114,10 +45102,6 @@
   {
     "ItemCode": "100101001",
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
-  },
-  {
-    "ItemCode": "103070000",
-    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
   {
     "ItemCode": "104930000",
@@ -45408,10 +45392,6 @@
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -45534,10 +45514,6 @@
   {
     "ItemCode": "200100015",
     "ItemName": "HELADO SAN FCO. PIÑA (AGUA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "303850011",
@@ -47348,10 +47324,6 @@
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -47414,5 +47386,33 @@
   {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100050004",
+    "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "103070000",
+    "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   }
 ]
