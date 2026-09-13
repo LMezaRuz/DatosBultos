@@ -31676,10 +31676,6 @@
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
   },
   {
-    "ItemCode": "204390003",
-    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
-  },
-  {
     "ItemCode": "304010001",
     "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
   },
@@ -31982,10 +31978,6 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "100500001",
@@ -38948,10 +38940,6 @@
     "ItemName": "ENDULZANTE STEVIA LIQUIDO 1X270 ML"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100151015",
     "ItemName": "CEREAL ZUCOSOS NESTLE 1X800GR"
   },
@@ -45436,10 +45424,6 @@
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
   {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -46672,10 +46656,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -46766,10 +46746,6 @@
   {
     "ItemCode": "200302008",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "100300007",
@@ -46948,10 +46924,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "200457008",
     "ItemName": "HAMBURGUESA PRO CARNE 20 X 225 GR."
   },
@@ -46962,10 +46934,6 @@
   {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "300153008",
@@ -47086,10 +47054,6 @@
   {
     "ItemCode": "100302008",
     "ItemName": "FANTA LATA 6X220 CC"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101450006",
@@ -47414,5 +47378,41 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204390003",
+    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
