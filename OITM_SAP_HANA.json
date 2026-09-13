@@ -40696,10 +40696,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -44436,10 +44432,6 @@
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "100754003",
     "ItemName": "DULCE MEMBRILLO PAN WATTS 12X500"
   },
@@ -47128,10 +47120,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
@@ -47154,10 +47142,6 @@
   {
     "ItemCode": "304490000",
     "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
     "ItemCode": "101007021",
@@ -47414,5 +47398,21 @@
   {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
