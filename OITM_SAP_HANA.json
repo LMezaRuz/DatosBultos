@@ -23324,10 +23324,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104060006",
-    "ItemName": "CHANCACA IANSA 20X450GR"
-  },
-  {
     "ItemCode": "102710017",
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
@@ -24262,10 +24258,6 @@
   {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
-    "ItemCode": "100557023",
-    "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
   },
   {
     "ItemCode": "304440012",
@@ -39764,10 +39756,6 @@
     "ItemName": "ETIQUETA CIRCULAR HUMMUS (10 rollos de 1000 UND)"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA 10X1 KG"
-  },
-  {
     "ItemCode": "203430017",
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
   },
@@ -46068,10 +46056,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 16/20 10X1 KG"
   },
   {
-    "ItemCode": "101351023",
-    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
     "ItemCode": "202820016",
     "ItemName": "CAMARON ECUATORIANO CRUDO P/D 71/90 10X1KG (LOCAL)"
   },
@@ -46404,10 +46388,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
@@ -46506,10 +46486,6 @@
   {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "204140008",
-    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
   },
   {
     "ItemCode": "200200010",
@@ -46766,10 +46742,6 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051020",
@@ -47040,10 +47012,6 @@
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -47142,10 +47110,6 @@
   {
     "ItemCode": "100200002",
     "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "300157007",
@@ -47414,5 +47378,41 @@
   {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "101351023",
+    "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA 10X1 KG"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100557023",
+    "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
+  },
+  {
+    "ItemCode": "104060006",
+    "ItemName": "CHANCACA IANSA 20X450GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204140008",
+    "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
