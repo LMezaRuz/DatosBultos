@@ -24424,10 +24424,6 @@
     "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -31404,10 +31400,6 @@
     "ItemName": "TE LIPTON GREEN MANDARIN ORANGE 12 X 20 BLS"
   },
   {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
   },
@@ -31486,10 +31478,6 @@
   {
     "ItemCode": "100350008",
     "ItemName": "CAFE FOLKS BLEND 8020 GRANO X1 KG (80% arábica - 20% robusta)"
-  },
-  {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "202730053",
@@ -40004,10 +39992,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "203200030",
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
@@ -42800,10 +42784,6 @@
     "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "100302002",
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
@@ -43330,10 +43310,6 @@
   {
     "ItemCode": "300157033",
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
-    "ItemCode": "101354007",
-    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
   {
     "ItemCode": "300157011",
@@ -45776,10 +45752,6 @@
     "ItemName": "SALSA CHIMENESA 12X500 GR"
   },
   {
-    "ItemCode": "100751002",
-    "ItemName": "MERMELADA DE DAMASCO 1X250 GR"
-  },
-  {
     "ItemCode": "202910004",
     "ItemName": "PULPA PIERNA DE CERDO DIEZ PUNTOS 10X800 GR"
   },
@@ -46132,10 +46104,6 @@
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -46422,10 +46390,6 @@
   {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "100600004",
@@ -47036,10 +47000,6 @@
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
@@ -47228,10 +47188,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
@@ -47414,5 +47370,49 @@
   {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "101354007",
+    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "100751002",
+    "ItemName": "MERMELADA DE DAMASCO 1X250 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   }
 ]
