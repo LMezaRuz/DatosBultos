@@ -28392,10 +28392,6 @@
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
   {
-    "ItemCode": "204000009",
-    "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
@@ -30314,10 +30310,6 @@
   {
     "ItemCode": "104010051",
     "ItemName": "SALSA AJI DULCE CON JENGIBRE 12X248 GR"
-  },
-  {
-    "ItemCode": "104010055",
-    "ItemName": "SALSA TERIYAKI 12X250 GR"
   },
   {
     "ItemCode": "104010058",
@@ -46260,10 +46252,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
-  },
-  {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
@@ -47414,5 +47402,17 @@
   {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
+  },
+  {
+    "ItemCode": "204000009",
+    "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "104010055",
+    "ItemName": "SALSA TERIYAKI 12X250 GR"
   }
 ]
