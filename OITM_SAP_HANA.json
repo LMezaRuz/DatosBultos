@@ -35688,10 +35688,6 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
-    "ItemCode": "101350004",
-    "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -36236,10 +36232,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
-  },
-  {
     "ItemCode": "203190041",
     "ItemName": "BANDERITA DE CERDO 5X1 KG (MM)"
   },
@@ -36506,10 +36498,6 @@
   {
     "ItemCode": "100450006",
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
   },
   {
     "ItemCode": "300153003",
@@ -44332,10 +44320,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "101150009",
-    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
-  },
-  {
     "ItemCode": "103910027",
     "ItemName": "MERMELADA MORA WATTS 12X360 GR"
   },
@@ -46636,10 +46620,6 @@
     "ItemName": "MERMELADA DE MORA 1X250 GR"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
@@ -46854,10 +46834,6 @@
   {
     "ItemCode": "304430001",
     "ItemName": "QUESO CREMA CALO 1X100 GR"
-  },
-  {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
   {
     "ItemCode": "101352004",
@@ -47408,11 +47384,35 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
   {
+    "ItemCode": "103670004",
+    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
+  },
+  {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "103670004",
-    "ItemName": "KETCHUP HEINZ FLEX 24X190 GR"
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "101350004",
+    "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "101150009",
+    "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
   }
 ]
