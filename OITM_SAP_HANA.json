@@ -35164,10 +35164,6 @@
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANZANA 1X5 LT"
   },
   {
-    "ItemCode": "101402003",
-    "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
-  },
-  {
     "ItemCode": "202730011",
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
@@ -36634,10 +36630,6 @@
   {
     "ItemCode": "101400005",
     "ItemName": "CHAMPINON LAMINADO WASIL 24X400"
-  },
-  {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
     "ItemCode": "103910032",
@@ -44484,10 +44476,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
   },
@@ -46104,10 +46092,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100751003",
     "ItemName": "MERMELADA DE DURAZNO 1X250 GR"
   },
@@ -47414,5 +47398,21 @@
   {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101402003",
+    "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
   }
 ]
