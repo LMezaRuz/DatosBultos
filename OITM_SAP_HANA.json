@@ -24224,10 +24224,6 @@
     "ItemName": "TOMATE DESHIDRATADO 1X500 GR"
   },
   {
-    "ItemCode": "204380019",
-    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
@@ -28062,10 +28058,6 @@
   {
     "ItemCode": "203430014",
     "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380023",
-    "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
     "ItemCode": "104910010",
@@ -44612,10 +44604,6 @@
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8X1 KG"
-  },
-  {
     "ItemCode": "304760491",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -45412,14 +45400,6 @@
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "101009025",
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
@@ -45538,10 +45518,6 @@
   {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "203200039",
-    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
     "ItemCode": "203210058",
@@ -46168,10 +46144,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "101201038",
-    "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -46282,10 +46254,6 @@
   {
     "ItemCode": "101201016",
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "204140006",
@@ -46678,10 +46646,6 @@
   {
     "ItemCode": "101201041",
     "ItemName": "JALEA DE DURAZNO (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
     "ItemCode": "101450006",
@@ -47268,10 +47232,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
   },
@@ -47360,10 +47320,6 @@
     "ItemName": "KETCHUP 10X1 KG"
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "200460027",
     "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
   },
@@ -47412,7 +47368,51 @@
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
+    "ItemCode": "101201038",
+    "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "203200039",
+    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380023",
+    "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380019",
+    "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
   }
 ]
