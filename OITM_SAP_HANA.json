@@ -35964,10 +35964,6 @@
     "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
-    "ItemCode": "101000009",
-    "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
     "ItemCode": "300150002",
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
@@ -39774,10 +39770,6 @@
   {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
-    "ItemCode": "101000008",
-    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
   {
     "ItemCode": "MAQ001555",
@@ -46868,10 +46860,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
@@ -47414,5 +47402,17 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101000008",
+    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
+  },
+  {
+    "ItemCode": "101000009",
+    "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
   }
 ]
