@@ -24084,10 +24084,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
     "ItemCode": "103110004",
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
@@ -35100,14 +35096,6 @@
     "ItemName": "PLATEADA BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "400301073",
-    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "400301076",
-    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
@@ -39628,10 +39616,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -42996,10 +42980,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO ANGUS 24X185 GR"
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   },
@@ -43582,10 +43562,6 @@
   {
     "ItemCode": "103760002",
     "ItemName": "LECHE DE VAINILLA SIN LACTOSA LONCO 12X1 LT"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "100751006",
@@ -45520,10 +45496,6 @@
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "200302007",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
@@ -46208,10 +46180,6 @@
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "300405007",
     "ItemName": "QUESO MANTECOSO QUILQUE BARRA KG (3 KG APROX.)"
   },
@@ -46586,10 +46554,6 @@
   {
     "ItemCode": "204380032",
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "101009025",
@@ -47414,5 +47378,41 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "400301073",
+    "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
+  },
+  {
+    "ItemCode": "400301076",
+    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   }
 ]
