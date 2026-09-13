@@ -28116,10 +28116,6 @@
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
   {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
-  },
-  {
     "ItemCode": "202910070",
     "ItemName": "RACK ENTERO CHULETA CENTRO IMP. BRASIL SEARA (20 KG APROX)"
   },
@@ -36006,10 +36002,6 @@
   {
     "ItemCode": "300002002",
     "ItemName": "CHOCOLATE SUC. SICAO AMARGO 10 KG (ILD-009)"
-  },
-  {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
   {
     "ItemCode": "100303006",
@@ -46916,10 +46908,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
     "ItemCode": "203210014",
     "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
   },
@@ -47414,5 +47402,17 @@
   {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
   }
 ]
