@@ -23680,10 +23680,6 @@
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
   {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
-  },
-  {
     "ItemCode": "104670084",
     "ItemName": "TE SUPERIOR PURE CEYLON 20X250 GR"
   },
@@ -31250,10 +31246,6 @@
   {
     "ItemCode": "104670059",
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
-  },
-  {
-    "ItemCode": "404600008",
-    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
   {
     "ItemCode": "100350008",
@@ -46132,10 +46124,6 @@
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
   {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
-  },
-  {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
@@ -46502,10 +46490,6 @@
   {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
     "ItemCode": "104670002",
@@ -47388,20 +47372,12 @@
     "ItemName": "PESTO 1X190 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
   {
     "ItemCode": "100402002",
@@ -47414,5 +47390,29 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "404600008",
+    "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
   }
 ]
