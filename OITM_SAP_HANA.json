@@ -23736,10 +23736,6 @@
     "ItemName": "MARGARINA CALO VEGETAL LIGHT 12X450 G"
   },
   {
-    "ItemCode": "101401004",
-    "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
     "ItemCode": "204150014",
     "ItemName": "PAN CIABATTA 48X125 GR"
   },
@@ -40088,16 +40084,8 @@
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
   },
   {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
     "ItemCode": "200500048",
     "ItemName": "SOFRITO CON AJO 12X150 GR"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
     "ItemCode": "202990004",
@@ -43052,20 +43040,8 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "300157033",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
-  },
-  {
     "ItemCode": "300157011",
     "ItemName": "YOGURT DAMASCO BATIDO SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300157032",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
     "ItemCode": "103180007",
@@ -43670,10 +43646,6 @@
   {
     "ItemCode": "103910039",
     "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
     "ItemCode": "300405005",
@@ -44856,10 +44828,6 @@
     "ItemName": "SERVILLETA MESA BURDEO PREMIUM 12 PQTE X 50 UN (SE70036)"
   },
   {
-    "ItemCode": "101400004",
-    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
-  },
-  {
     "ItemCode": "204790006",
     "ItemName": "ARVEJAS DIEZ PUNTOS 25X200 GR"
   },
@@ -45460,14 +45428,6 @@
     "ItemName": "GALLETA CRACKELET 1X85 GR."
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
@@ -45788,40 +45748,12 @@
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "300157028",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "300157029",
-    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
-  },
-  {
     "ItemCode": "203210101",
     "ItemName": "MOLIDA DE VACUNO CONGELADA 5% GRASA 6X1 KG (MM)"
   },
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "300157034",
-    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
-  },
-  {
-    "ItemCode": "300157036",
-    "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
-  },
-  {
-    "ItemCode": "300157040",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157041",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
   },
   {
     "ItemCode": "202910010",
@@ -45842,10 +45774,6 @@
   {
     "ItemCode": "203190043",
     "ItemName": "PULLED PORK 8X1 KG"
-  },
-  {
-    "ItemCode": "304850035",
-    "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
     "ItemCode": "304760491",
@@ -46668,10 +46596,6 @@
     "ItemName": "HAMBURGUESA PRO CARNE 20 X 225 GR."
   },
   {
-    "ItemCode": "101403008",
-    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -47328,10 +47252,6 @@
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
   },
@@ -47414,5 +47334,85 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101401004",
+    "ItemName": "CHOCLO DULCE WASIL 16X340"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "101400004",
+    "ItemName": "CHAMPINON ENTERO WASIL 24X400"
+  },
+  {
+    "ItemCode": "101403008",
+    "ItemName": "PALMITOS RODAJAS WASIL 24X400"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "304850035",
+    "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "300157040",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157041",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157036",
+    "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
+  },
+  {
+    "ItemCode": "300157034",
+    "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
+  },
+  {
+    "ItemCode": "300157033",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
+  },
+  {
+    "ItemCode": "300157029",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
+  },
+  {
+    "ItemCode": "300157028",
+    "ItemName": "YOGURT GRIEGO OIKOS SABOR FRUTILLA 48X110"
   }
 ]
