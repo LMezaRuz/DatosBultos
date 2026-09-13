@@ -28380,10 +28380,6 @@
     "ItemName": "MILANESA DE VACUNO 160 GR (9 BOLSAS X 800 GR)"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "304450021",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS LAMINADO 4X2.5 KG"
   },
@@ -31738,10 +31734,6 @@
   {
     "ItemCode": "103480024",
     "ItemName": "GALLETA OREO EN TROZOS MEDIANOS 2X4 KG."
-  },
-  {
-    "ItemCode": "304760520",
-    "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
     "ItemCode": "102460014",
@@ -35274,10 +35266,6 @@
   {
     "ItemCode": "303200000",
     "ItemName": "PECHUGA DE POLLO LAMINADA KING 12X250 GR"
-  },
-  {
-    "ItemCode": "304760110",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "203190038",
@@ -42800,10 +42788,6 @@
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
   {
-    "ItemCode": "203610000",
-    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
-  },
-  {
     "ItemCode": "104540003",
     "ItemName": "SALSA BBQ GOURMET 10X1 KG"
   },
@@ -45240,10 +45224,6 @@
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
@@ -45878,10 +45858,6 @@
   {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
-  },
-  {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
     "ItemCode": "400250002",
@@ -46968,10 +46944,6 @@
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -47002,10 +46974,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "200002007",
@@ -47414,5 +47382,37 @@
   {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
+  },
+  {
+    "ItemCode": "304760520",
+    "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760110",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "203610000",
+    "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
