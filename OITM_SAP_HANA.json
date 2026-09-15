@@ -30884,10 +30884,6 @@
     "ItemName": "FECULA DE PAPA 1X25 KG"
   },
   {
-    "ItemCode": "102780010",
-    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 4X1 KG"
-  },
-  {
     "ItemCode": "102840014",
     "ItemName": "CAFE POMPEI EN PODS 1X50 UU."
   },
@@ -36428,10 +36424,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "101003004",
     "ItemName": "CREMA VEGETAL BRAVO CREM 12X1 LT."
   },
@@ -39586,10 +39578,6 @@
   {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "101100038",
@@ -43060,10 +43048,6 @@
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
   {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
     "ItemCode": "100355001",
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
   },
@@ -46432,10 +46416,6 @@
     "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
@@ -46924,20 +46904,8 @@
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
   {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "300154003",
@@ -46950,10 +46918,6 @@
   {
     "ItemCode": "300152004",
     "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
     "ItemCode": "300154014",
@@ -47296,10 +47260,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
@@ -47418,5 +47378,45 @@
   {
     "ItemCode": "304760519",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "102780010",
+    "ItemName": "CAFE KIMBO EN GRANO VENDING AUDACE 4X1 KG"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   }
 ]
