@@ -31312,10 +31312,6 @@
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "104110000",
-    "ItemName": "TOFU 12X307 GRS."
-  },
-  {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
   },
@@ -43280,10 +43276,6 @@
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101403001",
-    "ItemName": "PALMITOS RODAJAS  12x800 g."
-  },
-  {
     "ItemCode": "400012008",
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
@@ -43526,10 +43518,6 @@
   {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
-    "ItemCode": "400251007",
-    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
   },
   {
     "ItemCode": "101304001",
@@ -46460,10 +46448,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "100550008",
-    "ItemName": "MERKEN 1X1 KG"
-  },
-  {
     "ItemCode": "103830005",
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
@@ -46608,16 +46592,288 @@
     "ItemName": "HUACHALOMO KG. (P&H)"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "200462020",
-    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL CONG.  (20 KG APROX)"
+    "ItemCode": "104030007",
+    "ItemName": "ACEITE SESAMO 12X1 LT"
+  },
+  {
+    "ItemCode": "103770003",
+    "ItemName": "MAIZ CURAGUA 10X1 KG"
+  },
+  {
+    "ItemCode": "101452004",
+    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "400104014",
+    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "102960006",
+    "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "101150076",
+    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "101150038",
+    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "101303001",
+    "ItemName": "COCO RALLADO 1X250 GR."
+  },
+  {
+    "ItemCode": "104350013",
+    "ItemName": "HELADO SOFT SABOR VAINILLA 10 X 800 GR"
+  },
+  {
+    "ItemCode": "104350014",
+    "ItemName": "HELADO SOFT SABOR FRUTILLA 10 X 800 GR"
+  },
+  {
+    "ItemCode": "102680021",
+    "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "302960003",
+    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100355047",
+    "ItemName": "SYRUP MOJITO MIX  MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "400010019",
+    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100101002",
+    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "300001011",
+    "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-U76)"
+  },
+  {
+    "ItemCode": "300001007",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "304760488",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200201001",
+    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "101358012",
+    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "101100004",
+    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "100852019",
+    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "101150020",
     "ItemName": "GOTAS DE MERENGUE 2X2,5 KG"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "101355001",
@@ -46636,12 +46892,20 @@
     "ItemName": "CAJA PAPAS KIDS DOGGIS 1X300 UN"
   },
   {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
-    "ItemCode": "103210000",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
     "ItemCode": "102480002",
@@ -46688,6 +46952,10 @@
     "ItemName": "MALAYITA DE CERDO 10X500 GR"
   },
   {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
     "ItemCode": "101150063",
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   },
@@ -46704,8 +46972,52 @@
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "104010055",
+    "ItemName": "SALSA TERIYAKI 12X250 GR"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100152004",
+    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "103210000",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "101350004",
@@ -46732,12 +47044,76 @@
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
   },
   {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "101150015",
+    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "203190053",
+    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "200401018",
+    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
+  },
+  {
+    "ItemCode": "203300000",
+    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "100559002",
     "ItemName": "SAL MINI PORCION BIDFOOD 2000X1GR"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "200462020",
+    "ItemName": "HUACHALOMO AL VACIO CAT V BRASIL CONG.  (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
     "ItemCode": "101305006",
@@ -46756,80 +47132,52 @@
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+    "ItemCode": "400251007",
+    "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+    "ItemCode": "100550008",
+    "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "104010055",
-    "ItemName": "SALSA TERIYAKI 12X250 GR"
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
+    "ItemCode": "104110000",
+    "ItemName": "TOFU 12X307 GRS."
   },
   {
-    "ItemCode": "100152004",
-    "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+    "ItemCode": "204300087",
+    "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
-    "ItemCode": "104030007",
-    "ItemName": "ACEITE SESAMO 12X1 LT"
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   },
   {
-    "ItemCode": "103770003",
-    "ItemName": "MAIZ CURAGUA 10X1 KG"
+    "ItemCode": "202820021",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
   },
   {
-    "ItemCode": "101452004",
-    "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "104670057",
-    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
-  },
-  {
-    "ItemCode": "104670062",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101201015",
@@ -46846,6 +47194,10 @@
   {
     "ItemCode": "100557014",
     "ItemName": "ROMERO EN FRASCO 1X11 GR."
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "100002005",
@@ -46900,6 +47252,10 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
     "ItemCode": "100557010",
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
   },
@@ -46920,8 +47276,116 @@
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "200462005",
-    "ItemName": "GANSO CONGELADO AL VACIO CAT V BRASIL (20 KG APROX)"
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "104670057",
+    "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
+  },
+  {
+    "ItemCode": "104670062",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "304760110",
+    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "200500018",
+    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "103940020",
+    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "100102005",
@@ -46934,6 +47398,10 @@
   {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA 1X500 CC."
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
   },
   {
     "ItemCode": "100556001",
@@ -46968,487 +47436,19 @@
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
-    "ItemCode": "200500018",
-    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "202910066",
     "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
-    "ItemCode": "204300087",
-    "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
+    "ItemCode": "200462005",
+    "ItemName": "GANSO CONGELADO AL VACIO CAT V BRASIL (20 KG APROX)"
   },
   {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "202820021",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "103940020",
-    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "400104014",
-    "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
-  },
-  {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
-    "ItemCode": "102960006",
-    "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
-    "ItemCode": "101150015",
-    "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "203190053",
-    "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "203300000",
-    "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101150076",
-    "ItemName": "CONDIMENTO CHAMPIÑON TOMMY BEANS 4 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "101150038",
-    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
-    "ItemCode": "200401018",
-    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
-  },
-  {
-    "ItemCode": "101303001",
-    "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
-    "ItemCode": "104350013",
-    "ItemName": "HELADO SOFT SABOR VAINILLA 10 X 800 GR"
-  },
-  {
-    "ItemCode": "104350014",
-    "ItemName": "HELADO SOFT SABOR FRUTILLA 10 X 800 GR"
-  },
-  {
-    "ItemCode": "102680021",
-    "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
-    "ItemCode": "302960003",
-    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
-  },
-  {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "304760110",
-    "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "100355047",
-    "ItemName": "SYRUP MOJITO MIX  MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
-  },
-  {
-    "ItemCode": "400010019",
-    "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA 10X1 KG"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "100101002",
-    "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "300001011",
-    "ItemName": "CHOCOLATE CALLEBAUT AMARGO 70% 8X2,5 KG (70-U76)"
-  },
-  {
-    "ItemCode": "300001007",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
-    "ItemCode": "304760488",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
-    "ItemCode": "200201001",
-    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
-  },
-  {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
-    "ItemCode": "101358012",
-    "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
-    "ItemCode": "101100004",
-    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "100852019",
-    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
+    "ItemCode": "101403001",
+    "ItemName": "PALMITOS RODAJAS  12x800 g."
   }
 ]
