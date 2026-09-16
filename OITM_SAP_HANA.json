@@ -39852,10 +39852,6 @@
     "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
-    "ItemCode": "100902002",
-    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "101302002",
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
@@ -43520,10 +43516,6 @@
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
@@ -45768,10 +45760,6 @@
     "ItemName": "CHUÑO 1X500 GR"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
@@ -46406,10 +46394,6 @@
   {
     "ItemCode": "400102004",
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "203200032",
@@ -47450,5 +47434,21 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100902002",
+    "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
