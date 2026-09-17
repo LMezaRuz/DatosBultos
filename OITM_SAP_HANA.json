@@ -24436,10 +24436,6 @@
     "ItemName": "ENDULZANTE LIQUIDO ALULOSA ALUSWEET 18X180 ML"
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "100654003",
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
   },
@@ -28456,10 +28452,6 @@
     "ItemName": "MEDALLON DE FILETE 200 GR (5 BOLSAS X 5 UN) (MM)"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "304460007",
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
@@ -30784,10 +30776,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 25X200 GR"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -32042,10 +32030,6 @@
   {
     "ItemCode": "200500062",
     "ItemName": "PURE DE PALTA 8X500 G."
-  },
-  {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
     "ItemCode": "102960004",
@@ -42940,10 +42924,6 @@
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "101007014",
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
   },
@@ -42962,10 +42942,6 @@
   {
     "ItemCode": "101200021",
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
-  },
-  {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
   },
   {
     "ItemCode": "200500022",
@@ -44398,10 +44374,6 @@
   {
     "ItemCode": "100003008",
     "ItemName": "ACEITE INDU LA REINA FREIR 4X5LTR"
-  },
-  {
-    "ItemCode": "100557018",
-    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
   },
   {
     "ItemCode": "100852005",
@@ -46064,10 +46036,6 @@
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
@@ -46194,10 +46162,6 @@
   {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
   },
   {
     "ItemCode": "100355014",
@@ -46754,10 +46718,6 @@
   {
     "ItemCode": "103910019",
     "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "300157053",
@@ -47412,10 +47372,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -47454,5 +47410,49 @@
   {
     "ItemCode": "304760551",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100557018",
+    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
