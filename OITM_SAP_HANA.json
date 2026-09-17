@@ -46676,18 +46676,6 @@
     "ItemName": "SERVILLETA XPRESSNAP BLANCA 12X500 UN SE70057"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
-    "ItemCode": "100356050",
-    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
-  },
-  {
-    "ItemCode": "100001004",
-    "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -46716,16 +46704,8 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "100701008",
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "101358010",
@@ -46894,10 +46874,6 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "304760488",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
     "ItemCode": "100800002",
@@ -47220,10 +47196,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   },
   {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -47454,5 +47426,33 @@
   {
     "ItemCode": "100550001",
     "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "100356050",
+    "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
+  },
+  {
+    "ItemCode": "100001004",
+    "ItemName": "ACEITE DE OLIVA 1X250 ML"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "304760488",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   }
 ]
