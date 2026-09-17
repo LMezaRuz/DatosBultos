@@ -28496,10 +28496,6 @@
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
   },
   {
-    "ItemCode": "200401018",
-    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
     "ItemCode": "304760318",
     "ItemName": "LOMO LISO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX) MAYOR"
   },
@@ -42380,14 +42376,6 @@
     "ItemName": "JALEA NARANJA SUCRALOSA (REND. 15,3 LTS) TKF 1 X 275 GRS"
   },
   {
-    "ItemCode": "101200026",
-    "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
-    "ItemCode": "101200025",
-    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
     "ItemCode": "100854009",
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
@@ -47004,10 +46992,6 @@
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
@@ -47376,10 +47360,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
@@ -47454,5 +47434,25 @@
   {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101200025",
+    "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
+  },
+  {
+    "ItemCode": "101200026",
+    "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200401018",
+    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   }
 ]
