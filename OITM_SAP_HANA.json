@@ -31708,10 +31708,6 @@
     "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   },
   {
-    "ItemCode": "203190007",
-    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
   },
@@ -36342,10 +36338,6 @@
   {
     "ItemCode": "204300083",
     "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
-  },
-  {
-    "ItemCode": "202910066",
-    "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
     "ItemCode": "204530007",
@@ -47060,58 +47052,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
-    "ItemCode": "103020000",
-    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
-  },
-  {
-    "ItemCode": "100852007",
-    "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
-  },
-  {
-    "ItemCode": "104210015",
-    "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
-  },
-  {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "104670061",
-    "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
-  },
-  {
-    "ItemCode": "104670016",
-    "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
-  },
-  {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
   },
@@ -47186,10 +47126,6 @@
   {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "100557023",
@@ -47454,5 +47390,69 @@
   {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "203190007",
+    "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "202910066",
+    "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "103020000",
+    "ItemName": "COCTEL DE FRUTAS WASIL 6X3 KG"
+  },
+  {
+    "ItemCode": "100852007",
+    "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
+  },
+  {
+    "ItemCode": "104210015",
+    "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "104670061",
+    "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
+  },
+  {
+    "ItemCode": "104670016",
+    "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   }
 ]
