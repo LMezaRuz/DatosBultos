@@ -39644,10 +39644,6 @@
     "ItemName": "CREMA VEGETAL CALO 12X1"
   },
   {
-    "ItemCode": "300157032",
-    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
-  },
-  {
     "ItemCode": "100001001",
     "ItemName": "ACEITE DE OLIVA 300X8CC"
   },
@@ -44384,10 +44380,6 @@
     "ItemName": "ACETO BALSAMICO IMPERATORE 12X500 CC."
   },
   {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
@@ -44562,10 +44554,6 @@
   {
     "ItemCode": "101009015",
     "ItemName": "LECHE VAINILLA 6X200CC"
-  },
-  {
-    "ItemCode": "101452003",
-    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   },
   {
     "ItemCode": "101450007",
@@ -45056,10 +45044,6 @@
     "ItemName": "COMPOTA DE DURAZNO WATT'S 36X90 GR"
   },
   {
-    "ItemCode": "103910060",
-    "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
-  },
-  {
     "ItemCode": "101401004",
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
@@ -45154,10 +45138,6 @@
   {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "204180001",
@@ -45594,14 +45574,6 @@
   {
     "ItemCode": "300157041",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
-    "ItemCode": "300157042",
-    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
   },
   {
     "ItemCode": "300157027",
@@ -46376,14 +46348,6 @@
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103910017",
-    "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910019",
-    "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
     "ItemCode": "300157053",
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
   },
@@ -46682,10 +46646,6 @@
   {
     "ItemCode": "101009014",
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "300157001",
-    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
     "ItemCode": "304110020",
@@ -47004,20 +46964,12 @@
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
-    "ItemCode": "304110019",
-    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
   },
   {
     "ItemCode": "100003002",
@@ -47454,5 +47406,53 @@
   {
     "ItemCode": "202730012",
     "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
+  },
+  {
+    "ItemCode": "300157001",
+    "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
+  },
+  {
+    "ItemCode": "300157042",
+    "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
+  },
+  {
+    "ItemCode": "300157032",
+    "ItemName": "YOGURT GRIEGO OIKOS C/TROZO PAPAYA 48X110"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
+  },
+  {
+    "ItemCode": "304110019",
+    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101452003",
+    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
+  },
+  {
+    "ItemCode": "103910017",
+    "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "103910060",
+    "ItemName": "MERMELADA DE FRAMBUESA SIN AZUCAR WATT’S SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "103910019",
+    "ItemName": "MERMELADA DE DAMASCO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   }
 ]
