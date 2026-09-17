@@ -41308,10 +41308,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   },
@@ -42824,10 +42820,6 @@
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
   },
   {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "100701008",
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -43964,16 +43956,8 @@
     "ItemName": "CARNE DE CENTOLLA NAC 10X500 GR"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "103650024",
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
   },
   {
     "ItemCode": "103650022",
@@ -47454,5 +47438,21 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   }
 ]
