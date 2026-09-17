@@ -39888,10 +39888,6 @@
     "ItemName": "HELADO PUDU (ESPECIAL) SNICKER 1X5 LT"
   },
   {
-    "ItemCode": "200200033",
-    "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
     "ItemCode": "100302001",
     "ItemName": "AGUA TONICA NORDIC LATA 6X220 CC."
   },
@@ -46268,10 +46264,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "304760442",
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -47196,16 +47188,8 @@
     "ItemName": "YOGU YOGU MORA 6X200 CC"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
-    "ItemCode": "202730012",
-    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   },
   {
     "ItemCode": "202730081",
@@ -47454,5 +47438,21 @@
   {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "200200033",
+    "ItemName": "REJILLA PASTELERA X 72 UN"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "202730012",
+    "ItemName": "DONUT RELLENA CON FRAMBUESA 36X67 GR (45036)"
   }
 ]
