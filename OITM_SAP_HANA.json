@@ -23680,10 +23680,6 @@
     "ItemName": "CAFE ALTA RICA NESCAFE 6X100 GRS (P&H)"
   },
   {
-    "ItemCode": "101150075",
-    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
-  },
-  {
     "ItemCode": "103730001",
     "ItemName": "LECHE EN POLVO CALO CRECER 1+ 10X800 GR"
   },
@@ -32176,10 +32172,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "204530006",
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
@@ -35074,10 +35066,6 @@
   {
     "ItemCode": "304760446",
     "ItemName": "LOMO VETADO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
     "ItemCode": "204380020",
@@ -39352,10 +39340,6 @@
     "ItemName": "POLLO ENTERO CONG CALBRE 2,2 X KG (APROX. 18 KGS)"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   },
@@ -39458,10 +39442,6 @@
   {
     "ItemCode": "300350010",
     "ItemName": "ANTICUCHO CARNE MIXTO UND."
-  },
-  {
-    "ItemCode": "101151016",
-    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
   },
   {
     "ItemCode": "101150049",
@@ -45416,10 +45396,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -45584,24 +45560,12 @@
     "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "103210000",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "204710000",
@@ -46052,10 +46016,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
   },
@@ -46236,10 +46196,6 @@
     "ItemName": "NECTAR DE MANZANA LIVEAN 6X200 ML"
   },
   {
-    "ItemCode": "103650000",
-    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
-  },
-  {
     "ItemCode": "102930012",
     "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
   },
@@ -46286,10 +46242,6 @@
   {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "104670011",
@@ -46602,10 +46554,6 @@
   {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "200303024",
@@ -47454,5 +47402,57 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101151016",
+    "ItemName": "CEBOLLA FRITA GYN 35 UN X 300 GRS"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150075",
+    "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
+  },
+  {
+    "ItemCode": "103650000",
+    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
   }
 ]
