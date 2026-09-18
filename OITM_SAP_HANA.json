@@ -30892,10 +30892,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "102970011",
-    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
-  },
-  {
     "ItemCode": "304760459",
     "ItemName": "ABASTERO AL VACIO CAT V BRASIL LOCAL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -32562,10 +32558,6 @@
   {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "103210006",
@@ -40544,10 +40536,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "204380040",
     "ItemName": "PULPA DE LIMONADA RIO ALTO 5X1 KG"
   },
@@ -43896,10 +43884,6 @@
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101100028",
     "ItemName": "FIDEO MARIPOSAS CAROZZI 48X250 GR"
   },
@@ -46196,10 +46180,6 @@
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "102930015",
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
@@ -47208,10 +47188,6 @@
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -47300,10 +47276,6 @@
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -47326,10 +47298,6 @@
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "300001002",
-    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 6X1 KG (811-U73)"
   },
   {
     "ItemCode": "204300051",
@@ -47428,10 +47396,6 @@
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 6X1 KG (823-U73)"
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -47454,5 +47418,41 @@
   {
     "ItemCode": "300001007",
     "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 2X10 KG (811-595)"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "300001002",
+    "ItemName": "CHOCOLATE CALLEBAUT SEMI AMARGO 54,5% 6X1 KG (811-U73)"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 6X1 KG (823-U73)"
+  },
+  {
+    "ItemCode": "102970011",
+    "ItemName": "CHOCOLATE BLANCO 33% SICAO 10X1 KG"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
