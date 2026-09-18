@@ -43248,10 +43248,6 @@
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "204790021",
-    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100901007",
     "ItemName": "HARINA SIN POLVOS ESTRELLA / FLOR 1X25 KG."
   },
@@ -44376,10 +44372,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
   },
@@ -44440,20 +44432,12 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
     "ItemCode": "400301047",
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "103530000",
-    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
     "ItemCode": "100356001",
@@ -46416,10 +46400,6 @@
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "104670061",
-    "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
-  },
-  {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
@@ -46734,14 +46714,6 @@
   {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101355003",
@@ -47300,10 +47272,6 @@
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "100353005",
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
@@ -47454,5 +47422,37 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "204790021",
+    "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "104670061",
+    "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "103530000",
+    "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   }
 ]
