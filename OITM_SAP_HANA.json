@@ -24380,14 +24380,6 @@
     "ItemName": "ROLLO PREPICADO REUTILIZABLE 1X106 MT (TO70036)"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "104010054",
     "ItemName": "SALSA STREET BURGER GOURMET 12X250 GR"
   },
@@ -28402,10 +28394,6 @@
   {
     "ItemCode": "103520002",
     "ItemName": "HARINA DE TRIGO SUPER PAN DOS 1X25 KG"
-  },
-  {
-    "ItemCode": "400001005",
-    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
     "ItemCode": "100854015",
@@ -32610,10 +32598,6 @@
   {
     "ItemCode": "200307010",
     "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 2/3 LB"
-  },
-  {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101100063",
@@ -47416,10 +47400,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "400011016",
-    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -47454,5 +47434,25 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "400011016",
+    "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400001005",
+    "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   }
 ]
