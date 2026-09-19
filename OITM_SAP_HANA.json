@@ -24296,10 +24296,6 @@
     "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
   },
@@ -31788,10 +31784,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP 10X1 KG"
   },
@@ -31914,10 +31906,6 @@
   {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "200304007",
@@ -32618,10 +32606,6 @@
   {
     "ItemCode": "300154009",
     "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
   {
     "ItemCode": "304760519",
@@ -44540,10 +44524,6 @@
     "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "100355015",
     "ItemName": "SYRUP VAINILLA SIN AZUCAR MONIN 1X750 ML"
   },
@@ -46400,10 +46380,6 @@
     "ItemName": "PALMITO ENTERO 12X800 GR NAL"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "103070000",
     "ItemName": "PAPAYAS EN ALMIBAR 1X1300 GR"
   },
@@ -46578,10 +46554,6 @@
   {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
-  },
-  {
-    "ItemCode": "100200004",
-    "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
   {
     "ItemCode": "300351019",
@@ -46930,10 +46902,6 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "104010005",
@@ -47452,7 +47420,39 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100200004",
+    "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   }
 ]
