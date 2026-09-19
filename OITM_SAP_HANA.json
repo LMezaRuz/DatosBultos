@@ -23136,14 +23136,6 @@
     "ItemName": "ENTRAÑA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "104670038",
-    "ItemName": "TE TWININGS DARJEELING 1X25 UN"
-  },
-  {
-    "ItemCode": "104670047",
-    "ItemName": "TE TWININGS ROOIBOS 1X25 UN"
-  },
-  {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO TRAVERSO SABOR NARANJA 1X5 LT"
   },
@@ -28502,10 +28494,6 @@
   {
     "ItemCode": "101358015",
     "ItemName": "SALSA DE TOMATE 36 UN X 200 CC"
-  },
-  {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200203007",
@@ -36520,10 +36508,6 @@
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
   {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
   },
@@ -40180,10 +40164,6 @@
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -43808,10 +43788,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "200500038",
     "ItemName": "PRIMAVERA DE VERDURAS 15X1 KG."
   },
@@ -44582,14 +44558,6 @@
   {
     "ItemCode": "200051017",
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "304760454",
@@ -46304,10 +46272,6 @@
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "400251002",
-    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
     "ItemCode": "304760536",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -46840,10 +46804,6 @@
     "ItemName": "TOMATE KG."
   },
   {
-    "ItemCode": "104670006",
-    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
-  },
-  {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
@@ -46950,10 +46910,6 @@
   {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "100052002",
@@ -47454,5 +47410,49 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "400251002",
+    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
+  },
+  {
+    "ItemCode": "104670006",
+    "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670047",
+    "ItemName": "TE TWININGS ROOIBOS 1X25 UN"
+  },
+  {
+    "ItemCode": "104670038",
+    "ItemName": "TE TWININGS DARJEELING 1X25 UN"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
