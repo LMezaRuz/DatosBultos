@@ -31748,10 +31748,6 @@
     "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -36616,10 +36612,6 @@
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "202620000",
-    "ItemName": "ATUN EN PORCIONES 20X500 GR"
-  },
-  {
     "ItemCode": "100355003",
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
@@ -40410,10 +40402,6 @@
   {
     "ItemCode": "100152006",
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
-  },
-  {
-    "ItemCode": "400011004",
-    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
   },
   {
     "ItemCode": "100001003",
@@ -45784,10 +45772,6 @@
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
@@ -46816,10 +46800,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
@@ -46914,10 +46894,6 @@
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
   {
     "ItemCode": "103520000",
@@ -47454,5 +47430,29 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "202620000",
+    "ItemName": "ATUN EN PORCIONES 20X500 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "400011004",
+    "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   }
 ]
