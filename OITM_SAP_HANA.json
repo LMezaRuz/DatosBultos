@@ -39920,10 +39920,6 @@
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
   },
   {
-    "ItemCode": "103720008",
-    "ItemName": "LECHE PROTEIN DESCREMADA CHOCOLATE LONCO LECHE 6X200 ML"
-  },
-  {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
   },
@@ -44912,16 +44908,8 @@
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
   },
   {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "103650022",
     "ItemName": "NECTAR MANZANA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650023",
-    "ItemName": "NECTAR PINA WATTS 6X200 ML"
   },
   {
     "ItemCode": "400104014",
@@ -46672,10 +46660,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG (W2N-595)"
   },
   {
-    "ItemCode": "200250008",
-    "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
-  },
-  {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
@@ -47454,5 +47438,21 @@
   {
     "ItemCode": "101007006",
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
+  },
+  {
+    "ItemCode": "200250008",
+    "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
+  },
+  {
+    "ItemCode": "103650023",
+    "ItemName": "NECTAR PINA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103720008",
+    "ItemName": "LECHE PROTEIN DESCREMADA CHOCOLATE LONCO LECHE 6X200 ML"
   }
 ]
