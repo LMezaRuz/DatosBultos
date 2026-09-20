@@ -36104,10 +36104,6 @@
     "ItemName": "PECHUGA DE POLLO DESHUESADA IMP. CONG. 18X907 GR  (KOSHER)"
   },
   {
-    "ItemCode": "103920003",
-    "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
-  },
-  {
     "ItemCode": "204140005",
     "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
   },
@@ -40504,10 +40500,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
     "ItemCode": "200100038",
     "ItemName": "HELADO PUDU AVELLANAS 1X5 LT"
   },
@@ -40566,10 +40558,6 @@
   {
     "ItemCode": "400005009",
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "102580001",
-    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
   },
   {
     "ItemCode": "101304001",
@@ -45180,10 +45168,6 @@
     "ItemName": "JABON BARRA 1x125 g."
   },
   {
-    "ItemCode": "300154006",
-    "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
@@ -45502,10 +45486,6 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "200100010",
@@ -45836,10 +45816,6 @@
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -45850,10 +45826,6 @@
   {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "300353083",
@@ -46250,10 +46222,6 @@
   {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
   },
   {
     "ItemCode": "204790020",
@@ -46980,10 +46948,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -47360,10 +47324,6 @@
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -47454,5 +47414,45 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "103920003",
+    "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "102580001",
+    "ItemName": "ALMIDON DE MAIZ TKAIZENA TKF 10 X 1 K"
+  },
+  {
+    "ItemCode": "300154006",
+    "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   }
 ]
