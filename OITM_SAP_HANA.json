@@ -32088,10 +32088,6 @@
     "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "100100002",
     "ItemName": "ARROZ BASMATI 1X1 KG."
   },
@@ -44060,10 +44056,6 @@
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
   },
@@ -46248,20 +46240,8 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "102700021",
-    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300157052",
     "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "100101010",
@@ -46642,10 +46622,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "104010002",
@@ -47454,5 +47430,29 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "102700021",
+    "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
