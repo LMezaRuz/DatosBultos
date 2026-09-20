@@ -42620,10 +42620,6 @@
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
   },
   {
-    "ItemCode": "400100001",
-    "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
-  },
-  {
     "ItemCode": "103830010",
     "ItemName": "MANJAR ARTESANAL LONCOLECHE 2X5 KG"
   },
@@ -46616,10 +46612,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -47076,10 +47068,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
@@ -47454,5 +47442,17 @@
   {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "400100001",
+    "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   }
 ]
