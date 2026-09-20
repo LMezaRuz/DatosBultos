@@ -35756,10 +35756,6 @@
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "100002013",
     "ItemName": "ACEITE CHEF MARAVILLA 30X500ML"
   },
@@ -35794,10 +35790,6 @@
   {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
-  },
-  {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "104670062",
@@ -39700,10 +39692,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "101356003",
-    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
-  },
-  {
     "ItemCode": "103250002",
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
@@ -39762,10 +39750,6 @@
   {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
     "ItemCode": "200302017",
@@ -43908,10 +43892,6 @@
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
-    "ItemCode": "400301047",
-    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
-  },
-  {
     "ItemCode": "100356001",
     "ItemName": "TE BRASIL 1X100 UN."
   },
@@ -43942,10 +43922,6 @@
   {
     "ItemCode": "400301077",
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
-  },
-  {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
     "ItemCode": "200308002",
@@ -44002,10 +43978,6 @@
   {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "100557006",
@@ -47308,10 +47280,6 @@
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
@@ -47340,10 +47308,6 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
   },
@@ -47354,14 +47318,6 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "101403002",
@@ -47454,5 +47410,49 @@
   {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "400301047",
+    "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
+  },
+  {
+    "ItemCode": "101356003",
+    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
