@@ -28356,10 +28356,6 @@
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "200460027",
-    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
-  },
-  {
     "ItemCode": "100352008",
     "ItemName": "CAFE NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -42676,10 +42672,6 @@
     "ItemName": "TIKA NATIVAS ANDINA SAL DE MAR 48X35 GR"
   },
   {
-    "ItemCode": "300157053",
-    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
-  },
-  {
     "ItemCode": "100854012",
     "ItemName": "PAPAS HILO TIKA 21X180 GR"
   },
@@ -46256,14 +46248,6 @@
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
   {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "200003003",
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
@@ -46282,10 +46266,6 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "100653003",
@@ -47380,10 +47360,6 @@
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -47454,5 +47430,29 @@
   {
     "ItemCode": "101150055",
     "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
+  },
+  {
+    "ItemCode": "200460027",
+    "ItemName": "POP CORN PECHUGA DE POLLO EMPANIZADO PICANTE 10X1 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "300157053",
+    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
   }
 ]
