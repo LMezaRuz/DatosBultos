@@ -39376,10 +39376,6 @@
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
   {
-    "ItemCode": "100304028",
-    "ItemName": "JUGO NECTAR VIVO DURAZNO 12x1 lt."
-  },
-  {
     "ItemCode": "101100018",
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
@@ -40050,10 +40046,6 @@
   {
     "ItemCode": "103910018",
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8X1 KG"
   },
   {
     "ItemCode": "204380040",
@@ -44652,10 +44644,6 @@
     "ItemName": "PAPEL MANTEQUILLA ESTUCHE 30X7.5 MTS."
   },
   {
-    "ItemCode": "100701002",
-    "ItemName": "SOPA POLLO SEMOLA 20X68 GR"
-  },
-  {
     "ItemCode": "101354006",
     "ItemName": "MOSTAZA PET TRAVERSO 24X350 GR"
   },
@@ -47016,20 +47004,12 @@
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "102630005",
     "ItemName": "CABALLA AL NATURAL EN TARRO COLISEO 24X425 GR"
-  },
-  {
-    "ItemCode": "103650000",
-    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
   },
   {
     "ItemCode": "104670097",
@@ -47454,5 +47434,25 @@
   {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "100304028",
+    "ItemName": "JUGO NECTAR VIVO DURAZNO 12x1 lt."
+  },
+  {
+    "ItemCode": "100701002",
+    "ItemName": "SOPA POLLO SEMOLA 20X68 GR"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "103650000",
+    "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
   }
 ]
