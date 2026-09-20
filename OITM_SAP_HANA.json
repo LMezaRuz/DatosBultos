@@ -31748,10 +31748,6 @@
     "ItemName": "MINI BERLINA DE CREMA DE CHOCOLATE Y AVELLANAS 175X25 GR"
   },
   {
-    "ItemCode": "102530001",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
-  },
-  {
     "ItemCode": "400003001",
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
@@ -35894,10 +35890,6 @@
   {
     "ItemCode": "300154033",
     "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
-  },
-  {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
     "ItemCode": "204700025",
@@ -43184,10 +43176,6 @@
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400010018",
-    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
@@ -45368,10 +45356,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
@@ -45640,10 +45624,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 111 MT 1X12 UN  HI70010"
   },
   {
-    "ItemCode": "101305008",
-    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -45664,10 +45644,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "100557018",
-    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
-  },
-  {
     "ItemCode": "304760453",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -45682,10 +45658,6 @@
   {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
-    "ItemCode": "200500008",
-    "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
     "ItemCode": "100003002",
@@ -46228,10 +46200,6 @@
     "ItemName": "TOMATE KG."
   },
   {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
-  },
-  {
     "ItemCode": "403130002",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
@@ -46772,10 +46740,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
@@ -46928,10 +46892,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "101201014",
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -47032,10 +46992,6 @@
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -47054,10 +47010,6 @@
   {
     "ItemCode": "304760045",
     "ItemName": "PUNTA PICANA AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "304760521",
@@ -47454,5 +47406,53 @@
   {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "100557018",
+    "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
+  },
+  {
+    "ItemCode": "200500008",
+    "ItemName": "PASTA DE CHOCLO 7X1 KG."
+  },
+  {
+    "ItemCode": "400010018",
+    "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "101305008",
+    "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "102530001",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 1X5 LT"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
