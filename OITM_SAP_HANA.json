@@ -40232,10 +40232,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "101150083",
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
@@ -45684,10 +45680,6 @@
     "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
   },
   {
-    "ItemCode": "203210105",
-    "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
-  },
-  {
     "ItemCode": "400005003",
     "ItemName": "GUANTE DE POLITILENO 1X100 UN"
   },
@@ -46436,10 +46428,6 @@
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "103650024",
     "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
@@ -46972,10 +46960,6 @@
     "ItemName": "CAFE AMALFI EN PODS 1X50 UU."
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
@@ -47010,10 +46994,6 @@
   {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "202910003",
@@ -47454,5 +47434,25 @@
   {
     "ItemCode": "203190053",
     "ItemName": "LOMITO DE PULPA DE CERDO A LA CERVEZA 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "203210105",
+    "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   }
 ]
