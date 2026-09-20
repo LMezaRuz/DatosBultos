@@ -23532,10 +23532,6 @@
     "ItemName": "MARGARINA CALO VEGETAL LIGHT 12X450 G"
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
@@ -24014,10 +24010,6 @@
   {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "100250007",
-    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
     "ItemCode": "103910067",
@@ -43232,10 +43224,6 @@
     "ItemName": "HARINA SIN POLVOS ESTRELLA / FLOR 1X25 KG."
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "100355006",
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
@@ -43984,10 +43972,6 @@
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
   {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
     "ItemCode": "101100028",
     "ItemName": "FIDEO MARIPOSAS CAROZZI 48X250 GR"
   },
@@ -44558,10 +44542,6 @@
   {
     "ItemCode": "400301072",
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
-  },
-  {
-    "ItemCode": "300400008",
-    "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
     "ItemCode": "400301021",
@@ -47224,10 +47204,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "104030007",
     "ItemName": "ACEITE SESAMO 12X1 LT"
   },
@@ -47454,5 +47430,29 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "300400008",
+    "ItemName": "QUESO RICOTTA 1X1 KG."
+  },
+  {
+    "ItemCode": "100250007",
+    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   }
 ]
