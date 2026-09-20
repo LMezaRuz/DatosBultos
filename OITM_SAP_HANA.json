@@ -32024,10 +32024,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "100751025",
-    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
-  },
-  {
     "ItemCode": "304760531",
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
@@ -40440,10 +40436,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
@@ -43560,10 +43552,6 @@
     "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "103740002",
     "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
   },
@@ -43666,10 +43654,6 @@
   {
     "ItemCode": "100304033",
     "ItemName": "JUGO NECTAR WATTS NARANJA 12X1 LT"
-  },
-  {
-    "ItemCode": "103910030",
-    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
   {
     "ItemCode": "103910031",
@@ -44422,10 +44406,6 @@
   {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "203210120",
@@ -46484,10 +46464,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "202730011",
-    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -46554,10 +46530,6 @@
   {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "400250003",
@@ -47284,20 +47256,8 @@
     "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
   },
   {
-    "ItemCode": "103750003",
-    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
     "ItemCode": "101009038",
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009031",
@@ -47346,22 +47306,6 @@
   {
     "ItemCode": "204180032",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
-  },
-  {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "101050002",
@@ -47454,5 +47398,61 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "103910030",
+    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "103750003",
+    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "202730011",
+    "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "100751025",
+    "ItemName": "MERMELADA DE DURAZNO REGIMEL 1X200 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   }
 ]
