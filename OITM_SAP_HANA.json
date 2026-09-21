@@ -43044,10 +43044,6 @@
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
   },
   {
-    "ItemCode": "101452007",
-    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
     "ItemCode": "101202002",
     "ItemName": "PURE DE PAPAS EN ESCAMAS S/LECHE TKF 1X1 KG."
   },
@@ -44214,10 +44210,6 @@
   {
     "ItemCode": "202910051",
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "103910049",
@@ -46032,10 +46024,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100500002",
-    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
     "ItemCode": "400012005",
     "ItemName": "ATOMIZADOR 1X1000 CC."
   },
@@ -46434,10 +46422,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "100201010",
@@ -46846,10 +46830,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "104110000",
-    "ItemName": "TOFU 12X307 GRS."
   },
   {
     "ItemCode": "104210010",
@@ -47454,5 +47434,25 @@
   {
     "ItemCode": "101100007",
     "ItemName": "SPAGUETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "104110000",
+    "ItemName": "TOFU 12X307 GRS."
+  },
+  {
+    "ItemCode": "100500002",
+    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "101452007",
+    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   }
 ]
