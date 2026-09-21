@@ -24484,10 +24484,6 @@
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "304760551",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -28452,10 +28448,6 @@
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
@@ -31330,10 +31322,6 @@
   {
     "ItemCode": "204310009",
     "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
-  },
-  {
-    "ItemCode": "200303024",
-    "ItemName": "MERLUZA (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
     "ItemCode": "202730043",
@@ -39644,10 +39632,6 @@
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "101300004",
     "ItemName": "CHOCOLATE POLVO (AMARGO) 25X150 GRS"
   },
@@ -39886,10 +39870,6 @@
   {
     "ItemCode": "200307009",
     "ItemName": "SALMON PORCION CON PIEL 1X5 KG"
-  },
-  {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
     "ItemCode": "200307010",
@@ -43040,10 +43020,6 @@
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "100900003",
     "ItemName": "CHUCHOCA 1X1 KG"
   },
@@ -43094,10 +43070,6 @@
   {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
     "ItemCode": "100152002",
@@ -45592,10 +45564,6 @@
     "ItemName": "ACEITE DE OLIVA 1X250 ML"
   },
   {
-    "ItemCode": "200304007",
-    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
-  },
-  {
     "ItemCode": "202620000",
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
   },
@@ -45676,10 +45644,6 @@
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
   {
-    "ItemCode": "200302028",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "400250003",
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
@@ -45690,10 +45654,6 @@
   {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
   {
     "ItemCode": "204150018",
@@ -46426,10 +46386,6 @@
   {
     "ItemCode": "100601005",
     "ItemName": "CHORITOS EN ACEITE 24x190 gr"
-  },
-  {
-    "ItemCode": "200304006",
-    "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
     "ItemCode": "100557002",
@@ -47454,5 +47410,49 @@
   {
     "ItemCode": "200305015",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "200303024",
+    "ItemName": "MERLUZA (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
+  },
+  {
+    "ItemCode": "200304006",
+    "ItemName": "OSTION CON CORAL 1x1 KG"
+  },
+  {
+    "ItemCode": "200304007",
+    "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200302028",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   }
 ]
