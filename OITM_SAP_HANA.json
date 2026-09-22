@@ -31512,10 +31512,6 @@
     "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
   },
   {
-    "ItemCode": "204090010",
-    "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
-  },
-  {
     "ItemCode": "204090011",
     "ItemName": "PIURE CRUDO IQF 30X300 GR"
   },
@@ -31854,10 +31850,6 @@
   {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
-    "ItemCode": "304760457",
-    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
     "ItemCode": "101452006",
@@ -39896,10 +39888,6 @@
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100355003",
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
@@ -40142,10 +40130,6 @@
   {
     "ItemCode": "400250003",
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
-  },
-  {
-    "ItemCode": "202910060",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
   },
   {
     "ItemCode": "300353007",
@@ -42978,10 +42962,6 @@
   {
     "ItemCode": "204380031",
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "202720037",
-    "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
   },
   {
     "ItemCode": "400251002",
@@ -47240,10 +47220,6 @@
     "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "304760575",
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -47458,5 +47434,29 @@
   {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "202720037",
+    "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
+  },
+  {
+    "ItemCode": "204090010",
+    "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
+  },
+  {
+    "ItemCode": "304760457",
+    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "202910060",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL AURORA 25 KG (APROX)"
   }
 ]
