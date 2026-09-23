@@ -43596,10 +43596,6 @@
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
   {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
@@ -47216,22 +47212,6 @@
     "ItemName": "CEREAL CHOCAPIC 16X640 GR"
   },
   {
-    "ItemCode": "202720025",
-    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "202720030",
-    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
-  },
-  {
     "ItemCode": "100802001",
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
@@ -47482,5 +47462,25 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "202720025",
+    "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720030",
+    "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
   }
 ]
