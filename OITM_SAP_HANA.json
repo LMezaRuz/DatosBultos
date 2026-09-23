@@ -32172,10 +32172,6 @@
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
     "ItemCode": "304410001",
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
@@ -36142,10 +36138,6 @@
   {
     "ItemCode": "204700028",
     "ItemName": "CHEESECAKE DE PISTACHO 14 PORCIONES"
-  },
-  {
-    "ItemCode": "300401005",
-    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
   },
   {
     "ItemCode": "204790023",
@@ -40144,10 +40136,6 @@
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "400003002",
     "ItemName": "DESODORANTE WC FLORAL 1X40 GR"
   },
@@ -43452,10 +43440,6 @@
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "200200012",
-    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
-  },
-  {
     "ItemCode": "400012008",
     "ItemName": "MOPA ALGODON REPUESTO 1X1 UN. (1201494)"
   },
@@ -43742,10 +43726,6 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
-    "ItemCode": "200200020",
-    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
     "ItemCode": "100250001",
@@ -46148,10 +46128,6 @@
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -46466,10 +46442,6 @@
   {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
-  },
-  {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
   },
   {
     "ItemCode": "104010005",
@@ -47116,10 +47088,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
@@ -47360,10 +47328,6 @@
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENADOR KRAFT 6X2 KG"
   },
@@ -47428,16 +47392,8 @@
     "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
   },
   {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
     "ItemCode": "101354007",
     "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "400103009",
@@ -47482,5 +47438,49 @@
   {
     "ItemCode": "102710017",
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "200200012",
+    "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
+  },
+  {
+    "ItemCode": "200200020",
+    "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "300401005",
+    "ItemName": "QUESO AZUL/ROQUEFORT KG (PIEZA 2.2 KG APROX)"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
   }
 ]
