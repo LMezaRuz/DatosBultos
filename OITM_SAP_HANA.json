@@ -28500,10 +28500,6 @@
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
@@ -32558,10 +32554,6 @@
   {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101401005",
@@ -40028,10 +40020,6 @@
     "ItemName": "LECHE POLVO LONCO S/LACT 10X800GRS"
   },
   {
-    "ItemCode": "101009010",
-    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -40172,10 +40160,6 @@
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
   {
-    "ItemCode": "300154004",
-    "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
-  },
-  {
     "ItemCode": "101150016",
     "ItemName": "HUMO LIQUIDO GYN 1 X 1 KG"
   },
@@ -40262,10 +40246,6 @@
   {
     "ItemCode": "300152007",
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "101009026",
@@ -40602,10 +40582,6 @@
   {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
   },
   {
     "ItemCode": "300404009",
@@ -44160,10 +44136,6 @@
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
   },
   {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -47308,10 +47280,6 @@
     "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100101006",
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
@@ -47362,10 +47330,6 @@
   {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "200250039",
@@ -47482,5 +47446,41 @@
   {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "101009010",
+    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "300154004",
+    "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
   }
 ]
