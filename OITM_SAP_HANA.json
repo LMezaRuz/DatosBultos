@@ -32240,10 +32240,6 @@
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
   {
-    "ItemCode": "304760442",
-    "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "200500036",
     "ItemName": "POROTO GRANADO 15X1 KG"
   },
@@ -44012,10 +44008,6 @@
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA 6X1 KG"
-  },
-  {
     "ItemCode": "103440004",
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
@@ -45254,10 +45246,6 @@
   {
     "ItemCode": "200460008",
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
-  },
-  {
-    "ItemCode": "202730048",
-    "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
   {
     "ItemCode": "400201001",
@@ -46616,10 +46604,6 @@
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT 6X1 KG"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -46720,14 +46704,6 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -46810,10 +46786,6 @@
   {
     "ItemCode": "102710020",
     "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "304110020",
@@ -46936,10 +46908,6 @@
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -47018,10 +46986,6 @@
   {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
-    "ItemCode": "104210040",
-    "ItemName": "GNOCCHI DE PAPA 70% ARCO IMP 6X1 KG"
   },
   {
     "ItemCode": "100951002",
@@ -47156,16 +47120,8 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "304010001",
     "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
-    "ItemCode": "204300025",
-    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.1 (APROX 21 KG)"
   },
   {
     "ItemCode": "204300048",
@@ -47296,10 +47252,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
@@ -47322,10 +47274,6 @@
   {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
     "ItemCode": "100450003",
@@ -47374,10 +47322,6 @@
   {
     "ItemCode": "304760450",
     "ItemName": "PLATEADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "203210139",
-    "ItemName": "CHURRASCO DE VACUNO GOURMET 36X105 GR"
   },
   {
     "ItemCode": "200456022",
@@ -47472,15 +47416,71 @@
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
   {
-    "ItemCode": "300351011",
-    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
-  },
-  {
     "ItemCode": "203210138",
     "ItemName": "POSTA NEGRA KG (P&H)"
   },
   {
     "ItemCode": "302890059",
     "ItemName": "SALAME LAMINADO 1X100G (P&H)"
+  },
+  {
+    "ItemCode": "300351011",
+    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
+  },
+  {
+    "ItemCode": "204300025",
+    "ItemName": "POLLO ENTERO LOCAL CALIBRE 2.1 (APROX 21 KG)"
+  },
+  {
+    "ItemCode": "304760442",
+    "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "203210139",
+    "ItemName": "CHURRASCO DE VACUNO GOURMET 36X105 GR"
+  },
+  {
+    "ItemCode": "104210040",
+    "ItemName": "GNOCCHI DE PAPA 70% ARCO IMP 6X1 KG"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "202730048",
+    "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT 6X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA 6X1 KG"
   }
 ]
