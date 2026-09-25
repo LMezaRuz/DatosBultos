@@ -32664,10 +32664,6 @@
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -36662,10 +36658,6 @@
   {
     "ItemCode": "204090009",
     "ItemName": "ALMEJA JULIANA 24X500 GR"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "104090001",
@@ -43544,10 +43536,6 @@
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
   {
-    "ItemCode": "304110020",
-    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
-  },
-  {
     "ItemCode": "300153010",
     "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
   },
@@ -44482,10 +44470,6 @@
   {
     "ItemCode": "102840019",
     "ItemName": "CAFE ADESSO CLASICO EN CAPSULA COMPATIBLE (ESPRESSO POINT) 100 UN"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "204090004",
@@ -47312,10 +47296,6 @@
     "ItemName": "PAN HOT DOG 17 CM CONG. 1X80 UN"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO 6X1 KG"
   },
@@ -47400,10 +47380,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -47482,5 +47458,29 @@
   {
     "ItemCode": "200500079",
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "304110020",
+    "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
