@@ -31584,10 +31584,6 @@
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
   {
-    "ItemCode": "200201018",
-    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
-  },
-  {
     "ItemCode": "200201001",
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
@@ -31674,10 +31670,6 @@
   {
     "ItemCode": "100152006",
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "202910010",
@@ -36800,10 +36792,6 @@
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
   },
   {
-    "ItemCode": "302890007",
-    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "100355051",
     "ItemName": "SYRUP MANGO S/AZUCAR  MONIN 1 LT"
   },
@@ -40356,10 +40344,6 @@
     "ItemName": "NOT HOTDOG 4X680 GR"
   },
   {
-    "ItemCode": "204390005",
-    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
-  },
-  {
     "ItemCode": "400010023",
     "ItemName": "RINZA 1X1 UN"
   },
@@ -40786,10 +40770,6 @@
   {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "100901004",
-    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
     "ItemCode": "300300011",
@@ -46032,10 +46012,6 @@
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
@@ -46170,10 +46146,6 @@
   {
     "ItemCode": "200201032",
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
-  },
-  {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
   {
     "ItemCode": "304760439",
@@ -46660,10 +46632,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -47132,10 +47100,6 @@
     "ItemName": "ENELDO EN FRASCO 1X10 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP 10X1 KG"
-  },
-  {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
@@ -47178,10 +47142,6 @@
   {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "101355006",
@@ -47472,15 +47432,55 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "304110020",
     "ItemName": "QUESO CHANCO LAMINADO LAS PARCELAS 8X434 GR"
   },
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "302890007",
+    "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "204390005",
+    "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 1 A 2 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP 10X1 KG"
+  },
+  {
+    "ItemCode": "100901004",
+    "ItemName": "HARINA ORO 1 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "200201018",
+    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   }
 ]
