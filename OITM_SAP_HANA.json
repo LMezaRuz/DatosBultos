@@ -24428,10 +24428,6 @@
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
   {
-    "ItemCode": "204700005",
-    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
-  },
-  {
     "ItemCode": "103070003",
     "ItemName": "POROTOS ROJOS WASIL 16X380 G"
   },
@@ -30700,10 +30696,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "304760434",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY VICTORIA LOCAL 20 KG (APROX)"
   },
@@ -31826,10 +31818,6 @@
   {
     "ItemCode": "204300087",
     "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
-  },
-  {
-    "ItemCode": "204700004",
-    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
     "ItemCode": "204750007",
@@ -38536,10 +38524,6 @@
     "ItemName": "CHOCLILLO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "304760457",
-    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
-  },
-  {
     "ItemCode": "202910064",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.) (X-MAYOR)"
   },
@@ -41644,10 +41628,6 @@
     "ItemName": "MOPA ALGODON CON MANGO 1X1 UN. (1201495)"
   },
   {
-    "ItemCode": "204310007",
-    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
-  },
-  {
     "ItemCode": "100201004",
     "ItemName": "AZUCAR GRANULADA IANSA SACHET 1X60X5 GRS."
   },
@@ -41910,10 +41890,6 @@
   {
     "ItemCode": "101100027",
     "ItemName": "ESPIRALES TRES COLORES 30X400 GR"
-  },
-  {
-    "ItemCode": "101000008",
-    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
   {
     "ItemCode": "101000009",
@@ -44804,16 +44780,8 @@
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
   {
-    "ItemCode": "204300083",
-    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
-  },
-  {
     "ItemCode": "100600002",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
-  },
-  {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
   },
   {
     "ItemCode": "203210101",
@@ -45540,10 +45508,6 @@
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -45878,10 +45842,6 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
   {
     "ItemCode": "101010001",
@@ -46318,10 +46278,6 @@
   {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "300157028",
@@ -47376,10 +47332,6 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "600002019",
     "ItemName": "TOMATE KG."
   },
@@ -47494,5 +47446,53 @@
   {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "304760457",
+    "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204300083",
+    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
+  },
+  {
+    "ItemCode": "101000008",
+    "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "204310007",
+    "ItemName": "CRUJIENTE DE CHOCOLATE 6X700 GR"
+  },
+  {
+    "ItemCode": "204700005",
+    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "204700004",
+    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   }
 ]
