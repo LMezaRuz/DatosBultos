@@ -41992,10 +41992,6 @@
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
-    "ItemCode": "101452002",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
     "ItemCode": "200460008",
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
   },
@@ -45980,10 +45976,6 @@
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -46208,10 +46200,6 @@
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
-    "ItemCode": "101401009",
-    "ItemName": "POROTOS WASIL 16X380"
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
@@ -46268,10 +46256,6 @@
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
   },
   {
-    "ItemCode": "303870006",
-    "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
     "ItemCode": "303870008",
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
   },
@@ -46294,10 +46278,6 @@
   {
     "ItemCode": "300157042",
     "ItemName": "YOGURT GRIEGO OIKOS COLCHON FRUTILLA 48X150"
-  },
-  {
-    "ItemCode": "103910033",
-    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910051",
@@ -47476,6 +47456,10 @@
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
+    "ItemCode": "204700004",
+    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
+  },
+  {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
@@ -47492,7 +47476,23 @@
     "ItemName": "CARROT CAKE 16 PORCIONES"
   },
   {
-    "ItemCode": "204700004",
-    "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
+    "ItemCode": "101401009",
+    "ItemName": "POROTOS WASIL 16X380"
+  },
+  {
+    "ItemCode": "101452002",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
+  },
+  {
+    "ItemCode": "103910033",
+    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "303870006",
+    "ItemName": "MARGARINA SURENA 12X450 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   }
 ]
