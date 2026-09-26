@@ -39800,10 +39800,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "101009013",
     "ItemName": "CHOCO AVELLANAS LONCO 12X1 K"
   },
@@ -43996,10 +43992,6 @@
     "ItemName": "FANTA 6 X 1,5 LTS"
   },
   {
-    "ItemCode": "200050007",
-    "ItemName": "FRUTILLA IQF 15X1 KG."
-  },
-  {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
   },
@@ -45620,10 +45612,6 @@
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "200305015",
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
@@ -46172,10 +46160,6 @@
     "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
@@ -46416,10 +46400,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -46462,10 +46442,6 @@
   {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "202720039",
@@ -46514,10 +46490,6 @@
   {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "101011001",
@@ -46732,10 +46704,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "204140006",
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
@@ -46888,10 +46856,6 @@
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
-    "ItemCode": "100050007",
-    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
@@ -46926,10 +46890,6 @@
   {
     "ItemCode": "204390004",
     "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
-  },
-  {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
   {
     "ItemCode": "300153008",
@@ -47050,10 +47010,6 @@
   {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "101353011",
@@ -47494,5 +47450,49 @@
   {
     "ItemCode": "400011002",
     "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100050007",
+    "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "200050007",
+    "ItemName": "FRUTILLA IQF 15X1 KG."
   }
 ]
