@@ -24548,10 +24548,6 @@
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
   },
   {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -30740,10 +30736,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. AURORA 1X15KG (X-MAYOR)"
   },
   {
-    "ItemCode": "204790048",
-    "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
-  },
-  {
     "ItemCode": "103770003",
     "ItemName": "MAIZ CURAGUA 10X1 KG"
   },
@@ -32578,10 +32570,6 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "203190058",
@@ -36534,10 +36522,6 @@
   {
     "ItemCode": "303850007",
     "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "203200003",
@@ -44144,10 +44128,6 @@
     "ItemName": "CONCENTRADO SABOR FRUTILLA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "101007008",
-    "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100303004",
     "ItemName": "CONCENTRADO SABOR MELON TRAVERSO 1X5 LT"
   },
@@ -44516,10 +44496,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "304850040",
     "ItemName": "YOGURT ACTIVIA NATURAL ENDULZADO SIN LACTOSA 24X140 GR"
   },
@@ -44822,10 +44798,6 @@
   {
     "ItemCode": "200460018",
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "203190007",
@@ -46684,10 +46656,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -46778,10 +46746,6 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
-    "ItemCode": "204790044",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "100552004",
@@ -47224,16 +47188,8 @@
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "102490000",
     "ItemName": "ACEITE PARA FREIR CUKIT 100% MARAVILLA 1X5 LT"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101355006",
@@ -47404,14 +47360,6 @@
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
   },
@@ -47494,5 +47442,57 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "204790044",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204790048",
+    "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "101007008",
+    "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   }
 ]
