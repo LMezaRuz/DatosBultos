@@ -23884,10 +23884,6 @@
     "ItemName": "CEREAL TRIX 10X800 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "403810006",
     "ItemName": "LIMPIADOR CREMA BIODEGRADABLE VIRUTEX 12X750GR"
   },
@@ -35956,10 +35952,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
     "ItemCode": "100355042",
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
@@ -36162,10 +36154,6 @@
   {
     "ItemCode": "100751047",
     "ItemName": "MERMELADA DE DAMASCO PORCION 192X20 GR."
-  },
-  {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "100751050",
@@ -46756,10 +46744,6 @@
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
@@ -46974,10 +46958,6 @@
   {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "103810001",
@@ -47212,10 +47192,6 @@
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "101201013",
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -47234,10 +47210,6 @@
   {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "100102015",
@@ -47278,10 +47250,6 @@
   {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "104210000",
@@ -47362,10 +47330,6 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "104560003",
@@ -47472,10 +47436,6 @@
     "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
@@ -47494,5 +47454,45 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
