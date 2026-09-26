@@ -32356,10 +32356,6 @@
     "ItemName": "SMASH BURGER 35X150 GR"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "103810010",
     "ItemName": "ALCOHOL HIGIENIZANTE 70° DEFORT 2X5 LT"
   },
@@ -36342,10 +36338,6 @@
   {
     "ItemCode": "204380019",
     "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "102480005",
@@ -43100,10 +43092,6 @@
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
   {
-    "ItemCode": "200250016",
-    "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101250002",
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
@@ -43848,10 +43836,6 @@
     "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "101201019",
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
@@ -43930,14 +43914,6 @@
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "400001007",
@@ -45548,10 +45524,6 @@
     "ItemName": "CAFE NESCAFE TRADICION FRASCO VIDRIO 1X170 GR"
   },
   {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
-  },
-  {
     "ItemCode": "100100005",
     "ItemName": "ARROZ ARBORIO ITALIANO ARCO 6X1 KG"
   },
@@ -46258,10 +46230,6 @@
   {
     "ItemCode": "100250002",
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
-  },
-  {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
     "ItemCode": "400001002",
@@ -47000,14 +46968,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -47360,10 +47320,6 @@
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -47494,5 +47450,49 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "200250016",
+    "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   }
 ]
