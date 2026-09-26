@@ -36316,10 +36316,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
@@ -44016,10 +44012,6 @@
     "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
@@ -45816,10 +45808,6 @@
     "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -45926,10 +45914,6 @@
   {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "100700007",
@@ -46644,10 +46628,6 @@
     "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "200302001",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -47068,10 +47048,6 @@
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201028",
-    "ItemName": "LECHE ASADA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201033",
     "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
@@ -47168,10 +47144,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "204380027",
-    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
@@ -47186,10 +47158,6 @@
   {
     "ItemCode": "100201012",
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "100852008",
@@ -47494,5 +47462,37 @@
   {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380027",
+    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201028",
+    "ItemName": "LECHE ASADA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   }
 ]
