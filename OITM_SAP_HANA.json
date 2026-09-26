@@ -35620,10 +35620,6 @@
     "ItemName": "SALSA QUESO CHEDDAR 12 UN X 1 KG"
   },
   {
-    "ItemCode": "100500002",
-    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
@@ -36438,10 +36434,6 @@
   {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
   },
   {
     "ItemCode": "102700021",
@@ -39506,10 +39498,6 @@
   {
     "ItemCode": "300351018",
     "ItemName": "JAMON SANDWICH PIEZA 1x1 kg"
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "200453013",
@@ -43436,10 +43424,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "101100039",
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
@@ -43462,10 +43446,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
   {
     "ItemCode": "300153012",
@@ -43618,10 +43598,6 @@
   {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "204380016",
@@ -44062,10 +44038,6 @@
   {
     "ItemCode": "100303003",
     "ItemName": "CONCENTRADO SABOR NARANJA TRAVERSO 1X5 LT"
-  },
-  {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "200201002",
@@ -47188,10 +47160,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -47494,5 +47462,37 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "100500002",
+    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
   }
 ]
