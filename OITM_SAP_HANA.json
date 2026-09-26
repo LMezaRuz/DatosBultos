@@ -28076,10 +28076,6 @@
     "ItemName": "QUESO PIZZERIA EN HEBRAS CALO 2X3,5 KG"
   },
   {
-    "ItemCode": "104420000",
-    "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
-  },
-  {
     "ItemCode": "103190003",
     "ItemName": "PULLED PORK 12X1,2 KG"
   },
@@ -31484,10 +31480,6 @@
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
   },
   {
-    "ItemCode": "204300056",
-    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
     "ItemCode": "204300078",
     "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
   },
@@ -32258,10 +32250,6 @@
   {
     "ItemCode": "204140013",
     "ItemName": "PAN FRICA REBANADO 75X115GR"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
     "ItemCode": "104670010",
@@ -35950,10 +35938,6 @@
   {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "204380030",
@@ -43348,10 +43332,6 @@
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "101201024",
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
   },
@@ -43534,10 +43514,6 @@
   {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "300407001",
-    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
     "ItemCode": "200250015",
@@ -45908,10 +45884,6 @@
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "100902003",
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
@@ -46456,10 +46428,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -46984,10 +46952,6 @@
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
     "ItemCode": "304760186",
     "ItemName": "ASIENTO BRASIL CONG. LOCAL (20KG. APROX)"
   },
@@ -47312,10 +47276,6 @@
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "203210058",
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
@@ -47494,5 +47454,45 @@
   {
     "ItemCode": "203210088",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "204300056",
+    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
+  },
+  {
+    "ItemCode": "300407001",
+    "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "104420000",
+    "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   }
 ]
