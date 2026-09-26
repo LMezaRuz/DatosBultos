@@ -32060,10 +32060,6 @@
     "ItemName": "CHORITO COCIDO CONGELADO 20X500 GRS"
   },
   {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
@@ -36102,10 +36098,6 @@
   {
     "ItemCode": "304760492",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
     "ItemCode": "104010005",
@@ -43624,10 +43616,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
-  },
-  {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
   },
@@ -45888,10 +45876,6 @@
     "ItemName": "CABELLO DE ANGEL CORTO 30X400 GR"
   },
   {
-    "ItemCode": "100351003",
-    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
-  },
-  {
     "ItemCode": "101250001",
     "ItemName": "QUINOA 1X1 KG"
   },
@@ -46952,10 +46936,6 @@
     "ItemName": "MERMELADA DE MORA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
     "ItemCode": "100801001",
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
@@ -46978,10 +46958,6 @@
   {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
     "ItemCode": "101450004",
@@ -47040,14 +47016,6 @@
     "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "101100064",
     "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   },
@@ -47082,10 +47050,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "200500017",
@@ -47224,20 +47188,12 @@
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "200250016",
     "ItemName": "PAPAS PREFRITAS RUSTICA C/PIEL EN PUNTAS FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
     "ItemCode": "204180034",
@@ -47494,5 +47450,49 @@
   {
     "ItemCode": "204790000",
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100351003",
+    "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   }
 ]
