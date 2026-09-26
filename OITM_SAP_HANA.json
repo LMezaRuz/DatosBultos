@@ -24492,10 +24492,6 @@
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
   },
   {
-    "ItemCode": "304850037",
-    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
-  },
-  {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
@@ -35712,10 +35708,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
-    "ItemCode": "103750003",
-    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
@@ -36374,10 +36366,6 @@
   {
     "ItemCode": "304340003",
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
   {
     "ItemCode": "202730011",
@@ -39652,10 +39640,6 @@
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
   },
   {
-    "ItemCode": "101401004",
-    "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
     "ItemCode": "400301008",
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
@@ -40012,10 +39996,6 @@
     "ItemName": "PINA CUBITOS 24X560 WASIL"
   },
   {
-    "ItemCode": "300152004",
-    "ItemName": "MANTECA CRUCINA 12X100 GR"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -40036,20 +40016,12 @@
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101401009",
     "ItemName": "POROTOS WASIL 16X380"
   },
   {
     "ItemCode": "300405005",
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "100004005",
@@ -40288,10 +40260,6 @@
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "300152003",
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
@@ -40334,14 +40302,6 @@
   {
     "ItemCode": "300157041",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009031",
@@ -47494,5 +47454,45 @@
   {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "101401004",
+    "ItemName": "CHOCLO DULCE WASIL 16X340"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "103750003",
+    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "300152004",
+    "ItemName": "MANTECA CRUCINA 12X100 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850037",
+    "ItemName": "YOGURT GRIEGO OIKOS MIEL GRANOLA CRUNCH 12X142GR"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
   }
 ]
