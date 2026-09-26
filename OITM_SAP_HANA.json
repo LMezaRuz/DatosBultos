@@ -28300,10 +28300,6 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
   },
   {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "203210004",
     "ItemName": "CHURRASCO POSTA FLOW PACK CONG MM 50x105 GR (CAJA DE 5.25 KG)"
   },
@@ -28506,10 +28502,6 @@
   {
     "ItemCode": "103910048",
     "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "203210058",
-    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
     "ItemCode": "203210111",
@@ -31462,10 +31454,6 @@
   {
     "ItemCode": "202730048",
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
-  },
-  {
-    "ItemCode": "204700029",
-    "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
   },
   {
     "ItemCode": "202910072",
@@ -35608,10 +35596,6 @@
     "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "103810001",
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
@@ -36390,10 +36374,6 @@
   {
     "ItemCode": "103700007",
     "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "103460000",
@@ -39828,10 +39808,6 @@
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
   },
@@ -40038,10 +40014,6 @@
   {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
     "ItemCode": "200460005",
@@ -46716,10 +46688,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "304760443",
     "ItemName": "POLLO GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX),"
   },
@@ -47494,5 +47462,37 @@
   {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "203210058",
+    "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
+  },
+  {
+    "ItemCode": "204700029",
+    "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   }
 ]
