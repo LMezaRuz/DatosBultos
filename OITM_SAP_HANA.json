@@ -35320,10 +35320,6 @@
     "ItemName": "LECHE CULTIVADA LONCOLECHE PROTEIN BERRIES 6X900 ML"
   },
   {
-    "ItemCode": "202730089",
-    "ItemName": "MEDIALUNA DE MANTEQUILLA PREMIUM 168X45 GR"
-  },
-  {
     "ItemCode": "303840003",
     "ItemName": "MANTECA BATERKRIM VEGETAL 1X20 KG"
   },
@@ -44412,10 +44408,6 @@
     "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
-    "ItemCode": "101357005",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X500 CC"
-  },
-  {
     "ItemCode": "101250002",
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
@@ -46912,20 +46904,12 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
-  },
-  {
     "ItemCode": "300353104",
     "ItemName": "POSTA PALETA CAT V PARAGUAY - LOCAL X KG  (20 KG APROX)"
   },
   {
     "ItemCode": "100304009",
     "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
   {
     "ItemCode": "304760541",
@@ -47062,10 +47046,6 @@
   {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "100951004",
@@ -47494,5 +47474,25 @@
   {
     "ItemCode": "203210123",
     "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
+  },
+  {
+    "ItemCode": "202730089",
+    "ItemName": "MEDIALUNA DE MANTEQUILLA PREMIUM 168X45 GR"
+  },
+  {
+    "ItemCode": "101357005",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X500 CC"
   }
 ]
