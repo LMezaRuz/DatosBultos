@@ -32364,10 +32364,6 @@
     "ItemName": "PAPEL TERMICO TOMMY BEANS ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "303680000",
     "ItemName": "PACK PROBIOTICO MULTIFRUTA UNV 6X90 ML"
   },
@@ -32410,10 +32406,6 @@
   {
     "ItemCode": "304760455",
     "ItemName": "PALANCA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "203190061",
-    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
   },
   {
     "ItemCode": "303880000",
@@ -35950,10 +35942,6 @@
   {
     "ItemCode": "101150084",
     "ItemName": "SALSA AJO 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
   },
   {
     "ItemCode": "303850001",
@@ -39572,10 +39560,6 @@
     "ItemName": "CAJA DELIVERY MEDIANA JUAN MAESTRO 1 X 250 UN"
   },
   {
-    "ItemCode": "400301020",
-    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
-  },
-  {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
@@ -39748,16 +39732,8 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
-    "ItemCode": "101150049",
-    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "100356013",
     "ItemName": "TE TWININGS CEYLON 1 X 10 UN"
-  },
-  {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
   {
     "ItemCode": "101355005",
@@ -46476,18 +46452,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "101150036",
-    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
   },
@@ -46498,14 +46462,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "204790020",
@@ -47494,5 +47450,49 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "101150036",
+    "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "400301020",
+    "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "203190061",
+    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
+  },
+  {
+    "ItemCode": "101150049",
+    "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
   }
 ]
