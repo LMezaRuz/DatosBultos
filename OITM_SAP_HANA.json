@@ -40128,10 +40128,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
   },
@@ -40254,10 +40250,6 @@
   {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
-    "ItemCode": "100300008",
-    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
   {
     "ItemCode": "100302002",
@@ -43086,10 +43078,6 @@
   {
     "ItemCode": "101201043",
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "200051018",
-    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100557013",
@@ -46676,10 +46664,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -46710,10 +46694,6 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "100201010",
@@ -46850,10 +46830,6 @@
   {
     "ItemCode": "103070020",
     "ItemName": "SALSA PESTO CON ACEITE DE OLIVA ARCO IMP 6X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101351012",
@@ -47086,10 +47062,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "101008003",
@@ -47456,18 +47428,6 @@
     "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
@@ -47494,5 +47454,45 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100300008",
+    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
+  },
+  {
+    "ItemCode": "200051018",
+    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   }
 ]
