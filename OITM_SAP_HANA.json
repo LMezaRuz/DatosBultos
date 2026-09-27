@@ -35700,10 +35700,6 @@
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
   },
   {
-    "ItemCode": "400301072",
-    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
-  },
-  {
     "ItemCode": "100304034",
     "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
   },
@@ -39016,10 +39012,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "204790029",
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
@@ -39688,10 +39680,6 @@
     "ItemName": "CREMA LISTA 6X200 CC"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
     "ItemCode": "101150045",
     "ItemName": "CAJA PEQUEÑOS MAESTROS JM 1 X 300 UN"
   },
@@ -40074,10 +40062,6 @@
   {
     "ItemCode": "100304027",
     "ItemName": "JUGO NECTAR VIVO MANZANA 12x1 lt."
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
     "ItemCode": "300201001",
@@ -45588,10 +45572,6 @@
     "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -47232,10 +47212,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -47360,10 +47336,6 @@
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "203190061",
-    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
-  },
-  {
     "ItemCode": "101150051",
     "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
@@ -47386,10 +47358,6 @@
   {
     "ItemCode": "100559004",
     "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "103920003",
@@ -47444,10 +47412,6 @@
     "ItemName": "SALSA PICANTE SRIRACHA 12X290 ML"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -47484,15 +47448,51 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "100200001",
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "203190061",
+    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
+  },
+  {
+    "ItemCode": "400301072",
+    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
   }
 ]
