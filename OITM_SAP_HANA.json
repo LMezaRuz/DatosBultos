@@ -35888,10 +35888,6 @@
     "ItemName": "DULCE MEMBRILLO 1X500 GR"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "100251007",
     "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
   },
@@ -44840,10 +44836,6 @@
     "ItemName": "CEREALBAR SABORES 1X20 UN"
   },
   {
-    "ItemCode": "200500006",
-    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
     "ItemCode": "200051004",
     "ItemName": "PULPA DE FRUTILLA MINUTO VERDE 10 X 1 KG"
   },
@@ -45720,14 +45712,6 @@
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
   {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
@@ -46004,10 +45988,6 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "204300092",
     "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
   },
@@ -46118,10 +46098,6 @@
   {
     "ItemCode": "101356003",
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "101002005",
@@ -46388,10 +46364,6 @@
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
   {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
@@ -46606,22 +46578,6 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "400301101",
@@ -46888,10 +46844,6 @@
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
@@ -46922,14 +46874,6 @@
   {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "104670004",
@@ -46968,10 +46912,6 @@
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -46998,10 +46938,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "104540004",
@@ -47494,5 +47430,69 @@
   {
     "ItemCode": "102980022",
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200500006",
+    "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   }
 ]
