@@ -35188,10 +35188,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "100750004",
-    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
-  },
-  {
     "ItemCode": "200100019",
     "ItemName": "CHOCLO TROZO 1 X 650 GR."
   },
@@ -35430,10 +35426,6 @@
   {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
   {
     "ItemCode": "101009022",
@@ -44760,10 +44752,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
   {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -45836,10 +45824,6 @@
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "300351023",
     "ItemName": "PATE DE TERNERA 16x125 GRS"
   },
@@ -46620,10 +46604,6 @@
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -46722,10 +46702,6 @@
   {
     "ItemCode": "202910018",
     "ItemName": "PERNIL DE CERDO CONG. BRASIL 20 KG APROX."
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
     "ItemCode": "104030007",
@@ -47040,10 +47016,6 @@
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "204790052",
     "ItemName": "PASTA DE CHOCLO RAPIFRESH 15X1 KG"
   },
@@ -47130,10 +47102,6 @@
   {
     "ItemCode": "102810003",
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
-  },
-  {
-    "ItemCode": "100550001",
-    "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
     "ItemCode": "304760519",
@@ -47340,10 +47308,6 @@
     "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
@@ -47494,5 +47458,41 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100550001",
+    "ItemName": "AJI DE COLOR 1X1 KG"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100750004",
+    "ItemName": "MANJAR PORCION COLUN 120X20 GR."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
   }
 ]
