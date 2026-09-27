@@ -24432,10 +24432,6 @@
     "ItemName": "CAMARON IMP EC COCIDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "103910034",
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
@@ -28466,10 +28462,6 @@
   {
     "ItemCode": "103810004",
     "ItemName": "DESINCRUSTANTE DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
   },
   {
     "ItemCode": "200500008",
@@ -35768,10 +35760,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIGORACA 20 KG (APROX)"
   },
   {
-    "ItemCode": "100002007",
-    "ItemName": "ACEITE BELMONT 12X1 LTS"
-  },
-  {
     "ItemCode": "203190012",
     "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
   },
@@ -42652,10 +42640,6 @@
     "ItemName": "HELADO SAN FCO. PIÑA (AGUA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
-  },
-  {
     "ItemCode": "200500041",
     "ItemName": "SOFRITO CON AJO FOOD SERVICE 20UN X 500 GRS"
   },
@@ -45208,10 +45192,6 @@
     "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
-  },
-  {
     "ItemCode": "100557002",
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
@@ -46976,10 +46956,6 @@
     "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -47078,10 +47054,6 @@
   {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "104010020",
@@ -47258,10 +47230,6 @@
   {
     "ItemCode": "103910025",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X360 GR"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "101010002",
@@ -47494,5 +47462,37 @@
   {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "100002007",
+    "ItemName": "ACEITE BELMONT 12X1 LTS"
   }
 ]
