@@ -23180,10 +23180,6 @@
     "ItemName": "QUESO MANTECOSO LAS PARCELAS DE VALDIVIA LAMINA GRUESA 20X210 GR"
   },
   {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "304760513",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -23534,10 +23530,6 @@
   {
     "ItemCode": "104170007",
     "ItemName": "PAPAS FRITAS SABOR CREMA CEBOLLA KRYZPO 8X6X37 GR"
-  },
-  {
-    "ItemCode": "202910014",
-    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
   },
   {
     "ItemCode": "303850019",
@@ -24206,10 +24198,6 @@
   {
     "ItemCode": "102960005",
     "ItemName": "CACAO EN POLVO CALLEBAUT 25 KG (DCP-711)"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
     "ItemCode": "203190061",
@@ -35876,10 +35864,6 @@
     "ItemName": "JUGO NECTAR WATTS MANZANA 12X1 LT"
   },
   {
-    "ItemCode": "202910069",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
-  },
-  {
     "ItemCode": "104900003",
     "ItemName": "CONDIMENTO LOMO CERVEZA BF 1X10 KG"
   },
@@ -42880,10 +42864,6 @@
     "ItemName": "LECHE CON CHOCOLATE SOPROLE ORIGINAL 6X200 ML."
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
   },
@@ -46192,10 +46172,6 @@
     "ItemName": "MUFFIN MARMOLEADO 36X110 GR"
   },
   {
-    "ItemCode": "204790023",
-    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101201024",
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
   },
@@ -46762,10 +46738,6 @@
   {
     "ItemCode": "100304060",
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
-  },
-  {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100900001",
@@ -47494,5 +47466,33 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "202910014",
+    "ItemName": "RACK ENTERO CHULETA CENTRO IMP. X KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "202910069",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. BRASIL SEARA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790023",
+    "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   }
 ]
