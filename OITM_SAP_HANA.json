@@ -22436,10 +22436,6 @@
     "ItemName": "LECHE CULTIVADA LIGHT LONCOLECHE FRUTILLA 6X900 ML"
   },
   {
-    "ItemCode": "303870009",
-    "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
-  },
-  {
     "ItemCode": "304110016",
     "ItemName": "QUESO CABRA LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -24114,10 +24110,6 @@
   {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
-  },
-  {
-    "ItemCode": "104670079",
-    "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
   },
   {
     "ItemCode": "104690004",
@@ -32180,10 +32172,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
-  },
-  {
     "ItemCode": "101201043",
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -36078,10 +36066,6 @@
   {
     "ItemCode": "204150018",
     "ItemName": "PAN DE QUESO HORNEADO 10X240 GR"
-  },
-  {
-    "ItemCode": "203210096",
-    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
     "ItemCode": "203900008",
@@ -40348,10 +40332,6 @@
     "ItemName": "LECHE ENTERA UHT 6x200 ml."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "200500042",
     "ItemName": "ZANAHORIA CUBO FOOD SERVICE 13 UN X 1 KG"
   },
@@ -42932,10 +42912,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
   },
   {
-    "ItemCode": "203200029",
-    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
     "ItemCode": "100854009",
     "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
   },
@@ -43210,10 +43186,6 @@
   {
     "ItemCode": "100653003",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
-    "ItemCode": "101250003",
-    "ItemName": "COUS COUS 1X1 KG"
   },
   {
     "ItemCode": "101200006",
@@ -45784,10 +45756,6 @@
     "ItemName": "SPRITE 6X1,5 LT"
   },
   {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -47268,10 +47236,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
@@ -47494,5 +47458,41 @@
   {
     "ItemCode": "101452001",
     "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "101250003",
+    "ItemName": "COUS COUS 1X1 KG"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "104670079",
+    "ItemName": "TE LIPTON BLACK RED FRUIT 12 X 20 BLS"
+  },
+  {
+    "ItemCode": "203200029",
+    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
+  },
+  {
+    "ItemCode": "203210096",
+    "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "303870009",
+    "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   }
 ]
