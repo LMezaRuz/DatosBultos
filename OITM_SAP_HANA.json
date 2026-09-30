@@ -31436,10 +31436,6 @@
     "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
   },
   {
-    "ItemCode": "104070007",
-    "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
-  },
-  {
     "ItemCode": "103660000",
     "ItemName": "JUGO NARANJA/MANZANA 100% LV WATTS 6X200ML"
   },
@@ -31626,10 +31622,6 @@
   {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
-    "ItemCode": "101100053",
-    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
     "ItemCode": "304760448",
@@ -31820,10 +31812,6 @@
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
-    "ItemCode": "101100056",
-    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
     "ItemCode": "202720006",
     "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
   },
@@ -32010,10 +31998,6 @@
   {
     "ItemCode": "304760439",
     "ItemName": "ASIENTO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
   {
     "ItemCode": "103480003",
@@ -45380,10 +45364,6 @@
     "ItemName": "CONCENTRADO SABOR FRAMBUESA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
     "ItemCode": "400005011",
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
@@ -45706,10 +45686,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "200303015",
@@ -46140,10 +46116,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -46382,10 +46354,6 @@
   {
     "ItemCode": "303100002",
     "ItemName": "CREMA ACIDA QUILLAYES 8X160 GR"
-  },
-  {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
     "ItemCode": "300150001",
@@ -46876,10 +46844,6 @@
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "400010019",
     "ItemName": "MANTENEDOR DE PISO LAVANDA DEFORT 2X5 LT"
   },
@@ -47074,10 +47038,6 @@
   {
     "ItemCode": "104910018",
     "ItemName": "METIL TEXTURAS 24X300 GR"
-  },
-  {
-    "ItemCode": "103940024",
-    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
   },
   {
     "ItemCode": "200304006",
@@ -47440,10 +47400,6 @@
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
@@ -47454,10 +47410,6 @@
   {
     "ItemCode": "400252003",
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "204380027",
@@ -47586,5 +47538,53 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "104070007",
+    "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "103940024",
+    "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "101100056",
+    "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
+  },
+  {
+    "ItemCode": "101100053",
+    "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   }
 ]
