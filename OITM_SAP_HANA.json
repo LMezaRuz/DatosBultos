@@ -28656,10 +28656,6 @@
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
   {
-    "ItemCode": "204300022",
-    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "304760318",
     "ItemName": "LOMO LISO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX) MAYOR"
   },
@@ -31298,10 +31294,6 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
   },
   {
     "ItemCode": "202910004",
@@ -39916,10 +39908,6 @@
     "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -40250,10 +40238,6 @@
   {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
-  },
-  {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
     "ItemCode": "100852005",
@@ -44264,10 +44248,6 @@
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
@@ -46264,10 +46244,6 @@
     "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "101251002",
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
@@ -46436,10 +46412,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -46494,10 +46466,6 @@
   {
     "ItemCode": "304450013",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS DE VALDIVIA LAMINA GRUESA 20X210 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100004006",
@@ -46594,10 +46562,6 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "103670010",
@@ -47280,10 +47244,6 @@
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
@@ -47346,10 +47306,6 @@
   {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101302002",
@@ -47706,5 +47662,49 @@
   {
     "ItemCode": "304760481",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "204300022",
+    "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
   }
 ]
