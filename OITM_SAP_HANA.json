@@ -32560,10 +32560,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "101201022",
-    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "203230003",
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
@@ -32676,20 +32672,8 @@
     "ItemName": "CREMELL TRES LECHES TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201037",
-    "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
-  },
-  {
     "ItemCode": "101201031",
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201038",
-    "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
   },
   {
     "ItemCode": "101201039",
@@ -44392,10 +44376,6 @@
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
-    "ItemCode": "101201020",
-    "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201027",
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
@@ -44592,10 +44572,6 @@
     "ItemName": "ALCAPARRAS LACRIMELLA EN VINAGRE ITALC IMP 12X720 ML"
   },
   {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -44652,10 +44628,6 @@
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201021",
-    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
@@ -44670,10 +44642,6 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "101201033",
-    "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
   },
   {
     "ItemCode": "101011001",
@@ -45838,10 +45806,6 @@
   {
     "ItemCode": "100352005",
     "ItemName": "CAFE LUNGO (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100356006",
@@ -47548,10 +47512,6 @@
     "ItemName": "FLAN CON LECHE CARAMELO TKF 1X1 KG"
   },
   {
-    "ItemCode": "101201011",
-    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100752004",
     "ItemName": "MIEL DE ABEJA PORCION 192X20 GR."
   },
@@ -47706,5 +47666,45 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101201011",
+    "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201020",
+    "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201021",
+    "ItemName": "FLAN CON LECHE CHIRIMOYA ALEGRE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201038",
+    "ItemName": "DELICREAM MANJAR C/ALMENDRAS TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "101201037",
+    "ItemName": "DELICREAM CHOCOLATE C/ALMENDRAS TKF 1X1 KG."
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201033",
+    "ItemName": "BAVAROIS DE FRAMBUESA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201022",
+    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
