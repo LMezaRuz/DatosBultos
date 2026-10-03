@@ -35500,10 +35500,6 @@
     "ItemName": "CEBOLLA EN POLVO 10 UN X 1 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101002007",
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
   },
@@ -44308,10 +44304,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
@@ -46036,10 +46028,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "204790022",
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
@@ -46362,10 +46350,6 @@
   {
     "ItemCode": "300157041",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
-  },
-  {
-    "ItemCode": "200457001",
-    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   },
   {
     "ItemCode": "101011002",
@@ -47164,10 +47148,6 @@
     "ItemName": "CARNE PICADA DE PECHUGA DE POLLO SAZONADA 5X1 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
@@ -47278,10 +47258,6 @@
   {
     "ItemCode": "203900007",
     "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "200308002",
@@ -47706,5 +47682,29 @@
   {
     "ItemCode": "204790020",
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "200457001",
+    "ItemName": "HAMBURGUESA DE VACUNO 32X100 GRS."
   }
 ]
