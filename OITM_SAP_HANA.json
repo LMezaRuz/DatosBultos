@@ -24332,10 +24332,6 @@
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "304430001",
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
@@ -35412,10 +35408,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
   },
   {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "300300011",
     "ItemName": "GELATINA AMBROSOLI PIÑA 1x100 g."
   },
@@ -35650,10 +35642,6 @@
   {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
   },
   {
     "ItemCode": "103600004",
@@ -39448,10 +39436,6 @@
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
-    "ItemCode": "101002008",
-    "ItemName": "CREMA LISTA 6X200 CC"
-  },
-  {
     "ItemCode": "300153014",
     "ItemName": "MANTEQUILLA MINI POTE COLUN 1 X 200 UN X 10 GR"
   },
@@ -39602,10 +39586,6 @@
   {
     "ItemCode": "400251011",
     "ItemName": "SERVILLETA XPRESSNAP FIT BLANCA HS 18X240 UN SE70051"
-  },
-  {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
   },
   {
     "ItemCode": "101353031",
@@ -39780,10 +39760,6 @@
     "ItemName": "MARGARINA CALO MIX 12X350 GRS"
   },
   {
-    "ItemCode": "101009026",
-    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -39938,10 +39914,6 @@
   {
     "ItemCode": "101002010",
     "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
-  },
-  {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
   {
     "ItemCode": "101009025",
@@ -45584,10 +45556,6 @@
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -45730,10 +45698,6 @@
   {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
     "ItemCode": "300407001",
@@ -47336,10 +47300,6 @@
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
   {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
     "ItemCode": "400006002",
     "ItemName": "RAID INSECT. CASA Y JARDIN SPRAY 1X420 C"
   },
@@ -47706,5 +47666,45 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101009026",
+    "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101002008",
+    "ItemName": "CREMA LISTA 6X200 CC"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   }
 ]
