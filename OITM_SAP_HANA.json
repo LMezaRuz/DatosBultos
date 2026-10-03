@@ -31112,10 +31112,6 @@
     "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
   },
   {
-    "ItemCode": "103010004",
-    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
-  },
-  {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
@@ -35342,10 +35338,6 @@
   {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "300154035",
@@ -43092,10 +43084,6 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "101100007",
-    "ItemName": "SPAGUETTI 1X5 KG"
-  },
-  {
     "ItemCode": "101100020",
     "ItemName": "CORBATA 1X5 KG"
   },
@@ -43390,10 +43378,6 @@
   {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204140007",
@@ -45708,10 +45692,6 @@
     "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
-  },
-  {
     "ItemCode": "400005012",
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
@@ -46520,10 +46500,6 @@
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -47020,10 +46996,6 @@
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
   },
@@ -47100,10 +47072,6 @@
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "400100002",
     "ItemName": "BOLSA HDPE NATURAL 8X25 CM 1X1000 UN"
   },
@@ -47176,10 +47144,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -47214,10 +47178,6 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "304490000",
@@ -47306,10 +47266,6 @@
   {
     "ItemCode": "101353038",
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "103070006",
@@ -47486,10 +47442,6 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "303870004",
@@ -47706,5 +47658,53 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "103010004",
+    "ItemName": "COBERTURA NEUCOBER SEMI AMARGO 12X1 KG"
+  },
+  {
+    "ItemCode": "101100007",
+    "ItemName": "SPAGUETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   }
 ]
