@@ -23852,10 +23852,6 @@
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "203200049",
-    "ItemName": "CARNE PICADA DE PECHUGA DE POLLO SAZONADA 5X1 KG"
-  },
-  {
     "ItemCode": "100251012",
     "ItemName": "CALDO DE GALLINA MAGGI 10 X 850 GR"
   },
@@ -32036,10 +32032,6 @@
     "ItemName": "LOMITO CERVEZA 5X2 KG"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "102710018",
     "ItemName": "BEBIDA VEGETAL BARISTA COCO VILAY 12X1 LT"
   },
@@ -32142,10 +32134,6 @@
   {
     "ItemCode": "203200045",
     "ItemName": "FILETITO TEMPURA DE POLLO ALEGRA 4X1,5 KG"
-  },
-  {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
     "ItemCode": "101301002",
@@ -39828,10 +39816,6 @@
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   },
   {
-    "ItemCode": "300351016",
-    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
-  },
-  {
     "ItemCode": "304010001",
     "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
   },
@@ -44516,10 +44500,6 @@
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
@@ -46644,10 +46624,6 @@
     "ItemName": "YOGURT SABOR CHIRIMOYA EN BOLSA CALAN 12X1 LT"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "300158001",
     "ItemName": "YOGURT BATIDO SIN LACTOSA MORA 48 X125 GRS"
   },
@@ -46694,10 +46670,6 @@
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100351009",
@@ -47492,10 +47464,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -47706,5 +47674,37 @@
   {
     "ItemCode": "300351003",
     "ItemName": "JAMON PIERNA LAMINADO MODINGER 1x150 g."
+  },
+  {
+    "ItemCode": "203200049",
+    "ItemName": "CARNE PICADA DE PECHUGA DE POLLO SAZONADA 5X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "300351016",
+    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
   }
 ]
