@@ -26556,10 +26556,6 @@
     "ItemName": "ROLLITO DE JAMON Y QUESO 54X120 GR"
   },
   {
-    "ItemCode": "202730005",
-    "ItemName": "PAN PETIT MULTICEREALES 200X40 GR"
-  },
-  {
     "ItemCode": "200500063",
     "ItemName": "CHOCLO EN TROZO CONGELADO SC 10X1KG"
   },
@@ -44536,10 +44532,6 @@
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
@@ -46284,10 +46276,6 @@
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "204140005",
-    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
-  },
-  {
     "ItemCode": "101200001",
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -46422,10 +46410,6 @@
   {
     "ItemCode": "204750001",
     "ItemName": "ASADO MOLIDO DE VACUNO 8X450 GRS."
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
     "ItemCode": "300351017",
@@ -47368,10 +47352,6 @@
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   },
   {
-    "ItemCode": "202730018",
-    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
-  },
-  {
     "ItemCode": "103110002",
     "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
   },
@@ -47648,10 +47628,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -47706,5 +47682,29 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "202730005",
+    "ItemName": "PAN PETIT MULTICEREALES 200X40 GR"
+  },
+  {
+    "ItemCode": "204140005",
+    "ItemName": "MINI PAN AMASADO INTEGRAL 125X40 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "202730018",
+    "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   }
 ]
