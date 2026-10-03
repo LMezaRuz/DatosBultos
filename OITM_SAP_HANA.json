@@ -24188,10 +24188,6 @@
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
-    "ItemCode": "204710002",
-    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
-  },
-  {
     "ItemCode": "400102003",
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
@@ -28152,16 +28148,8 @@
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. MARINADO, ADOBADO 20X1 KG."
   },
   {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
     "ItemCode": "302890038",
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
-  },
-  {
-    "ItemCode": "103210008",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
   {
     "ItemCode": "404600008",
@@ -31964,14 +31952,6 @@
     "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
   },
   {
-    "ItemCode": "400301033",
-    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "400301035",
-    "ItemName": "STICKER POLLO TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "102520002",
     "ItemName": "ACEITUNA VERDE RELLENA C/PIMENTON MAIFRE 10X1 KG"
   },
@@ -32394,10 +32374,6 @@
   {
     "ItemCode": "104670008",
     "ItemName": "TE TWININGS MENTA 1X10 UN"
-  },
-  {
-    "ItemCode": "204010002",
-    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
   },
   {
     "ItemCode": "100552005",
@@ -40392,10 +40368,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "103720007",
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
   },
@@ -43492,10 +43464,6 @@
     "ItemName": "BOLSA CARAMELO 100X120X0.7 1UN"
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
     "ItemCode": "100557013",
     "ItemName": "TOMILLO EN HOJAS FRASCO 1X7 GR"
   },
@@ -44098,10 +44066,6 @@
   {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "101151016",
@@ -46656,14 +46620,6 @@
     "ItemName": "QUINOA 1X1 KG"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "104210029",
     "ItemName": "SPAGUETTI DOGA 20X400 GR"
   },
@@ -47396,10 +47352,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "204180034",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
@@ -47706,5 +47658,53 @@
   {
     "ItemCode": "100101007",
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204010002",
+    "ItemName": "SALSA CHILIS CON CARNE 3X2 KG"
+  },
+  {
+    "ItemCode": "204710002",
+    "ItemName": "CHIPS DE MAIZ 4 CORTES 1X14,5 KG"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "103210008",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "400301033",
+    "ItemName": "STICKER GUACAMOLE TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301035",
+    "ItemName": "STICKER POLLO TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
