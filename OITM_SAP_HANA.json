@@ -35636,10 +35636,6 @@
     "ItemName": "CHOCLO DULCE WASIL 16X340"
   },
   {
-    "ItemCode": "102480009",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
     "ItemCode": "104620002",
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
@@ -44316,10 +44312,6 @@
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100803002",
-    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
     "ItemCode": "100550008",
     "ItemName": "MERKEN 1X1 KG"
   },
@@ -44402,10 +44394,6 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "102480005",
@@ -45520,16 +45508,8 @@
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
-    "ItemCode": "400005006",
-    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
-  },
-  {
     "ItemCode": "400150009",
     "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
     "ItemCode": "100555004",
@@ -46008,10 +45988,6 @@
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "104020000",
     "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
   },
@@ -46146,10 +46122,6 @@
   {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "104010003",
@@ -46382,10 +46354,6 @@
   {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "100100005",
-    "ItemName": "ARROZ ARBORIO ITALIANO ARCO 6X1 KG"
   },
   {
     "ItemCode": "300156009",
@@ -46880,10 +46848,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
@@ -47034,10 +46998,6 @@
   {
     "ItemCode": "100557019",
     "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
-  },
-  {
-    "ItemCode": "101355023",
-    "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
   {
     "ItemCode": "200302009",
@@ -47350,10 +47310,6 @@
   {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG (W2N-595)"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "200003005",
@@ -47706,5 +47662,49 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "102480009",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100100005",
+    "ItemName": "ARROZ ARBORIO ITALIANO ARCO 6X1 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101355023",
+    "ItemName": "TINTA CALAMAR 1 X 90 GR"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "400005006",
+    "ItemName": "GUANTE MULTIUSO TALLA M 1X1 UN"
+  },
+  {
+    "ItemCode": "100803002",
+    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   }
 ]
