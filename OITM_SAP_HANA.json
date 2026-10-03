@@ -39416,10 +39416,6 @@
     "ItemName": "CAFE FOLKS MOLIDO 1X1 KG"
   },
   {
-    "ItemCode": "101302002",
-    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "100852018",
     "ItemName": "GALLETA DIN DON 1X115 GR"
   },
@@ -39742,10 +39738,6 @@
   {
     "ItemCode": "300157025",
     "ItemName": "YOGURT DANONE L&F NATURAL 115G CAJA 48X115"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "100003007",
@@ -44600,10 +44592,6 @@
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "101200023",
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
@@ -46472,10 +46460,6 @@
     "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "101354007",
-    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
     "ItemCode": "300401001",
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
@@ -46706,10 +46690,6 @@
   {
     "ItemCode": "204300092",
     "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
-  },
-  {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101010002",
@@ -47232,14 +47212,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -47706,5 +47678,33 @@
   {
     "ItemCode": "101150004",
     "ItemName": "MERKEN GRANO FINO GYN 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101354007",
+    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101302002",
+    "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   }
 ]
