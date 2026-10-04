@@ -23728,20 +23728,12 @@
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "202730041",
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
     "ItemCode": "302890043",
     "ItemName": "JAMON PIERNA PIEZA 1X4,5 KG"
-  },
-  {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
   },
   {
     "ItemCode": "204530024",
@@ -28504,10 +28496,6 @@
     "ItemName": "CHIPOTLES ADOBO 12X800 GR"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "204710000",
     "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
@@ -31524,10 +31512,6 @@
     "ItemName": "PECHUGA DE POLLO DESHUESADA IMP. CONG. 18X907 GR  (KOSHER)"
   },
   {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
     "ItemCode": "203900002",
     "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
   },
@@ -32378,10 +32362,6 @@
   {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
-  },
-  {
-    "ItemCode": "104030007",
-    "ItemName": "ACEITE SESAMO 12X1 LT"
   },
   {
     "ItemCode": "204090009",
@@ -36398,10 +36378,6 @@
   {
     "ItemCode": "600002006",
     "ItemName": "APIO 1X1 UN"
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "100751001",
@@ -45624,10 +45600,6 @@
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
   },
   {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
   },
@@ -45638,10 +45610,6 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "103880016",
@@ -46300,10 +46268,6 @@
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
@@ -46318,10 +46282,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200500017",
-    "ItemName": "HABAS PELADAS 7X1 KG."
   },
   {
     "ItemCode": "101250003",
@@ -46382,10 +46342,6 @@
   {
     "ItemCode": "200201032",
     "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
-  },
-  {
-    "ItemCode": "101355010",
-    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
   },
   {
     "ItemCode": "304760109",
@@ -47692,10 +47648,6 @@
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -47706,5 +47658,53 @@
   {
     "ItemCode": "704920003",
     "ItemName": "PALTA HASS CALIBRE 10-18 PREMADURA CAJA 10KG"
+  },
+  {
+    "ItemCode": "101355010",
+    "ItemName": "SALSA DE OSTRA 1 X 255 GR."
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "200500017",
+    "ItemName": "HABAS PELADAS 7X1 KG."
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "104030007",
+    "ItemName": "ACEITE SESAMO 12X1 LT"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
