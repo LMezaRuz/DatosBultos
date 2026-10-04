@@ -24544,10 +24544,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
   },
@@ -36452,10 +36448,6 @@
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
@@ -40214,10 +40206,6 @@
   {
     "ItemCode": "300157036",
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "101000002",
@@ -44260,10 +44248,6 @@
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "101006001",
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
   },
@@ -44482,10 +44466,6 @@
   {
     "ItemCode": "600002005",
     "ItemName": "AJOS KG"
-  },
-  {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
     "ItemCode": "100251004",
@@ -44962,10 +44942,6 @@
   {
     "ItemCode": "100355018",
     "ItemName": "SYRUP ARANDANO MONIN 750 ML"
-  },
-  {
-    "ItemCode": "100355013",
-    "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
   },
   {
     "ItemCode": "100355012",
@@ -46380,10 +46356,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "300153011",
-    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
@@ -46578,10 +46550,6 @@
   {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "200302001",
@@ -47332,10 +47300,6 @@
     "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "203210107",
     "ItemName": "SMASH BURGER 35X150 GR"
   },
@@ -47480,10 +47444,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -47518,10 +47478,6 @@
   {
     "ItemCode": "200402019",
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "204300048",
@@ -47684,10 +47640,6 @@
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "204050011",
     "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
   },
@@ -47706,5 +47658,53 @@
   {
     "ItemCode": "204300086",
     "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
+  },
+  {
+    "ItemCode": "300153011",
+    "ItemName": "MANTEQUILLA CON SAL SOPROLE PAN 1X250 GR."
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100355013",
+    "ItemName": "SYRUP SANDIA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
   }
 ]
