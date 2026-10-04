@@ -24292,10 +24292,6 @@
     "ItemName": "OSTION MEDIA CONCHA (ARGOPECTEN PURPURATUS) 8 X 1 KG"
   },
   {
-    "ItemCode": "204310017",
-    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
-  },
-  {
     "ItemCode": "101357009",
     "ItemName": "SALSA DE SOYA TRAVERSO 250X30 CC"
   },
@@ -28232,10 +28228,6 @@
     "ItemName": "CHURRASCO DE POSTAS (MUSCULO) GOURMET (MM) 5X1 KG"
   },
   {
-    "ItemCode": "204310009",
-    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
-  },
-  {
     "ItemCode": "102790000",
     "ItemName": "CAFE NESCAFE DECAF STICK 180X1,8 GR"
   },
@@ -31418,10 +31410,6 @@
   {
     "ItemCode": "304760122",
     "ItemName": "LOMO LISO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "204700005",
-    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   },
   {
     "ItemCode": "104560008",
@@ -35284,10 +35272,6 @@
     "ItemName": "HABAS 16X380 GR"
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "103760007",
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
@@ -35934,10 +35918,6 @@
   {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
-    "ItemCode": "204700007",
-    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
   {
     "ItemCode": "104610008",
@@ -47212,10 +47192,6 @@
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
   {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
-  },
-  {
     "ItemCode": "101403001",
     "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
@@ -47706,5 +47682,29 @@
   {
     "ItemCode": "101201016",
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204310017",
+    "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
+  },
+  {
+    "ItemCode": "204700005",
+    "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "204310009",
+    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
+  },
+  {
+    "ItemCode": "204700007",
+    "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   }
 ]
