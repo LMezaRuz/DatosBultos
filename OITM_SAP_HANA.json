@@ -24324,10 +24324,6 @@
     "ItemName": "HARINA PANIFICACION ESPECIAL YANINE 1X25KG"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "304430001",
     "ItemName": "QUESO CREMA CALO 1X100 GR"
   },
@@ -43116,10 +43112,6 @@
     "ItemName": "TIKA CHILOE  48 UN X 35 GRS"
   },
   {
-    "ItemCode": "100304015",
-    "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
     "ItemCode": "100552005",
     "ItemName": "CANELA EN RAMA 1X250 GR"
   },
@@ -45404,10 +45396,6 @@
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100855010",
-    "ItemName": "CEREALBAR SABORES 1X20 UN"
-  },
-  {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
   },
@@ -45490,10 +45478,6 @@
   {
     "ItemCode": "100002008",
     "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
-    "ItemCode": "100751005",
-    "ItemName": "MERMELADA DE GUINDA 1X250 GR"
   },
   {
     "ItemCode": "200302009",
@@ -46304,10 +46288,6 @@
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -46536,10 +46516,6 @@
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
-    "ItemCode": "200302019",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -46722,10 +46698,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
   {
     "ItemCode": "202820005",
@@ -46930,10 +46902,6 @@
   {
     "ItemCode": "101356002",
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "204380017",
@@ -47706,5 +47674,37 @@
   {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "100751005",
+    "ItemName": "MERMELADA DE GUINDA 1X250 GR"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "200302019",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100855010",
+    "ItemName": "CEREALBAR SABORES 1X20 UN"
+  },
+  {
+    "ItemCode": "100304015",
+    "ItemName": "NECTAR DE PIÑA 6X200 ML"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
