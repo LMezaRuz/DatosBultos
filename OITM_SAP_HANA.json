@@ -31952,10 +31952,6 @@
     "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "203200044",
-    "ItemName": "NUGGETS TEMPURA DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
@@ -31990,10 +31986,6 @@
   {
     "ItemCode": "103650025",
     "ItemName": "NECTAR PIÑA LIGTH WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "204000009",
-    "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
   },
   {
     "ItemCode": "203430009",
@@ -32094,10 +32086,6 @@
   {
     "ItemCode": "202990003",
     "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
-  },
-  {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
     "ItemCode": "103830005",
@@ -34480,10 +34468,6 @@
     "ItemName": "SALSA BASE CHILIS 4X3,97 KG"
   },
   {
-    "ItemCode": "203200036",
-    "ItemName": "NUGGETS CROCANTE DE POLLO ALEGRA 3X2 KG"
-  },
-  {
     "ItemCode": "204700027",
     "ItemName": "PASTEL MOLTEN CHOCOLATE 1X36 UN"
   },
@@ -35376,20 +35360,12 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "204000007",
-    "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
     "ItemCode": "203200041",
     "ItemName": "TIRAS DE PECHUGA DE POLLO COCIDAS CONG. 12X400 GR"
   },
   {
     "ItemCode": "204000006",
     "ItemName": "CHARCHA VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "204000000",
-    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
   },
   {
     "ItemCode": "204000003",
@@ -39816,10 +39792,6 @@
     "ItemName": "COSTILLAR DE CERDO AHUMADO KG. (NV)"
   },
   {
-    "ItemCode": "200462002",
-    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
-  },
-  {
     "ItemCode": "300157034",
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
   },
@@ -43680,10 +43652,6 @@
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
-    "ItemCode": "101001005",
-    "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -45564,10 +45532,6 @@
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
   {
-    "ItemCode": "300152009",
-    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -45638,10 +45602,6 @@
   {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
     "ItemCode": "200460028",
@@ -46022,10 +45982,6 @@
   {
     "ItemCode": "101010001",
     "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
-    "ItemCode": "204300051",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
   {
     "ItemCode": "304760448",
@@ -47552,10 +47508,6 @@
     "ItemName": "CREMA A BASE DE COCO VILAY 18X330 ML"
   },
   {
-    "ItemCode": "203210110",
-    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -47706,5 +47658,53 @@
   {
     "ItemCode": "203190062",
     "ItemName": "LOMITO CERVEZA 5X2 KG"
+  },
+  {
+    "ItemCode": "203210110",
+    "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "203200044",
+    "ItemName": "NUGGETS TEMPURA DE POLLO ALEGRA 3X2 KG"
+  },
+  {
+    "ItemCode": "200462002",
+    "ItemName": "ASADO DE TIRA LOCAL CAT V KG. (NV)"
+  },
+  {
+    "ItemCode": "204000007",
+    "ItemName": "CHUNCHULES VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204000009",
+    "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204000000",
+    "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "204300051",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "300152009",
+    "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
+  },
+  {
+    "ItemCode": "101001005",
+    "ItemName": "LECHE DE SOYA 12X1 LT."
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "203200036",
+    "ItemName": "NUGGETS CROCANTE DE POLLO ALEGRA 3X2 KG"
   }
 ]
