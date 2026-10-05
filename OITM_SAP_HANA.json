@@ -38096,20 +38096,12 @@
     "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   },
   {
-    "ItemCode": "100302006",
-    "ItemName": "SPRITE 6X1,5 LT"
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
   {
     "ItemCode": "200500019",
     "ItemName": "ESPARRAGOS 9X1 KG."
-  },
-  {
-    "ItemCode": "100302005",
-    "ItemName": "COCA COLA LIGHT 6X1,5 LT"
   },
   {
     "ItemCode": "300351015",
@@ -41064,10 +41056,6 @@
     "ItemName": "SEMILLA DE CHIA 1X1 KG."
   },
   {
-    "ItemCode": "100152006",
-    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
-  },
-  {
     "ItemCode": "204700026",
     "ItemName": "TIRAMISU TONDO 12X90 GR"
   },
@@ -41146,14 +41134,6 @@
   {
     "ItemCode": "100250001",
     "ItemName": "BASE PARA APANAR 1X1 KG."
-  },
-  {
-    "ItemCode": "100302003",
-    "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
-  },
-  {
-    "ItemCode": "100302002",
-    "ItemName": "FANTA 6 X 1,5 LTS"
   },
   {
     "ItemCode": "100302004",
@@ -41958,10 +41938,6 @@
   {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100700003",
-    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "100751004",
@@ -43342,14 +43318,6 @@
   {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "300157040",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
-  },
-  {
-    "ItemCode": "300157039",
-    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
   },
   {
     "ItemCode": "300157041",
@@ -45142,10 +45110,6 @@
   {
     "ItemCode": "100653002",
     "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
-  },
-  {
-    "ItemCode": "100300008",
-    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
   },
   {
     "ItemCode": "100902005",
@@ -47148,10 +47112,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -47166,10 +47126,6 @@
   {
     "ItemCode": "100801002",
     "ItemName": "PASAS RUBIA 1X250 GR"
-  },
-  {
-    "ItemCode": "100801003",
-    "ItemName": "MANI SALADO 1X1 KG"
   },
   {
     "ItemCode": "100801005",
@@ -47400,10 +47356,6 @@
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
@@ -47516,20 +47468,8 @@
     "ItemName": "PAPEL HIGIENICO JUMBO 6X500 MT   HI55004"
   },
   {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
     "ItemCode": "400250006",
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
-  },
-  {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "400105003",
-    "ItemName": "FILM PLASTICO 45X1400 MTS."
   },
   {
     "ItemCode": "400251006",
@@ -47550,10 +47490,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "400251016",
@@ -47706,5 +47642,69 @@
   {
     "ItemCode": "203190007",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100152006",
+    "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100700003",
+    "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100801003",
+    "ItemName": "MANI SALADO 1X1 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "400105003",
+    "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "300157039",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. FRUTOS BOSQUE 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300157040",
+    "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "100300008",
+    "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
+  },
+  {
+    "ItemCode": "100302002",
+    "ItemName": "FANTA 6 X 1,5 LTS"
+  },
+  {
+    "ItemCode": "100302003",
+    "ItemName": "COCA COLA ORIGINAL 6X1,5 LT"
+  },
+  {
+    "ItemCode": "100302005",
+    "ItemName": "COCA COLA LIGHT 6X1,5 LT"
+  },
+  {
+    "ItemCode": "100302006",
+    "ItemName": "SPRITE 6X1,5 LT"
   }
 ]
