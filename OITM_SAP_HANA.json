@@ -23400,10 +23400,6 @@
     "ItemName": "CHORITOS NATURAL 24x190 gr"
   },
   {
-    "ItemCode": "204300051",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
-  },
-  {
     "ItemCode": "304760506",
     "ItemName": "PUNTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -24234,10 +24230,6 @@
   {
     "ItemCode": "103070017",
     "ItemName": "CEREZAS CON CAROZO WASIL 16X500 GR"
-  },
-  {
-    "ItemCode": "103910061",
-    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
   },
   {
     "ItemCode": "100101004",
@@ -40144,10 +40136,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
     "ItemCode": "101000002",
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
@@ -40298,10 +40286,6 @@
   {
     "ItemCode": "300353069",
     "ItemName": "POLLO GANSO AL VACIO CAT V PARAGUAY (20 KLS APROX)"
-  },
-  {
-    "ItemCode": "103730008",
-    "ItemName": "LECHE EN POLVO ENTERA INSTANTANEA 20X760 GR"
   },
   {
     "ItemCode": "600001007",
@@ -43628,10 +43612,6 @@
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "304760164",
     "ItemName": "LOMO LISO LOCAL (NV) KG"
   },
@@ -46640,10 +46620,6 @@
     "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
   {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
     "ItemCode": "103750005",
     "ItemName": "BEBIDA LACTEA SABOR CHOCOLATE SHAKE A SHAKE 6X190 ML"
   },
@@ -46978,10 +46954,6 @@
   {
     "ItemCode": "103910031",
     "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910020",
-    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
     "ItemCode": "103910050",
@@ -47436,10 +47408,6 @@
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
   },
   {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "204300092",
     "ItemName": "FILETITO GRILLADO DE POLLO ALEGRA 6X1,5 KG"
   },
@@ -47526,14 +47494,6 @@
   {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
-  },
-  {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "101401005",
@@ -47672,10 +47632,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
     "ItemCode": "103910036",
     "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
   },
@@ -47706,5 +47662,49 @@
   {
     "ItemCode": "400010015",
     "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
+  },
+  {
+    "ItemCode": "103910061",
+    "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
+  },
+  {
+    "ItemCode": "103910020",
+    "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
+  },
+  {
+    "ItemCode": "204300051",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "103730008",
+    "ItemName": "LECHE EN POLVO ENTERA INSTANTANEA 20X760 GR"
   }
 ]
