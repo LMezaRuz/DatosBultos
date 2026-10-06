@@ -28436,10 +28436,6 @@
     "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "203230002",
     "ItemName": "GYOZA DE CAMARON DIEZ PUNTOS 5X30 UN"
   },
@@ -38592,10 +38588,6 @@
     "ItemName": "QUESO GAUDA CALO LAMINADO 5 KG"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "101009013",
     "ItemName": "CHOCO AVELLANAS LONCO 12X1 K"
   },
@@ -39636,10 +39628,6 @@
     "ItemName": "MARGARINA PAMPERITA 12X100 GRS"
   },
   {
-    "ItemCode": "100101018",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
-  },
-  {
     "ItemCode": "101008008",
     "ItemName": "LECHE LONCO LECHE ENTERA 6X200 CC"
   },
@@ -40478,10 +40466,6 @@
   {
     "ItemCode": "204700006",
     "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "204090004",
@@ -42152,10 +42136,6 @@
     "ItemName": "PULPA DE MELON TUNA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200500018",
-    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
-  },
-  {
     "ItemCode": "101100020",
     "ItemName": "CORBATA 1X5 KG"
   },
@@ -42904,10 +42884,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "104020000",
-    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
-  },
-  {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
   },
@@ -43014,10 +42990,6 @@
   {
     "ItemCode": "101402004",
     "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
-    "ItemCode": "100303004",
-    "ItemName": "CONCENTRADO SABOR MELON TRAVERSO 1X5 LT"
   },
   {
     "ItemCode": "202730067",
@@ -46520,10 +46492,6 @@
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
   {
-    "ItemCode": "100101010",
-    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -46890,10 +46858,6 @@
   {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
-  },
-  {
-    "ItemCode": "200050015",
-    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "300353083",
@@ -47320,10 +47284,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -47706,5 +47666,45 @@
   {
     "ItemCode": "AFMQC0018",
     "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "200050015",
+    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "100101018",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100303004",
+    "ItemName": "CONCENTRADO SABOR MELON TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "104020000",
+    "ItemName": "PIMIENTO MORRON ROJO ENTERO 6X2,5 KG"
+  },
+  {
+    "ItemCode": "100101010",
+    "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "200500018",
+    "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   }
 ]
