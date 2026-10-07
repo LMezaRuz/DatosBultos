@@ -35148,10 +35148,6 @@
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "100852016",
-    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
-  },
-  {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
   },
@@ -45360,10 +45356,6 @@
     "ItemName": "PULPA DE TOMATE POMODORO 2X5 KG"
   },
   {
-    "ItemCode": "100852009",
-    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
-  },
-  {
     "ItemCode": "101201053",
     "ItemName": "JALEA FRAMBUESA DIET (REND. 3 KG) TKF 1 X 60 GRS"
   },
@@ -45866,10 +45858,6 @@
   {
     "ItemCode": "101100021",
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "104560003",
@@ -46538,10 +46526,6 @@
   {
     "ItemCode": "101007014",
     "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
   {
     "ItemCode": "101007015",
@@ -47742,5 +47726,21 @@
   {
     "ItemCode": "101353020",
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "100852009",
+    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
+  },
+  {
+    "ItemCode": "100852016",
+    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   }
 ]
