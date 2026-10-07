@@ -32444,10 +32444,6 @@
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
   {
-    "ItemCode": "103700005",
-    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
-  },
-  {
     "ItemCode": "304760518",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -32594,10 +32590,6 @@
   {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
   },
   {
     "ItemCode": "204090008",
@@ -43824,10 +43816,6 @@
     "ItemName": "ALIÑO COMPLETO 1X250 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "100601003",
     "ItemName": "CHOLGAS EN ACEITE 24x190 gr"
   },
@@ -43994,10 +43982,6 @@
   {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "300400008",
@@ -46484,10 +46468,6 @@
     "ItemName": "PICKLE SURTIDO TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "100802001",
-    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
-  },
-  {
     "ItemCode": "600002004",
     "ItemName": "AJI VERDE KG."
   },
@@ -46818,10 +46798,6 @@
   {
     "ItemCode": "302890048",
     "ItemName": "VIENESAS MODINGER 1X1 KG"
-  },
-  {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
   {
     "ItemCode": "200460052",
@@ -47742,5 +47718,29 @@
   {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "103700005",
+    "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100802001",
+    "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   }
 ]
