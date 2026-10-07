@@ -46960,10 +46960,6 @@
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
     "ItemCode": "101150038",
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
@@ -47068,14 +47064,6 @@
     "ItemName": "COCO RALLADO 1X250 GR."
   },
   {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
@@ -47110,10 +47098,6 @@
   {
     "ItemCode": "400301070",
     "ItemName": "SACO GRANDE KRAFT TOMMY BEANS 1 X 250 UN"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "103250002",
@@ -47180,32 +47164,12 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
-    "ItemCode": "200401018",
-    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "101355008",
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "101350004",
@@ -47264,10 +47228,6 @@
     "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "202910051",
     "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
   },
@@ -47286,10 +47246,6 @@
   {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "204700006",
@@ -47480,10 +47436,6 @@
     "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -47540,16 +47492,8 @@
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "101351023",
@@ -47742,5 +47686,61 @@
   {
     "ItemCode": "200250012",
     "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "200401018",
+    "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
   }
 ]
