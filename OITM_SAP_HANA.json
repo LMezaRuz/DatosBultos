@@ -17096,10 +17096,6 @@
     "ItemName": "MANTEQUILLA SIN SAL TONADITA 12X250 GR"
   },
   {
-    "ItemCode": "MAQ001650",
-    "ItemName": "TARIFA SERVICIOS $1650"
-  },
-  {
     "ItemCode": "203190048",
     "ItemName": "TRIMMING 90/10 DE CERDO CONGELADO (22 KG APROX)"
   },
@@ -28580,10 +28576,6 @@
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
   },
   {
-    "ItemCode": "304760454",
-    "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "203900003",
     "ItemName": "MERLUZA COMUN FILETE (GAYI) 10X1 KG"
   },
@@ -31872,10 +31864,6 @@
     "ItemName": "CHURRASCO DE VACUNO 30X160 GR (MM)"
   },
   {
-    "ItemCode": "103910051",
-    "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "200300002",
     "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
   },
@@ -32582,10 +32570,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "202820022",
@@ -36232,10 +36216,6 @@
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "103910061",
     "ItemName": "MERMELADA DE FRUTILLA SIN AZUCAR WATTS SACHET 24X200 GR"
   },
@@ -36468,10 +36448,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR DOYPACK WATTS 12X350 GR"
   },
   {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "103910040",
     "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
   },
@@ -36494,10 +36470,6 @@
   {
     "ItemCode": "100051001",
     "ItemName": "CHUCRUT TRAVERSO 1 UN X 200 GRS"
-  },
-  {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
   {
     "ItemCode": "400251015",
@@ -40448,10 +40420,6 @@
     "ItemName": "YERBA MATE 1x500 G."
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "200460005",
     "ItemName": "POLLO ENTERO CONG CALBRE 2,2 X KG (APROX. 18 KGS)"
   },
@@ -44400,10 +44368,6 @@
     "ItemName": "JUGO EN POLVO ZUKO PIÑA 10X15 GR"
   },
   {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
-  },
-  {
     "ItemCode": "101200021",
     "ItemName": "JUGO EN POLVO ZUKO NARANJA 10X15 GR"
   },
@@ -46660,14 +46624,6 @@
     "ItemName": "FILETES DE ANCHOAS EN ACEITE ARCO IMP 6X700 GR"
   },
   {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
-    "ItemCode": "304850025",
-    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
     "ItemCode": "102670004",
     "ItemName": "BASE EN POLVO PARA BIZCOCHO SABOR CHOCOLATE DONA JUANITA 20X1 KG"
   },
@@ -46690,14 +46646,6 @@
   {
     "ItemCode": "304760568",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
-    "ItemCode": "304340004",
-    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
   },
   {
     "ItemCode": "102930006",
@@ -47692,10 +47640,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "204150002",
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
@@ -47706,10 +47650,6 @@
   {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "200500032",
@@ -47754,5 +47694,65 @@
   {
     "ItemCode": "204310003",
     "ItemName": "TRILOGIA DE CHOCOLATE 6X750 GR"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "304340004",
+    "ItemName": "POSTRE OIKOS PIE DE LIMON 12X132 GR"
+  },
+  {
+    "ItemCode": "304850025",
+    "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910051",
+    "ItemName": "MERMELADA DE MEMBRILLO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "MAQ001650",
+    "ItemName": "TARIFA SERVICIOS $1650"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "304760454",
+    "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   }
 ]
