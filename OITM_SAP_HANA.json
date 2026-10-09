@@ -46780,66 +46780,6 @@
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
   },
   {
-    "ItemCode": "100500002",
-    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
-  },
-  {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "101304002",
-    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101452005",
-    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100900004",
-    "ItemName": "POLENTA 1X1 KG"
-  },
-  {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
-  },
-  {
-    "ItemCode": "100751012",
-    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100701010",
-    "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
   },
@@ -46878,10 +46818,6 @@
   {
     "ItemCode": "100102013",
     "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "103070006",
@@ -46954,10 +46890,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "103520001",
@@ -47120,16 +47052,8 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "204380029",
@@ -47356,10 +47280,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
@@ -47432,14 +47352,6 @@
     "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "101150043",
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
@@ -47462,10 +47374,6 @@
   {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "101150010",
@@ -47526,10 +47434,6 @@
   {
     "ItemCode": "304760198",
     "ItemName": "TAPAPECHO BRASIL CONG. LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "104210027",
@@ -47656,10 +47560,6 @@
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
   {
-    "ItemCode": "100801005",
-    "ItemName": "MANI SIN SAL 1X1 KG"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -47754,5 +47654,105 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "100500002",
+    "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "100801005",
+    "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "101304002",
+    "ItemName": "MERENGUE EN POLVO TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101452005",
+    "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100900004",
+    "ItemName": "POLENTA 1X1 KG"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
+  },
+  {
+    "ItemCode": "100751012",
+    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100701010",
+    "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   }
 ]
