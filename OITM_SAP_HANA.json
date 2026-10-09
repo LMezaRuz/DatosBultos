@@ -31668,10 +31668,6 @@
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
   },
   {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
     "ItemCode": "204700006",
     "ItemName": "RED VELVET 10 PORCIONES"
   },
@@ -43372,10 +43368,6 @@
     "ItemName": "HUEVOS DE PRIMERA BANDEJA 1X30 u."
   },
   {
-    "ItemCode": "100352007",
-    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
     "ItemCode": "101200025",
     "ItemName": "JUGO POLVO PIÑA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
   },
@@ -43634,10 +43626,6 @@
   {
     "ItemCode": "104060001",
     "ItemName": "CARAMELO MENTA 12X430 GR"
-  },
-  {
-    "ItemCode": "202990000",
-    "ItemName": "CHURROS ESPAÑOL CONGELADO 7X20X22 GR"
   },
   {
     "ItemCode": "102530001",
@@ -45190,10 +45178,6 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
-    "ItemCode": "300407004",
-    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
   },
   {
     "ItemCode": "200460018",
@@ -46952,10 +46936,6 @@
     "ItemName": "MALAYITA DE CERDO 10X500 GR"
   },
   {
-    "ItemCode": "200402012",
-    "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
-  },
-  {
     "ItemCode": "104010052",
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
@@ -46990,10 +46970,6 @@
   {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
-  },
-  {
-    "ItemCode": "103250007",
-    "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
   },
   {
     "ItemCode": "400301071",
@@ -47046,10 +47022,6 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
   },
   {
     "ItemCode": "200250011",
@@ -47356,10 +47328,6 @@
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
   {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -47494,10 +47462,6 @@
   {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100700004",
@@ -47696,14 +47660,6 @@
     "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
-    "ItemCode": "203190056",
-    "ItemName": "LOMITO DE CERDO 30X140 GR"
-  },
-  {
-    "ItemCode": "204300056",
-    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
-  },
-  {
     "ItemCode": "204790037",
     "ItemName": "PALTA NATURAL MOLIDA Y CON TROZOS SMART CHOICE 4X1 KG"
   },
@@ -47716,10 +47672,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "204180021",
     "ItemName": "PAPAS PREFRITAS CRINKLE MCAIN 5X2,5 KG."
   },
@@ -47730,10 +47682,6 @@
   {
     "ItemCode": "202910049",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "203190016",
-    "ItemName": "DESPUNTE CERDO 1X1KG"
   },
   {
     "ItemCode": "204710000",
@@ -47754,5 +47702,57 @@
   {
     "ItemCode": "202910075",
     "ItemName": "PULPA PIERNA CERDO DESHUESADA 98VL FRICASA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100352007",
+    "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
+  },
+  {
+    "ItemCode": "203190056",
+    "ItemName": "LOMITO DE CERDO 30X140 GR"
+  },
+  {
+    "ItemCode": "203190016",
+    "ItemName": "DESPUNTE CERDO 1X1KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204300056",
+    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
+  },
+  {
+    "ItemCode": "300407004",
+    "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "202990000",
+    "ItemName": "CHURROS ESPAÑOL CONGELADO 7X20X22 GR"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "103250007",
+    "ItemName": "MANTEL MESA KRAFT MAMUT 1X150 UN"
+  },
+  {
+    "ItemCode": "200402012",
+    "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
   }
 ]
