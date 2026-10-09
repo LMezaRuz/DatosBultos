@@ -32096,10 +32096,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "100701011",
     "ItemName": "SOPA DE CARNE CON SEMOLA (REND. 16 LT) TKF 1X1 KG"
   },
@@ -34626,10 +34622,6 @@
   {
     "ItemCode": "304760106",
     "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
-  },
-  {
-    "ItemCode": "202910075",
-    "ItemName": "PULPA PIERNA CERDO DESHUESADA 98VL FRICASA (20 KG APROX)"
   },
   {
     "ItemCode": "103880035",
@@ -39964,10 +39956,6 @@
     "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "204300080",
-    "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. SEARA 1X15 KG"
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -45084,10 +45072,6 @@
     "ItemName": "QUESO MOZZARELLA LAMINADO LA VAQUITA 20X500 GR"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -46840,10 +46824,6 @@
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -47720,14 +47700,6 @@
     "ItemName": "LOMITO DE CERDO 30X140 GR"
   },
   {
-    "ItemCode": "202910049",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "203190016",
-    "ItemName": "DESPUNTE CERDO 1X1KG"
-  },
-  {
     "ItemCode": "204300056",
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
@@ -47754,5 +47726,33 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "202910049",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "203190016",
+    "ItemName": "DESPUNTE CERDO 1X1KG"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
+  },
+  {
+    "ItemCode": "204300080",
+    "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. SEARA 1X15 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "202910075",
+    "ItemName": "PULPA PIERNA CERDO DESHUESADA 98VL FRICASA (20 KG APROX)"
   }
 ]
