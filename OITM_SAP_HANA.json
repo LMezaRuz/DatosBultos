@@ -35192,10 +35192,6 @@
     "ItemName": "MAYONESA LIGHT PROFESIONAL HELLMANNS 6X2 KG"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "103110004",
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
@@ -36024,10 +36020,6 @@
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -36214,10 +36206,6 @@
   {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "101100057",
-    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "104010020",
@@ -44048,10 +44036,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN FULLPRO CAPPUCCINO 18X250"
   },
   {
-    "ItemCode": "100353005",
-    "ItemName": "INFUSION MANZANILLA 1X20 UN"
-  },
-  {
     "ItemCode": "100150002",
     "ItemName": "AVENA INSTANTANEA VIVO 1X800 GR."
   },
@@ -46004,10 +45988,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100653002",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
-  },
-  {
     "ItemCode": "100851003",
     "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
   },
@@ -46198,10 +46178,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "100900005",
-    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
     "ItemCode": "100752001",
@@ -46444,10 +46420,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "203230007",
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
@@ -46688,10 +46660,6 @@
     "ItemName": "PAN AMASADO SANDWICH SOFT CONG 60X100 GR"
   },
   {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
-  },
-  {
     "ItemCode": "300408001",
     "ItemName": "QUESILLO POTE 1X300 GR."
   },
@@ -46734,10 +46702,6 @@
   {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
   },
   {
     "ItemCode": "200100003",
@@ -46972,10 +46936,6 @@
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
@@ -47146,10 +47106,6 @@
   {
     "ItemCode": "200201009",
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
-  },
-  {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
     "ItemCode": "100551001",
@@ -47520,10 +47476,6 @@
     "ItemName": "BROCHETAS 25 CM 1X100 UN"
   },
   {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
-  },
-  {
     "ItemCode": "400100003",
     "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
@@ -47788,15 +47740,63 @@
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "101100057",
+    "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "100900005",
+    "ItemName": "BICARBONATO DE SODIO 1X1 KG"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100653002",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 24X250 GR"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "100353005",
+    "ItemName": "INFUSION MANZANILLA 1X20 UN"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   }
 ]
