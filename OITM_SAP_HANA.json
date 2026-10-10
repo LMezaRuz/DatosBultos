@@ -24432,10 +24432,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
-  },
-  {
     "ItemCode": "103720010",
     "ItemName": "LECHE PROTEIN NATURAL DESCREMADA S/LACTOSA 6X200 ML"
   },
@@ -35518,10 +35514,6 @@
   {
     "ItemCode": "204380025",
     "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
   {
     "ItemCode": "300156013",
@@ -47028,10 +47020,6 @@
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "101003001",
     "ItemName": "CREMA DE COCO 1X425 GR"
   },
@@ -47082,10 +47070,6 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "100559007",
@@ -47158,10 +47142,6 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "204150016",
@@ -47296,10 +47276,6 @@
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "200250041",
     "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
@@ -47334,10 +47310,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "101002004",
@@ -47648,10 +47620,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
@@ -47696,10 +47664,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
@@ -47742,10 +47706,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "101008005",
@@ -47798,5 +47758,45 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   }
 ]
