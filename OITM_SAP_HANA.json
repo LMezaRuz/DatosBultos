@@ -34856,10 +34856,6 @@
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
   },
   {
-    "ItemCode": "400005010",
-    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
-  },
-  {
     "ItemCode": "104010043",
     "ItemName": "CREMA DE AVELLANAS NEUCOBER 20X650 GR"
   },
@@ -44716,10 +44712,6 @@
     "ItemName": "NECTAR DE NARANJA LIGHT PET 1X1.5 LT."
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "300405004",
     "ItemName": "QUESO MANTECOSO QUILQUE LAM KG (3 KG APROX.)"
   },
@@ -45716,10 +45708,6 @@
     "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
   },
   {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
@@ -46110,10 +46098,6 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101301002",
-    "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
     "ItemCode": "400102003",
@@ -46596,10 +46580,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "304760442",
     "ItemName": "GANSO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -46708,10 +46688,6 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "200050015",
-    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
@@ -46722,10 +46698,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
   },
   {
     "ItemCode": "100202016",
@@ -47072,10 +47044,6 @@
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
   {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -47292,10 +47260,6 @@
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47390,10 +47354,6 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "100401001",
@@ -47716,10 +47676,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "102480005",
     "ItemName": "ACEITE DE OLIVA DIDO OLIVA 1X5 LT"
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "101301002",
+    "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "400005010",
+    "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "200050015",
+    "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   }
 ]
