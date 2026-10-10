@@ -35700,10 +35700,6 @@
     "ItemName": "CEBOLLA FRITA 35X300 GR"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -35802,10 +35798,6 @@
   {
     "ItemCode": "300153009",
     "ItemName": "MANTEQUILLA CALO UNTAB 12X350 GRS"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "103730009",
@@ -47652,10 +47644,6 @@
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "204300048",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
   },
@@ -47736,10 +47724,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
@@ -47798,5 +47782,21 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
