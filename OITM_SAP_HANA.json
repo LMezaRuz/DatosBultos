@@ -40192,10 +40192,6 @@
     "ItemName": "LECHE CULTIVADA LT"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
@@ -40514,10 +40510,6 @@
   {
     "ItemCode": "300157049",
     "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
-  },
-  {
-    "ItemCode": "300157045",
-    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
   },
   {
     "ItemCode": "100754005",
@@ -43356,10 +43348,6 @@
     "ItemName": "TIKA FURIOSAS 48 UN X 35 GRS"
   },
   {
-    "ItemCode": "300157014",
-    "ItemName": "YOGURT LIGHT FRUTILLA SOPROLE 1X120 GR."
-  },
-  {
     "ItemCode": "100450006",
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
   },
@@ -43698,14 +43686,6 @@
   {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
-    "ItemCode": "300157017",
-    "ItemName": "YOGURT LIGHT DURAZNO SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "300157019",
-    "ItemName": "YOGURT LIGHT PIÑA SOPROLE 1X120 GR."
   },
   {
     "ItemCode": "100653004",
@@ -44246,10 +44226,6 @@
   {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "300401001",
@@ -46976,10 +46952,6 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "100750008",
     "ItemName": "MANJAR NESTLE BOLSA 12X1 KG"
   },
@@ -47130,10 +47102,6 @@
   {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "300150002",
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "202720036",
     "ItemName": "MIX GALLETAS AMERICANAS SURTIDA CONG. 36X80 GR"
+  },
+  {
+    "ItemCode": "300157045",
+    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "300157014",
+    "ItemName": "YOGURT LIGHT FRUTILLA SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "300157019",
+    "ItemName": "YOGURT LIGHT PIÑA SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "300157017",
+    "ItemName": "YOGURT LIGHT DURAZNO SOPROLE 1X120 GR."
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   }
 ]
