@@ -31592,10 +31592,6 @@
     "ItemName": "PAN DE QUESO CRUDO 26X400 GR"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "103480036",
     "ItemName": "GALLETAS BOCADITOS 1X300 GR (P&H)"
   },
@@ -32338,10 +32334,6 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
-  },
-  {
-    "ItemCode": "100102005",
-    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
     "ItemCode": "101250001",
@@ -46308,10 +46300,6 @@
     "ItemName": "CIRUELA CON CAROZO 1X500 GR"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
@@ -47116,10 +47104,6 @@
     "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
@@ -47798,5 +47782,21 @@
   {
     "ItemCode": "202730047",
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "100102005",
+    "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
   }
 ]
