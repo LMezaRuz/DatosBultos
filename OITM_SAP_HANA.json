@@ -35544,10 +35544,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO LOCAL CONG. MARINADO 1X16 KG"
   },
   {
-    "ItemCode": "200302022",
-    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -36082,10 +36078,6 @@
   {
     "ItemCode": "304760485",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
   },
   {
     "ItemCode": "101358007",
@@ -43320,10 +43312,6 @@
     "ItemName": "HELADO SAN FCO. LUCUMA MANJAR (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "100355024",
-    "ItemName": "SYRUP CHOCOLATE SIN AZUCAR MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -43698,10 +43686,6 @@
   {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "200302015",
@@ -45896,10 +45880,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 1X1 KG"
   },
   {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
-  },
-  {
     "ItemCode": "204530004",
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
@@ -46090,10 +46070,6 @@
   {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
     "ItemCode": "101305002",
@@ -47336,10 +47312,6 @@
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
@@ -47798,5 +47770,33 @@
   {
     "ItemCode": "200050015",
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "200302022",
+    "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
+  },
+  {
+    "ItemCode": "100355024",
+    "ItemName": "SYRUP CHOCOLATE SIN AZUCAR MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   }
 ]
