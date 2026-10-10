@@ -31732,10 +31732,6 @@
     "ItemName": "PASAS MORENAS 1X100 GRS (P&H)"
   },
   {
-    "ItemCode": "202800001",
-    "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
-  },
-  {
     "ItemCode": "203610000",
     "ItemName": "MASA WANTAN 10X10 CM 10X300 GR"
   },
@@ -35444,10 +35440,6 @@
     "ItemName": "ESPONJA MAGO PADS S/JABON X 1 UN"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101150037",
     "ItemName": "BANDEJA FRITO JUAN MAESTRO 1 X 1600 UNID"
   },
@@ -36128,10 +36120,6 @@
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. LEVO 1X15KG"
   },
   {
-    "ItemCode": "204300048",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
-  },
-  {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -36238,10 +36226,6 @@
   {
     "ItemCode": "102520000",
     "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
-  },
-  {
-    "ItemCode": "204150016",
-    "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
   },
   {
     "ItemCode": "204700029",
@@ -47292,14 +47276,6 @@
     "ItemName": "ARROZ PARA SUSHI TUCAPEL 5X2 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "101000001",
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
@@ -47748,10 +47724,6 @@
     "ItemName": "SALSA DE CARAMELO 1X1 LT."
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -47798,5 +47770,33 @@
   {
     "ItemCode": "202720033",
     "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "204150016",
+    "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "204300048",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 6X2 KG"
+  },
+  {
+    "ItemCode": "202800001",
+    "ItemName": "CALAMAR ANILLO REBOZADO A LA ROMANA 10X400 GR"
   }
 ]
