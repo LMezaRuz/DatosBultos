@@ -32508,10 +32508,6 @@
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
   },
@@ -32560,16 +32556,8 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN DOÑA OLIVA 4X5 LT"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "202720026",
     "ItemName": "GALLETA AMERICANA CHOCOLATE Y CHIPS DE CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "304470001",
@@ -32586,10 +32574,6 @@
   {
     "ItemCode": "104670066",
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
-    "ItemCode": "100750006",
-    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
   },
   {
     "ItemCode": "204300072",
@@ -35992,10 +35976,6 @@
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
@@ -36034,10 +36014,6 @@
   {
     "ItemCode": "300153003",
     "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "100803006",
@@ -44672,10 +44648,6 @@
     "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
-    "ItemCode": "100754001",
-    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
@@ -47624,10 +47596,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "304110019",
     "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
   },
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "102810003",
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "100754001",
+    "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "100750006",
+    "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
