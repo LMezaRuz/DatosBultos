@@ -24364,10 +24364,6 @@
     "ItemName": "SALSA PESTO CON ACEITE DE OLIVA ARCO IMP 6X1 KG"
   },
   {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
-  },
-  {
     "ItemCode": "104210029",
     "ItemName": "SPAGUETTI DOGA 20X400 GR"
   },
@@ -47744,10 +47740,6 @@
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
@@ -47798,5 +47790,13 @@
   {
     "ItemCode": "101451005",
     "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   }
 ]
