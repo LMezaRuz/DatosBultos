@@ -28476,10 +28476,6 @@
     "ItemName": "HARINA ESPECIALIDAD PIZZA YANINE 1X25 KG"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "203210010",
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
@@ -28494,10 +28490,6 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
     "ItemCode": "400150009",
@@ -28574,10 +28566,6 @@
   {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
-  },
-  {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
     "ItemCode": "100751053",
@@ -44604,10 +44592,6 @@
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -46094,10 +46078,6 @@
   {
     "ItemCode": "400009001",
     "ItemName": "CLORO CLORINDA 1X1 LT"
-  },
-  {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
   },
   {
     "ItemCode": "203230007",
@@ -47620,10 +47600,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101358003",
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
@@ -47772,10 +47748,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
@@ -47798,5 +47770,33 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   }
 ]
