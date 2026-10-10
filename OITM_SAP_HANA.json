@@ -36184,10 +36184,6 @@
     "ItemName": "TOFU 12X307 GRS."
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
@@ -45068,10 +45064,6 @@
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
   {
-    "ItemCode": "100355017",
-    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
-  },
-  {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
   },
@@ -45626,10 +45618,6 @@
   {
     "ItemCode": "200201019",
     "ItemName": "MINI HOJALDRE DE CHOCOLATE BRIDOR 250X25 GR"
-  },
-  {
-    "ItemCode": "200203008",
-    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
   },
   {
     "ItemCode": "101201036",
@@ -46800,10 +46788,6 @@
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
   {
-    "ItemCode": "400151006",
-    "ItemName": "DISPENSADOR MONIN PUMP 750"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -47798,5 +47782,21 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "400151006",
+    "ItemName": "DISPENSADOR MONIN PUMP 750"
+  },
+  {
+    "ItemCode": "200203008",
+    "ItemName": "CIABATTA PARA SANDWICH TRADICIONAL BRIDOR 50X140 GR"
+  },
+  {
+    "ItemCode": "100355017",
+    "ItemName": "SALSA DE CHOCOLATE MONIN 1,89 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   }
 ]
