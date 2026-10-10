@@ -32204,10 +32204,6 @@
     "ItemName": "SALMON PORCIONES CENTRO CON PIEL SIN COLAS 1X5 KG"
   },
   {
-    "ItemCode": "101200007",
-    "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101200001",
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -35678,10 +35674,6 @@
   {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101450006",
@@ -44652,10 +44644,6 @@
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
   {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
@@ -44778,10 +44766,6 @@
   {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE CLASICA 1X3 UN (C200505)"
-  },
-  {
-    "ItemCode": "101200004",
-    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
   {
     "ItemCode": "200304002",
@@ -46864,10 +46848,6 @@
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
-  },
-  {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
   },
@@ -46878,10 +46858,6 @@
   {
     "ItemCode": "101201029",
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "101201042",
@@ -47092,10 +47068,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "101200002",
-    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101200003",
     "ItemName": "JUGO POLVO FRUTILLA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -47162,10 +47134,6 @@
   {
     "ItemCode": "100351007",
     "ItemName": "CAFE MONTERREY 1X170 GR"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "101351011",
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101200004",
+    "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
+  },
+  {
+    "ItemCode": "101200002",
+    "ItemName": "JUGO POLVO PIÑA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101200007",
+    "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   }
 ]
