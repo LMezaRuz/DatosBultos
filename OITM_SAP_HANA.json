@@ -35176,10 +35176,6 @@
     "ItemName": "JUGO NECTAR VIVO DURAZNO 12x1 lt."
   },
   {
-    "ItemCode": "100304029",
-    "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
-  },
-  {
     "ItemCode": "100353002",
     "ItemName": "YERBA MATE 1x500 G."
   },
@@ -45060,10 +45056,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
     "ItemCode": "100300010",
     "ItemName": "AGUA MINERAL CACHANTUN SIN GAS 1 X 1,6 LT"
   },
@@ -46508,10 +46500,6 @@
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "100151011",
-    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
     "ItemCode": "101200004",
     "ItemName": "JUGO POLVO DURAZNO TKF (REND. 25 LT) 1X1 KG"
   },
@@ -46698,10 +46686,6 @@
   {
     "ItemCode": "100654003",
     "ItemName": "PIÑAS EN TROZOS CONSERVA 1X3 KG."
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "300407001",
@@ -47076,10 +47060,6 @@
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
@@ -47268,10 +47248,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "100557007",
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
@@ -47302,10 +47278,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100003005",
@@ -47350,10 +47322,6 @@
   {
     "ItemCode": "303850003",
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
-  },
-  {
-    "ItemCode": "101402005",
-    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
     "ItemCode": "200002006",
@@ -47640,10 +47608,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47768,10 +47732,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 20-30 MAIFRE 10X1 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "101003002",
     "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
@@ -47798,5 +47758,45 @@
   {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "101402005",
+    "ItemName": "CHOCLITOS COCKTAIL 425 GR"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100304029",
+    "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100151011",
+    "ItemName": "CEREAL CORN FLAKES 16X480 GR"
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   }
 ]
