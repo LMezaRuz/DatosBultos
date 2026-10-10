@@ -44880,10 +44880,6 @@
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
-    "ItemCode": "200200011",
-    "ItemName": "MUFFIN VAINILLA 36X110 GR"
-  },
-  {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
   },
@@ -45680,10 +45676,6 @@
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
@@ -45862,10 +45854,6 @@
   {
     "ItemCode": "100450007",
     "ItemName": "ALGA NORI BLUE 1X100 UN."
-  },
-  {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
     "ItemCode": "101006004",
@@ -46740,10 +46728,6 @@
     "ItemName": "LAUREL EN HOJAS 1X5 GR"
   },
   {
-    "ItemCode": "100653003",
-    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
-  },
-  {
     "ItemCode": "100350005",
     "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
@@ -47404,10 +47388,6 @@
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "400102004",
     "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
@@ -47668,10 +47648,6 @@
     "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "101354005",
     "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
@@ -47798,5 +47774,29 @@
   {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100653003",
+    "ItemName": "CEREZAS MARRASQUINO ROJAS 1X1.115 GR"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "200200011",
+    "ItemName": "MUFFIN VAINILLA 36X110 GR"
   }
 ]
