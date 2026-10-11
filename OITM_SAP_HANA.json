@@ -44220,10 +44220,6 @@
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
   {
-    "ItemCode": "200051028",
-    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
     "ItemCode": "100302029",
     "ItemName": "FANTA ZERO LATA 6X350 CC."
   },
@@ -47284,10 +47280,6 @@
     "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "103070020",
     "ItemName": "SALSA PESTO CON ACEITE DE OLIVA ARCO IMP 6X1 KG"
   },
@@ -47672,14 +47664,6 @@
     "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
   {
-    "ItemCode": "100300011",
-    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
-  },
-  {
-    "ItemCode": "100300009",
-    "ItemName": "AGUA MINERAL CON GAS VITAL PET 12X600 CC."
-  },
-  {
     "ItemCode": "204790048",
     "ItemName": "PIMENTON CUBO ROJO F/S 12X1 KG"
   },
@@ -47798,5 +47782,21 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "100300009",
+    "ItemName": "AGUA MINERAL CON GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "100300011",
+    "ItemName": "AGUA MINERAL SIN GAS VITAL PET 12X600 CC."
+  },
+  {
+    "ItemCode": "200051028",
+    "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
   }
 ]
