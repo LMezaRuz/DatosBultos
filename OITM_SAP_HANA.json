@@ -32308,10 +32308,6 @@
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "304760524",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -45176,10 +45172,6 @@
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
-    "ItemCode": "103520001",
-    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -45266,10 +45258,6 @@
   {
     "ItemCode": "100355007",
     "ItemName": "SYRUP MORA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "400201001",
@@ -47044,10 +47032,6 @@
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
@@ -47058,14 +47042,6 @@
   {
     "ItemCode": "101401005",
     "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
   {
     "ItemCode": "302890038",
@@ -47192,10 +47168,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO AMARILLO 10X1 KG"
   },
   {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -47254,10 +47226,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "200452003",
@@ -47364,10 +47332,6 @@
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "203200044",
     "ItemName": "NUGGETS TEMPURA DE POLLO ALEGRA 3X2 KG"
   },
@@ -47424,10 +47388,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100001008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
@@ -47458,10 +47418,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
     "ItemCode": "100550008",
@@ -47628,10 +47584,6 @@
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -47776,10 +47728,6 @@
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "100201003",
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
@@ -47798,5 +47746,57 @@
   {
     "ItemCode": "204140008",
     "ItemName": "MARRAQUETA HORNEADA CONGELADA 60X95 GR"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "103520001",
+    "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   }
 ]
