@@ -32244,10 +32244,6 @@
     "ItemName": "TE LIPTON EARL GREY FRE PACK 12 X 25 BLS"
   },
   {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
@@ -35934,10 +35930,6 @@
   {
     "ItemCode": "100355004",
     "ItemName": "SYRUP CANELA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "103250007",
@@ -39678,10 +39670,6 @@
   {
     "ItemCode": "100902004",
     "ItemName": "HARINA SUPER FINA SIN POLVO YANINE 1X5 KG"
-  },
-  {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
   {
     "ItemCode": "200200032",
@@ -46632,10 +46620,6 @@
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
     "ItemCode": "200460006",
     "ItemName": "POLLO ENTERO LOCAL CONG. CAL 2.1 1X14,7 KG"
   },
@@ -47144,10 +47128,6 @@
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "103140000",
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
@@ -47286,10 +47266,6 @@
   {
     "ItemCode": "100852002",
     "ItemName": "GALLETA KUKY CLASICA 1X 120g"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "100351015",
@@ -47560,28 +47536,12 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101150047",
     "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
     "ItemCode": "403250022",
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "400301006",
@@ -47798,5 +47758,45 @@
   {
     "ItemCode": "202820020",
     "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   }
 ]
