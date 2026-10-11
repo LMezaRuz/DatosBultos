@@ -24464,10 +24464,6 @@
     "ItemName": "PAN CIABATTA 48X125 GR"
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "203190049",
     "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
   },
@@ -35544,10 +35540,6 @@
     "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
   },
   {
-    "ItemCode": "304430008",
-    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
     "ItemCode": "103940022",
     "ItemName": "MOSTAZA POUCH DISPENSADOR HEINZ 6X2 KG"
   },
@@ -35934,10 +35926,6 @@
   {
     "ItemCode": "204300079",
     "ItemName": "TRUTRO ALA DE POLLO IMP. CONG. BRASIL LEVO 1X15 KG"
-  },
-  {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
     "ItemCode": "204530006",
@@ -44108,10 +44096,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "300401001",
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
   },
@@ -45720,10 +45704,6 @@
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
-    "ItemCode": "202820020",
-    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "101358011",
     "ItemName": "TOMATE TRITURADO ITALIANO ARCO 1X10 KG"
   },
@@ -45822,10 +45802,6 @@
   {
     "ItemCode": "304760518",
     "ItemName": "FILETE AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
   },
   {
     "ItemCode": "102480005",
@@ -47420,10 +47396,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -47492,10 +47464,6 @@
     "ItemName": "PULPA DE CHIRIMOYA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "101403002",
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
@@ -47518,10 +47486,6 @@
   {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "101402005",
@@ -47798,5 +47762,41 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "304430008",
+    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
+  },
+  {
+    "ItemCode": "202820020",
+    "ItemName": "CAMARON IMP CH CRUDO CON CASCARA 36/40 20X500 GR"
   }
 ]
