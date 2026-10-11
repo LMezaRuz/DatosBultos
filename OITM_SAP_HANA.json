@@ -43148,10 +43148,6 @@
     "ItemName": "POSTA ROSADA PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "300153010",
-    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
-  },
-  {
     "ItemCode": "100101003",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET  G2 10 UN X 900 GRS"
   },
@@ -46348,10 +46344,6 @@
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "100751026",
     "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
   },
@@ -46716,10 +46708,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100202011",
     "ItemName": "ENDULZANTE LIQUIDO SUCRALOSA CERO K 1X350 ML"
   },
@@ -46960,10 +46948,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "102660000",
-    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -47132,20 +47116,12 @@
     "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
   },
   {
-    "ItemCode": "101404002",
-    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
-  },
-  {
     "ItemCode": "103880035",
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
   {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
-    "ItemCode": "303850003",
-    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
     "ItemCode": "101011001",
@@ -47336,10 +47312,6 @@
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
   },
@@ -47378,10 +47350,6 @@
   {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
-  },
-  {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
   },
   {
     "ItemCode": "100102004",
@@ -47490,10 +47458,6 @@
   {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101452004",
@@ -47660,10 +47624,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
@@ -47714,10 +47674,6 @@
   {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100052005",
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "400008004",
     "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "300153010",
+    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
+  },
+  {
+    "ItemCode": "303850003",
+    "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101404002",
+    "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "102660000",
+    "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
   }
 ]
