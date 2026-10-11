@@ -35304,10 +35304,6 @@
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
   },
@@ -35558,10 +35554,6 @@
   {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC ESTANDAR (CANCER EDWARDSII) 1 X 500 GRS"
-  },
-  {
-    "ItemCode": "300153003",
-    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
   },
   {
     "ItemCode": "100355017",
@@ -39280,10 +39272,6 @@
     "ItemName": "PIÑA RODAJAS 1x560 grs"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "300350010",
     "ItemName": "ANTICUCHO CARNE MIXTO UND."
   },
@@ -39498,10 +39486,6 @@
   {
     "ItemCode": "101007015",
     "ItemName": "LECHE POLVO DESCREMADA 1x760 GRS."
-  },
-  {
-    "ItemCode": "101002010",
-    "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
   },
   {
     "ItemCode": "101404003",
@@ -39742,10 +39726,6 @@
   {
     "ItemCode": "101150043",
     "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
-  },
-  {
-    "ItemCode": "101005001",
-    "ItemName": "LECHE CULTIVADA LT"
   },
   {
     "ItemCode": "300150001",
@@ -44712,10 +44692,6 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "101452007",
     "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
   },
@@ -45884,10 +45860,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "101006004",
-    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
   },
@@ -46550,10 +46522,6 @@
   {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
-    "ItemCode": "300408001",
-    "ItemName": "QUESILLO POTE 1X300 GR."
   },
   {
     "ItemCode": "101351007",
@@ -47376,14 +47344,6 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
@@ -47676,10 +47636,6 @@
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "101002010",
+    "ItemName": "CREMA COLUN LIGHT UHT 6x200 ml."
+  },
+  {
+    "ItemCode": "101005001",
+    "ItemName": "LECHE CULTIVADA LT"
+  },
+  {
+    "ItemCode": "101006004",
+    "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300153003",
+    "ItemName": "MANTEQUILLA SIN SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "300408001",
+    "ItemName": "QUESILLO POTE 1X300 GR."
   }
 ]
