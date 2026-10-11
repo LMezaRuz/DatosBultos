@@ -34664,10 +34664,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 20X500 ML"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -35100,10 +35096,6 @@
     "ItemName": "MARGARINA CON SAL QUALY 24X250 GR"
   },
   {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
-  },
-  {
     "ItemCode": "101150053",
     "ItemName": "HJ.MAMUT ANTIGRASA 32X26 ROJO 1000 UN"
   },
@@ -35202,18 +35194,6 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
     "ItemCode": "302890048",
@@ -47798,5 +47778,25 @@
   {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   }
 ]
