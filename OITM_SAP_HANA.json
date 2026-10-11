@@ -32368,10 +32368,6 @@
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "203210109",
     "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -45300,10 +45296,6 @@
     "ItemName": "GALLETA FRAC SABORES 36x110 GR"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "400001004",
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
@@ -45906,10 +45898,6 @@
   {
     "ItemCode": "300351008",
     "ItemName": "SALAME ITALIANO PIEZA KG (1 KG APROX.)"
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
     "ItemCode": "104210013",
@@ -47036,10 +47024,6 @@
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -47236,10 +47220,6 @@
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
   },
@@ -47254,10 +47234,6 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "200201002",
@@ -47364,10 +47340,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400011010",
     "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE CLASICA 1X3 UN (C200505)"
   },
@@ -47388,20 +47360,12 @@
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
   {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
     "ItemCode": "100201015",
@@ -47422,10 +47386,6 @@
   {
     "ItemCode": "100904003",
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "100951004",
@@ -47466,10 +47426,6 @@
   {
     "ItemCode": "103210000",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "400301040",
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "600002009",
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   }
 ]
