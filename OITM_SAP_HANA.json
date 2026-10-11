@@ -24472,10 +24472,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
   {
-    "ItemCode": "202730041",
-    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
-  },
-  {
     "ItemCode": "304760559",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
@@ -32180,10 +32176,6 @@
     "ItemName": "CIRUELAS SIN CAROZO 10 X 1 KG"
   },
   {
-    "ItemCode": "101451005",
-    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
-  },
-  {
     "ItemCode": "104070007",
     "ItemName": "PEPINILLO DILL ENTERO MAIFRE 10 UN X1 KG"
   },
@@ -32358,10 +32350,6 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
-  },
-  {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
     "ItemCode": "104670064",
@@ -44568,10 +44556,6 @@
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100903001",
-    "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
-  },
-  {
     "ItemCode": "100051001",
     "ItemName": "CHUCRUT TRAVERSO 1 UN X 200 GRS"
   },
@@ -45014,10 +44998,6 @@
   {
     "ItemCode": "101303008",
     "ItemName": "GLUCOSA MEL 1X1 KG."
-  },
-  {
-    "ItemCode": "104030007",
-    "ItemName": "ACEITE SESAMO 12X1 LT"
   },
   {
     "ItemCode": "204000019",
@@ -46140,10 +46120,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
   {
-    "ItemCode": "202730047",
-    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
-  },
-  {
     "ItemCode": "202730043",
     "ItemName": "MUFFIN RELLENO DE FRUTOS ROJOS 20X95 GR"
   },
@@ -46590,10 +46566,6 @@
   {
     "ItemCode": "202720027",
     "ItemName": "GALLETA AMERICANA MANTEQUILLA DE MANI C/CHIPS CHOCOLATE 36X80 GR"
-  },
-  {
-    "ItemCode": "200201032",
-    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
   },
   {
     "ItemCode": "400011001",
@@ -47560,10 +47532,6 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
     "ItemCode": "101100061",
     "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
@@ -47720,10 +47688,6 @@
     "ItemName": "TE TWININGS MENTA 1X10 UN"
   },
   {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
@@ -47798,5 +47762,41 @@
   {
     "ItemCode": "102480009",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 4X5 LT"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "100903001",
+    "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
+  },
+  {
+    "ItemCode": "202730041",
+    "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
+  },
+  {
+    "ItemCode": "202730047",
+    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "200201032",
+    "ItemName": "MACARONS SURTIDOS BRIDOR 48X12 GR"
+  },
+  {
+    "ItemCode": "101451005",
+    "ItemName": "ACETO BALSAMICO SANTIAGO 12 X 250 CC"
+  },
+  {
+    "ItemCode": "104030007",
+    "ItemName": "ACEITE SESAMO 12X1 LT"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   }
 ]
