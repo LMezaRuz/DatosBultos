@@ -35980,10 +35980,6 @@
     "ItemName": "SYRUP CANELA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
@@ -36354,10 +36350,6 @@
   {
     "ItemCode": "103250002",
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "200455016",
@@ -40184,10 +40176,6 @@
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
   {
-    "ItemCode": "400301006",
-    "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
-  },
-  {
     "ItemCode": "400301023",
     "ItemName": "CAJA DELIVERY MEDIANA MAMUT 1 X 250 UN"
   },
@@ -40296,10 +40284,6 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
-  },
-  {
     "ItemCode": "204790005",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
@@ -40386,10 +40370,6 @@
   {
     "ItemCode": "600002004",
     "ItemName": "AJI VERDE KG."
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
   {
     "ItemCode": "101401006",
@@ -46120,10 +46100,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
@@ -47372,10 +47348,6 @@
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -47798,5 +47770,33 @@
   {
     "ItemCode": "100201016",
     "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "400301006",
+    "ItemName": "PAPEL TERMICO DOGGIS ROLLO 1X60 UN"
   }
 ]
