@@ -24032,10 +24032,6 @@
     "ItemName": "LECHE PROTEIN SHOT SABOR BERRIES PACK 6X100"
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "304760500",
     "ItemName": "PALANCA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -24342,10 +24338,6 @@
   {
     "ItemCode": "104690003",
     "ItemName": "PULPA DE TOMATE POMODORO POLPABOX ARCO IMP 1X10 KG"
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "101200025",
@@ -35548,10 +35540,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "101351007",
-    "ItemName": "AJI EN CREMA JB 10X1 KG"
-  },
-  {
     "ItemCode": "100005004",
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
@@ -35826,10 +35814,6 @@
   {
     "ItemCode": "300351012",
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
-  },
-  {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
   },
   {
     "ItemCode": "200460052",
@@ -40306,10 +40290,6 @@
   {
     "ItemCode": "300157026",
     "ItemName": "YOGURT DANONE LIGHT & FREE VAINILLA CAJA 48X115GR"
-  },
-  {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "102740003",
@@ -46684,10 +46664,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
   },
@@ -47088,10 +47064,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "100101004",
     "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
@@ -47106,10 +47078,6 @@
   {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "100302009",
@@ -47232,10 +47200,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
@@ -47306,10 +47270,6 @@
   {
     "ItemCode": "MAQ001519",
     "ItemName": "TARIFA SERVICIOS $1519"
-  },
-  {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
     "ItemCode": "100201003",
@@ -47784,10 +47744,6 @@
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101301002",
     "ItemName": "MOSTACILLA MULTICOLOR 1X250 GR"
   },
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "101351007",
+    "ItemName": "AJI EN CREMA JB 10X1 KG"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   }
 ]
