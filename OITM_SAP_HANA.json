@@ -32000,10 +32000,6 @@
     "ItemName": "SALMON PORCIONES CENTRO CON PIEL SIN COLAS 1X5 KG"
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "304760444",
     "ItemName": "ABASTERO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -35598,10 +35594,6 @@
   {
     "ItemCode": "101150054",
     "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
-    "ItemCode": "101150008",
-    "ItemName": "SAL DOGGIS 6 x  1 KG"
   },
   {
     "ItemCode": "104010020",
@@ -39262,10 +39254,6 @@
   {
     "ItemCode": "200462029",
     "ItemName": "LOMO VETADO AL VACIO (NV) KG"
-  },
-  {
-    "ItemCode": "400010015",
-    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
   },
   {
     "ItemCode": "300353051",
@@ -46616,10 +46604,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "202820002",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 20X500 GR"
   },
@@ -46900,10 +46884,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -47020,14 +47000,6 @@
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
     "ItemCode": "100651008",
     "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
   },
@@ -47122,10 +47094,6 @@
   {
     "ItemCode": "101100054",
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "400005013",
@@ -47532,10 +47500,6 @@
     "ItemName": "CAFE KIMBO MOLIDO LIGHT ROAST 6X1 KG"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400105005",
     "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
@@ -47744,10 +47708,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "102610001",
     "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
   },
@@ -47776,10 +47736,6 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "203200039",
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "101150008",
+    "ItemName": "SAL DOGGIS 6 x  1 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400010015",
+    "ItemName": "MANTENEDOR DE PISO PRIMAVERA DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
