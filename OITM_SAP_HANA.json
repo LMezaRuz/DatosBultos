@@ -35696,10 +35696,6 @@
     "ItemName": "CEBOLLA FRITA 35X300 GR"
   },
   {
-    "ItemCode": "101352009",
-    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
-  },
-  {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
@@ -39558,10 +39554,6 @@
   {
     "ItemCode": "100654007",
     "ItemName": "PIÑA RODAJAS 1x560 grs"
-  },
-  {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
     "ItemCode": "400012003",
@@ -44220,10 +44212,6 @@
     "ItemName": "CEBOLLIN PAQ. 1X3 un."
   },
   {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
   },
@@ -45014,10 +45002,6 @@
   {
     "ItemCode": "100051002",
     "ItemName": "PICKLES TRAVERSO 1 UN X 200 GRS"
-  },
-  {
-    "ItemCode": "101353034",
-    "ItemName": "MAYONESA EN FRASCO KRAFT 397 ML"
   },
   {
     "ItemCode": "404360007",
@@ -47356,10 +47340,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
     "ItemCode": "100352004",
     "ItemName": "CAFE KIMBO INTENSO EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
@@ -47386,10 +47366,6 @@
   {
     "ItemCode": "100750005",
     "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
     "ItemCode": "100951004",
@@ -47474,10 +47450,6 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
     "ItemCode": "400005014",
@@ -47798,5 +47770,33 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101353034",
+    "ItemName": "MAYONESA EN FRASCO KRAFT 397 ML"
+  },
+  {
+    "ItemCode": "101352009",
+    "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   }
 ]
