@@ -35792,14 +35792,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "101150040",
     "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
   },
@@ -39874,10 +39866,6 @@
   {
     "ItemCode": "400301020",
     "ItemName": "CLAMSHELL HAMBURGUESA JUAN MAESTRO 1 X 400 UN"
-  },
-  {
-    "ItemCode": "101007010",
-    "ItemName": "LECHE 0% MG TKF 1X1 KG"
   },
   {
     "ItemCode": "300152005",
@@ -45544,10 +45532,6 @@
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
   },
   {
-    "ItemCode": "103940022",
-    "ItemName": "MOSTAZA POUCH DISPENSADOR HEINZ 6X2 KG"
-  },
-  {
     "ItemCode": "101007018",
     "ItemName": "LECHE EN POLVO 26% MATERIA GRASA ULA 1X800 GR."
   },
@@ -47392,10 +47376,6 @@
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "202910010",
     "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL KG (20 KG APROX.)"
   },
@@ -47522,14 +47502,6 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "101351012",
@@ -47772,10 +47744,6 @@
     "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "103940022",
+    "ItemName": "MOSTAZA POUCH DISPENSADOR HEINZ 6X2 KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101007010",
+    "ItemName": "LECHE 0% MG TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
