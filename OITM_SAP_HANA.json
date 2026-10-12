@@ -32328,10 +32328,6 @@
     "ItemName": "QUESO PROVOLETA BARRA 4 KG (APROX)"
   },
   {
-    "ItemCode": "204300082",
-    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
-  },
-  {
     "ItemCode": "104010076",
     "ItemName": "SALSA GOCHUJANG KOREAN PEPPER SAUCE CRAFT 1,89 LTS"
   },
@@ -44284,10 +44280,6 @@
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
@@ -44962,10 +44954,6 @@
   {
     "ItemCode": "101012001",
     "ItemName": "MILO ACTIV-GO 1X300g"
-  },
-  {
-    "ItemCode": "104600003",
-    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
   },
   {
     "ItemCode": "400100002",
@@ -46548,10 +46536,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "400100004",
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
@@ -46760,10 +46744,6 @@
     "ItemName": "TRAPERO SIMPLE CON OJAL 1X1 UN (1100749)"
   },
   {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "400010009",
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
@@ -46814,10 +46794,6 @@
   {
     "ItemCode": "304420003",
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "100355014",
@@ -47142,10 +47118,6 @@
   {
     "ItemCode": "104670004",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "104600000",
@@ -47640,10 +47612,6 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
+  },
+  {
+    "ItemCode": "204300082",
+    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
+  },
+  {
+    "ItemCode": "104600003",
+    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 10X200 UN."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
