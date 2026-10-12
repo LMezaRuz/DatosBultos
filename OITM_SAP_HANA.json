@@ -28452,10 +28452,6 @@
     "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "304850010",
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
@@ -36042,10 +36038,6 @@
   {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "302960003",
@@ -46768,10 +46760,6 @@
     "ItemName": "MUFFIN RELLENO DE CREMA DE LIMON 20X95 GR"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
@@ -46854,10 +46842,6 @@
   {
     "ItemCode": "200201009",
     "ItemName": "MINI TRENZA DE CHOCOLATE 100X28 GR"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "200460028",
@@ -47260,10 +47244,6 @@
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "100050001",
     "ItemName": "ACEITUNA VERDE RELLENA PIMIENTO LATA 1X300 GR"
   },
@@ -47336,20 +47316,12 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "100152005",
     "ItemName": "SEMILLA DE SESAMO NEGRO 1X1 KG."
   },
   {
     "ItemCode": "200460012",
     "ItemName": "PECHUGA DE POLLO IQF BOLSA 1X700 GR - LOCAL"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "100450003",
@@ -47458,10 +47430,6 @@
   {
     "ItemCode": "200100003",
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "204530031",
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
