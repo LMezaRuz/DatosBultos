@@ -35880,10 +35880,6 @@
     "ItemName": "SUPER 8 4X24 UN"
   },
   {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
     "ItemCode": "302960000",
     "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
   },
@@ -36454,10 +36450,6 @@
   {
     "ItemCode": "204150016",
     "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
-  },
-  {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
   {
     "ItemCode": "202720029",
@@ -46984,10 +46976,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
@@ -47124,10 +47112,6 @@
     "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100150003",
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
@@ -47214,10 +47198,6 @@
   {
     "ItemCode": "100803006",
     "ItemName": "NUECES MARIPOSA 1x1 kg"
-  },
-  {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
   {
     "ItemCode": "204050011",
@@ -47372,10 +47352,6 @@
     "ItemName": "ACEITE SESAMO 12X1 LT"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
@@ -47508,10 +47484,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
@@ -47530,10 +47502,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
     "ItemCode": "100355014",
@@ -47626,10 +47594,6 @@
   {
     "ItemCode": "100450001",
     "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
-    "ItemCode": "100904003",
-    "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
     "ItemCode": "202900000",
@@ -47798,5 +47762,41 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100904003",
+    "ItemName": "LEVADURA EN POLVO 20X500 GR."
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
