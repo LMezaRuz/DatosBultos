@@ -24472,10 +24472,6 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
   {
-    "ItemCode": "101201023",
-    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "304760559",
     "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
@@ -32124,10 +32120,6 @@
     "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
   },
   {
-    "ItemCode": "101201026",
-    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "103880035",
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
@@ -35222,10 +35214,6 @@
   {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "304760443",
@@ -44100,10 +44088,6 @@
     "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
-  },
-  {
     "ItemCode": "100250005",
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
@@ -46152,10 +46136,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
-  },
-  {
     "ItemCode": "100653009",
     "ItemName": "FRUTILLAS AL JUGO 1X590 GR"
   },
@@ -47040,10 +47020,6 @@
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101354010",
     "ItemName": "MOSTAZA JB 10x1KG"
   },
@@ -47344,10 +47320,6 @@
     "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "302960003",
     "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
   },
@@ -47482,10 +47454,6 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "200302008",
@@ -47798,5 +47766,37 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101201026",
+    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201023",
+    "ItemName": "MOUSSE DE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   }
 ]
