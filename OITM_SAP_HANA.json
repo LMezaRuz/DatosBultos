@@ -28344,10 +28344,6 @@
     "ItemName": "CAFE KIMBO EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100202015",
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
@@ -28446,10 +28442,6 @@
   {
     "ItemCode": "304850009",
     "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
-  },
-  {
-    "ItemCode": "102480002",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
   },
   {
     "ItemCode": "200458004",
@@ -32284,10 +32276,6 @@
     "ItemName": "MIX BERRIES IQF SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "102660006",
-    "ItemName": "AZUCAR G2 DE REYES 10X900 GR"
-  },
-  {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
@@ -35850,10 +35838,6 @@
   {
     "ItemCode": "300158003",
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101000003",
@@ -43956,10 +43940,6 @@
     "ItemName": "MANTEQUILLA ANCHOR BLOCK 1X5 KG"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "100701006",
     "ItemName": "SOPA DE COSTILLA 20X60 GR"
   },
@@ -46232,10 +46212,6 @@
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -46264,16 +46240,8 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "202720006",
-    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
-  },
-  {
     "ItemCode": "400007002",
     "ItemName": "JABON BARRA 1x125 g."
-  },
-  {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
     "ItemCode": "300150002",
@@ -46628,10 +46596,6 @@
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "204180034",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
@@ -46750,10 +46714,6 @@
   {
     "ItemCode": "200201010",
     "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
-  },
-  {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
     "ItemCode": "100700001",
@@ -47552,10 +47512,6 @@
     "ItemName": "PIURE CRUDO IQF 30X300 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -47798,5 +47754,49 @@
   {
     "ItemCode": "101002009",
     "ItemName": "CREMA CHANTILLY TKF 1 X 450 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "102480002",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "102660006",
+    "ItemName": "AZUCAR G2 DE REYES 10X900 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "202720006",
+    "ItemName": "ROLLO DE CANELA GLASEADO 63X114 GR"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   }
 ]
