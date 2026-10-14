@@ -31904,10 +31904,6 @@
     "ItemName": "PAN DE QUESO HORNEADO 10X240 GR"
   },
   {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
     "ItemCode": "304460012",
     "ItemName": "QUESO MOZZARELLA NOAL BARRA 5X2,6 KG APROX"
   },
@@ -32150,10 +32146,6 @@
   {
     "ItemCode": "204180033",
     "ItemName": "PAPA PRE FRITA 9MM CHILI'S SKON COATED 4X2,5KG"
-  },
-  {
-    "ItemCode": "204300056",
-    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
   {
     "ItemCode": "203210130",
@@ -35704,10 +35696,6 @@
     "ItemName": "QUESO RECORTE PRENSADO ARTESANOS DEL SUR (10 KG APROX)"
   },
   {
-    "ItemCode": "202720039",
-    "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
-  },
-  {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   },
@@ -35958,10 +35946,6 @@
   {
     "ItemCode": "100350007",
     "ItemName": "CAFE FOLKS MOLIDO 1X1 KG"
-  },
-  {
-    "ItemCode": "102680000",
-    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
   },
   {
     "ItemCode": "203430009",
@@ -43848,10 +43832,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100102011",
-    "ItemName": "POROTO HALLADO 10X1 KG."
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -43870,10 +43850,6 @@
   {
     "ItemCode": "200500047",
     "ItemName": "PIMENTON SLICE F/S ROJO 12 UN X 1 KG"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
     "ItemCode": "101353008",
@@ -46992,16 +46968,8 @@
     "ItemName": "QUESO CREMA SWISS FARMES 36 UN X 190 GRS"
   },
   {
-    "ItemCode": "102680001",
-    "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
-  },
-  {
     "ItemCode": "102680017",
     "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
-  },
-  {
-    "ItemCode": "102680002",
-    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
   },
   {
     "ItemCode": "103180007",
@@ -47018,10 +46986,6 @@
   {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
     "ItemCode": "100100003",
@@ -47218,14 +47182,6 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
     "ItemCode": "101305001",
@@ -47644,10 +47600,6 @@
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
   {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -47862,5 +47814,53 @@
   {
     "ItemCode": "200460009",
     "ItemName": "PECHUGA DE POLLO IQF S/P KG"
+  },
+  {
+    "ItemCode": "100102011",
+    "ItemName": "POROTO HALLADO 10X1 KG."
+  },
+  {
+    "ItemCode": "102680002",
+    "ItemName": "BASE PARA HELADO SABOR MORA CREMA 12X1 L"
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "102680000",
+    "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "102680001",
+    "ItemName": "PREPARADO HELADO SOFT CALO LUCUMA 12X1 L"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "204300056",
+    "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
+  },
+  {
+    "ItemCode": "202720039",
+    "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   }
 ]
