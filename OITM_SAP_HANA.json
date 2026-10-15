@@ -24008,10 +24008,6 @@
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
   },
   {
-    "ItemCode": "102970005",
-    "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
-  },
-  {
     "ItemCode": "102660005",
     "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   },
@@ -34096,10 +34092,6 @@
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "102970003",
-    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
-  },
-  {
     "ItemCode": "102970019",
     "ItemName": "CHOCOLATE AMARGO 70% CALLEBAUT 2X10 KG"
   },
@@ -34736,10 +34728,6 @@
     "ItemName": "JUGO NECTAR WATTS DURAZNO 12X1 LT"
   },
   {
-    "ItemCode": "103830012",
-    "ItemName": "MANJAR EN BARRA LONCOLECHE DISPLAY 20X35 GR"
-  },
-  {
     "ItemCode": "101358014",
     "ItemName": "SALSA TOMATE POMAROLA ITALIANA 24X200 G"
   },
@@ -34926,10 +34914,6 @@
   {
     "ItemCode": "104620003",
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
-  },
-  {
-    "ItemCode": "104090001",
-    "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
   {
     "ItemCode": "303850000",
@@ -35238,10 +35222,6 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
   {
     "ItemCode": "101150008",
@@ -43680,10 +43660,6 @@
     "ItemName": "CAFE KIMBO EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -44142,10 +44118,6 @@
   {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "900621423",
@@ -47156,10 +47128,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "101402007",
     "ItemName": "ALCAPARRAS 1X965 Gr"
   },
@@ -47336,10 +47304,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
-  },
-  {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
   },
@@ -47458,10 +47422,6 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "100102011",
@@ -47898,5 +47858,45 @@
   {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "102970003",
+    "ItemName": "MONEDAS DE CHOCOLATE NEUCOBER BITTER 63% MONEDAS 6X1 KG"
+  },
+  {
+    "ItemCode": "102970005",
+    "ItemName": "CHOCOLATE NEUCOBER BITTER 72% MONEDAS 6X1 KG"
+  },
+  {
+    "ItemCode": "104090001",
+    "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "103830012",
+    "ItemName": "MANJAR EN BARRA LONCOLECHE DISPLAY 20X35 GR"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   }
 ]
