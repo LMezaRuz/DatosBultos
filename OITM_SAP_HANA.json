@@ -42424,10 +42424,6 @@
     "ItemName": "PATE DE JAMON 16X125 GRS"
   },
   {
-    "ItemCode": "200459004",
-    "ItemName": "PECHUGA PAVO DESHUESADA  C/M  KG"
-  },
-  {
     "ItemCode": "100558003",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
@@ -43330,10 +43326,6 @@
   {
     "ItemCode": "300401001",
     "ItemName": "QUESO ROQUEFORT TROZO QUILLAYES 1X100 GR"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "400252006",
@@ -47312,10 +47304,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
@@ -47608,10 +47596,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "203210129",
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
@@ -47898,5 +47882,21 @@
   {
     "ItemCode": "204700003",
     "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "200459004",
+    "ItemName": "PECHUGA PAVO DESHUESADA  C/M  KG"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   }
 ]
