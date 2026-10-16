@@ -24476,10 +24476,6 @@
     "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
   },
   {
-    "ItemCode": "203190049",
-    "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
-  },
-  {
     "ItemCode": "202730003",
     "ItemName": "ROLLO DE CANELA 60X100 GR"
   },
@@ -27954,10 +27950,6 @@
   {
     "ItemCode": "100752002",
     "ItemName": "MIEL DE ABEJAS 1X500 GR"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
     "ItemCode": "101200014",
@@ -40632,10 +40624,6 @@
     "ItemName": "MILO EN POLVO 15X1 KG"
   },
   {
-    "ItemCode": "300405005",
-    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
-  },
-  {
     "ItemCode": "101400004",
     "ItemName": "CHAMPINON ENTERO WASIL 24X400"
   },
@@ -43108,10 +43096,6 @@
     "ItemName": "COCA COLA LIGHT 6X1,5 LT"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "100651009",
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
@@ -44408,10 +44392,6 @@
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
   },
@@ -44834,10 +44814,6 @@
   {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100101007",
@@ -47512,16 +47488,8 @@
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. PAPAYA 48X150 CAJA"
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
   {
     "ItemCode": "300001003",
@@ -47942,5 +47910,37 @@
   {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "300405005",
+    "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "203190049",
+    "ItemName": "CHULETA CENTRO PORCIONADA 7,5KG (APROX)"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   }
 ]
