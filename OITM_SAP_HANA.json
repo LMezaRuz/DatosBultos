@@ -23600,10 +23600,6 @@
     "ItemName": "CERVEZA AMBAR LATA CUELLO NEGRO 24X473 ML"
   },
   {
-    "ItemCode": "302960003",
-    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
-  },
-  {
     "ItemCode": "103490005",
     "ItemName": "GALLETA CLUB SOCIAL 1X216 GR (P&H)"
   },
@@ -28074,10 +28070,6 @@
   {
     "ItemCode": "204000000",
     "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "302960000",
-    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
   },
   {
     "ItemCode": "202910018",
@@ -32588,10 +32580,6 @@
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100951005",
-    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -34134,10 +34122,6 @@
   {
     "ItemCode": "100350007",
     "ItemName": "CAFE FOLKS MOLIDO 1X1 KG"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "100350010",
@@ -42632,10 +42616,6 @@
     "ItemName": "MERMELADA DE CIRUELA PORCION 192X20 GR."
   },
   {
-    "ItemCode": "203210014",
-    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
-  },
-  {
     "ItemCode": "101100016",
     "ItemName": "TALLARIN 87 1X5 KG"
   },
@@ -43346,10 +43326,6 @@
   {
     "ItemCode": "103630005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "200050007",
@@ -44450,10 +44426,6 @@
   {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
-  },
-  {
-    "ItemCode": "200303005",
-    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
     "ItemCode": "100654005",
@@ -47942,5 +47914,33 @@
   {
     "ItemCode": "101001004",
     "ItemName": "LECHE ORASI DE ALMENDRAS 12X1 LT"
+  },
+  {
+    "ItemCode": "302960003",
+    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
+  },
+  {
+    "ItemCode": "302960000",
+    "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "203210014",
+    "ItemName": "HAMBURGUESA DE VACUNO DIEZ PUNTOS 30X120 GRS."
+  },
+  {
+    "ItemCode": "200303005",
+    "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "100951005",
+    "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   }
 ]
