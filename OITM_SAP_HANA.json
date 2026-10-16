@@ -32076,10 +32076,6 @@
     "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "403600000",
     "ItemName": "VASO BIODEGRADABLE KIMBO 9 OZ 1X500 UN"
   },
@@ -32610,10 +32606,6 @@
   {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "304760523",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
     "ItemCode": "104670095",
@@ -34936,10 +34928,6 @@
     "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
   },
   {
-    "ItemCode": "302960002",
-    "ItemName": "CHOCOLATE SUC SICAO SEMI AMARGO GANACHE 12X800 GR (ISD-A99)"
-  },
-  {
     "ItemCode": "200302026",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -35754,10 +35742,6 @@
   {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "403130000",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
   {
     "ItemCode": "100754002",
@@ -40896,10 +40880,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "VIVE001",
     "ItemName": "VIVERES VARIOS (GENERAL)"
   },
@@ -43608,10 +43588,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "100905003",
-    "ItemName": "NUTRINA CAROZZI 20X500 GR"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE PREMIUM 2/3 CON PIEL TRIM D AL VACIO KG"
   },
@@ -43690,10 +43666,6 @@
   {
     "ItemCode": "101201042",
     "ItemName": "JALEA DE FRUTILLA (REND. 15 LT) TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "200305016",
@@ -43900,10 +43872,6 @@
     "ItemName": "BROCOLI IQF 6X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "400005015",
     "ItemName": "GORRO CLIP BLANCO  1X100 UN."
   },
@@ -44100,10 +44068,6 @@
     "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
   },
@@ -44242,10 +44206,6 @@
   {
     "ItemCode": "101450007",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
     "ItemCode": "300407004",
@@ -44634,10 +44594,6 @@
   {
     "ItemCode": "400011012",
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
-  },
-  {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "200456050",
@@ -47476,10 +47432,6 @@
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
@@ -47898,5 +47850,53 @@
   {
     "ItemCode": "400105003",
     "ItemName": "FILM PLASTICO 45X1400 MTS."
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "403130000",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
+  },
+  {
+    "ItemCode": "304760523",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100905003",
+    "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "302960002",
+    "ItemName": "CHOCOLATE SUC SICAO SEMI AMARGO GANACHE 12X800 GR (ISD-A99)"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
