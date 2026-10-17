@@ -27712,10 +27712,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "100500001",
-    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
-  },
-  {
     "ItemCode": "204000008",
     "ItemName": "CORAZON VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -31572,10 +31568,6 @@
     "ItemName": "MANTECA HIDROGENADA CRUCINA 1X1 KG."
   },
   {
-    "ItemCode": "400105001",
-    "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
@@ -31634,10 +31626,6 @@
   {
     "ItemCode": "100351017",
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "100900006",
@@ -39888,10 +39876,6 @@
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
-    "ItemCode": "202730073",
-    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
-  },
-  {
     "ItemCode": "300353083",
     "ItemName": "GUATA CALLO TROZADA KG."
   },
@@ -47136,14 +47120,6 @@
     "ItemName": "TRUTRO ENTERO INTERFOLIADO 1X15 KG COPACOL"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   },
@@ -47942,5 +47918,29 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "100500001",
+    "ItemName": "CARNE DE SOYA CARAMELO 1X500 GR"
+  },
+  {
+    "ItemCode": "202730073",
+    "ItemName": "MIX MINI DONUTS CLASICO 108X22 GR (56883)"
+  },
+  {
+    "ItemCode": "400105001",
+    "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   }
 ]
