@@ -22648,10 +22648,6 @@
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL  CAJA 10 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "204530029",
-    "ItemName": "PORCION SALMON ATLAN. C/PIEL STAN. 4,5-4,9 KG (APROX)(CAMANCHACA)"
-  },
-  {
     "ItemCode": "204530032",
     "ItemName": "SALMON FILETE AHUMADO REBANADO EN FRIO PREMIUM 1 KG"
   },
@@ -29426,10 +29422,6 @@
   {
     "ItemCode": "203210016",
     "ItemName": "LOMO VETADO AMERICANO ANGUS 7X700GR  (MM)"
-  },
-  {
-    "ItemCode": "203210012",
-    "ItemName": "HAMBURGUESA AMERICAN STYLE 42X120 GR"
   },
   {
     "ItemCode": "203210013",
@@ -47936,11 +47928,19 @@
     "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
-    "ItemCode": "203210074",
-    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
+    "ItemCode": "203210012",
+    "ItemName": "HAMBURGUESA AMERICAN STYLE 42X120 GR"
   },
   {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "203210074",
+    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
+  },
+  {
+    "ItemCode": "204530029",
+    "ItemName": "PORCION SALMON ATLAN. C/PIEL STAN. 4,5-4,9 KG (APROX)(CAMANCHACA)"
   }
 ]
