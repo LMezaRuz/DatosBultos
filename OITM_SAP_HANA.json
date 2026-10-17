@@ -42632,10 +42632,6 @@
     "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100900007",
     "ItemName": "MAIZENA ALMIDON MAIZ  1 X 1 KILO"
   },
@@ -42802,10 +42798,6 @@
   {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
-  },
-  {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   },
   {
     "ItemCode": "100500002",
@@ -46752,10 +46744,6 @@
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
   },
@@ -46830,10 +46818,6 @@
   {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "203200031",
@@ -47004,10 +46988,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
-  },
-  {
     "ItemCode": "102780003",
     "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
   },
@@ -47062,10 +47042,6 @@
   {
     "ItemCode": "100355005",
     "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "100401002",
-    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
     "ItemCode": "103480007",
@@ -47150,10 +47126,6 @@
   {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
-    "ItemCode": "103830005",
-    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
   },
   {
     "ItemCode": "101352008",
@@ -47414,10 +47386,6 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
     "ItemCode": "100355014",
@@ -47942,5 +47910,37 @@
   {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "103830005",
+    "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
+  },
+  {
+    "ItemCode": "100401002",
+    "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
   }
 ]
