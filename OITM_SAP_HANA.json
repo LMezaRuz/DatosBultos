@@ -31708,10 +31708,6 @@
     "ItemName": "TRUTRO DE ALA POLLO BLOQUE CONG. LOCAL 1X15 KG"
   },
   {
-    "ItemCode": "203200039",
-    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
-  },
-  {
     "ItemCode": "304850010",
     "ItemName": "YOGURT YOGU YOGU MORA 6X115 GR"
   },
@@ -32006,10 +32002,6 @@
   {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
-    "ItemCode": "204530039",
-    "ItemName": "SALMON EN TROZOS SIN PIEL B&P 10X500 GR"
   },
   {
     "ItemCode": "100402002",
@@ -40784,10 +40776,6 @@
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
   {
-    "ItemCode": "204390008",
-    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -43196,10 +43184,6 @@
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "103630005",
     "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
   },
@@ -43936,10 +43920,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
-    "ItemCode": "100201010",
-    "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
     "ItemCode": "103910032",
     "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
@@ -44032,10 +44012,6 @@
     "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
@@ -44058,10 +44034,6 @@
   {
     "ItemCode": "103720007",
     "ItemName": "LECHE PROTEIN CAPPUCCINO LONCOLECHE 6X200 ML"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "203210042",
@@ -47540,10 +47512,6 @@
     "ItemName": "MANI SALADO 1X1 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
@@ -47942,5 +47910,37 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "100201010",
+    "ItemName": "AZUCAR GRANULADA 1X5 KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "203200039",
+    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
+  },
+  {
+    "ItemCode": "204530039",
+    "ItemName": "SALMON EN TROZOS SIN PIEL B&P 10X500 GR"
+  },
+  {
+    "ItemCode": "204390008",
+    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
   }
 ]
