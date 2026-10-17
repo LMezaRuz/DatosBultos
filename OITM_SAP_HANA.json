@@ -24356,10 +24356,6 @@
     "ItemName": "VOLCAN DE CHOCOLATE TRADICIONAL 24X90 GR"
   },
   {
-    "ItemCode": "204700006",
-    "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
@@ -42168,10 +42164,6 @@
     "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "104210029",
     "ItemName": "SPAGUETTI DOGA 20X400 GR"
   },
@@ -45868,10 +45860,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "101008001",
     "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
@@ -47942,5 +47930,17 @@
   {
     "ItemCode": "200308003",
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "204700006",
+    "ItemName": "RED VELVET 10 PORCIONES"
   }
 ]
