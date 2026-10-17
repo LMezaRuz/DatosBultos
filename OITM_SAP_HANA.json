@@ -28076,10 +28076,6 @@
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
   {
-    "ItemCode": "203200042",
-    "ItemName": "TIRITAS DE PECHUGA DE POLLO REBOZADAS CONG. 12X300 GR"
-  },
-  {
     "ItemCode": "400005011",
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
@@ -28294,10 +28290,6 @@
   {
     "ItemCode": "300157053",
     "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
-  },
-  {
-    "ItemCode": "101305007",
-    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
   {
     "ItemCode": "304110016",
@@ -31906,10 +31898,6 @@
   {
     "ItemCode": "304760441",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
   {
     "ItemCode": "101001005",
@@ -42052,10 +42040,6 @@
     "ItemName": "BAVAROIS DE NARANJA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
   },
@@ -46072,10 +46056,6 @@
     "ItemName": "PAPAS PRE FRITAS SKIN ON WEDGES MCCAIN 6X2.5 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
@@ -46818,10 +46798,6 @@
   {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
     "ItemCode": "101358010",
@@ -47852,10 +47828,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "103180007",
     "ItemName": "DURAZNOS EN MITADES SMART CHOICE 6 X 2,84 KG"
   },
@@ -47942,5 +47914,33 @@
   {
     "ItemCode": "102610001",
     "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101305007",
+    "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
+  },
+  {
+    "ItemCode": "203200042",
+    "ItemName": "TIRITAS DE PECHUGA DE POLLO REBOZADAS CONG. 12X300 GR"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   }
 ]
