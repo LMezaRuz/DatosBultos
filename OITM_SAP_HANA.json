@@ -22284,10 +22284,6 @@
     "ItemName": "ACEITUNA VERDE RELLENA C/PIMENTON MAIFRE 10X1 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "102590001",
     "ItemName": "CHORITO NATURAL 1X425 GR"
   },
@@ -24502,10 +24498,6 @@
   {
     "ItemCode": "402760000",
     "ItemName": "BOMBILLAS COMPOSTABLES CON PAPEL 6X400 UN"
-  },
-  {
-    "ItemCode": "400251002",
-    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   },
   {
     "ItemCode": "204750001",
@@ -28074,10 +28066,6 @@
   {
     "ItemCode": "101009028",
     "ItemName": "SHAKE SHAKE MANJAR 6X170 GR"
-  },
-  {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
   },
   {
     "ItemCode": "100600004",
@@ -39520,10 +39508,6 @@
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
   },
   {
-    "ItemCode": "200460023",
-    "ItemName": "TRUTRO ENTERO INTERFOLIADO 1X15 KG COPACOL"
-  },
-  {
     "ItemCode": "101352004",
     "ItemName": "KETCHUP PET TRAVERSO 24X350 GR"
   },
@@ -39874,10 +39858,6 @@
   {
     "ItemCode": "100351006",
     "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
-  },
-  {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
   },
   {
     "ItemCode": "101009010",
@@ -44048,10 +44028,6 @@
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "101353011",
     "ItemName": "MAYONESA 10X930 GR"
   },
@@ -46716,10 +46692,6 @@
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
@@ -47404,10 +47376,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "200051023",
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
@@ -47696,10 +47664,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "204790008",
     "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
@@ -47892,10 +47856,6 @@
     "ItemName": "DETERGENTE OMO MATIC POLVO 1X800 GR"
   },
   {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -47942,5 +47902,45 @@
   {
     "ItemCode": "100352003",
     "ItemName": "CAFE KIMBO BARISTA (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "200460023",
+    "ItemName": "TRUTRO ENTERO INTERFOLIADO 1X15 KG COPACOL"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "400251002",
+    "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
   }
 ]
