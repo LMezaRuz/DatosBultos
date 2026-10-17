@@ -22624,10 +22624,6 @@
     "ItemName": "FILETE SALMON ATLANTICO SIN PIEL CAJA 15 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "204530027",
-    "ItemName": "PORCION SALMON ATLANTICO SIN PIEL STANDARD CAJA ENTRE 4,5 A 4,9 KG APROX (CAMANCHACA)"
-  },
-  {
     "ItemCode": "204530028",
     "ItemName": "PORCION SALMON ATLANTICO SIN PIEL  CAJA 10 KG APROX (CAMANCHACA)"
   },
@@ -27976,10 +27972,6 @@
     "ItemName": "CEREAL TRIX 10X800 GR"
   },
   {
-    "ItemCode": "300157045",
-    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
-  },
-  {
     "ItemCode": "104670016",
     "ItemName": "TE LIPTON INFUSION MENTA 24X20 UN"
   },
@@ -28202,10 +28194,6 @@
   {
     "ItemCode": "400301021",
     "ItemName": "CAJA DELIVERY MEDIANA JUAN MAESTRO 1 X 250 UN"
-  },
-  {
-    "ItemCode": "304110019",
-    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
   },
   {
     "ItemCode": "304340001",
@@ -31176,10 +31164,6 @@
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
   {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
     "ItemCode": "304850047",
     "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
   },
@@ -31290,10 +31274,6 @@
   {
     "ItemCode": "202910059",
     "ItemName": "PALETA DE CERDO C/HUESO BRASIL AURORA 25 KG (APROX)"
-  },
-  {
-    "ItemCode": "300157044",
-    "ItemName": "YOGURT PROTEIN SABOR NATURAL ENDULZADO LONCOLECHE 24X140 GR"
   },
   {
     "ItemCode": "204180023",
@@ -42520,10 +42500,6 @@
     "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
   },
   {
-    "ItemCode": "300154009",
-    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
-  },
-  {
     "ItemCode": "100754006",
     "ItemName": "DULCE MEMBRILLO WATTS 12X1 KG"
   },
@@ -46316,24 +46292,8 @@
     "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
   {
-    "ItemCode": "103910039",
-    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
-  },
-  {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "103910033",
-    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "103910032",
-    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910020",
@@ -47942,5 +47902,45 @@
   {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "300157045",
+    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
+  },
+  {
+    "ItemCode": "300157044",
+    "ItemName": "YOGURT PROTEIN SABOR NATURAL ENDULZADO LONCOLECHE 24X140 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910039",
+    "ItemName": "MERMELADA DURAZNO WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "103910032",
+    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910033",
+    "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "300154009",
+    "ItemName": "MARGARINA HORNITO HORNEO 20X1 KG"
+  },
+  {
+    "ItemCode": "304110019",
+    "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
+  },
+  {
+    "ItemCode": "204530027",
+    "ItemName": "PORCION SALMON ATLANTICO SIN PIEL STANDARD CAJA ENTRE 4,5 A 4,9 KG APROX (CAMANCHACA)"
   }
 ]
