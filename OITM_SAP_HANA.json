@@ -22720,10 +22720,6 @@
     "ItemName": "CHOCOLATE REAL SICAO LECHE 33% 10 KG (CHM-094)"
   },
   {
-    "ItemCode": "303010005",
-    "ItemName": "CHOCOLATE SUC. SICAO ALTA FLUIDEZ 10 KG (ILD-009)"
-  },
-  {
     "ItemCode": "303210013",
     "ItemName": "PALANCA AL VACIO CAT V - LOCAL (P&H) X KG (20 KG APROX)"
   },
@@ -31400,10 +31396,6 @@
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
   },
   {
-    "ItemCode": "102780005",
-    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
-  },
-  {
     "ItemCode": "202730056",
     "ItemName": "BROWNIE CON OREO 1800 GR (24 PORCIONES)"
   },
@@ -31822,10 +31814,6 @@
   {
     "ItemCode": "400012003",
     "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
     "ItemCode": "400011002",
@@ -40216,10 +40204,6 @@
     "ItemName": "GALLETA DE LIMON 1X140 GR."
   },
   {
-    "ItemCode": "300002002",
-    "ItemName": "CHOCOLATE SUC. SICAO AMARGO 10 KG (ILD-009)"
-  },
-  {
     "ItemCode": "202730048",
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
@@ -47040,10 +47024,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "100855012",
-    "ItemName": "PANCHITOS 1X500 GR."
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -47568,10 +47548,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "304430007",
-    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
     "ItemCode": "100852013",
     "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
@@ -47942,5 +47918,29 @@
   {
     "ItemCode": "203210096",
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "102780005",
+    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
+  },
+  {
+    "ItemCode": "303010005",
+    "ItemName": "CHOCOLATE SUC. SICAO ALTA FLUIDEZ 10 KG (ILD-009)"
+  },
+  {
+    "ItemCode": "300002002",
+    "ItemName": "CHOCOLATE SUC. SICAO AMARGO 10 KG (ILD-009)"
+  },
+  {
+    "ItemCode": "304430007",
+    "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100855012",
+    "ItemName": "PANCHITOS 1X500 GR."
   }
 ]
