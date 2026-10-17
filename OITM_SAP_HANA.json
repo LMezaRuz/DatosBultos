@@ -32208,10 +32208,6 @@
     "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "103960000",
     "ItemName": "NUTELLA BALDE LOCAL 2X3 KG"
   },
@@ -41860,10 +41856,6 @@
     "ItemName": "QUESO GAUDA LAMINADO CHILOLAC 1X1 KG"
   },
   {
-    "ItemCode": "300404004",
-    "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
-  },
-  {
     "ItemCode": "300404005",
     "ItemName": "QUESO GAUDA EN BARRA NOAL 3,6 KG (APROX)"
   },
@@ -43548,10 +43540,6 @@
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "101355003",
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
@@ -44196,16 +44184,8 @@
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "100101010",
@@ -44730,10 +44710,6 @@
   {
     "ItemCode": "101201040",
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
     "ItemCode": "101050003",
@@ -47688,10 +47664,6 @@
     "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
-    "ItemCode": "304850047",
-    "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
-  },
-  {
     "ItemCode": "103880033",
     "ItemName": "MAYONESA LIGHT PROFESIONAL HELLMANNS 6X2 KG"
   },
@@ -47816,40 +47788,8 @@
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "102680017",
-    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
-  },
-  {
-    "ItemCode": "203510018",
-    "ItemName": "HAMBURGUESA DE VACUNO 100% CARNE T-REX 30X185 GR"
-  },
-  {
-    "ItemCode": "204090007",
-    "ItemName": "OSTION MEDIA CONCHA IQF 10X1 KG"
-  },
-  {
-    "ItemCode": "300157045",
-    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
-  },
-  {
-    "ItemCode": "300157049",
-    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
-  },
-  {
-    "ItemCode": "304010001",
-    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
-    "ItemCode": "300157046",
-    "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
-    "ItemCode": "300157050",
-    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
     "ItemCode": "304430010",
@@ -47942,5 +47882,65 @@
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "304850047",
+    "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
+  },
+  {
+    "ItemCode": "300404004",
+    "ItemName": "QUESO RODDA LAMINADO (2,2 KG APROX.)"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "102680017",
+    "ItemName": "PREPARADO HELADO CALO NARANJA 12X1LT"
+  },
+  {
+    "ItemCode": "203510018",
+    "ItemName": "HAMBURGUESA DE VACUNO 100% CARNE T-REX 30X185 GR"
+  },
+  {
+    "ItemCode": "204090007",
+    "ItemName": "OSTION MEDIA CONCHA IQF 10X1 KG"
+  },
+  {
+    "ItemCode": "300157045",
+    "ItemName": "YOGURT PROTEIN SABOR FRUTILLA LONCOLECHE 24X140 GR"
+  },
+  {
+    "ItemCode": "300157049",
+    "ItemName": "LONCO PROTEIN YOG TRZ MANGO-MCUYA 24X140 GRS"
+  },
+  {
+    "ItemCode": "304010001",
+    "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
+  },
+  {
+    "ItemCode": "300157046",
+    "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
+  },
+  {
+    "ItemCode": "300157050",
+    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   }
 ]
