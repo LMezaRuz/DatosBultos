@@ -23416,10 +23416,6 @@
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
   {
-    "ItemCode": "300156010",
-    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "103770004",
     "ItemName": "ARVEJAS AMARILLAS 10X1 KG (P&H)"
   },
@@ -40036,20 +40032,12 @@
     "ItemName": "PAPAS PRE FRITA FARM FRITES SCOOP 5X2,5 KG"
   },
   {
-    "ItemCode": "300156009",
-    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT SABOR CHIRIMOYA EN BOLSA CALAN 12X1 LT"
   },
   {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
-    "ItemCode": "300156008",
-    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
   },
   {
     "ItemCode": "102580001",
@@ -47428,16 +47416,8 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
   },
   {
-    "ItemCode": "300156007",
-    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "300156013",
     "ItemName": "YOGURT SABOR FRUTILLA EN BOLSA CALAN 12X1 LT"
-  },
-  {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
   },
   {
     "ItemCode": "101050003",
@@ -47942,5 +47922,25 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "300156009",
+    "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156010",
+    "ItemName": "YOGURT PLATANO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156007",
+    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156008",
+    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
   }
 ]
