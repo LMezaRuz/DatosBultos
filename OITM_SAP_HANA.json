@@ -23552,10 +23552,6 @@
     "ItemName": "CACAO EN POLVO CALLEBAUT 25 KG (DCP-711)"
   },
   {
-    "ItemCode": "101050001",
-    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
   },
@@ -28096,10 +28092,6 @@
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
   {
-    "ItemCode": "300001003",
-    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 6X1 KG (823-U73)"
-  },
-  {
     "ItemCode": "203200003",
     "ItemName": "NUGGET POLLO SEARA 26X400 GR"
   },
@@ -28206,10 +28198,6 @@
   {
     "ItemCode": "204750015",
     "ItemName": "POSTA ROSADA AL VACIO CAT U BRASIL CONG. LOCAL (20 KG APROX)"
-  },
-  {
-    "ItemCode": "101100054",
-    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
   },
   {
     "ItemCode": "204090007",
@@ -31438,10 +31426,6 @@
   {
     "ItemCode": "304760130",
     "ItemName": "PUNTA DE PICANA VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "204140017",
@@ -42052,10 +42036,6 @@
     "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
-  },
-  {
     "ItemCode": "100555002",
     "ItemName": "ALBAHACA DESHIDRATADA 1X250 GR"
   },
@@ -44210,10 +44190,6 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "200500003",
@@ -47276,20 +47252,12 @@
     "ItemName": "LONGANIZA PACEL 1 X 1 KG."
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
   {
     "ItemCode": "204300005",
     "ItemName": "TRUTRO CORTO 12X800 GR"
-  },
-  {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
     "ItemCode": "101356002",
@@ -47600,10 +47568,6 @@
     "ItemName": "PAN MOLDE MULTIGRANO SIN GLUTEN 4X400 GR"
   },
   {
-    "ItemCode": "200250015",
-    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
@@ -47820,10 +47784,6 @@
     "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
@@ -47942,5 +47902,45 @@
   {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "300001003",
+    "ItemName": "CHOCOLATE CALLEBAUT LECHE 33,6% 6X1 KG (823-U73)"
+  },
+  {
+    "ItemCode": "101100054",
+    "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "200250015",
+    "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "101050001",
+    "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   }
 ]
