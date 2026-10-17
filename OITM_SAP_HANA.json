@@ -23516,10 +23516,6 @@
     "ItemName": "NOT HOTDOG 4X680 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "102960005",
     "ItemName": "CACAO EN POLVO CALLEBAUT 25 KG (DCP-711)"
   },
@@ -28072,10 +28068,6 @@
     "ItemName": "MOSTACCIOLI LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "204300073",
-    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
-  },
-  {
     "ItemCode": "102930013",
     "ItemName": "CEREAL TRIX 10X800 GR"
   },
@@ -28184,10 +28176,6 @@
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
   {
-    "ItemCode": "204610000",
-    "ItemName": "EGGROLL BURRITO SW 80X100 GR"
-  },
-  {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -28250,10 +28238,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "204010003",
-    "ItemName": "SALSA ALFREDO GARLIC 6 X 2,3 KG"
   },
   {
     "ItemCode": "203480001",
@@ -31314,10 +31298,6 @@
   {
     "ItemCode": "303190000",
     "ItemName": "ARROLLADO HUASO CON AJI 21X330 GR"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "103910026",
@@ -42580,10 +42560,6 @@
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
   },
@@ -42956,20 +42932,12 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "202730047",
-    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
   {
     "ItemCode": "200201010",
     "ItemName": "MINI ROLL DE CANELA BRIDOR 260X35 GR"
-  },
-  {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
   {
     "ItemCode": "100553001",
@@ -43354,10 +43322,6 @@
   {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "202720040",
-    "ItemName": "MIX GALLETA ARTESANAL 60 UN"
   },
   {
     "ItemCode": "100500002",
@@ -45980,10 +45944,6 @@
     "ItemName": "CREMA LISTA 6X200 CC"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
@@ -47740,10 +47700,6 @@
     "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
   },
   {
-    "ItemCode": "202730067",
-    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
-  },
-  {
     "ItemCode": "300157046",
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
@@ -47942,5 +47898,49 @@
   {
     "ItemCode": "404600005",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "204010003",
+    "ItemName": "SALSA ALFREDO GARLIC 6 X 2,3 KG"
+  },
+  {
+    "ItemCode": "204300073",
+    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "202720040",
+    "ItemName": "MIX GALLETA ARTESANAL 60 UN"
+  },
+  {
+    "ItemCode": "202730047",
+    "ItemName": "MINI MUFFIN RELLENO DE CREMA DE LIMON 42X26GR"
+  },
+  {
+    "ItemCode": "202730067",
+    "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
+  },
+  {
+    "ItemCode": "204610000",
+    "ItemName": "EGGROLL BURRITO SW 80X100 GR"
   }
 ]
