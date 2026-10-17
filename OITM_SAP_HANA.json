@@ -27848,10 +27848,6 @@
     "ItemName": "PATAS VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "202910018",
     "ItemName": "PERNIL DE CERDO CONG. BRASIL 20 KG APROX."
   },
@@ -31798,10 +31794,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
-  },
-  {
-    "ItemCode": "100355004",
-    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
   },
   {
     "ItemCode": "202730018",
@@ -39392,10 +39384,6 @@
     "ItemName": "CERA CREMA VIRGINIA 12X340 CC"
   },
   {
-    "ItemCode": "100355042",
-    "ItemName": "TE CHAI MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100351006",
     "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
   },
@@ -43024,10 +43012,6 @@
     "ItemName": "CLORO GEL IGENIX 1X900 ML"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
   },
@@ -45808,10 +45792,6 @@
     "ItemName": "CARNE MOLIDA DE VACUNO 5% GRASA 8X1 KG MEALS &CO"
   },
   {
-    "ItemCode": "204700006",
-    "ItemName": "RED VELVET 10 PORCIONES"
-  },
-  {
     "ItemCode": "100600006",
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
@@ -47396,10 +47376,6 @@
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
@@ -47518,10 +47494,6 @@
   {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
   {
     "ItemCode": "100355005",
@@ -47756,10 +47728,6 @@
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "204380015",
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
@@ -47908,10 +47876,6 @@
     "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
   },
   {
-    "ItemCode": "400252003",
-    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
-  },
-  {
     "ItemCode": "200500037",
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
@@ -47936,11 +47900,47 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
+    "ItemCode": "100355042",
+    "ItemName": "TE CHAI MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355004",
+    "ItemName": "SYRUP CANELA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "400252003",
+    "ItemName": "TOALLA JUMBO PALANCA 2X250 MT TO55004"
+  },
+  {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204700006",
+    "ItemName": "RED VELVET 10 PORCIONES"
   }
 ]
