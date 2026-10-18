@@ -42740,10 +42740,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -43190,10 +43186,6 @@
   {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
-    "ItemCode": "200304006",
-    "ItemName": "OSTION CON CORAL 1x1 KG"
   },
   {
     "ItemCode": "101150020",
@@ -47300,10 +47292,6 @@
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
@@ -47942,5 +47930,17 @@
   {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "200304006",
+    "ItemName": "OSTION CON CORAL 1x1 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
   }
 ]
