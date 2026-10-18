@@ -42832,10 +42832,6 @@
     "ItemName": "ASADO CARNICERO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -43134,10 +43130,6 @@
   {
     "ItemCode": "104620000",
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
-  },
-  {
-    "ItemCode": "104010055",
-    "ItemName": "SALSA TERIYAKI 12X250 GR"
   },
   {
     "ItemCode": "100559002",
@@ -43458,10 +43450,6 @@
   {
     "ItemCode": "200051020",
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "100356050",
@@ -47528,10 +47516,6 @@
     "ItemName": "QUESO AZUL RUEDA SANTA ROSA 2,7 KG (APROX)"
   },
   {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -47942,5 +47926,21 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "104010055",
+    "ItemName": "SALSA TERIYAKI 12X250 GR"
   }
 ]
