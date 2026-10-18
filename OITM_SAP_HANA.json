@@ -24368,10 +24368,6 @@
     "ItemName": "LASAÑA PRECOCIDA CAROZZI ESTUCHE 24X330 GR"
   },
   {
-    "ItemCode": "304760509",
-    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
     "ItemCode": "103180001",
     "ItemName": "DURAZNOS TROCITOS WASIL 6X3 KG"
   },
@@ -31336,10 +31332,6 @@
     "ItemName": "GANSO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
   {
-    "ItemCode": "202910044",
-    "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
-  },
-  {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
   },
@@ -31882,10 +31874,6 @@
   {
     "ItemCode": "100903003",
     "ItemName": "HARINA TEMPURA 1X1 KG."
-  },
-  {
-    "ItemCode": "203190061",
-    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
   },
   {
     "ItemCode": "204300022",
@@ -35838,10 +35826,6 @@
   {
     "ItemCode": "400005009",
     "ItemName": "GUANTE DE VINILO TALLA M 1X100 UN."
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "102480001",
@@ -41634,10 +41618,6 @@
   {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "103650001",
@@ -47796,18 +47776,6 @@
     "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "103210008",
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 12X1 KG (VE)"
   },
@@ -47824,16 +47792,8 @@
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
   {
-    "ItemCode": "400301048",
-    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
-  },
-  {
     "ItemCode": "400301036",
     "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "100402001",
@@ -47942,5 +47902,45 @@
   {
     "ItemCode": "100600003",
     "ItemName": "ATUN LOMITO AGUA GALON 1X1.800 GR."
+  },
+  {
+    "ItemCode": "304760509",
+    "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "202910044",
+    "ItemName": "COSTILLAR DE CERDO CON MALAYA CONG. (CAJA 20 KG APROX)"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "400301048",
+    "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "203190061",
+    "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   }
 ]
