@@ -27992,10 +27992,6 @@
     "ItemName": "HELADO PUDU CHOCOLATE 80% 1X460 ML"
   },
   {
-    "ItemCode": "200250033",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG_LOCAL"
-  },
-  {
     "ItemCode": "300001008",
     "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 2X10 KG (W2N-595)"
   },
@@ -35622,10 +35618,6 @@
   {
     "ItemCode": "400251015",
     "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
-  },
-  {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
   {
     "ItemCode": "200460006",
@@ -43480,10 +43472,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "300353053",
     "ItemName": "POSTA ROSADA KG (NV)"
   },
@@ -47700,10 +47688,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
@@ -47726,10 +47710,6 @@
   {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
   {
     "ItemCode": "101201041",
@@ -47826,14 +47806,6 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "204380032",
-    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
   {
     "ItemCode": "204380034",
@@ -47942,5 +47914,33 @@
   {
     "ItemCode": "204100002",
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380032",
+    "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200250033",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG_LOCAL"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   }
 ]
