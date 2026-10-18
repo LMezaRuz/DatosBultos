@@ -32276,10 +32276,6 @@
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
   },
   {
-    "ItemCode": "103880030",
-    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
-  },
-  {
     "ItemCode": "204300056",
     "ItemName": "TIRITAS DE FILETE DE POLLO COCIDA SADIA 5X2 KG"
   },
@@ -35034,10 +35030,6 @@
   {
     "ItemCode": "204300080",
     "ItemName": "MEDIA PECHUGA DE POLLO S/MARINAR INTERF. SEARA 1X15 KG"
-  },
-  {
-    "ItemCode": "204180024",
-    "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
   },
   {
     "ItemCode": "202910037",
@@ -43588,10 +43580,6 @@
     "ItemName": "GUANTE MULTIUSO TALLA L 1X1 UN"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "100902005",
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
@@ -43636,20 +43624,12 @@
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "204010003",
     "ItemName": "SALSA ALFREDO GARLIC 6 X 2,3 KG"
   },
   {
     "ItemCode": "204300073",
     "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
-  },
-  {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
   },
   {
     "ItemCode": "304450005",
@@ -46260,10 +46240,6 @@
     "ItemName": "CREMA LISTA 6X200 CC"
   },
   {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
-  },
-  {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
@@ -46802,10 +46778,6 @@
   {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
-  },
-  {
-    "ItemCode": "200250012",
-    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204180022",
@@ -47380,10 +47352,6 @@
     "ItemName": "PENNE RIGATE N°145 (PASTA) IMP ARCOORO 3X3 KG"
   },
   {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "200500003",
     "ItemName": "CHOCLO EN TROZO 12X1 KG."
   },
@@ -47740,16 +47708,8 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "203190062",
     "ItemName": "LOMITO CERVEZA 5X2 KG"
-  },
-  {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
   },
   {
     "ItemCode": "101010002",
@@ -47856,10 +47816,6 @@
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "304420001",
     "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
@@ -47942,5 +47898,49 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "200250012",
+    "ItemName": "PAPAS PREFRITAS STEAKHOUSE FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204180024",
+    "ItemName": "PAPAS PRE FRITAS COATED SKIN 5X2,5 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "103880030",
+    "ItemName": "MAYONESA SUPREME HELLMANNS 6X1,9 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   }
 ]
