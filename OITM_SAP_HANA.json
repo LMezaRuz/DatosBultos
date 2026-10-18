@@ -47128,10 +47128,6 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
@@ -47556,10 +47552,6 @@
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101352012",
     "ItemName": "KETCHUP JB 10X1 KG"
   },
@@ -47618,10 +47610,6 @@
   {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
-  },
-  {
-    "ItemCode": "101353011",
-    "ItemName": "MAYONESA 10X930 GR"
   },
   {
     "ItemCode": "100004001",
@@ -47942,5 +47930,17 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "101353011",
+    "ItemName": "MAYONESA 10X930 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   }
 ]
