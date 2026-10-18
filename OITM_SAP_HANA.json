@@ -27648,10 +27648,6 @@
     "ItemName": "HIGADO VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "100751006",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
-  },
-  {
     "ItemCode": "204180003",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 5X2,5 KG"
   },
@@ -40376,10 +40372,6 @@
     "ItemName": "SALSA DE SOYA TRAVERSO 1X500 CC"
   },
   {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
     "ItemCode": "100355014",
     "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
   },
@@ -42648,10 +42640,6 @@
     "ItemName": "PASAS MORENAS 1X1 KG"
   },
   {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
-  },
-  {
     "ItemCode": "103880015",
     "ItemName": "MAYONESA REAL KRAFT 15 OZ 12X394 GR"
   },
@@ -43646,10 +43634,6 @@
   {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
-    "ItemCode": "102710017",
-    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
     "ItemCode": "103180010",
@@ -46920,10 +46904,6 @@
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
@@ -47684,10 +47664,6 @@
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
     "ItemCode": "400105004",
     "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
   },
@@ -47942,5 +47918,29 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100751006",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X250 GR"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "102710017",
+    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
   }
 ]
