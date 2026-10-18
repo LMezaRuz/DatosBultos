@@ -32048,14 +32048,6 @@
     "ItemName": "CHEESECAKE DE OREO 14 PORCIONES"
   },
   {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304047",
-    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "203210128",
     "ItemName": "BRISKET ASADO LAMINADO (ESP. APROX. 2 CM) - 5X1 KG"
   },
@@ -35774,10 +35766,6 @@
   {
     "ItemCode": "100304010",
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "204090004",
@@ -43052,10 +43040,6 @@
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "204790005",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
@@ -43748,10 +43732,6 @@
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
   },
   {
-    "ItemCode": "100557002",
-    "ItemName": "ALIÑO COMPLETO 1X250 GR"
-  },
-  {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
   },
@@ -43888,10 +43868,6 @@
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100900007",
     "ItemName": "MAIZENA ALMIDON MAIZ  1 X 1 KILO"
   },
@@ -43902,10 +43878,6 @@
   {
     "ItemCode": "101201012",
     "ItemName": "JALEA DE NARANJA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "100302015",
@@ -47500,10 +47472,6 @@
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -47912,10 +47880,6 @@
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
@@ -47942,5 +47906,41 @@
   {
     "ItemCode": "302890007",
     "ItemName": "JAMON DE PAVO AHUMADO LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "100304047",
+    "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100557002",
+    "ItemName": "ALIÑO COMPLETO 1X250 GR"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
