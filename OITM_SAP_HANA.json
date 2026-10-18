@@ -22152,10 +22152,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V PARAGUAY LA TROPA BEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104210038",
-    "ItemName": "PENNE RIGATE N°145 (PASTA) IMP ARCOORO 3X3 KG"
-  },
-  {
     "ItemCode": "304840005",
     "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
   },
@@ -31524,10 +31520,6 @@
     "ItemName": "CAFE KIMBO EN GRANO TOP FLAVOUR (100% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "204300006",
-    "ItemName": "TRUTRO DE ALA POLLO BLOQUE CONG. LOCAL 1X15 KG"
-  },
-  {
     "ItemCode": "400011006",
     "ItemName": "ESPONJA MAGO PADS S/JABON X 1 UN"
   },
@@ -31700,10 +31692,6 @@
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
@@ -31746,10 +31734,6 @@
   {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "304760455",
@@ -36212,10 +36196,6 @@
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
   {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
-  },
-  {
     "ItemCode": "103520007",
     "ItemName": "HARINA PANIFICACION SUPER YANINE 1X25 KG"
   },
@@ -40300,10 +40280,6 @@
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
   {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
-  },
-  {
     "ItemCode": "100700011",
     "ItemName": "CREMA DE ESPARRAGOS 1X1 KG."
   },
@@ -43322,10 +43298,6 @@
   {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101100021",
-    "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
     "ItemCode": "102480009",
@@ -47388,10 +47360,6 @@
     "ItemName": "CHEESECAKE DE LOTUS 14 PORCIONES"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
@@ -47676,10 +47644,6 @@
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -47734,14 +47698,6 @@
   {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
   },
   {
     "ItemCode": "101352008",
@@ -47942,5 +47898,49 @@
   {
     "ItemCode": "400010014",
     "ItemName": "LIMPIADOR MULTIUSO DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "204300006",
+    "ItemName": "TRUTRO DE ALA POLLO BLOQUE CONG. LOCAL 1X15 KG"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101100021",
+    "ItemName": "FETUCCINI HUEVO 1X400 GR"
+  },
+  {
+    "ItemCode": "104210038",
+    "ItemName": "PENNE RIGATE N°145 (PASTA) IMP ARCOORO 3X3 KG"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   }
 ]
