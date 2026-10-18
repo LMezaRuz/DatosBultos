@@ -27800,10 +27800,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "203430014",
-    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "102840014",
     "ItemName": "CAFE POMPEI EN PODS 1X50 UU."
   },
@@ -28264,10 +28260,6 @@
     "ItemName": "COSTILLAR TRADICIONAL DIEZ PUNTOS (8X1,3 KG APROX)"
   },
   {
-    "ItemCode": "203230005",
-    "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "304760545",
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -28290,10 +28282,6 @@
   {
     "ItemCode": "100559009",
     "ItemName": "SAL LOBOS SACHET 2.000X1 G"
-  },
-  {
-    "ItemCode": "203230007",
-    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
     "ItemCode": "203430004",
@@ -36076,10 +36064,6 @@
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
   {
-    "ItemCode": "204380029",
-    "ItemName": "MORA IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
@@ -43048,10 +43032,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -43670,10 +43650,6 @@
   {
     "ItemCode": "101009038",
     "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "103910035",
@@ -46816,10 +46792,6 @@
     "ItemName": "CREMA LISTA 6X200 CC"
   },
   {
-    "ItemCode": "200050009",
-    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
   },
@@ -47070,10 +47042,6 @@
   {
     "ItemCode": "101011001",
     "ItemName": "QUESO RALLADO 1X1 KG."
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "203230003",
@@ -47444,10 +47412,6 @@
     "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
@@ -47482,10 +47446,6 @@
   {
     "ItemCode": "204790052",
     "ItemName": "PASTA DE CHOCLO RAPIFRESH 15X1 KG"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "204790023",
@@ -47550,10 +47510,6 @@
   {
     "ItemCode": "203210120",
     "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
     "ItemCode": "104040015",
@@ -47942,5 +47898,49 @@
   {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "203230007",
+    "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
+  },
+  {
+    "ItemCode": "203230005",
+    "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
+  },
+  {
+    "ItemCode": "204380029",
+    "ItemName": "MORA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200050009",
+    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
+  },
+  {
+    "ItemCode": "203430014",
+    "ItemName": "ARANDANOS IQF RIO ALTO 5X1 KG"
   }
 ]
