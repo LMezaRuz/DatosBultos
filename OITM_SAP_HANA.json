@@ -23272,10 +23272,6 @@
     "ItemName": "CEBOLLA PERLA TRAVERSO 24 X 500 GR"
   },
   {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
-  },
-  {
     "ItemCode": "400010018",
     "ItemName": "LIMPIA VIDRIOS DEFORT 2X5 LT"
   },
@@ -30244,10 +30240,6 @@
     "ItemName": "ROLLITO DE PASAS 66X96 GR"
   },
   {
-    "ItemCode": "100355016",
-    "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
-  },
-  {
     "ItemCode": "202730004",
     "ItemName": "PAN PETIT TRADICIONAL 200X40 GR"
   },
@@ -31598,10 +31590,6 @@
   {
     "ItemCode": "304860003",
     "ItemName": "YOGHURT LONCOLECHE S/L SABOR CHIRIMOYA 24X140 GR"
-  },
-  {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
   },
   {
     "ItemCode": "203210012",
@@ -36108,10 +36096,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101010001",
-    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -39640,10 +39624,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
-    "ItemCode": "100355046",
-    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400008002",
     "ItemName": "LAVALOZAS CONCENTRADO 1x750 ML"
   },
@@ -40470,10 +40450,6 @@
   {
     "ItemCode": "100002010",
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 6X1 LTS"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "400011015",
@@ -44512,10 +44488,6 @@
     "ItemName": "YOGURT LIGHT DURAZNO SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "101006003",
-    "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
-  },
-  {
     "ItemCode": "101200014",
     "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
@@ -47328,10 +47300,6 @@
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
   {
-    "ItemCode": "300150001",
-    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -47942,5 +47910,37 @@
   {
     "ItemCode": "100550002",
     "ItemName": "AJI DE COLOR 1X250 GR"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "101006003",
+    "ItemName": "LECHE SEMI DESCREMADA UHT COLUN 12X1 LT"
+  },
+  {
+    "ItemCode": "101010001",
+    "ItemName": "LECHE SEMI DESCREMADA SIN LACTOSA 12X1 LT COLUN"
+  },
+  {
+    "ItemCode": "300150001",
+    "ItemName": "CREMA CHANTILLY SOPROLE 1X250 GR."
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "100355046",
+    "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355016",
+    "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
   }
 ]
