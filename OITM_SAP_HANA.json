@@ -23240,10 +23240,6 @@
     "ItemName": "VOLCAN DE DULCE DE LECHE 24X80 GR"
   },
   {
-    "ItemCode": "300400023",
-    "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
-  },
-  {
     "ItemCode": "104070005",
     "ItemName": "CEBOLLA PERLA TRAVERSO 24 X 500 GR"
   },
@@ -27886,10 +27882,6 @@
   {
     "ItemCode": "204000009",
     "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "200250034",
-    "ItemName": "PAPAS PRE FRITAS 10 MM TRADICIONAL NAC 6X2 KG"
   },
   {
     "ItemCode": "200307011",
@@ -46432,14 +46424,6 @@
     "ItemName": "FETUCCINI HUEVO 1X400 GR"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
@@ -46584,20 +46568,12 @@
     "ItemName": "COUS COUS 1X1 KG"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "300158003",
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
     "ItemCode": "300158002",
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "101008006",
@@ -47304,10 +47280,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
@@ -47942,5 +47914,33 @@
   {
     "ItemCode": "100905003",
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "200250034",
+    "ItemName": "PAPAS PRE FRITAS 10 MM TRADICIONAL NAC 6X2 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "300400023",
+    "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   }
 ]
