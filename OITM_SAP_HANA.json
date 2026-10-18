@@ -23224,10 +23224,6 @@
     "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "200301003",
-    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
-  },
-  {
     "ItemCode": "204390006",
     "ItemName": "PULPO DE JUAN FERNANDEZ 850 - 2500 GR (APROX)"
   },
@@ -41812,10 +41808,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG (NAC)"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
     "ItemCode": "100355011",
     "ItemName": "SYRUP MENTA MONIN 1X750 ML"
   },
@@ -41934,10 +41926,6 @@
   {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
-  },
-  {
-    "ItemCode": "204300041",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
     "ItemCode": "100901003",
@@ -47572,10 +47560,6 @@
     "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "100051004",
     "ItemName": "PICKLE SURTIDO TRAVERSO 6X1 KG"
   },
@@ -47856,14 +47840,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "202820021",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
   },
@@ -47942,5 +47918,29 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "200301003",
+    "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "204300041",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
   }
 ]
