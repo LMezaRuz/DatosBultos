@@ -32056,10 +32056,6 @@
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "204150019",
     "ItemName": "PAN MOLDE INTEGRAL TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
@@ -35982,10 +35978,6 @@
   {
     "ItemCode": "203200045",
     "ItemName": "FILETITO TEMPURA DE POLLO ALEGRA 4X1,5 KG"
-  },
-  {
-    "ItemCode": "203210117",
-    "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
   },
   {
     "ItemCode": "203200047",
@@ -46180,10 +46172,6 @@
     "ItemName": "PASAS RUBIA 1X250 GR"
   },
   {
-    "ItemCode": "104520008",
-    "ItemName": "SAL BIOSAL 30 X 125 GR"
-  },
-  {
     "ItemCode": "100250007",
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
@@ -46294,10 +46282,6 @@
   {
     "ItemCode": "100902002",
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
-  },
-  {
-    "ItemCode": "102610000",
-    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
     "ItemCode": "202910059",
@@ -46578,10 +46562,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "103210007",
@@ -46900,10 +46880,6 @@
     "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
-  },
-  {
     "ItemCode": "100101005",
     "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   },
@@ -47058,10 +47034,6 @@
   {
     "ItemCode": "102810003",
     "ItemName": "CALDO CONCENTRADO DE VERDURAS TKF 10X1 KG"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "200500008",
@@ -47460,10 +47432,6 @@
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "101100007",
     "ItemName": "SPAGUETTI 1X5 KG"
   },
@@ -47610,10 +47578,6 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
   {
     "ItemCode": "200300002",
@@ -47872,20 +47836,12 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "204300051",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
-  },
-  {
     "ItemCode": "303870001",
     "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "101351023",
@@ -47952,7 +47908,51 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
+    "ItemCode": "204300051",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "203210117",
+    "ItemName": "BIFE DE LOMO LISO MARINADO 15% 250 GR (6 BOLSAS X 4 UN)"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "104520008",
+    "ItemName": "SAL BIOSAL 30 X 125 GR"
+  },
+  {
     "ItemCode": "200500039",
     "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "102610000",
+    "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   }
 ]
