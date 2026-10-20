@@ -28000,10 +28000,6 @@
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "103840001",
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG (NCB-654)"
   },
@@ -28146,10 +28142,6 @@
   {
     "ItemCode": "202820009",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
-  },
-  {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
   {
     "ItemCode": "204380020",
@@ -35744,10 +35736,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "104670064",
-    "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
-  },
-  {
     "ItemCode": "104670057",
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
@@ -41732,10 +41720,6 @@
     "ItemName": "YOGURT FRUTILLA SOPROLE 1X120 GR."
   },
   {
-    "ItemCode": "200100008",
-    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "200100003",
     "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
@@ -46580,10 +46564,6 @@
     "ItemName": "HARINA CON POLVO MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
@@ -47120,10 +47100,6 @@
     "ItemName": "DISPENSADOR MONIN PUMP 750"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
-  },
-  {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
@@ -47502,14 +47478,6 @@
   {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
-  },
-  {
-    "ItemCode": "101355001",
-    "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "203200017",
@@ -47954,5 +47922,37 @@
   {
     "ItemCode": "203550001",
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "101355001",
+    "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
+  },
+  {
+    "ItemCode": "104670064",
+    "ItemName": "TE LIPTON YELLOW LABEL 10 X 50 BLS"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200100008",
+    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   }
 ]
