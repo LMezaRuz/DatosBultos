@@ -27704,10 +27704,6 @@
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "100304060",
-    "ItemName": "NECTAR DE MANZANA 6X200 ML"
-  },
-  {
     "ItemCode": "101100065",
     "ItemName": "TALLARIN TALLIANI 78 25X400 GR"
   },
@@ -27734,10 +27730,6 @@
   {
     "ItemCode": "204000002",
     "ItemName": "OSOBUCO DE MANO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "103910023",
-    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
   },
   {
     "ItemCode": "100002015",
@@ -27770,10 +27762,6 @@
   {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
-  },
-  {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
   },
   {
     "ItemCode": "202910010",
@@ -27942,10 +27930,6 @@
   {
     "ItemCode": "202910027",
     "ItemName": "PALETA DE CERDO CONG.BRASIL LOCAL X KG (APROX. 25 KG)"
-  },
-  {
-    "ItemCode": "101100060",
-    "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
   {
     "ItemCode": "104210017",
@@ -32172,10 +32156,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "103480007",
-    "ItemName": "GALLETA OREO 30X108 GR"
-  },
-  {
     "ItemCode": "103180009",
     "ItemName": "DURAZNOS CUBITOS WASIL 16X380 G"
   },
@@ -36180,10 +36160,6 @@
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
-    "ItemCode": "204170000",
-    "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
-  },
-  {
     "ItemCode": "300156011",
     "ItemName": "YOGURT SABOR CHIRIMOYA EN BOLSA CALAN 12X1 LT"
   },
@@ -39840,10 +39816,6 @@
     "ItemName": "MANTECA CRUCINA PANADERA VEGETAL 10X1"
   },
   {
-    "ItemCode": "100852016",
-    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
-  },
-  {
     "ItemCode": "100750007",
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
@@ -42752,10 +42724,6 @@
     "ItemName": "SALSA DE CARAMELO 1X1 LT."
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "300352003",
     "ItemName": "PULPA DE CERDO KG (NV)"
   },
@@ -42802,10 +42770,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
   },
   {
     "ItemCode": "204300056",
@@ -46844,10 +46808,6 @@
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
-    "ItemCode": "100304013",
-    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
-  },
-  {
     "ItemCode": "204790021",
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
@@ -47286,10 +47246,6 @@
   {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "203550001",
@@ -47948,15 +47904,59 @@
     "ItemName": "LINGOTE DE PRALINE Y CARAMELO 27X72 GR"
   },
   {
-    "ItemCode": "100852009",
-    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
-  },
-  {
     "ItemCode": "104670011",
     "ItemName": "TE TWININGS LIMON Y JENGIBRE 1X10 UN"
   },
   {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
+  },
+  {
+    "ItemCode": "204170000",
+    "ItemName": "SNACK CHILI CHEESE TOPPERS 6X1,5 KG"
+  },
+  {
+    "ItemCode": "103910023",
+    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "101100060",
+    "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
+  },
+  {
+    "ItemCode": "100304013",
+    "ItemName": "NECTAR DE DURAZNO 6X200 ML"
+  },
+  {
+    "ItemCode": "100304060",
+    "ItemName": "NECTAR DE MANZANA 6X200 ML"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "100852016",
+    "ItemName": "GALLETA FRAC SABORES 36x110 GR"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "103480007",
+    "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100852009",
+    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
   }
 ]
