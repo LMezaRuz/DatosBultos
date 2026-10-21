@@ -28396,10 +28396,6 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "204790031",
-    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
   },
@@ -32412,10 +32408,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
-  },
-  {
     "ItemCode": "203210111",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 250 GR (6 BOLSAS X 4 UN)"
   },
@@ -35756,10 +35748,6 @@
     "ItemName": "ESTUCHE PAPA MEDIANA BARRIO CHICKEN 1X1000 UN"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101150010",
     "ItemName": "SAL DE PAPA GARLIC AND PEPPER GYN 1 X 1 KG"
   },
@@ -36046,10 +36034,6 @@
   {
     "ItemCode": "202730082",
     "ItemName": "DONUT RELLENA COOKIES & CREAM 36X75 GR (67122)"
-  },
-  {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
     "ItemCode": "304760504",
@@ -36426,10 +36410,6 @@
   {
     "ItemCode": "204090008",
     "ItemName": "KANIKAMA EL GOLFO 40X200 GR"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "400251011",
@@ -42188,10 +42168,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
   {
-    "ItemCode": "101402003",
-    "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
-  },
-  {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
@@ -43982,10 +43958,6 @@
   {
     "ItemCode": "400010013",
     "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
     "ItemCode": "100903001",
@@ -47624,10 +47596,6 @@
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -47730,10 +47698,6 @@
   {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "104520005",
@@ -47958,5 +47922,41 @@
   {
     "ItemCode": "103880022",
     "ItemName": "MAYONESA DELI KRAFT FLEX 4X18X90 GR"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "101402003",
+    "ItemName": "PIMIENTO PIQUILLOS 12X290 GR"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "204790031",
+    "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   }
 ]
