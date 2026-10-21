@@ -23100,10 +23100,6 @@
     "ItemName": "QUESO MANTECOSO RUEDA MERKEN LPV 16X200 GR"
   },
   {
-    "ItemCode": "303090002",
-    "ItemName": "CREMA ACIDA LONCOLECHE 12X140 GR"
-  },
-  {
     "ItemCode": "204300005",
     "ItemName": "TRUTRO CORTO 12X800 GR"
   },
@@ -23982,10 +23978,6 @@
   {
     "ItemCode": "304850039",
     "ItemName": "YOGURT ACTIVIA FRUTILLA SIN LACTOSA 24X140 GR"
-  },
-  {
-    "ItemCode": "304850040",
-    "ItemName": "YOGURT ACTIVIA NATURAL ENDULZADO SIN LACTOSA 24X140 GR"
   },
   {
     "ItemCode": "304860014",
@@ -31374,10 +31366,6 @@
   {
     "ItemCode": "204140017",
     "ItemName": "PAN MOLDE MIGA INTEGRAL 16X16 CM CONGELADO 3X2,5 KG"
-  },
-  {
-    "ItemCode": "204310014",
-    "ItemName": "LINGOTE DE PRALINE Y CARAMELO 27X72 GR"
   },
   {
     "ItemCode": "202730049",
@@ -47900,10 +47888,6 @@
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "300400009",
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
@@ -47958,5 +47942,21 @@
   {
     "ItemCode": "300157040",
     "ItemName": "YOGURT GRI OIKOS COLCHON FRT. DURAZNO 48X150 CAJA"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "304850040",
+    "ItemName": "YOGURT ACTIVIA NATURAL ENDULZADO SIN LACTOSA 24X140 GR"
+  },
+  {
+    "ItemCode": "303090002",
+    "ItemName": "CREMA ACIDA LONCOLECHE 12X140 GR"
+  },
+  {
+    "ItemCode": "204310014",
+    "ItemName": "LINGOTE DE PRALINE Y CARAMELO 27X72 GR"
   }
 ]
