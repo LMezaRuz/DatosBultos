@@ -23632,10 +23632,6 @@
     "ItemName": "QUESO GOUDA EN BLOQUE 1X15 KG APP"
   },
   {
-    "ItemCode": "103910037",
-    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "304760514",
     "ItemName": "POLLO GANSO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -23920,10 +23916,6 @@
     "ItemName": "PATAS DE POLLO 20 KG APROX."
   },
   {
-    "ItemCode": "103910036",
-    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "304760560",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
@@ -24168,10 +24160,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "103910038",
-    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "102660005",
     "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   },
@@ -24186,10 +24174,6 @@
   {
     "ItemCode": "100751053",
     "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
-  },
-  {
-    "ItemCode": "103910035",
-    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
   },
   {
     "ItemCode": "104020003",
@@ -24520,14 +24504,6 @@
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
-  },
-  {
     "ItemCode": "103910033",
     "ItemName": "MERMELADA ALCAYOTA WATTS 24X225 GR"
   },
@@ -24546,10 +24522,6 @@
   {
     "ItemCode": "104080006",
     "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
-  },
-  {
-    "ItemCode": "103910046",
-    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
   {
     "ItemCode": "304450014",
@@ -28644,10 +28616,6 @@
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "103910048",
-    "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
@@ -32424,10 +32392,6 @@
     "ItemName": "LECHE CONDENSADA LONCOLECHE 4X5 KG"
   },
   {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "302960000",
     "ItemName": "CHOCOLATE SUC. SICAO LECHE 12X800 GR (ILM-A99)"
   },
@@ -32438,10 +32402,6 @@
   {
     "ItemCode": "304760548",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103910032",
-    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
   },
   {
     "ItemCode": "204300091",
@@ -36686,10 +36646,6 @@
   {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "103910034",
-    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
     "ItemCode": "303870004",
@@ -42744,10 +42700,6 @@
     "ItemName": "JUGO EN POLVO ZUKO FRAMBUESA 10X15 GR"
   },
   {
-    "ItemCode": "200308004",
-    "ItemName": "PAILA MARINA NAC 20X500 GR"
-  },
-  {
     "ItemCode": "100751011",
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
@@ -48014,5 +47966,53 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910032",
+    "ItemName": "MERMELADA CIRUELA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910034",
+    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910035",
+    "ItemName": "MERMELADA MORA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910036",
+    "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910037",
+    "ItemName": "MERMELADA FRUTILLA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910038",
+    "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910046",
+    "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910048",
+    "ItemName": "MERMELADA DAMASCO LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "200308004",
+    "ItemName": "PAILA MARINA NAC 20X500 GR"
   }
 ]
