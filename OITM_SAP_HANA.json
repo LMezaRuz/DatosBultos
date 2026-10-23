@@ -34848,10 +34848,6 @@
     "ItemName": "PANNA COTTA TKF 10X1 KG"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "202720030",
     "ItemName": "MUFFIN DE LIMON CON GLASEADO DE AZUCAR 20X110 GR"
   },
@@ -35190,10 +35186,6 @@
   {
     "ItemCode": "104560003",
     "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
-  },
-  {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "101100064",
@@ -35890,14 +35882,6 @@
   {
     "ItemCode": "204000008",
     "ItemName": "CORAZON VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "103940020",
-    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "403130000",
@@ -42956,10 +42940,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "100300009",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 12X600 CC."
   },
@@ -46488,10 +46468,6 @@
     "ItemName": "SEMOLA 1X1 KG"
   },
   {
-    "ItemCode": "200307005",
-    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -46842,10 +46818,6 @@
   {
     "ItemCode": "100102009",
     "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "100855012",
@@ -47286,10 +47258,6 @@
   {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "101353020",
@@ -47976,10 +47944,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
-  },
-  {
     "ItemCode": "200003005",
     "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
@@ -48014,5 +47978,41 @@
   {
     "ItemCode": "204790023",
     "ItemName": "COLIFLOR SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "103940020",
+    "ItemName": "MOSTAZA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "200307005",
+    "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
