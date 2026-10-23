@@ -32296,10 +32296,6 @@
     "ItemName": "TE LIPTON YELLOW LABEL 10X100 UN"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "204180017",
     "ItemName": "PAPAS PREFRITAS CORTE CASERO 12MM COOLMIND 6X2,5 KG"
   },
@@ -32350,10 +32346,6 @@
   {
     "ItemCode": "202910072",
     "ItemName": "MALAYITA DE CERDO 5X1 KG"
-  },
-  {
-    "ItemCode": "303870001",
-    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
   },
   {
     "ItemCode": "304850025",
@@ -35612,10 +35604,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "203200031",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
-  },
-  {
     "ItemCode": "302890012",
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
@@ -36516,10 +36504,6 @@
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "204380027",
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
@@ -36778,10 +36762,6 @@
   {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "200500037",
-    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
     "ItemCode": "304850037",
@@ -43192,10 +43172,6 @@
     "ItemName": "HELADO DE PLATANO MANJAR ( CREMA ) 1X4,8 LT."
   },
   {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
-  },
-  {
     "ItemCode": "200301002",
     "ItemName": "CALAMAR TUBO 10X1 KG (Local)"
   },
@@ -43402,10 +43378,6 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
-    "ItemCode": "200455001",
-    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
   },
   {
     "ItemCode": "101010001",
@@ -43844,10 +43816,6 @@
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "200250008",
     "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
   },
@@ -44238,10 +44206,6 @@
   {
     "ItemCode": "100551002",
     "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
   },
   {
     "ItemCode": "200250012",
@@ -44724,10 +44688,6 @@
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200307005",
     "ItemName": "SALMON AHUMADO RECORTE 1X500 GR"
   },
@@ -44858,10 +44818,6 @@
   {
     "ItemCode": "304760198",
     "ItemName": "TAPAPECHO BRASIL CONG. LOCAL (20KG. APROX)"
-  },
-  {
-    "ItemCode": "200302028",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
   {
     "ItemCode": "400010020",
@@ -48014,5 +47970,49 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "200455001",
+    "ItemName": "GOLDEN CHICKEN SADIA 4X3 KG"
+  },
+  {
+    "ItemCode": "303870001",
+    "ItemName": "MARGARINA CON SAL QUALY 12X500 GR"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "203200031",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
+  },
+  {
+    "ItemCode": "200302028",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "200500037",
+    "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
