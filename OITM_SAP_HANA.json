@@ -34832,10 +34832,6 @@
     "ItemName": "PLATEADA KG (P&H)"
   },
   {
-    "ItemCode": "400301031",
-    "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
-  },
-  {
     "ItemCode": "100350009",
     "ItemName": "CAFE FOLKS BLEND GRANO X1 KG (100% arábica)"
   },
@@ -39944,10 +39940,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
   },
   {
-    "ItemCode": "300404009",
-    "ItemName": "QUESO GAUDA CALO P-3KG"
-  },
-  {
     "ItemCode": "300405005",
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
@@ -41118,10 +41110,6 @@
   {
     "ItemCode": "100854014",
     "ItemName": "TIKA FURIOSAS 48 UN X 35 GRS"
-  },
-  {
-    "ItemCode": "100854002",
-    "ItemName": "TIKA PATAGONIA 48X35 GR"
   },
   {
     "ItemCode": "100802002",
@@ -47328,10 +47316,6 @@
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -47466,10 +47450,6 @@
   {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
   },
   {
     "ItemCode": "102610000",
@@ -47872,10 +47852,6 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
@@ -48014,5 +47990,29 @@
   {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300404009",
+    "ItemName": "QUESO GAUDA CALO P-3KG"
+  },
+  {
+    "ItemCode": "100854002",
+    "ItemName": "TIKA PATAGONIA 48X35 GR"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "400301031",
+    "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   }
 ]
