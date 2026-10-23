@@ -24388,10 +24388,6 @@
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
   },
   {
-    "ItemCode": "103910040",
-    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
-  },
-  {
     "ItemCode": "202820009",
     "ItemName": "CAMARON IMP CHINO COCIDO PELADO DESV 36-40 10 X 1 KG"
   },
@@ -28606,10 +28602,6 @@
   {
     "ItemCode": "103910018",
     "ItemName": "MERMELADA DE MORA SIN AZUCAR WATTS 24X200 GR"
-  },
-  {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
   },
   {
     "ItemCode": "304440013",
@@ -35556,10 +35548,6 @@
     "ItemName": "PAN MOLDE MIGA BLANCO 16X16 CM CONGELADO 3X2,5 KG"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "204750007",
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
@@ -35718,10 +35706,6 @@
   {
     "ItemCode": "100751054",
     "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
-    "ItemCode": "304760453",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "100303005",
@@ -36462,14 +36446,6 @@
   {
     "ItemCode": "102930010",
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
     "ItemCode": "104010035",
@@ -42516,10 +42492,6 @@
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "200307003",
-    "ItemName": "SALMON FILETE PREMIUM 2/3 CON PIEL TRIM D AL VACIO KG"
-  },
-  {
     "ItemCode": "400005005",
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
   },
@@ -42926,10 +42898,6 @@
   {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO SABOR DURAZNO TRAVERSO 1X5 LT"
-  },
-  {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "203210014",
@@ -44330,10 +44298,6 @@
   {
     "ItemCode": "202990004",
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
-  },
-  {
-    "ItemCode": "204750015",
-    "ItemName": "POSTA ROSADA AL VACIO CAT U BRASIL CONG. LOCAL (20 KG APROX)"
   },
   {
     "ItemCode": "100555004",
@@ -47744,10 +47708,6 @@
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "203200031",
     "ItemName": "TIRAS DE PECHUGA DE POLLO REBOZADA SADIA 3 X 2 KG"
   },
@@ -47766,10 +47726,6 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103910032",
@@ -47880,10 +47836,6 @@
     "ItemName": "ADEREZO CITRUS GARLIC 15X1 KG"
   },
   {
-    "ItemCode": "104010067",
-    "ItemName": "SALSA HOT WINGS 10X48 OZ"
-  },
-  {
     "ItemCode": "404740002",
     "ItemName": "JABON BARRA ACEITE ALMENDRA 90 GR LE SANCY 1X1 UN"
   },
@@ -47952,16 +47904,8 @@
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
   {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "204000010",
     "ItemName": "HIGADO VACUNO CONG. KG (20 KG APROX.)"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "200455011",
@@ -48014,5 +47958,61 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "304760453",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "200307003",
+    "ItemName": "SALMON FILETE PREMIUM 2/3 CON PIEL TRIM D AL VACIO KG"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "104010067",
+    "ItemName": "SALSA HOT WINGS 10X48 OZ"
+  },
+  {
+    "ItemCode": "204750015",
+    "ItemName": "POSTA ROSADA AL VACIO CAT U BRASIL CONG. LOCAL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "103910040",
+    "ItemName": "MERMELADA FRUTILLA WATTS 12X225 GR"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   }
 ]
