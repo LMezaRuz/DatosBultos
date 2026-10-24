@@ -24120,10 +24120,6 @@
     "ItemName": "COMPOTA DE PERA WATT'S 36X90"
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE KIMBO EN GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "102680016",
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
@@ -35532,10 +35528,6 @@
     "ItemName": "PANAL DE MEMBRILLO 72X50 GR"
   },
   {
-    "ItemCode": "200200033",
-    "ItemName": "REJILLA PASTELERA X 72 UN"
-  },
-  {
     "ItemCode": "304760520",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -40782,10 +40774,6 @@
   {
     "ItemCode": "200302022",
     "ItemName": "CAMARON APANADO CRUDO PELADO DESVENADO 10 X 500 GR"
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "100352006",
@@ -46504,10 +46492,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE ARANDANOS 42X26 GR"
   },
   {
-    "ItemCode": "202720041",
-    "ItemName": "MINI MUFFIN CHIPS CHOCOLATES 80X20 GR"
-  },
-  {
     "ItemCode": "200200010",
     "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   },
@@ -46856,10 +46840,6 @@
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -47108,10 +47088,6 @@
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
-    "ItemCode": "200203007",
-    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
-  },
-  {
     "ItemCode": "304440013",
     "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
@@ -47288,10 +47264,6 @@
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
@@ -47444,16 +47416,8 @@
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101354019",
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "104010005",
@@ -47630,10 +47594,6 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "103910037",
@@ -47836,10 +47796,6 @@
     "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
-    "ItemCode": "101401004",
-    "ItemName": "CHOCLO DULCE WASIL 16X340"
-  },
-  {
     "ItemCode": "203200029",
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
   },
@@ -48030,5 +47986,49 @@
   {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101401004",
+    "ItemName": "CHOCLO DULCE WASIL 16X340"
+  },
+  {
+    "ItemCode": "200200033",
+    "ItemName": "REJILLA PASTELERA X 72 UN"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "200203007",
+    "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE KIMBO EN GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "202720041",
+    "ItemName": "MINI MUFFIN CHIPS CHOCOLATES 80X20 GR"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   }
 ]
