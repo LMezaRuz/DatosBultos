@@ -27716,10 +27716,6 @@
     "ItemName": "BROWNIE DE CHOCOLATE CON NUEZ 3X2 KG"
   },
   {
-    "ItemCode": "303870012",
-    "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
-  },
-  {
     "ItemCode": "300353132",
     "ItemName": "LOMO LISO PARAGUAY CAT V LOCAL (CAJA DE 20 KG APROX)"
   },
@@ -31656,10 +31652,6 @@
     "ItemName": "GANSO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "200452003",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
-  },
-  {
     "ItemCode": "202730048",
     "ItemName": "MUFFIN DE CHOCOLATE RELLENO C/CREMA CHOCOLATE Y AVELLANA 20X95 GR"
   },
@@ -31694,10 +31686,6 @@
   {
     "ItemCode": "102840005",
     "ItemName": "CAFE KIMBO DESCAFEINADO BARISTA CAPSULA ESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
   },
   {
     "ItemCode": "202730007",
@@ -40272,10 +40260,6 @@
     "ItemName": "JAMON SANDWICH  1x500 g."
   },
   {
-    "ItemCode": "300157038",
-    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
     "ItemCode": "304850035",
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
@@ -41912,10 +41896,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
   {
-    "ItemCode": "103650025",
-    "ItemName": "NECTAR PIÑA LIGTH WATTS 6X200 ML"
-  },
-  {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
@@ -41942,10 +41922,6 @@
   {
     "ItemCode": "100352007",
     "ItemName": "CAFE NAPOLI EN CAPSULA (ESPRESSO POINT) 1X100 UN"
-  },
-  {
-    "ItemCode": "103650027",
-    "ItemName": "NECTAR DURAZNO LIGHT WATTS 6X200 ML"
   },
   {
     "ItemCode": "400005016",
@@ -42906,14 +42882,6 @@
   {
     "ItemCode": "100355001",
     "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
-  },
-  {
-    "ItemCode": "103650021",
-    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "103650024",
-    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
   },
   {
     "ItemCode": "101353022",
@@ -47616,20 +47584,12 @@
     "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
-  },
-  {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
   },
   {
     "ItemCode": "304110018",
@@ -47682,10 +47642,6 @@
   {
     "ItemCode": "103910029",
     "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "101401004",
@@ -47940,10 +47896,6 @@
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101304001",
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
@@ -48030,5 +47982,53 @@
   {
     "ItemCode": "200500032",
     "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "200452003",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "103650024",
+    "ItemName": "NECTAR DURAZNO WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650021",
+    "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "103650025",
+    "ItemName": "NECTAR PIÑA LIGTH WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "103650027",
+    "ItemName": "NECTAR DURAZNO LIGHT WATTS 6X200 ML"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "303870012",
+    "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "300157038",
+    "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
   }
 ]
