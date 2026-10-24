@@ -23152,10 +23152,6 @@
     "ItemName": "MERLUZA AUSTRAL PORCIONADA 27X180 GR"
   },
   {
-    "ItemCode": "204530042",
-    "ItemName": "SALMON EN CUBOS DE 1,5 A 2,5 CM 35X140 GR"
-  },
-  {
     "ItemCode": "203900010",
     "ItemName": "MERLUZA AUSTRAL EN CUBOS 25X200 GR"
   },
@@ -28242,10 +28238,6 @@
   {
     "ItemCode": "400250002",
     "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
     "ItemCode": "103650002",
@@ -39588,10 +39580,6 @@
     "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
-    "ItemCode": "100250007",
-    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
-  },
-  {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
@@ -42702,10 +42690,6 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "103910037",
@@ -47012,10 +46996,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -47334,10 +47314,6 @@
   {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
     "ItemCode": "100902001",
@@ -47696,10 +47672,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
   },
@@ -48030,5 +48002,33 @@
   {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204530042",
+    "ItemName": "SALMON EN CUBOS DE 1,5 A 2,5 CM 35X140 GR"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100250007",
+    "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   }
 ]
