@@ -28476,10 +28476,6 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
-  },
-  {
     "ItemCode": "101403001",
     "ItemName": "PALMITOS RODAJAS  12x800 g."
   },
@@ -43508,10 +43504,6 @@
     "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
@@ -43734,10 +43726,6 @@
   {
     "ItemCode": "200303012",
     "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
-  },
-  {
-    "ItemCode": "101001003",
-    "ItemName": "LECHE DE COCO 1X400 GR"
   },
   {
     "ItemCode": "600002004",
@@ -47768,10 +47756,6 @@
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
@@ -48030,5 +48014,21 @@
   {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101001003",
+    "ItemName": "LECHE DE COCO 1X400 GR"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   }
 ]
