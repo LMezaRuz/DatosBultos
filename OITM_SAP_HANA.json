@@ -28656,10 +28656,6 @@
     "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "304760321",
     "ItemName": "POSTA ROSADA VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)(X-MAYOR)"
   },
@@ -31992,10 +31988,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "203190012",
-    "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
-  },
-  {
     "ItemCode": "102580002",
     "ItemName": "FECULA DE PAPA 1X25 KG"
   },
@@ -32614,10 +32606,6 @@
   {
     "ItemCode": "200250003",
     "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
-  },
-  {
-    "ItemCode": "203200029",
-    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
   },
   {
     "ItemCode": "100003008",
@@ -36574,10 +36562,6 @@
   {
     "ItemCode": "204790031",
     "ItemName": "ARVEJAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
-    "ItemCode": "202670000",
-    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "102790002",
@@ -40868,14 +40852,6 @@
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
   },
   {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
-  },
-  {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
@@ -41834,10 +41810,6 @@
   {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
-    "ItemCode": "203210042",
-    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
   },
   {
     "ItemCode": "100951003",
@@ -42876,10 +42848,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG (NAC)"
   },
   {
-    "ItemCode": "200303015",
-    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
-  },
-  {
     "ItemCode": "200304002",
     "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
   },
@@ -43592,10 +43560,6 @@
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
   {
-    "ItemCode": "203200003",
-    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
     "ItemCode": "300351031",
     "ItemName": "CHORICILLO PF 1X1 KG."
   },
@@ -43614,10 +43578,6 @@
   {
     "ItemCode": "101202005",
     "ItemName": "PURE DE PAPAS KNORR 1X2 KG."
-  },
-  {
-    "ItemCode": "203210010",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
     "ItemCode": "100101006",
@@ -47960,10 +47920,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -48030,5 +47986,49 @@
   {
     "ItemCode": "200402032",
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "203210042",
+    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "203210010",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
+  },
+  {
+    "ItemCode": "203200029",
+    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
+  },
+  {
+    "ItemCode": "200303015",
+    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "203190012",
+    "ItemName": "LOMITO CERDO 10 PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "203200003",
+    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
+  },
+  {
+    "ItemCode": "202670000",
+    "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   }
 ]
