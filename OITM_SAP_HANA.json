@@ -24404,10 +24404,6 @@
     "ItemName": "MIX MANI-ALMENDRA-PASA-RUBIA 1X1 KG"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
   },
@@ -28596,10 +28592,6 @@
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "204380040",
     "ItemName": "PULPA DE LIMONADA RIO ALTO 5X1 KG"
   },
@@ -31976,10 +31968,6 @@
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
   },
   {
-    "ItemCode": "400251015",
-    "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
-  },
-  {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
@@ -32566,10 +32554,6 @@
   {
     "ItemCode": "300157027",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "100101002",
@@ -43116,10 +43100,6 @@
     "ItemName": "TIKA CHILOE  48 UN X 35 GRS"
   },
   {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
-  },
-  {
     "ItemCode": "101200016",
     "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
   },
@@ -44586,10 +44566,6 @@
   {
     "ItemCode": "100550005",
     "ItemName": "MERKEN MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
   },
   {
     "ItemCode": "900621423",
@@ -47844,10 +47820,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100102009",
-    "ItemName": "LENTEJAS 6 MM 10X1 KG."
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -47944,10 +47916,6 @@
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
   {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
-  },
-  {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
   },
@@ -48030,5 +47998,37 @@
   {
     "ItemCode": "204100010",
     "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "400251015",
+    "ItemName": "SERVILLETA XPRESSNAP NATURAL 33X21,5 24X250UN SE70052"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102009",
+    "ItemName": "LENTEJAS 6 MM 10X1 KG."
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
   }
 ]
