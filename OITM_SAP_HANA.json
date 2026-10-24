@@ -47900,10 +47900,6 @@
     "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100803003",
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
@@ -47918,10 +47914,6 @@
   {
     "ItemCode": "204380022",
     "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "204380027",
@@ -48030,5 +48022,13 @@
   {
     "ItemCode": "200001002",
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
