@@ -27828,10 +27828,6 @@
     "ItemName": "PULPA DE MELON TUNA RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "303630000",
-    "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "204000008",
     "ItemName": "CORAZON VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -27862,14 +27858,6 @@
   {
     "ItemCode": "204870000",
     "ItemName": "HUESO DE COGOTE (CAJA 10 A 22 KG ) APROX"
-  },
-  {
-    "ItemCode": "303660005",
-    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
     "ItemCode": "304760031",
@@ -43216,20 +43204,12 @@
     "ItemName": "HABAS PELADAS 7X1 KG."
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101100039",
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "304760552",
@@ -47160,10 +47140,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "103880035",
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
@@ -48030,5 +48006,29 @@
   {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "303660005",
+    "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303630000",
+    "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   }
 ]
