@@ -31520,10 +31520,6 @@
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
   {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "200500026",
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
@@ -31806,10 +31802,6 @@
   {
     "ItemCode": "104610009",
     "ItemName": "WILD FIT BAR REGULAR COCO 15 DISPL X 16 UN X 35GR."
-  },
-  {
-    "ItemCode": "103180009",
-    "ItemName": "DURAZNOS CUBITOS WASIL 16X380 G"
   },
   {
     "ItemCode": "304760485",
@@ -36250,14 +36242,6 @@
   {
     "ItemCode": "103910034",
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "100651010",
-    "ItemName": "DURAZNOS MITADES WASIL 24X590"
-  },
-  {
-    "ItemCode": "100651011",
-    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
     "ItemCode": "204180026",
@@ -43532,10 +43516,6 @@
     "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
   },
   {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
-  },
-  {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
@@ -47656,14 +47636,6 @@
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
   },
@@ -47714,10 +47686,6 @@
   {
     "ItemCode": "103650021",
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
-  },
-  {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
   },
   {
     "ItemCode": "103650025",
@@ -48030,5 +47998,37 @@
   {
     "ItemCode": "104210012",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "100651010",
+    "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "100651011",
+    "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "103180009",
+    "ItemName": "DURAZNOS CUBITOS WASIL 16X380 G"
   }
 ]
