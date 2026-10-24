@@ -24292,10 +24292,6 @@
     "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   },
   {
-    "ItemCode": "304420004",
-    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
     "ItemCode": "204300085",
     "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
   },
@@ -32430,10 +32426,6 @@
   {
     "ItemCode": "200453019",
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "101201014",
@@ -41184,10 +41176,6 @@
     "ItemName": "BETARRAGAS EN CONSERVA 1X425 GR"
   },
   {
-    "ItemCode": "101355006",
-    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
-  },
-  {
     "ItemCode": "101353014",
     "ItemName": "MAYONESA SACHET HELLMANNS 528X7.4 GR."
   },
@@ -41630,10 +41618,6 @@
   {
     "ItemCode": "101201011",
     "ItemName": "JALEA DE FRAMBUESA (REND. 15 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101007022",
@@ -43058,10 +43042,6 @@
   {
     "ItemCode": "400301040",
     "ItemName": "STICKER QUINOA TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "100052005",
-    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
     "ItemCode": "101353022",
@@ -47988,10 +47968,6 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "200402019",
-    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
-  },
-  {
     "ItemCode": "200002006",
     "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
   },
@@ -48030,5 +48006,29 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101355006",
+    "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
+  },
+  {
+    "ItemCode": "304420004",
+    "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "200402019",
+    "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
+  },
+  {
+    "ItemCode": "100052005",
+    "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   }
 ]
