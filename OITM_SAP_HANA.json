@@ -24352,10 +24352,6 @@
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "302890038",
     "ItemName": "PEPPERONI LAMINADO LA PREFERIDA 4 X 500 GR"
   },
@@ -24438,10 +24434,6 @@
   {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
-  },
-  {
-    "ItemCode": "100250005",
-    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
   },
   {
     "ItemCode": "101100060",
@@ -32056,10 +32048,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "204050011",
-    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "200460037",
     "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
   },
@@ -36226,10 +36214,6 @@
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
     "ItemCode": "304850009",
@@ -41554,10 +41538,6 @@
   {
     "ItemCode": "100200004",
     "ItemName": "AZUCAR FLOR IANSA 12X1 KG"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "100355015",
@@ -47760,10 +47740,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -47968,10 +47944,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "200250015",
     "ItemName": "PAPAS PREFRITAS CRINKLE FARM FRITES 5X2,5 KG"
   },
@@ -47990,10 +47962,6 @@
   {
     "ItemCode": "304010001",
     "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "400101007",
@@ -48030,5 +47998,37 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
+  },
+  {
+    "ItemCode": "100250005",
+    "ItemName": "SALSA ESPAÑOLA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "204050011",
+    "ItemName": "MOZZARELLA STICKS FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   }
 ]
