@@ -41992,10 +41992,6 @@
     "ItemName": "ROLLO PREPICADO REUTILIZABLE 1X106 MT (TO70036)"
   },
   {
-    "ItemCode": "101009017",
-    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "100250002",
     "ItemName": "BASE PARA HAMBURGUESAS 1X1 KG."
   },
@@ -42842,10 +42838,6 @@
   {
     "ItemCode": "203230006",
     "ItemName": "EMPANADA DE PINO DIEZ PUNTOS 10X10 UN"
-  },
-  {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
   {
     "ItemCode": "204790020",
@@ -47412,10 +47404,6 @@
     "ItemName": "BEBIDA LACTEA SABOR MANJAR SHAKE A SHAKE 6X190 ML"
   },
   {
-    "ItemCode": "101009014",
-    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
-  },
-  {
     "ItemCode": "101403009",
     "ItemName": "PALMITOS ENTERO WASIL 24X400"
   },
@@ -48030,5 +48018,17 @@
   {
     "ItemCode": "204050012",
     "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "101009014",
+    "ItemName": "LECHE PLATANO LONCO 6X200 CC"
+  },
+  {
+    "ItemCode": "101009017",
+    "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
   }
 ]
