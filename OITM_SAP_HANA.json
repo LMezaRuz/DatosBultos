@@ -24504,10 +24504,6 @@
     "ItemName": "PULLED PORK 8X1 KG"
   },
   {
-    "ItemCode": "103940023",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
-  },
-  {
     "ItemCode": "200302001",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -27698,10 +27694,6 @@
   {
     "ItemCode": "100751053",
     "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
-  },
-  {
-    "ItemCode": "104670010",
-    "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
   {
     "ItemCode": "104320012",
@@ -32112,10 +32104,6 @@
     "ItemName": "KETCHUP TRAVERSO VINTAGE 10X450 GR"
   },
   {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
-  },
-  {
     "ItemCode": "102960006",
     "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
   },
@@ -32202,10 +32190,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "103850000",
-    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
   {
     "ItemCode": "203210110",
@@ -42328,10 +42312,6 @@
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
@@ -43112,10 +43092,6 @@
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
   {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -43326,10 +43302,6 @@
   {
     "ItemCode": "300351031",
     "ItemName": "CHORICILLO PF 1X1 KG."
-  },
-  {
-    "ItemCode": "100552003",
-    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
   },
   {
     "ItemCode": "100951005",
@@ -43940,10 +43912,6 @@
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
   },
   {
-    "ItemCode": "100557019",
-    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
-  },
-  {
     "ItemCode": "100356050",
     "ItemName": "TE CEYLAN PREMIUM SUPREMO 1 UN X 100 BLS"
   },
@@ -44212,10 +44180,6 @@
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
-    "ItemCode": "100557002",
-    "ItemName": "ALIÑO COMPLETO 1X250 GR"
-  },
-  {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
@@ -44482,10 +44446,6 @@
   {
     "ItemCode": "400010008",
     "ItemName": "CERA CREMA VIRGINIA 12X340 CC"
-  },
-  {
-    "ItemCode": "100551001",
-    "ItemName": "AJO EN POLVO 1X250 GR"
   },
   {
     "ItemCode": "400105004",
@@ -48030,5 +47990,45 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "100552003",
+    "ItemName": "CANELA ENTERA GOURMET 1X15 GR"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "103850000",
+    "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
+  },
+  {
+    "ItemCode": "100557019",
+    "ItemName": "NUEZ MOSCADA MOLIDA 1X100 GR."
+  },
+  {
+    "ItemCode": "100551001",
+    "ItemName": "AJO EN POLVO 1X250 GR"
+  },
+  {
+    "ItemCode": "100557002",
+    "ItemName": "ALIÑO COMPLETO 1X250 GR"
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
+  },
+  {
+    "ItemCode": "103940023",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
+  },
+  {
+    "ItemCode": "104670010",
+    "ItemName": "TE TWININGS VERDE 1X50 UN"
   }
 ]
