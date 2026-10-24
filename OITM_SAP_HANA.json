@@ -24040,10 +24040,6 @@
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "101007032",
     "ItemName": "LECHE POLVO CALO 26% INST 20X850GR"
   },
@@ -24426,10 +24422,6 @@
   {
     "ItemCode": "101009001",
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
-  },
-  {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
     "ItemCode": "200200019",
@@ -31746,10 +31738,6 @@
   {
     "ItemCode": "204300051",
     "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
-  },
-  {
-    "ItemCode": "303850011",
-    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
   },
   {
     "ItemCode": "202730056",
@@ -40184,10 +40172,6 @@
     "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "103530000",
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
@@ -42596,10 +42580,6 @@
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "100004001",
-    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "200201002",
     "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   },
@@ -43332,10 +43312,6 @@
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
   },
@@ -43362,10 +43338,6 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   },
   {
     "ItemCode": "101305006",
@@ -47344,10 +47316,6 @@
     "ItemName": "NUTRINA CAROZZI 20X500 GR"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100558002",
     "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
   },
@@ -47374,10 +47342,6 @@
   {
     "ItemCode": "100302029",
     "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
   },
   {
     "ItemCode": "102660000",
@@ -48030,5 +47994,41 @@
   {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "100004001",
+    "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "303850011",
+    "ItemName": "MANTEQUILLA SIN SAL QUILLAYES 20X250 GR"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   }
 ]
