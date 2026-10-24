@@ -28212,10 +28212,6 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "203190007",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
   },
@@ -28274,10 +28270,6 @@
   {
     "ItemCode": "101100053",
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
-  },
-  {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "304460007",
@@ -35476,10 +35468,6 @@
     "ItemName": "MAIZ CURAGUA 10X1 KG"
   },
   {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
-  },
-  {
     "ItemCode": "104560008",
     "ItemName": "JUGO DE TOMATE EN BOTELLA 24X200 ML"
   },
@@ -42304,10 +42292,6 @@
     "ItemName": "VINAGRE ROSADO TRAVERSO 12X500 CC."
   },
   {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "100356018",
     "ItemName": "TE VERDE PREMIUM 1X50 UN"
   },
@@ -42906,10 +42890,6 @@
   {
     "ItemCode": "300351016",
     "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "101006001",
@@ -43982,10 +43962,6 @@
   {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
-    "ItemCode": "200250010",
-    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "400250005",
@@ -47928,10 +47904,6 @@
     "ItemName": "TALLARIN 87 1X5 KG"
   },
   {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
@@ -48030,5 +48002,33 @@
   {
     "ItemCode": "203210110",
     "ItemName": "LOMO VETADO PORCIONADO SWIFT 300 GR (6 BOLSAS X 3 UN)"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "200250010",
+    "ItemName": "PAPAS PREFRITAS 12MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   }
 ]
