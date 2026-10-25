@@ -22780,10 +22780,6 @@
     "ItemName": "SALMON COHO CON PIEL 5 KG APROX (CAMANCHACA)"
   },
   {
-    "ItemCode": "102680012",
-    "ItemName": "HELADO SOFT SABOR MANJAR 10X800 GR"
-  },
-  {
     "ItemCode": "200100069",
     "ItemName": "HELADO PUDU BERRIE SIN AZUCAR 1X5 LT"
   },
@@ -23264,10 +23260,6 @@
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10 X 800 GR"
   },
   {
-    "ItemCode": "104350013",
-    "ItemName": "HELADO SOFT SABOR VAINILLA 10 X 800 GR"
-  },
-  {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
   },
@@ -23436,10 +23428,6 @@
     "ItemName": "FILETE AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "104350014",
-    "ItemName": "HELADO SOFT SABOR FRUTILLA 10 X 800 GR"
-  },
-  {
     "ItemCode": "304760168",
     "ItemName": "GANSO PARAGUAY CONG. LOCAL (20KG. APROX)"
   },
@@ -23522,10 +23510,6 @@
   {
     "ItemCode": "102680010",
     "ItemName": "HELADO SOFT SABOR PISTACHO 10X800 GR"
-  },
-  {
-    "ItemCode": "102680009",
-    "ItemName": "HELADO SOFT SABOR PLATANO 10X800 GR"
   },
   {
     "ItemCode": "600002035",
@@ -27370,10 +27354,6 @@
   {
     "ItemCode": "102680004",
     "ItemName": "HELADO SOFT SABOR CHIRIMOYA 1 UN X 800 GR"
-  },
-  {
-    "ItemCode": "102680003",
-    "ItemName": "HELADO SOFT SABOR MANGO 1 UN X 800 GR"
   },
   {
     "ItemCode": "104210014",
@@ -40128,10 +40108,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
   {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
-  },
-  {
     "ItemCode": "101100008",
     "ItemName": "SPAGUETTI 5 CAROZZI 1X400 GR"
   },
@@ -41952,10 +41928,6 @@
     "ItemName": "TOALLA D.HOJA 8 X 2 X 24 MT  TO55046"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -42338,14 +42310,6 @@
   {
     "ItemCode": "300351017",
     "ItemName": "VIENESAS TRADICIONAL SAN JORGE 1x1 kG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "203430009",
@@ -42934,10 +42898,6 @@
   {
     "ItemCode": "400151002",
     "ItemName": "DISPENSADOR MONIN PUMP NEGRO P/1,89 LT"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "404600005",
@@ -47480,10 +47440,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -48030,5 +47986,49 @@
   {
     "ItemCode": "100350005",
     "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "104350013",
+    "ItemName": "HELADO SOFT SABOR VAINILLA 10 X 800 GR"
+  },
+  {
+    "ItemCode": "104350014",
+    "ItemName": "HELADO SOFT SABOR FRUTILLA 10 X 800 GR"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "102680009",
+    "ItemName": "HELADO SOFT SABOR PLATANO 10X800 GR"
+  },
+  {
+    "ItemCode": "102680012",
+    "ItemName": "HELADO SOFT SABOR MANJAR 10X800 GR"
+  },
+  {
+    "ItemCode": "102680003",
+    "ItemName": "HELADO SOFT SABOR MANGO 1 UN X 800 GR"
   }
 ]
