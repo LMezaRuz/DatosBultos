@@ -23672,10 +23672,6 @@
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL BETTERBEEF 20 KG (APROX)"
   },
   {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
-  },
-  {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
   },
@@ -28202,10 +28198,6 @@
   {
     "ItemCode": "204100010",
     "ItemName": "REINETA FILETE EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "204140004",
-    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
     "ItemCode": "102480002",
@@ -40936,10 +40928,6 @@
     "ItemName": "CREMA DE ESPARRAGOS 1X1 KG."
   },
   {
-    "ItemCode": "100050005",
-    "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
     "ItemCode": "101200008",
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
@@ -40950,10 +40938,6 @@
   {
     "ItemCode": "101353008",
     "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
-    "ItemCode": "300404008",
-    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
   },
   {
     "ItemCode": "304760425",
@@ -41548,10 +41532,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "200003002",
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
@@ -41770,10 +41750,6 @@
   {
     "ItemCode": "103910035",
     "ItemName": "MERMELADA MORA WATTS 24X225 GR"
-  },
-  {
-    "ItemCode": "303850007",
-    "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
   {
     "ItemCode": "100250006",
@@ -42974,10 +42950,6 @@
   {
     "ItemCode": "400005014",
     "ItemName": "REDECILLA PARA PELO NEGRA 1X100 UN."
-  },
-  {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
     "ItemCode": "300157038",
@@ -47016,10 +46988,6 @@
     "ItemName": "PULPA DE PINA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -47394,10 +47362,6 @@
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100101012",
-    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
   {
     "ItemCode": "102590002",
@@ -47984,10 +47948,6 @@
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "300408001",
     "ItemName": "QUESILLO POTE 1X300 GR."
   },
@@ -48030,5 +47990,45 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "204140004",
+    "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
+  },
+  {
+    "ItemCode": "100101012",
+    "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
+  },
+  {
+    "ItemCode": "303850007",
+    "ItemName": "MANTEQUILLA CON SAL LAS PARCELAS DE VALDIVIA 20X200 GR"
+  },
+  {
+    "ItemCode": "100050005",
+    "ItemName": "ACEITUNA HUASCO 1X1 KG"
+  },
+  {
+    "ItemCode": "300404008",
+    "ItemName": "QUESO GAUDA SOPROLE LAMINADO KG (2,1 KG APROX.)"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
   }
 ]
