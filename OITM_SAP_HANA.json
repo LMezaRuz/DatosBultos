@@ -27884,10 +27884,6 @@
     "ItemName": "TENEDOR 17 CM COMPOSTABLE 1000 UN X CAJA"
   },
   {
-    "ItemCode": "203210120",
-    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
-  },
-  {
     "ItemCode": "100355002",
     "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
   },
@@ -27926,10 +27922,6 @@
   {
     "ItemCode": "204870000",
     "ItemName": "HUESO DE COGOTE (CAJA 10 A 22 KG ) APROX"
-  },
-  {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
   {
     "ItemCode": "101353020",
@@ -27976,10 +27968,6 @@
     "ItemName": "PREPARADO HELADO PREMIUM BOCADO 1X10 LT."
   },
   {
-    "ItemCode": "400301034",
-    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
-  },
-  {
     "ItemCode": "200402033",
     "ItemName": "CARNE MECHADA CONGELADA UNIFOOD 6 UN X 1 KG"
   },
@@ -28000,20 +27988,12 @@
     "ItemName": "TENTACULOS DE PULPO (OCTOPUS MIMUS) 10X1KG"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "403890000",
     "ItemName": "STICKER WRAPS DOGGIS 10X1000 UN"
   },
   {
     "ItemCode": "304450005",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA  3 KG APROX"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "104040006",
@@ -35756,10 +35736,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100201015",
-    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
     "ItemCode": "204090010",
     "ItemName": "PICOROCO COCIDO IQF 10X1 KG"
   },
@@ -35854,10 +35830,6 @@
   {
     "ItemCode": "204310023",
     "ItemName": "BROWNIE SIN GLUTEN 20X100 G"
-  },
-  {
-    "ItemCode": "101150043",
-    "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
   },
   {
     "ItemCode": "302970006",
@@ -36186,10 +36158,6 @@
   {
     "ItemCode": "400301009",
     "ItemName": "PAPEL TERMICO MAMUT ROLLO 1X60 UN"
-  },
-  {
-    "ItemCode": "400301031",
-    "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   },
   {
     "ItemCode": "400301006",
@@ -40784,10 +40752,6 @@
     "ItemName": "DONUT RELLENA PINK & WHITE 36X75GR (67124)"
   },
   {
-    "ItemCode": "101353008",
-    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
-  },
-  {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
@@ -42182,10 +42146,6 @@
   {
     "ItemCode": "100803002",
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
   },
   {
     "ItemCode": "200050007",
@@ -43898,10 +43858,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
     "ItemCode": "403130001",
@@ -47924,10 +47880,6 @@
     "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "101452004",
     "ItemName": "VINAGRE DE MANZANA TRAVERSO 4X5 LT 4% ACIDEZ"
   },
@@ -48030,5 +47982,53 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101353008",
+    "ItemName": "MAYONESA AGROSILVA 12X930 GR"
+  },
+  {
+    "ItemCode": "100201015",
+    "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101150043",
+    "ItemName": "BANDEJA PORTA TACOS TOMMY BEANS 1 X 600 UN"
+  },
+  {
+    "ItemCode": "203210120",
+    "ItemName": "BRISKET ASADO EN CUBOS DE 2X2 6X1 KG (MP)"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "400301031",
+    "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "400301034",
+    "ItemName": "STICKER MECHADA TB 1 X 1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
