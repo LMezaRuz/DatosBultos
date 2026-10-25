@@ -24516,10 +24516,6 @@
     "ItemName": "CEREALBAR GOLDENCEREAL MAS LECHE 6X20X18 GR."
   },
   {
-    "ItemCode": "200302001",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "102780006",
     "ItemName": "CAFE KIMBO EN GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
   },
@@ -28328,10 +28324,6 @@
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -28502,10 +28494,6 @@
   {
     "ItemCode": "304760486",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "300157007",
-    "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
     "ItemCode": "200305008",
@@ -31502,10 +31490,6 @@
   {
     "ItemCode": "AFMQC0018",
     "ItemName": "MAQUINA AUTOMÁTICA RHEA 1 VASO"
-  },
-  {
-    "ItemCode": "101353019",
-    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
   },
   {
     "ItemCode": "101009039",
@@ -35850,10 +35834,6 @@
   {
     "ItemCode": "102480011",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN DOÑA OLIVA 4X5 LT"
-  },
-  {
-    "ItemCode": "304760521",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
     "ItemCode": "203200037",
@@ -40736,10 +40716,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "100052002",
-    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
     "ItemCode": "202820005",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
   },
@@ -43396,20 +43372,12 @@
     "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
   },
   {
-    "ItemCode": "202720033",
-    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
-  },
-  {
     "ItemCode": "100951005",
     "ItemName": "HUEVO BLANCO MEDIANO 1X180 UN"
   },
   {
     "ItemCode": "200460501",
     "ItemName": "REBOZADO DE POLLO IMP. 72 UN X 100 GRS"
-  },
-  {
-    "ItemCode": "202720029",
-    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
   {
     "ItemCode": "101150036",
@@ -43534,10 +43502,6 @@
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "204380029",
@@ -43890,10 +43854,6 @@
   {
     "ItemCode": "600002032",
     "ItemName": "PIMIENTO MORRÓN AMARILLO KG."
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "600001001",
@@ -48030,5 +47990,45 @@
   {
     "ItemCode": "103810005",
     "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "300157007",
+    "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "202720033",
+    "ItemName": "MUFFINS DE ARANDANOS 20X110 GR"
+  },
+  {
+    "ItemCode": "202720029",
+    "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
+  },
+  {
+    "ItemCode": "100052002",
+    "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
+  },
+  {
+    "ItemCode": "200302001",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "101353019",
+    "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
+  },
+  {
+    "ItemCode": "304760521",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   }
 ]
