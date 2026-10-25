@@ -27904,10 +27904,6 @@
     "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
   },
   {
-    "ItemCode": "100558002",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
-  },
-  {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   },
@@ -36076,10 +36072,6 @@
     "ItemName": "MERMELADA DAMASCO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "400105004",
-    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
-  },
-  {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
@@ -41032,10 +41024,6 @@
     "ItemName": "LIMPIADOR CREMA BIODEGRADABLE VIRUTEX 12X750GR"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
   },
@@ -43422,10 +43410,6 @@
   {
     "ItemCode": "400011006",
     "ItemName": "ESPONJA MAGO PADS S/JABON X 1 UN"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
   },
   {
     "ItemCode": "200456050",
@@ -46492,10 +46476,6 @@
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
   {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
-  },
-  {
     "ItemCode": "101008007",
     "ItemName": "LECHE DESCREMADA LONCO LECHE 12X1 LT"
   },
@@ -46518,10 +46498,6 @@
   {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "204380028",
@@ -46992,10 +46968,6 @@
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -47184,16 +47156,8 @@
     "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
-    "ItemCode": "101351012",
-    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
     "ItemCode": "104010002",
     "ItemName": "SALSA HEINZ SWEET RELISH 12X375 GR NACIONAL"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "101200018",
@@ -47330,10 +47294,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "101358005",
@@ -47984,10 +47944,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
-  },
-  {
     "ItemCode": "200302019",
     "ItemName": "CAMARON IMP CH CRUDO PELADO DESV 36/40 1X1 KG"
   },
@@ -47998,10 +47954,6 @@
   {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
-  },
-  {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100201016",
@@ -48030,5 +47982,53 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "400105004",
+    "ItemName": "FILM PLASTICO ESTUCHE 30X300 MTS.."
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101351012",
+    "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "100558002",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X250 GR"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
   }
 ]
