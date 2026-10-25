@@ -31400,10 +31400,6 @@
     "ItemName": "SALAME AHUMADO LAMINADO 1X1,6 KG"
   },
   {
-    "ItemCode": "203210139",
-    "ItemName": "CHURRASCO DE VACUNO GOURMET 36X105 GR"
-  },
-  {
     "ItemCode": "104040034",
     "ItemName": "ESPECIE CAJUN SOUTHWESTERN 20 UN"
   },
@@ -41104,10 +41100,6 @@
     "ItemName": "PIMIENTA NEGRA MOLIDA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "202730083",
-    "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
-  },
-  {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
@@ -42332,10 +42324,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN FULLPRO CAPPUCCINO 18X250"
   },
   {
-    "ItemCode": "203210129",
-    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
-  },
-  {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
   },
@@ -42770,10 +42758,6 @@
   {
     "ItemCode": "400252002",
     "ItemName": "TOALLA JUMBO AUTOCORTE 2X310 MT TO55038"
-  },
-  {
-    "ItemCode": "100852001",
-    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
   },
   {
     "ItemCode": "100852024",
@@ -43926,10 +43910,6 @@
   {
     "ItemCode": "100753002",
     "ItemName": "NUTELLA UNIDAD 1X350 GR."
-  },
-  {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
   },
   {
     "ItemCode": "304460007",
@@ -47356,14 +47336,6 @@
     "ItemName": "HOJALDRE DE CHOCOLATE BRIDOR 76X70 GR"
   },
   {
-    "ItemCode": "202730081",
-    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
-  },
-  {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
   },
@@ -47442,10 +47414,6 @@
   {
     "ItemCode": "101303001",
     "ItemName": "COCO RALLADO 1X250 GR."
-  },
-  {
-    "ItemCode": "400010017",
-    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "300153002",
@@ -47546,10 +47514,6 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "200200033",
-    "ItemName": "REJILLA PASTELERA X 72 UN"
   },
   {
     "ItemCode": "204150016",
@@ -47924,10 +47888,6 @@
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -48030,5 +47990,45 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "100852001",
+    "ItemName": "GALLETA TRITON CLASICA CHOCOLATE 116 GR"
+  },
+  {
+    "ItemCode": "400010017",
+    "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "203210139",
+    "ItemName": "CHURRASCO DE VACUNO GOURMET 36X105 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "203210129",
+    "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
+  },
+  {
+    "ItemCode": "200200033",
+    "ItemName": "REJILLA PASTELERA X 72 UN"
+  },
+  {
+    "ItemCode": "202730083",
+    "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
+  },
+  {
+    "ItemCode": "202730081",
+    "ItemName": "DONUT DUBAI RELLENA PISTACHO 36X75GR (67925)"
   }
 ]
