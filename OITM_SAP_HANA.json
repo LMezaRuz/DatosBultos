@@ -23144,10 +23144,6 @@
     "ItemName": "SALSA DE MANJAR CALO 10X1 KG"
   },
   {
-    "ItemCode": "100852008",
-    "ItemName": "GALLETA DE VINO 1X160 GR."
-  },
-  {
     "ItemCode": "102970019",
     "ItemName": "CHOCOLATE AMARGO 70% CALLEBAUT 2X10 KG"
   },
@@ -35624,10 +35620,6 @@
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
   },
   {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "202730018",
     "ItemName": "MINI CROISSANT BELGA 220X25 GR (28922)"
   },
@@ -35770,10 +35762,6 @@
   {
     "ItemCode": "101201035",
     "ItemName": "BAVAROIS DE NARANJA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
     "ItemCode": "100351017",
@@ -46904,14 +46892,6 @@
     "ItemName": "HUACHALOMO BRASIL CONG. LOCAL (20KG. APROX)"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
@@ -48160,42 +48140,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "300351006",
-    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
-  },
-  {
-    "ItemCode": "202730006",
-    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -48226,10 +48170,6 @@
   {
     "ItemCode": "100751004",
     "ItemName": "MERMELADA DE MORA 1X250 GR"
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "101201013",
@@ -48284,10 +48224,6 @@
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -48318,5 +48254,69 @@
   {
     "ItemCode": "203200032",
     "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "100852008",
+    "ItemName": "GALLETA DE VINO 1X160 GR."
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "300351006",
+    "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "202730006",
+    "ItemName": "MINI DONUT CHOCOLATE 110X20 GR (25560)"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   }
 ]
