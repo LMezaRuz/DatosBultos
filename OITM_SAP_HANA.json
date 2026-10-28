@@ -47096,10 +47096,6 @@
     "ItemName": "MARGARINA SURENA POTE MIX 12X450 GR"
   },
   {
-    "ItemCode": "300153008",
-    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
     "ItemCode": "300404024",
     "ItemName": "QUESO GAUDA LAMINADO CALO 16X233GR"
   },
@@ -47184,10 +47180,6 @@
     "ItemName": "POROTOS WASIL 16X380"
   },
   {
-    "ItemCode": "204790030",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "204790005",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
@@ -47228,16 +47220,8 @@
     "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "100754003",
@@ -47278,10 +47262,6 @@
   {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "100002007",
@@ -48350,5 +48330,25 @@
   {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
+  },
+  {
+    "ItemCode": "300153008",
+    "ItemName": "MANTEQUILLA CALO 20X250 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "204790030",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
   }
 ]
