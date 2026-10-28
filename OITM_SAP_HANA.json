@@ -20376,10 +20376,6 @@
     "ItemName": "COMPOTA DE PERA WATT'S 36X90"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "104210021",
     "ItemName": "ESPIRAL INTEGRAL 1X400 GR"
   },
@@ -24160,10 +24156,6 @@
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "102780006",
-    "ItemName": "CAFE KIMBO EN GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
-  },
-  {
     "ItemCode": "204380017",
     "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
@@ -27818,10 +27810,6 @@
   {
     "ItemCode": "101404008",
     "ItemName": "TOMATE SECO EN ACEITE ITALIANO ARCO 6 X 1,7 KG"
-  },
-  {
-    "ItemCode": "102560016",
-    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "103520002",
@@ -35652,10 +35640,6 @@
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
@@ -39060,10 +39044,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "101400001",
-    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
-  },
-  {
     "ItemCode": "304760546",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
@@ -39134,10 +39114,6 @@
   {
     "ItemCode": "400005010",
     "ItemName": "GUANTE DE LATEX TALLA S 1X100 UN."
-  },
-  {
-    "ItemCode": "101303008",
-    "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
     "ItemCode": "400011004",
@@ -47836,10 +47812,6 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104610013",
     "ItemName": "TIRAS DE BROTES DE BAMBU 6X2,95 KG"
   },
@@ -47942,10 +47914,6 @@
   {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
-  },
-  {
-    "ItemCode": "101100033",
-    "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
     "ItemCode": "100101009",
@@ -48208,10 +48176,6 @@
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
   {
-    "ItemCode": "101150016",
-    "ItemName": "HUMO LIQUIDO 1X1 KG"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -48328,10 +48292,6 @@
     "ItemName": "AVENA INSTANTANEA  1X1 Kg"
   },
   {
-    "ItemCode": "302890052",
-    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -48350,5 +48310,45 @@
   {
     "ItemCode": "204790030",
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "101303008",
+    "ItemName": "GLUCOSA MEL 1X1 KG."
+  },
+  {
+    "ItemCode": "101400001",
+    "ItemName": "CHAMPIÑON LAMINADO SMART CHOICE 6X2.840 GR."
+  },
+  {
+    "ItemCode": "101150016",
+    "ItemName": "HUMO LIQUIDO 1X1 KG"
+  },
+  {
+    "ItemCode": "302890052",
+    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "101100033",
+    "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
+  },
+  {
+    "ItemCode": "102780006",
+    "ItemName": "CAFE KIMBO EN GRANO BARISTA INTENSO (80% ROBUSTA - 20% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "102560016",
+    "ItemName": "AJI CREMA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
   }
 ]
