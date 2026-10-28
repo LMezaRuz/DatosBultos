@@ -34584,10 +34584,6 @@
     "ItemName": "INFUSION MENTA 1X20 UN"
   },
   {
-    "ItemCode": "100851001",
-    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
     "ItemCode": "200459004",
     "ItemName": "PECHUGA PAVO DESHUESADA  C/M  KG"
   },
@@ -39026,10 +39022,6 @@
   {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760627",
-    "ItemName": "ABASTERO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "100951004",
@@ -46136,10 +46128,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "102610001",
-    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
-  },
-  {
     "ItemCode": "104090001",
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
@@ -46406,10 +46394,6 @@
   {
     "ItemCode": "204180032",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
-    "ItemCode": "204300051",
-    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
   },
   {
     "ItemCode": "100201016",
@@ -48344,11 +48328,27 @@
     "ItemName": "COSTILLAR DE CERDO LOCAL (APROX 18 KG)"
   },
   {
+    "ItemCode": "304760517",
+    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "102610001",
+    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
+  },
+  {
     "ItemCode": "200460028",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "304760517",
-    "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+    "ItemCode": "204300051",
+    "ItemName": "TRUTRO ENTERO DE POLLO IMP. CONG. (20 KG. APROX)"
+  },
+  {
+    "ItemCode": "100851001",
+    "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
+  },
+  {
+    "ItemCode": "304760627",
+    "ItemName": "ABASTERO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   }
 ]
