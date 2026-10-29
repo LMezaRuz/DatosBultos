@@ -28212,10 +28212,6 @@
     "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
   },
   {
-    "ItemCode": "304760616",
-    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
-  },
-  {
     "ItemCode": "202910062",
     "ItemName": "RACK ENTERO CHULETA CENTRO BRASIL AURORA 25 KG (APROX)"
   },
@@ -31452,10 +31448,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
-  },
-  {
     "ItemCode": "304760117",
     "ItemName": "CHOCLILLO VACIO CAT-V BRASIL FRIVASA (20 KG APROX)(X-MAYOR)"
   },
@@ -31522,10 +31514,6 @@
   {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "103600004",
-    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
     "ItemCode": "101201056",
@@ -43312,10 +43300,6 @@
     "ItemName": "QUESO EMMENTAL PRESIDENT 14X220 GR"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "203190057",
     "ItemName": "TRIMMING DE CERDO 80/20 CONGELADO 24 KG (APROX)"
   },
@@ -43742,10 +43726,6 @@
   {
     "ItemCode": "202820028",
     "ItemName": "CAMARON EC CRUDO C/CASCARA16/20 10X1 KG"
-  },
-  {
-    "ItemCode": "203190060",
-    "ItemName": "CUBOS DE CERDO 2X2 CM 5X1 KG"
   },
   {
     "ItemCode": "102680002",
@@ -47776,10 +47756,6 @@
     "ItemName": "MERLUZA AUSTRAL FILETE IVP (AUSTRALIS) C/P S/E (KG)"
   },
   {
-    "ItemCode": "200307007",
-    "ItemName": "ATLANTIC SALMON IVP FILETE TRIM D (INDUSTRIAL) KG"
-  },
-  {
     "ItemCode": "204090006",
     "ItemName": "BANDEJA DE MACHAS (MEDIA CONCHA) 25X20 UN"
   },
@@ -48120,10 +48096,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
@@ -48422,5 +48394,33 @@
   {
     "ItemCode": "304760627",
     "ItemName": "ABASTERO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "103600004",
+    "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "304760616",
+    "ItemName": "SOBRECOSTILLA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "200307007",
+    "ItemName": "ATLANTIC SALMON IVP FILETE TRIM D (INDUSTRIAL) KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "203190060",
+    "ItemName": "CUBOS DE CERDO 2X2 CM 5X1 KG"
   }
 ]
