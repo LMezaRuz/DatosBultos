@@ -24344,10 +24344,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
-  },
-  {
     "ItemCode": "900001001",
     "ItemName": "SERVICIO DE FLETE"
   },
@@ -28244,24 +28240,8 @@
     "ItemName": "SALSA DE OSTRA 12X510 GR"
   },
   {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
     "ItemCode": "102630000",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
-    "ItemCode": "104620004",
-    "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
-  },
-  {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
-    "ItemCode": "104620001",
-    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
     "ItemCode": "103910048",
@@ -35828,10 +35808,6 @@
     "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
     "ItemCode": "100557021",
     "ItemName": "HUMO LIQUIDO 1X165 CC."
   },
@@ -39664,20 +39640,12 @@
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
-    "ItemCode": "200303014",
-    "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
-  },
-  {
     "ItemCode": "200002009",
     "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
   },
   {
     "ItemCode": "101355001",
     "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
-  },
-  {
-    "ItemCode": "204180034",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
   },
   {
     "ItemCode": "101450006",
@@ -47980,10 +47948,6 @@
     "ItemName": "SALSA SIGNATURE SAUCE MAMUT 4X1,89 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
   },
@@ -48074,10 +48038,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "203200017",
@@ -48430,5 +48390,45 @@
   {
     "ItemCode": "304760501",
     "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "104620004",
+    "ItemName": "MARUCHAN DE CAMARON Y CHILE PIQUIN 12X64 GR"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "104620001",
+    "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "200303014",
+    "ItemName": "NUGGET MERLUZA EL GOLFO 24X400 GR"
+  },
+  {
+    "ItemCode": "204180034",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5X2.5 KG (NAC)"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   }
 ]
