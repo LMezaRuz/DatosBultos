@@ -31588,10 +31588,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "100803006",
-    "ItemName": "NUECES MARIPOSA 1x1 kg"
-  },
-  {
     "ItemCode": "400301048",
     "ItemName": "ETIQUETA SEGURIDAD GYN MULTIMARCA  1 X 1000 UN"
   },
@@ -42120,10 +42116,6 @@
     "ItemName": "MAYONESA CASERA VINTAGE FOOD SERVICE TRAVERSO 30X425 GR"
   },
   {
-    "ItemCode": "102970008",
-    "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
-  },
-  {
     "ItemCode": "102970009",
     "ItemName": "CHOCOLATE BLANCO 33% SICAO 1X10 KG"
   },
@@ -46600,14 +46592,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA S 1X100 UN"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
@@ -47692,10 +47676,6 @@
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "400011001",
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
@@ -47794,54 +47774,6 @@
   {
     "ItemCode": "100202005",
     "ItemName": "ENDULZANTE LIQUIDO 1X180 ML."
-  },
-  {
-    "ItemCode": "101100060",
-    "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
-  },
-  {
-    "ItemCode": "101100059",
-    "ItemName": "CARACOLES LUCCHETTI 30 UN X 400 GR"
-  },
-  {
-    "ItemCode": "101100031",
-    "ItemName": "CABELLO DE ANGEL CORTO CAROZZI 1X400 GR"
-  },
-  {
-    "ItemCode": "104210017",
-    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
-  },
-  {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
-    "ItemCode": "100004006",
-    "ItemName": "ACEITE VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
   {
     "ItemCode": "101355003",
@@ -48152,20 +48084,12 @@
     "ItemName": "SOBRE DE PAPAS FRITAS BCH 1X4000 UN"
   },
   {
-    "ItemCode": "203210088",
-    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
-  },
-  {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
   {
     "ItemCode": "101150061",
     "ItemName": "HARINA SUPER FINA GYN 1 X 25 KG"
-  },
-  {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
   {
     "ItemCode": "101150079",
@@ -48388,10 +48312,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "200200022",
-    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
-  },
-  {
     "ItemCode": "203190038",
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
@@ -48430,5 +48350,85 @@
   {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
+  },
+  {
+    "ItemCode": "200200022",
+    "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "101100060",
+    "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
+  },
+  {
+    "ItemCode": "101100059",
+    "ItemName": "CARACOLES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101100031",
+    "ItemName": "CABELLO DE ANGEL CORTO CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "104210017",
+    "ItemName": "PENNE RIGATE (PASTAS) IMP. BERRAK 20X400 GR"
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
+  },
+  {
+    "ItemCode": "100004006",
+    "ItemName": "ACEITE VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "203210088",
+    "ItemName": "CHURRASCO POSTA FLOW PACK CONG 60X90 GR (MM)"
+  },
+  {
+    "ItemCode": "100803006",
+    "ItemName": "NUECES MARIPOSA 1x1 kg"
+  },
+  {
+    "ItemCode": "102970008",
+    "ItemName": "CHOCOLATE AMARGO 58% SICAO 1X10 KG"
   }
 ]
