@@ -23804,10 +23804,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
   {
-    "ItemCode": "304760033",
-    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "104670010",
     "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
@@ -23912,10 +23908,6 @@
     "ItemName": "RACK ENTERO CHULETA VETADA LOCAL X KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "304760046",
-    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
-  },
-  {
     "ItemCode": "200302026",
     "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
   },
@@ -23926,10 +23918,6 @@
   {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
-    "ItemCode": "304760031",
-    "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
     "ItemCode": "400005009",
@@ -28074,10 +28062,6 @@
   {
     "ItemCode": "600002017",
     "ItemName": "PIMIENTO MORRÓN KG."
-  },
-  {
-    "ItemCode": "300353112",
-    "ItemName": "PUNTA GANSO KG."
   },
   {
     "ItemCode": "102500002",
@@ -47036,24 +47020,12 @@
     "ItemName": "EMPANADA DE QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "304760481",
-    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
     "ItemCode": "600001008",
     "ItemName": "KIWI KG."
   },
   {
-    "ItemCode": "303210015",
-    "ItemName": "POLLO GANSO X KG (P&H)"
-  },
-  {
     "ItemCode": "303210008",
     "ItemName": "ASIENTO KG. (P&H)"
-  },
-  {
-    "ItemCode": "304760025",
-    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
   },
   {
     "ItemCode": "304760106",
@@ -47896,14 +47868,6 @@
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
-    "ItemCode": "101000001",
-    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
-  },
-  {
     "ItemCode": "100304047",
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
@@ -48434,5 +48398,41 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101000001",
+    "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "304760033",
+    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760046",
+    "ItemName": "ASIENTO AL VACIO CAT V BRASIL - LOCAL X KG (20 KG APROX)"
+  },
+  {
+    "ItemCode": "300353112",
+    "ItemName": "PUNTA GANSO KG."
+  },
+  {
+    "ItemCode": "303210015",
+    "ItemName": "POLLO GANSO X KG (P&H)"
+  },
+  {
+    "ItemCode": "304760025",
+    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
+  },
+  {
+    "ItemCode": "304760481",
+    "ItemName": "POSTA PALETA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760031",
+    "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   }
 ]
