@@ -31508,10 +31508,6 @@
     "ItemName": "DAMASCOS EN MITADES WASIL 16X500 GR"
   },
   {
-    "ItemCode": "104020003",
-    "ItemName": "ARVEJAS WASIL 48X300 GR"
-  },
-  {
     "ItemCode": "104020007",
     "ItemName": "MIX CHOCLO PALMITO WASIL 16X380 GR"
   },
@@ -35048,10 +35044,6 @@
     "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
   },
   {
-    "ItemCode": "101009031",
-    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
-  },
-  {
     "ItemCode": "300154006",
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
@@ -35442,10 +35434,6 @@
   {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
-  },
-  {
-    "ItemCode": "101401003",
-    "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
     "ItemCode": "101401004",
@@ -44024,16 +44012,8 @@
     "ItemName": "LECHE LONCOLECHE SIN LACTOSA SEMI DESCREMADA 6X200 CC"
   },
   {
-    "ItemCode": "104620003",
-    "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
-  },
-  {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
-  },
-  {
-    "ItemCode": "104620002",
-    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
   },
   {
     "ItemCode": "104620004",
@@ -47828,10 +47808,6 @@
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009024",
     "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   },
@@ -48434,5 +48410,29 @@
   {
     "ItemCode": "400001002",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "104020003",
+    "ItemName": "ARVEJAS WASIL 48X300 GR"
+  },
+  {
+    "ItemCode": "101401003",
+    "ItemName": "ARVEJITAS ESPECIALES 16X340"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009031",
+    "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
+  },
+  {
+    "ItemCode": "104620002",
+    "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
+  },
+  {
+    "ItemCode": "104620003",
+    "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
   }
 ]
