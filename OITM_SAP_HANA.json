@@ -20076,10 +20076,6 @@
     "ItemName": "HIGADO DE VACUNO TRADICION 20 KG"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "103910021",
     "ItemName": "MERMELADA GOLD DAMASCO WATTS 3X5 KG"
   },
@@ -24046,10 +24042,6 @@
   {
     "ItemCode": "303660005",
     "ItemName": "PULPA DILUIDA DE FRAMBUESA BIDON 1X5 LT"
-  },
-  {
-    "ItemCode": "103670005",
-    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
   {
     "ItemCode": "200305006",
@@ -32600,10 +32592,6 @@
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
   {
-    "ItemCode": "304490000",
-    "ItemName": "QUESILLO COLUN 18X320 GR"
-  },
-  {
     "ItemCode": "600001011",
     "ItemName": "PIÑA 1x1 un"
   },
@@ -35592,10 +35580,6 @@
     "ItemName": "LIMPIADOR BAÑOS C/AMONIO CUATERNARIO DEFORT 2X5 LT"
   },
   {
-    "ItemCode": "400010013",
-    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
@@ -36286,10 +36270,6 @@
   {
     "ItemCode": "103700006",
     "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
-    "ItemCode": "104210010",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "100557003",
@@ -39544,10 +39524,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "202910063",
     "ItemName": "COSTILLAR DE CERDO BRASIL CONG. AURORA 25 KG (APROX)"
   },
@@ -40132,10 +40108,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
     "ItemCode": "101353042",
     "ItemName": "MAYONESA CAROZZI 10X1 KG"
   },
@@ -40198,10 +40170,6 @@
   {
     "ItemCode": "100251003",
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "103810005",
-    "ItemName": "CLORO GEL DEFORT 2X5 LT"
   },
   {
     "ItemCode": "100201005",
@@ -44184,10 +44152,6 @@
     "ItemName": "MOZZARELLA STICKS FARM FRITES (LOCAL) 6X1.5 KG"
   },
   {
-    "ItemCode": "101100039",
-    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
-  },
-  {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
@@ -47544,10 +47508,6 @@
     "ItemName": "YOGURT LIGHT SURTIDOS 1X120 CC"
   },
   {
-    "ItemCode": "304460004",
-    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -48434,5 +48394,45 @@
   {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
+  },
+  {
+    "ItemCode": "400010013",
+    "ItemName": "MANTENEDOR DE PISO BAMBU DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "103810005",
+    "ItemName": "CLORO GEL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103670005",
+    "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "304490000",
+    "ItemName": "QUESILLO COLUN 18X320 GR"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "101100039",
+    "ItemName": "GNOCCHI DE PAPA 12X500 GR"
+  },
+  {
+    "ItemCode": "104210010",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "304460004",
+    "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   }
 ]
