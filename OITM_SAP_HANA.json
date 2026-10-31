@@ -32360,10 +32360,6 @@
     "ItemName": "TE TWININGS VERDE 1 X10 UN"
   },
   {
-    "ItemCode": "103600002",
-    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
     "ItemCode": "104670000",
     "ItemName": "TE TWININGS ENGLISH BREAKFAST 20 GR 1X10 UN"
   },
@@ -32462,10 +32458,6 @@
   {
     "ItemCode": "103600004",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "103600003",
-    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
   },
   {
     "ItemCode": "200250003",
@@ -32734,10 +32726,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "100350005",
-    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
     "ItemCode": "400301085",
@@ -48434,5 +48422,17 @@
   {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
+  },
+  {
+    "ItemCode": "100350005",
+    "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
+  },
+  {
+    "ItemCode": "103600003",
+    "ItemName": "LECHE EN POLVO PARA VENDING 20 X 500 GR"
+  },
+  {
+    "ItemCode": "103600002",
+    "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
   }
 ]
