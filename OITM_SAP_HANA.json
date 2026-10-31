@@ -23904,10 +23904,6 @@
     "ItemName": "CAZUELA LOCAL 1X20 KG APROX."
   },
   {
-    "ItemCode": "204380021",
-    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
   },
@@ -28374,10 +28370,6 @@
   {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
     "ItemCode": "202720040",
@@ -36572,10 +36564,6 @@
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "300351009",
-    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
-  },
-  {
     "ItemCode": "100701010",
     "ItemName": "SOPA DE CARNE CON ARROZ (REND. 16 LT) TKF 1X1 KG"
   },
@@ -39920,10 +39908,6 @@
     "ItemName": "CALDO DE COSTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "304760252",
     "ItemName": "GANSO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX)"
   },
@@ -40066,10 +40050,6 @@
   {
     "ItemCode": "304760453",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "304760504",
-    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
     "ItemCode": "200305015",
@@ -43660,10 +43640,6 @@
     "ItemName": "YOGURT SABOR CHIRIMOYA EN BOLSA CALAN 12X1 LT"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "200301003",
     "ItemName": "CALAMAR ANILLOS IMP 1x1 KG - LOCAL"
   },
@@ -44430,10 +44406,6 @@
   {
     "ItemCode": "101351023",
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
-  },
-  {
-    "ItemCode": "100852003",
-    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
     "ItemCode": "300404023",
@@ -48380,16 +48352,8 @@
     "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
   },
   {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
-    "ItemCode": "200460052",
-    "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
   {
     "ItemCode": "300350010",
@@ -48412,14 +48376,6 @@
     "ItemName": "RAID INSECT. CASA Y JARDIN SPRAY 1X420 C"
   },
   {
-    "ItemCode": "400007001",
-    "ItemName": "JABON LIQUIDO 1 X 750ML"
-  },
-  {
-    "ItemCode": "400010006",
-    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
-  },
-  {
     "ItemCode": "400012001",
     "ItemName": "ESCOBILLON 1X1 UN."
   },
@@ -48428,11 +48384,55 @@
     "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
   },
   {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "304760504",
+    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "204380021",
+    "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "400010006",
+    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
+  },
+  {
+    "ItemCode": "200460052",
+    "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "100852003",
+    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
+  },
+  {
+    "ItemCode": "400007001",
+    "ItemName": "JABON LIQUIDO 1 X 750ML"
+  },
+  {
     "ItemCode": "600002012",
     "ItemName": "COLIFLOR 1x1 un."
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
+    "ItemCode": "300351009",
+    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
   }
 ]
