@@ -23656,10 +23656,6 @@
     "ItemName": "HELADO PUDU DULCE DE LECHE 1X5 LT"
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "103070007",
     "ItemName": "PIMIENTO MORRON ROJO SMART CHOICE 6 X 2.5 KG"
   },
@@ -36628,10 +36624,6 @@
     "ItemName": "QUESO GRUYERE SUIZO TROZADO QUILLAYES 15X200 GR"
   },
   {
-    "ItemCode": "204790054",
-    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
-  },
-  {
     "ItemCode": "100751010",
     "ItemName": "MERMELADA DE MORA 1X1 KG"
   },
@@ -43736,10 +43728,6 @@
     "ItemName": "TRUTRO CUARTO DE POLLO IMP. CONG. BRASIL LEVO 1X10 KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "LOG_104670066",
     "ItemName": "[LOG] TE LIPTON ROYAL CEYLON BLACK TB 16 X 100 BLS"
   },
@@ -47848,10 +47836,6 @@
     "ItemName": "MEDIALUNA DULCE HORNEADA 108X40 GR"
   },
   {
-    "ItemCode": "200500003",
-    "ItemName": "CHOCLO EN TROZO 12X1 KG."
-  },
-  {
     "ItemCode": "100700001",
     "ItemName": "CREMA DE ESPARRAGOS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -47934,10 +47918,6 @@
   {
     "ItemCode": "204100002",
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
-  },
-  {
-    "ItemCode": "200250039",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
   {
     "ItemCode": "104930000",
@@ -48434,5 +48414,25 @@
   {
     "ItemCode": "100500002",
     "ItemName": "CARNE DE SOYA BLANCA 1X500 GR"
+  },
+  {
+    "ItemCode": "200250039",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790054",
+    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
+  },
+  {
+    "ItemCode": "200500003",
+    "ItemName": "CHOCLO EN TROZO 12X1 KG."
   }
 ]
