@@ -31408,10 +31408,6 @@
     "ItemName": "GELATINA AMBROSOLI FRAMBUESA 1x100 G."
   },
   {
-    "ItemCode": "300300010",
-    "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
-  },
-  {
     "ItemCode": "300300011",
     "ItemName": "GELATINA AMBROSOLI PIÑA 1x100 g."
   },
@@ -36238,10 +36234,6 @@
   {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "100654004",
-    "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
   },
   {
     "ItemCode": "101200008",
@@ -47900,10 +47892,6 @@
     "ItemName": "ESCOBILLON 1X1 UN."
   },
   {
-    "ItemCode": "404360036",
-    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
@@ -47976,10 +47964,6 @@
     "ItemName": "PREPARADO HELADO SOFT CALO BOCADO 12X1 LT."
   },
   {
-    "ItemCode": "100251007",
-    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
-  },
-  {
     "ItemCode": "100701005",
     "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
   },
@@ -47994,10 +47978,6 @@
   {
     "ItemCode": "104520008",
     "ItemName": "SAL BIOSAL 30 X 125 GR"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "204140015",
@@ -48276,18 +48256,6 @@
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
   {
-    "ItemCode": "103810007",
-    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
-  },
-  {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
-    "ItemCode": "200050009",
-    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
     "ItemCode": "200460052",
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
@@ -48434,5 +48402,37 @@
   {
     "ItemCode": "202730011",
     "ItemName": "DONUT RELLENA CON CHOCOLATE 36X67 GR (45038)"
+  },
+  {
+    "ItemCode": "100251007",
+    "ItemName": "CALDO MAGGI GALLINA 30X12X11 GR"
+  },
+  {
+    "ItemCode": "100654004",
+    "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
+  },
+  {
+    "ItemCode": "103810007",
+    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "200050009",
+    "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
+  },
+  {
+    "ItemCode": "300300010",
+    "ItemName": "GELATINA AMBROSOLI NARANJA 1x100 g."
+  },
+  {
+    "ItemCode": "404360036",
+    "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
   }
 ]
