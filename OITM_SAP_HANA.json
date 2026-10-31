@@ -31552,10 +31552,6 @@
     "ItemName": "CREMA TOMATE WASIL 16X380 G"
   },
   {
-    "ItemCode": "600002007",
-    "ItemName": "BETARRAGAS KG."
-  },
-  {
     "ItemCode": "104290006",
     "ItemName": "CREMA DE ESPARRAGOS WASIL 16X380 G"
   },
@@ -35764,10 +35760,6 @@
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
   },
   {
-    "ItemCode": "100003003",
-    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
-  },
-  {
     "ItemCode": "101201036",
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
@@ -39774,10 +39766,6 @@
   {
     "ItemCode": "400250006",
     "ItemName": "PAPEL HIGIENICO D.HOJA 20 MT 2X24 UN  HI70009"
-  },
-  {
-    "ItemCode": "100750007",
-    "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
   },
   {
     "ItemCode": "304760507",
@@ -47512,10 +47500,6 @@
     "ItemName": "KIWI KG."
   },
   {
-    "ItemCode": "304760033",
-    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
     "ItemCode": "304760031",
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -47712,10 +47696,6 @@
     "ItemName": "MANGO KG."
   },
   {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
-  },
-  {
     "ItemCode": "204380026",
     "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
@@ -47842,14 +47822,6 @@
   {
     "ItemCode": "204380020",
     "ItemName": "PULPA DE DURAZNO RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "304760025",
-    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
-  },
-  {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   },
   {
     "ItemCode": "101302001",
@@ -48078,22 +48050,6 @@
   {
     "ItemCode": "600002012",
     "ItemName": "COLIFLOR 1x1 un."
-  },
-  {
-    "ItemCode": "202910051",
-    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
-    "ItemCode": "303210015",
-    "ItemName": "POLLO GANSO X KG (P&H)"
-  },
-  {
-    "ItemCode": "303210008",
-    "ItemName": "ASIENTO KG. (P&H)"
-  },
-  {
-    "ItemCode": "200460043",
-    "ItemName": "POLLO ENTERO CONG.CALIBRE 2.3 - 2.4 (APROX 19,2 KG)"
   },
   {
     "ItemCode": "304760238",
@@ -48434,5 +48390,49 @@
   {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "100003003",
+    "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
+  },
+  {
+    "ItemCode": "100750007",
+    "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
+  },
+  {
+    "ItemCode": "303210015",
+    "ItemName": "POLLO GANSO X KG (P&H)"
+  },
+  {
+    "ItemCode": "600002007",
+    "ItemName": "BETARRAGAS KG."
+  },
+  {
+    "ItemCode": "303210008",
+    "ItemName": "ASIENTO KG. (P&H)"
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "304760033",
+    "ItemName": "HUACHALOMO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
+  },
+  {
+    "ItemCode": "304760025",
+    "ItemName": "PLATEADA AL VACIO CAT V BRASIL (LOCAL)"
+  },
+  {
+    "ItemCode": "200460043",
+    "ItemName": "POLLO ENTERO CONG.CALIBRE 2.3 - 2.4 (APROX 19,2 KG)"
+  },
+  {
+    "ItemCode": "202910051",
+    "ItemName": "CHULETA VETADA DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   }
 ]
