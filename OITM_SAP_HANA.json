@@ -28120,10 +28120,6 @@
     "ItemName": "PIMIENTO MORRÓN KG."
   },
   {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
-  },
-  {
     "ItemCode": "102500002",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
@@ -47352,10 +47348,6 @@
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
     "ItemCode": "103850000",
     "ItemName": "MANTEQUILLA DE MANI CREMOSA 1X460 GR"
   },
@@ -47718,10 +47710,6 @@
   {
     "ItemCode": "101353019",
     "ItemName": "MAYONESA DELI HELLMANNS 6X1,94 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "204790018",
@@ -48434,5 +48422,17 @@
   {
     "ItemCode": "104620003",
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   }
 ]
