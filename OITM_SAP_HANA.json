@@ -20056,14 +20056,6 @@
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "200100003",
-    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
-  },
-  {
     "ItemCode": "204300086",
     "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
   },
@@ -20250,10 +20242,6 @@
   {
     "ItemCode": "100903001",
     "ItemName": "HARINA DE ARROZ 12 UN X  500 GRS"
-  },
-  {
-    "ItemCode": "202910045",
-    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
     "ItemCode": "100005004",
@@ -41304,10 +41292,6 @@
     "ItemName": "PUNTA PALETA EN TROZOS AL VACIO CAT-V IMP. BRASIL BOA CARNE 20 KG"
   },
   {
-    "ItemCode": "203210105",
-    "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
-  },
-  {
     "ItemCode": "304850043",
     "ItemName": "YOGHURT CON TROZOS FRUTOS SECOS SIN AZUCAR 36X155 GR"
   },
@@ -43086,10 +43070,6 @@
   {
     "ItemCode": "203210141",
     "ItemName": "LOMO VETADO PORCIONADO S/MARINAR 350 GR (5 BOLSAS X 3 UN)"
-  },
-  {
-    "ItemCode": "203510012",
-    "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
   },
   {
     "ItemCode": "101201018",
@@ -46536,10 +46516,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
   {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8X1 KG"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -48434,5 +48410,29 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "203510012",
+    "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
+  },
+  {
+    "ItemCode": "202910045",
+    "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200100003",
+    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
+  },
+  {
+    "ItemCode": "203210105",
+    "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
   }
 ]
