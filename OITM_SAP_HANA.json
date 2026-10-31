@@ -24256,10 +24256,6 @@
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
   },
   {
-    "ItemCode": "400010009",
-    "ItemName": "CLORO GEL IGENIX 1X900 ML"
-  },
-  {
     "ItemCode": "102610006",
     "ItemName": "ARROZ G2 PARA SUSHI MANTUL 10X1 KG"
   },
@@ -27848,10 +27844,6 @@
     "ItemName": "ARROLLADO LOMO GRANEL PIEZA 1X1 KG"
   },
   {
-    "ItemCode": "101100019",
-    "ItemName": "CORBATA CAROZZI 1X400 GR"
-  },
-  {
     "ItemCode": "101150063",
     "ItemName": "PREMEZCLA COMPLETA PIZZA LOVDO NF 1 X 25 KG"
   },
@@ -31396,10 +31388,6 @@
     "ItemName": "DULCE MEMBRILLO 1X500 GR"
   },
   {
-    "ItemCode": "101012003",
-    "ItemName": "MILO EN POLVO 15X1 KG"
-  },
-  {
     "ItemCode": "300353051",
     "ItemName": "PLATEADA KG (NV)"
   },
@@ -32442,10 +32430,6 @@
   {
     "ItemCode": "103600004",
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "200250012",
@@ -35212,10 +35196,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
-    "ItemCode": "400010025",
-    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
-  },
-  {
     "ItemCode": "100003006",
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
@@ -35402,10 +35382,6 @@
   {
     "ItemCode": "100050004",
     "ItemName": "ACEITUNAS VERDE CON CAROZO 1X1 KG"
-  },
-  {
-    "ItemCode": "101100004",
-    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
   },
   {
     "ItemCode": "101009031",
@@ -36616,10 +36592,6 @@
     "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
   },
   {
-    "ItemCode": "100102013",
-    "ItemName": "POROTO TORTOLA 10X1 KG."
-  },
-  {
     "ItemCode": "100303006",
     "ItemName": "CONCENTRADO SABOR DURAZNO TRAVERSO 1X5 LT"
   },
@@ -36690,10 +36662,6 @@
   {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
-    "ItemCode": "102930015",
-    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
     "ItemCode": "103180007",
@@ -47076,10 +47044,6 @@
     "ItemName": "MUFFIN RELLENO DE FRUTOS ROJOS 20X95 GR"
   },
   {
-    "ItemCode": "102610001",
-    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
-  },
-  {
     "ItemCode": "204300046",
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
@@ -47424,10 +47388,6 @@
     "ItemName": "CHURRASCO DE LOMO VETADO 33 UND X 160 GR (MM)"
   },
   {
-    "ItemCode": "101100063",
-    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "200200019",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE CONG. 9X105 GR"
   },
@@ -47742,10 +47702,6 @@
   {
     "ItemCode": "101351003",
     "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "204790044",
@@ -48124,10 +48080,6 @@
     "ItemName": "YOGURT NATURAL 1X800 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
@@ -48434,5 +48386,53 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "102930015",
+    "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100102013",
+    "ItemName": "POROTO TORTOLA 10X1 KG."
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101100004",
+    "ItemName": "ESPIRALES CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "101100019",
+    "ItemName": "CORBATA CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "101100063",
+    "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
+  },
+  {
+    "ItemCode": "102610001",
+    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
+  },
+  {
+    "ItemCode": "101012003",
+    "ItemName": "MILO EN POLVO 15X1 KG"
+  },
+  {
+    "ItemCode": "400010025",
+    "ItemName": "CIF CREMA ORIGINAL BLANCO 1X750 GR"
+  },
+  {
+    "ItemCode": "400010009",
+    "ItemName": "CLORO GEL IGENIX 1X900 ML"
   }
 ]
