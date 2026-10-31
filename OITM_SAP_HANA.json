@@ -32348,10 +32348,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
-    "ItemCode": "200460037",
-    "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -47556,20 +47552,12 @@
     "ItemName": "MORTADELA JAMONADA 1x150 GRS"
   },
   {
-    "ItemCode": "400012001",
-    "ItemName": "ESCOBILLON 1X1 UN."
-  },
-  {
     "ItemCode": "204790019",
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
-    "ItemCode": "100852003",
-    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
   },
   {
     "ItemCode": "100351007",
@@ -47864,10 +47852,6 @@
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "100001003",
-    "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
     "ItemCode": "100557023",
     "ItemName": "CLAVO DE OLOR ENTERO 1X4 GR."
   },
@@ -47886,10 +47870,6 @@
   {
     "ItemCode": "202910009",
     "ItemName": "LOMO DE CERDO PORCIONADO 10X800 GR"
-  },
-  {
-    "ItemCode": "400003002",
-    "ItemName": "DESODORANTE WC FLORAL 1X40 GR"
   },
   {
     "ItemCode": "400003003",
@@ -48018,10 +47998,6 @@
   {
     "ItemCode": "200050009",
     "ItemName": "MIX BERRIES CONGELADOS 15 X 1 KG"
-  },
-  {
-    "ItemCode": "200250011",
-    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
   {
     "ItemCode": "300300010",
@@ -48168,24 +48144,12 @@
     "ItemName": "PAÑO AMARILLO MULTIUSO 1X3 UN"
   },
   {
-    "ItemCode": "300351009",
-    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
-  },
-  {
     "ItemCode": "100701005",
     "ItemName": "CALDO MAGGI CARNE 30X12X11 GR"
   },
   {
-    "ItemCode": "400007001",
-    "ItemName": "JABON LIQUIDO 1 X 750ML"
-  },
-  {
     "ItemCode": "400007002",
     "ItemName": "JABON BARRA 1x125 g."
-  },
-  {
-    "ItemCode": "400010006",
-    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
   },
   {
     "ItemCode": "600002012",
@@ -48434,5 +48398,41 @@
   {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "400007001",
+    "ItemName": "JABON LIQUIDO 1 X 750ML"
+  },
+  {
+    "ItemCode": "400003002",
+    "ItemName": "DESODORANTE WC FLORAL 1X40 GR"
+  },
+  {
+    "ItemCode": "300351009",
+    "ItemName": "JAMON DE PAVO LAMINADO 1 x 250 gr"
+  },
+  {
+    "ItemCode": "400010006",
+    "ItemName": "LIMPIADOR DESINFECTANTE 1x900 ML."
+  },
+  {
+    "ItemCode": "400012001",
+    "ItemName": "ESCOBILLON 1X1 UN."
+  },
+  {
+    "ItemCode": "200460037",
+    "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
+  },
+  {
+    "ItemCode": "100852003",
+    "ItemName": "GALLETA MARAVILLA MCKAY 1X120 GR"
+  },
+  {
+    "ItemCode": "100001003",
+    "ItemName": "ACEITE DE OLIVA 1X1 LT"
+  },
+  {
+    "ItemCode": "200250011",
+    "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   }
 ]
