@@ -19996,10 +19996,6 @@
     "ItemName": "PIÑA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "600002035",
-    "ItemName": "MANGO KG."
-  },
-  {
     "ItemCode": "600002034",
     "ItemName": "POMELO KG."
   },
@@ -20442,10 +20438,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "101357003",
@@ -28190,10 +28182,6 @@
   {
     "ItemCode": "600001005",
     "ItemName": "PERA KG."
-  },
-  {
-    "ItemCode": "600001003",
-    "ItemName": "NARANJA KG."
   },
   {
     "ItemCode": "102510000",
@@ -43748,10 +43736,6 @@
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "202730083",
     "ItemName": "DONUT DOBLE RELLENO CHEESECAKE FRAMBUESA 36X82GR"
   },
@@ -46772,10 +46756,6 @@
     "ItemName": "YOGURT COLUN SURTIDO 1 X 125 GR"
   },
   {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "304760488",
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -47472,10 +47452,6 @@
     "ItemName": "CHANCACA IANSA 20X450GR"
   },
   {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "103110002",
     "ItemName": "CREMA VEGETAL VERSATIE UHT PARA USO CULINARIO RICH 12X1 LT"
   },
@@ -47684,10 +47660,6 @@
     "ItemName": "LECHE ENTERA EN POLVO INSTAN 26% MG NIDO 12X800 GR"
   },
   {
-    "ItemCode": "304430008",
-    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
@@ -47754,10 +47726,6 @@
   {
     "ItemCode": "101100063",
     "ItemName": "SPAGUETTI LUCCHETTI 25 UN X 400 GR"
-  },
-  {
-    "ItemCode": "102610001",
-    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
   },
   {
     "ItemCode": "101012003",
@@ -48116,10 +48084,6 @@
     "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "304760504",
-    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -48140,10 +48104,6 @@
     "ItemName": "KIWI KG."
   },
   {
-    "ItemCode": "303210015",
-    "ItemName": "POLLO GANSO X KG (P&H)"
-  },
-  {
     "ItemCode": "303210008",
     "ItemName": "ASIENTO KG. (P&H)"
   },
@@ -48160,10 +48120,6 @@
     "ItemName": "TAPAPECHO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
   {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
-  },
-  {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
   },
@@ -48174,10 +48130,6 @@
   {
     "ItemCode": "103990003",
     "ItemName": "COCKTAIL DE FRUTAS SMART CHOICE IMP. 6X3 KG"
-  },
-  {
-    "ItemCode": "104210009",
-    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
     "ItemCode": "101358010",
@@ -48434,5 +48386,53 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
+  },
+  {
+    "ItemCode": "304430008",
+    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
+  },
+  {
+    "ItemCode": "104210009",
+    "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "102610001",
+    "ItemName": "ARROZ LOS CHINOS G2 10X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "304760504",
+    "ItemName": "POSTA DE PALETA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "600002035",
+    "ItemName": "MANGO KG."
+  },
+  {
+    "ItemCode": "303210015",
+    "ItemName": "POLLO GANSO X KG (P&H)"
+  },
+  {
+    "ItemCode": "600001003",
+    "ItemName": "NARANJA KG."
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   }
 ]
