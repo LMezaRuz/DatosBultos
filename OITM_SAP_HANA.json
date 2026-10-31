@@ -40848,10 +40848,6 @@
     "ItemName": "MANTECA ASTRA 12X100 GR"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "101150038",
     "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
   },
@@ -40866,10 +40862,6 @@
   {
     "ItemCode": "101150050",
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
   {
     "ItemCode": "300405006",
@@ -43684,10 +43676,6 @@
     "ItemName": "PULPA PIERNA DE CERDO DESH. 95 VL BRASIL PAMPLONA (20 KG APROX.)"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
@@ -44940,10 +44928,6 @@
     "ItemName": "FRUTILLAS ENTERAS WASIL 16X500 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "202820015",
     "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 41/50 10X1 KG"
   },
@@ -44994,10 +44978,6 @@
   {
     "ItemCode": "104620003",
     "ItemName": "MARUCHAN SABOR QUESO 12X64 GR"
-  },
-  {
-    "ItemCode": "203200039",
-    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
     "ItemCode": "103730009",
@@ -48434,5 +48414,25 @@
   {
     "ItemCode": "103600002",
     "ItemName": "CHOCOLATE EN POLVO PARA VENDING 10 X 1 KG"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "203200039",
+    "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   }
 ]
