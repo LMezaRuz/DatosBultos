@@ -32108,10 +32108,6 @@
     "ItemName": "PIMENTON PAPRIKA GOURMET 1 UN X 100 GRS"
   },
   {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "101351004",
     "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
@@ -34828,10 +34824,6 @@
     "ItemName": "MARGARINA HORNEO HORNITO 1X1 KG."
   },
   {
-    "ItemCode": "200100009",
-    "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "100303005",
     "ItemName": "CONCENTRADO SABOR PIÑA TRAVERSO 1X5 LT"
   },
@@ -35066,10 +35058,6 @@
   {
     "ItemCode": "103650001",
     "ItemName": "NECTAR DE PIÑA LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "200100008",
-    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
   },
   {
     "ItemCode": "100304062",
@@ -46032,10 +46020,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "104420000",
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
@@ -46506,10 +46490,6 @@
   {
     "ItemCode": "101200007",
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "101201024",
@@ -47880,10 +47860,6 @@
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
   },
   {
-    "ItemCode": "100751026",
-    "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
-  },
-  {
     "ItemCode": "100751051",
     "ItemName": "MERMELADA DE MORA REGIMEL 1X200 GR."
   },
@@ -48078,10 +48054,6 @@
   {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "200100003",
-    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   },
   {
     "ItemCode": "203210105",
@@ -48434,5 +48406,33 @@
   {
     "ItemCode": "100651010",
     "ItemName": "DURAZNOS MITADES WASIL 24X590"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100751026",
+    "ItemName": "MERMELADA DE FRUTILLA REGIMEL 1X200 GR"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "200100009",
+    "ItemName": "HELADO SAN FCO. TRES LECHES (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200100008",
+    "ItemName": "HELADO SAN FCO. PISTACHO (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200100003",
+    "ItemName": "HELADO SAN FCO. CHOCOLATE (CREMA) 1X4,8 LTS"
   }
 ]
