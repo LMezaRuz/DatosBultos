@@ -32372,20 +32372,12 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "200460037",
     "ItemName": "TRUTRO ALA INTERFOLIADO 1X15KG"
   },
   {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
-  },
-  {
-    "ItemCode": "300153001",
-    "ItemName": "MANTEQUILLA CALO 40X125"
   },
   {
     "ItemCode": "300351022",
@@ -43368,10 +43360,6 @@
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
   },
   {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
-  },
-  {
     "ItemCode": "304760633",
     "ItemName": "ENTRAÑA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
@@ -43474,10 +43462,6 @@
   {
     "ItemCode": "302970007",
     "ItemName": "CHOCOLATE REAL SICAO LECHE 33% 10 KG (CHM-094)"
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "202990003",
@@ -44034,10 +44018,6 @@
   {
     "ItemCode": "200250004",
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "300351016",
@@ -48004,10 +47984,6 @@
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
   },
   {
-    "ItemCode": "300154003",
-    "ItemName": "MARGARINA SURENA 12X125 GRS"
-  },
-  {
     "ItemCode": "303870012",
     "ItemName": "MARGARINA VEGETAL SURENA 24X250 GR"
   },
@@ -48434,5 +48410,29 @@
   {
     "ItemCode": "600001005",
     "ItemName": "PERA KG."
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "300154003",
+    "ItemName": "MARGARINA SURENA 12X125 GRS"
+  },
+  {
+    "ItemCode": "300153001",
+    "ItemName": "MANTEQUILLA CALO 40X125"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   }
 ]
