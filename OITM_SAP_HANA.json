@@ -48404,14 +48404,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "104680002",
-    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "400251006",
     "ItemName": "SERVILLETA XPRESSNAP CAFE NAT 12X500UN 21.5X21.5 SE70047"
   },
@@ -48428,11 +48420,19 @@
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
   {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
     "ItemCode": "100300007",
     "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "104680002",
+    "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   }
 ]
