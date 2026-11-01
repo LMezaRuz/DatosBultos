@@ -31928,10 +31928,6 @@
     "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "300154035",
     "ItemName": "MARGARINA CALO 6X900G"
   },
@@ -40380,10 +40376,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X10 KG"
   },
   {
-    "ItemCode": "103810007",
-    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
-  },
-  {
     "ItemCode": "104580000",
     "ItemName": "COUS COUS 1X500 GR"
   },
@@ -48412,14 +48404,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "100302009",
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
@@ -48428,11 +48412,27 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "103810007",
+    "ItemName": "CLORO GEL TRADICIONAL 10X900 ML - IMPEKE"
+  },
+  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   }
 ]
