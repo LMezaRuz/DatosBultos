@@ -39616,10 +39616,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
-    "ItemCode": "200201001",
-    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
-  },
-  {
     "ItemCode": "600002014",
     "ItemName": "PEPINO 1x1 un."
   },
@@ -42706,10 +42702,6 @@
   {
     "ItemCode": "101000009",
     "ItemName": "PREPARADO HELADO PREMIUM CHOCOLATE 1X10 LT."
-  },
-  {
-    "ItemCode": "202720032",
-    "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
   },
   {
     "ItemCode": "200200010",
@@ -46260,10 +46252,6 @@
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG (NCB-654)"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "200200012",
     "ItemName": "MUFFIN DE CHOCOLATE 36X110 GR"
   },
@@ -48324,10 +48312,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "100803002",
-    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
-  },
-  {
     "ItemCode": "104690005",
     "ItemName": "TOMATE PELADO ARCO IMP 6X2,5 KG"
   },
@@ -48434,5 +48418,21 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "202720032",
+    "ItemName": "TOPPING BROWNIE CHOCOLATE 4X1 KG."
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "200201001",
+    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
+  },
+  {
+    "ItemCode": "100803002",
+    "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   }
 ]
