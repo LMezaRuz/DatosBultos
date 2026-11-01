@@ -20308,10 +20308,6 @@
     "ItemName": "HARINA SIN POLVOS ESTRELLA / FLOR 1X25 KG."
   },
   {
-    "ItemCode": "100450001",
-    "ItemName": "AJINOMOTO 1X1 KG"
-  },
-  {
     "ItemCode": "200100094",
     "ItemName": "HOJARASCAS 1X50 UN"
   },
@@ -42660,10 +42656,6 @@
     "ItemName": "TILAPIA FILETE 5/7 OZ 1X5 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "304080000",
     "ItemName": "FROSTING BALDE 1.5 KG"
   },
@@ -44226,10 +44218,6 @@
   {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
-    "ItemCode": "100004005",
-    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
   },
   {
     "ItemCode": "204300093",
@@ -46828,10 +46816,6 @@
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "101100018",
-    "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
-  },
-  {
     "ItemCode": "103000002",
     "ItemName": "COBERTURA NEUCOBER AMARGO 12X1 KG"
   },
@@ -47260,10 +47244,6 @@
     "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -47482,10 +47462,6 @@
   {
     "ItemCode": "204390003",
     "ItemName": "PULPO ENTERO DEL NORTE NAC CALIBRE 2UP"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "300150001",
@@ -47846,10 +47822,6 @@
   {
     "ItemCode": "102480002",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 1X4,85 LT"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "202720039",
@@ -48384,16 +48356,8 @@
     "ItemName": "ALMENDRA LAMINADA 1X1 KG"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
-  },
-  {
-    "ItemCode": "100559004",
-    "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
     "ItemCode": "100557021",
@@ -48420,10 +48384,6 @@
     "ItemName": "AZUCAR FLOR 20X500 GR"
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -48434,5 +48394,45 @@
   {
     "ItemCode": "100101009",
     "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
+  },
+  {
+    "ItemCode": "100559004",
+    "ItemName": "SAL FINA LOBOS 10X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100450001",
+    "ItemName": "AJINOMOTO 1X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100004005",
+    "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
+  },
+  {
+    "ItemCode": "101100018",
+    "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
   }
 ]
