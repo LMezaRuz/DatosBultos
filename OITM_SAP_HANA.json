@@ -24060,10 +24060,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
   {
-    "ItemCode": "100202002",
-    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
-  },
-  {
     "ItemCode": "103940016",
     "ItemName": "MOSTAZA HEINZ SQUEEZZE 12X368 GR"
   },
@@ -46840,10 +46836,6 @@
     "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "103700004",
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
@@ -47796,10 +47788,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
@@ -47924,24 +47912,12 @@
     "ItemName": "ESPIRALES LUCCHETTI 1X5 KG."
   },
   {
-    "ItemCode": "104670008",
-    "ItemName": "TE TWININGS MENTA 1X10 UN"
-  },
-  {
-    "ItemCode": "104670002",
-    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
-  },
-  {
     "ItemCode": "104670006",
     "ItemName": "TE TWININGS MANZANILLA 1X10 UN"
   },
   {
     "ItemCode": "104670003",
     "ItemName": "TE TWININGS LADY GREY 20 GR 1X10 UN"
-  },
-  {
-    "ItemCode": "104670007",
-    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
   {
     "ItemCode": "104670004",
@@ -48388,10 +48364,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -48412,10 +48384,6 @@
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -48434,5 +48402,37 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "104670007",
+    "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
+  },
+  {
+    "ItemCode": "104670008",
+    "ItemName": "TE TWININGS MENTA 1X10 UN"
+  },
+  {
+    "ItemCode": "104670002",
+    "ItemName": "TE TWININGS PRINCE OF WALES 20 GR 1X10 UN"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100202002",
+    "ItemName": "ENDULZANTE STEVIA 1X100 UN."
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
   }
 ]
