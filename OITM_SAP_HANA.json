@@ -24552,10 +24552,6 @@
     "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
-  },
-  {
     "ItemCode": "204090005",
     "ItemName": "CARNE DE CENTOLLA NAC 10X500 GR"
   },
@@ -48396,10 +48392,6 @@
     "ItemName": "VAINILLA CAPUCCINO EN POLVO PARA VENDING 10 X 1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "202720025",
     "ItemName": "GALLETA AMERICANA CHIPS DE CHOCOLATE Y NUECES 36X80 GR"
   },
@@ -48416,10 +48408,6 @@
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -48428,11 +48416,23 @@
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
     "ItemCode": "101305006",
     "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   }
 ]
