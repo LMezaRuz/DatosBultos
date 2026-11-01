@@ -30980,10 +30980,6 @@
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
   {
-    "ItemCode": "204050012",
-    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
-  },
-  {
     "ItemCode": "100601004",
     "ItemName": "CHORITOS NATURAL 24x190 gr"
   },
@@ -35392,10 +35388,6 @@
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
   {
-    "ItemCode": "100559006",
-    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
-  },
-  {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
@@ -35758,10 +35750,6 @@
   {
     "ItemCode": "100351006",
     "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
-  },
-  {
-    "ItemCode": "101355008",
-    "ItemName": "SALSA INGLESA 1X1000 CC."
   },
   {
     "ItemCode": "400251015",
@@ -46968,10 +46956,6 @@
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
   {
-    "ItemCode": "200002006",
-    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "103810001",
     "ItemName": "JABON ALMENDRAS C/GLICERINA DEFORT 2X5 LT"
   },
@@ -48212,10 +48196,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "300405003",
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
@@ -48328,10 +48308,6 @@
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "104680002",
     "ItemName": "TOALLA JUMBO PALANCA H/S TECNOPAPEL 2X250 MT"
   },
@@ -48434,5 +48410,29 @@
   {
     "ItemCode": "400001003",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "204050012",
+    "ItemName": "SNACK DE QUESO CAMEMBERT REBOSADO FARM FRITES 6X1,5 KG"
+  },
+  {
+    "ItemCode": "101355008",
+    "ItemName": "SALSA INGLESA 1X1000 CC."
+  },
+  {
+    "ItemCode": "100559006",
+    "ItemName": "SAL DE MAR LOBOS 12X800 GR"
+  },
+  {
+    "ItemCode": "200002006",
+    "ItemName": "EMPANADITA RAVIOLERA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   }
 ]
