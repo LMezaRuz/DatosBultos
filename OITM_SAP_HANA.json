@@ -23332,10 +23332,6 @@
     "ItemName": "SALMON FILETE PREMIUM 2/3 CON PIEL TRIM D AL VACIO KG"
   },
   {
-    "ItemCode": "100600001",
-    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
     "ItemCode": "204000008",
     "ItemName": "CORAZON VACUNO CONG. KG (20 KG APROX.)"
   },
@@ -39204,10 +39200,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "100300005",
     "ItemName": "AGUA VITAL S/GAS 6 UN X 1,6 LTS"
   },
@@ -46472,10 +46464,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
-  },
-  {
     "ItemCode": "300154034",
     "ItemName": "MARGARINA CALO 12X450"
   },
@@ -47472,10 +47460,6 @@
     "ItemName": "CAFE KIMBO INTENSO EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
-    "ItemCode": "204790044",
-    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
-  },
-  {
     "ItemCode": "300153008",
     "ItemName": "MANTEQUILLA CALO 20X250 GRS"
   },
@@ -47748,20 +47732,12 @@
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
   },
   {
     "ItemCode": "103880017",
@@ -48216,10 +48192,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO MASTODONTE 40X185 GR"
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "200500018",
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
   },
@@ -48262,10 +48234,6 @@
   {
     "ItemCode": "303850010",
     "ItemName": "MANTEQUILLA CON SAL QUILLAYES 20X250 GR"
-  },
-  {
-    "ItemCode": "100101009",
-    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   },
   {
     "ItemCode": "100004006",
@@ -48434,5 +48402,37 @@
   {
     "ItemCode": "104190000",
     "ItemName": "PAPEL HIGIENICO JUMBO H/S TECNOPAPEL 6X500 MT"
+  },
+  {
+    "ItemCode": "204790044",
+    "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "100600001",
+    "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "100101009",
+    "ItemName": "ARROZ G1 MIRAFLORES 10X1 KG"
   }
 ]
