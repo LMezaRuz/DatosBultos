@@ -24380,10 +24380,6 @@
     "ItemName": "TOCINO PICADO ESPECIAL DE CERDO 23 KG (APROX)"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "900001003",
     "ItemName": "TRASLADO DESDE MAIPU A CONCEPCION SEGUN GUIA 89058"
   },
@@ -32018,10 +32014,6 @@
   {
     "ItemCode": "304760482",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304850047",
-    "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
   },
   {
     "ItemCode": "304860002",
@@ -47120,10 +47112,6 @@
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "202730044",
     "ItemName": "MUFFIN RELLENO DE ARANDANOS 20X95 GR"
   },
@@ -47488,10 +47476,6 @@
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
   },
   {
-    "ItemCode": "100355002",
-    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -47608,10 +47592,6 @@
     "ItemName": "COUS COUS 1X1 KG"
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100304013",
     "ItemName": "NECTAR DE DURAZNO 6X200 ML"
   },
@@ -47682,10 +47662,6 @@
   {
     "ItemCode": "200300003",
     "ItemName": "ATUN LOMO IMP AL VACÍO SMART CHOICE KG"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "100901004",
@@ -47986,10 +47962,6 @@
   {
     "ItemCode": "403130001",
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
-    "ItemCode": "100355005",
-    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
   },
   {
     "ItemCode": "100355014",
@@ -48434,5 +48406,33 @@
   {
     "ItemCode": "204300085",
     "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
+  },
+  {
+    "ItemCode": "100355005",
+    "ItemName": "SYRUP CARAMELO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355002",
+    "ItemName": "SYRUP AMARETO MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "304850047",
+    "ItemName": "YOGURT PROTEIN NATURAL ENDULZADO LONCO LECHE 6X800 GR"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
