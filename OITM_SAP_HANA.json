@@ -23612,10 +23612,6 @@
     "ItemName": "SALSA AJO 10 UN X 1 KG"
   },
   {
-    "ItemCode": "203430004",
-    "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
-  },
-  {
     "ItemCode": "304760000",
     "ItemName": "TAPAPECHO AL VACIO CAT V PARAGUAY 90 VL PLANTA (93911) (CAJA DE 20 KG APROX)"
   },
@@ -23782,10 +23778,6 @@
   {
     "ItemCode": "300157001",
     "ItemName": "PACK YOGURT CALAN UNIV 12X110 GR"
-  },
-  {
-    "ItemCode": "204380029",
-    "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "100201002",
@@ -32588,10 +32580,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS SABOR CHIRIMOYA 48X110"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "300157027",
     "ItemName": "YOGURT GRIEGO OIKOS SABOR NATURAL 48X110"
   },
@@ -32658,10 +32646,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "400301085",
@@ -34752,10 +34736,6 @@
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "100355024",
     "ItemName": "SYRUP CHOCOLATE SIN AZUCAR MONIN 1X750 ML"
   },
@@ -34834,10 +34814,6 @@
   {
     "ItemCode": "100051001",
     "ItemName": "CHUCRUT TRAVERSO 1 UN X 200 GRS"
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "100556002",
@@ -35038,10 +35014,6 @@
   {
     "ItemCode": "400100002",
     "ItemName": "BOLSA HDPE NATURAL 8X25 CM 1X1000 UN"
-  },
-  {
-    "ItemCode": "204380016",
-    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
   },
   {
     "ItemCode": "204380020",
@@ -36008,10 +35980,6 @@
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
   {
-    "ItemCode": "200300003",
-    "ItemName": "ATUN LOMO IMP AL VACÍO SMART CHOICE KG"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -36554,10 +36522,6 @@
   {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "104070007",
@@ -47688,10 +47652,6 @@
     "ItemName": "SALMON AHUMADO SLICE 1X250 GR"
   },
   {
-    "ItemCode": "204380015",
-    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "104930000",
     "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
   },
@@ -48284,10 +48244,6 @@
     "ItemName": "SALMON PORCIONES CENTRO CON PIEL SIN COLAS 1X5 KG"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
   },
@@ -48428,11 +48384,55 @@
     "ItemName": "SALMON ATLANTICO PORCION SIN PIEL CONG. 1X5 KG"
   },
   {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200300003",
+    "ItemName": "ATUN LOMO IMP AL VACÍO SMART CHOICE KG"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
     "ItemCode": "100901004",
     "ItemName": "HARINA ORO 1 SACO 1X25 KG."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "204380016",
+    "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
+  },
+  {
+    "ItemCode": "204380015",
+    "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "204380029",
+    "ItemName": "MORA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "203430004",
+    "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   }
 ]
