@@ -24132,10 +24132,6 @@
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
   {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
     "ItemCode": "200003006",
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
@@ -31644,10 +31640,6 @@
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
-    "ItemCode": "101009010",
-    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
-  },
-  {
     "ItemCode": "300152007",
     "ItemName": "GRASA PAMPERO BLOQUE 10X1"
   },
@@ -38538,10 +38530,6 @@
   {
     "ItemCode": "304760485",
     "ItemName": "TAPAPECHO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "304760524",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
   },
   {
     "ItemCode": "304760498",
@@ -45856,10 +45844,6 @@
     "ItemName": "TALLARIN 87 CAROZZI 1X400 GR"
   },
   {
-    "ItemCode": "400250002",
-    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
-  },
-  {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
@@ -46592,14 +46576,6 @@
     "ItemName": "PECHUGA DE POLLO C/HUESO Y PIEL CONG. 1 X 15 KG"
   },
   {
-    "ItemCode": "103260004",
-    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
-  },
-  {
-    "ItemCode": "200304002",
-    "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
-  },
-  {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
   },
@@ -46990,10 +46966,6 @@
   {
     "ItemCode": "200051019",
     "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200051023",
@@ -48434,5 +48406,33 @@
   {
     "ItemCode": "100402001",
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101009010",
+    "ItemName": "LONCO PROTEINMILK CHOCO 12X1 LTS"
+  },
+  {
+    "ItemCode": "400250002",
+    "ItemName": "PAPEL HIGIENICO D.HOJA 207 MT 1X6 UN  HI70011"
+  },
+  {
+    "ItemCode": "103260004",
+    "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "200304002",
+    "ItemName": "KANIKAMA 18 CM 1X500 GR (Local)"
+  },
+  {
+    "ItemCode": "304760524",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V BRASIL FRIVASA 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
   }
 ]
