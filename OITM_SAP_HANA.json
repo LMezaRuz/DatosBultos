@@ -35772,10 +35772,6 @@
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
   {
-    "ItemCode": "200302015",
-    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
@@ -44024,10 +44020,6 @@
     "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "200302028",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
     "ItemCode": "300154003",
     "ItemName": "MARGARINA SURENA 12X125 GRS"
   },
@@ -45548,10 +45540,6 @@
     "ItemName": "JAMON PAVO COCIDO LAMINADO 12x125 gr"
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG (W2-U73)"
-  },
-  {
     "ItemCode": "100751047",
     "ItemName": "MERMELADA DE DAMASCO PORCION 192X20 GR."
   },
@@ -46120,10 +46108,6 @@
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
   },
   {
-    "ItemCode": "202820021",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
-  },
-  {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
   },
@@ -46326,10 +46310,6 @@
   {
     "ItemCode": "103010011",
     "ItemName": "COBERTURA CHOCOLATE BLANCO SICAO 1X10 KG"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "103830010",
@@ -46548,18 +46528,6 @@
     "ItemName": "PECHUGA DE POLLO DESMECHADA CONG. 8X1 KG"
   },
   {
-    "ItemCode": "200302029",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
-  },
-  {
-    "ItemCode": "200302026",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
-  },
-  {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
   },
@@ -46774,18 +46742,6 @@
   {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100751053",
-    "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
-  },
-  {
-    "ItemCode": "100751054",
-    "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
-  },
-  {
-    "ItemCode": "103910052",
-    "ItemName": "MERMELADA DE MARACUYA WATTS 6X1 KG"
   },
   {
     "ItemCode": "103010008",
@@ -47300,10 +47256,6 @@
     "ItemName": "QUESILLO COLUN 18X320 GR"
   },
   {
-    "ItemCode": "203190058",
-    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
-  },
-  {
     "ItemCode": "101353022",
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
@@ -47560,10 +47512,6 @@
     "ItemName": "PURE DE PALTA 1X1 KG."
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "200305016",
     "ItemName": "REINETA FILETE NAC S/PIEL (BRAMA AUSTRALIS) 10 UN X 1 KG"
   },
@@ -47610,10 +47558,6 @@
   {
     "ItemCode": "200308002",
     "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
-  },
-  {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
   },
   {
     "ItemCode": "304760198",
@@ -48076,10 +48020,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
@@ -48482,5 +48422,65 @@
   {
     "ItemCode": "100801005",
     "ItemName": "MANI SIN SAL 1X1 KG"
+  },
+  {
+    "ItemCode": "203190058",
+    "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "100751053",
+    "ItemName": "MERMELADA WATTS DAMASCO 6X1 KG"
+  },
+  {
+    "ItemCode": "200302026",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 10X1 KG"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200302029",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "202820021",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESV SMART CHOICE 71/90 10X1 KG"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200302028",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
+  },
+  {
+    "ItemCode": "200302015",
+    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
+  },
+  {
+    "ItemCode": "100751054",
+    "ItemName": "MERMELADA WATTS GUINDA 6X1 KG"
+  },
+  {
+    "ItemCode": "103910052",
+    "ItemName": "MERMELADA DE MARACUYA WATTS 6X1 KG"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG (W2-U73)"
   }
 ]
