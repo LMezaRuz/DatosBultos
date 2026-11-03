@@ -36300,10 +36300,6 @@
     "ItemName": "COSTILLAR ADOBO CHILENO 1.3-1.5 KG (APROX)"
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "203190042",
     "ItemName": "BANDERITA DE CERDO 5 COSTILLAS 5X1 KG"
   },
@@ -47180,22 +47176,6 @@
     "ItemName": "LEVADURA EN POLVO 20X500 GR."
   },
   {
-    "ItemCode": "100852019",
-    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
-  },
-  {
-    "ItemCode": "100852009",
-    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
-  },
-  {
-    "ItemCode": "100852013",
-    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
-  },
-  {
-    "ItemCode": "100851003",
-    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
-  },
-  {
     "ItemCode": "101201013",
     "ItemName": "JALEA DE PIÑA (REND. 15 LT) TKF 1X1 KG"
   },
@@ -47644,10 +47624,6 @@
     "ItemName": "MUFFIN CHIPS CHOCOLATE VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
-  },
-  {
     "ItemCode": "203190061",
     "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
   },
@@ -47702,10 +47678,6 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "204380026",
@@ -47914,10 +47886,6 @@
   {
     "ItemCode": "101002002",
     "ItemName": "CREMA ESPESA NESTLE 1X236 GR"
-  },
-  {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
   },
   {
     "ItemCode": "100852003",
@@ -48482,5 +48450,37 @@
   {
     "ItemCode": "100701016",
     "ItemName": "SOPA DE POLLO CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100852019",
+    "ItemName": "GALLETA DE CHIPS CHOCOLATE 28 X125 GR"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "100852009",
+    "ItemName": "GALLETA TRITON VAINILLA 30X116 GR"
+  },
+  {
+    "ItemCode": "100852013",
+    "ItemName": "GALLETA DE MANTEQUILLA 1X140 GR."
+  },
+  {
+    "ItemCode": "100851003",
+    "ItemName": "GALLETA SODA FAMILIAR COSTA 1X160 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   }
 ]
