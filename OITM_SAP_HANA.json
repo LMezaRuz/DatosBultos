@@ -35692,10 +35692,6 @@
     "ItemName": "ACETO BALSAMICO IMPERATORE 12X500 CC."
   },
   {
-    "ItemCode": "104670067",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
-  },
-  {
     "ItemCode": "304760484",
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL AGRA 20 KG (APROX)"
   },
@@ -38612,10 +38608,6 @@
     "ItemName": "SOPA POLLO FIDEOS 20X70 GR"
   },
   {
-    "ItemCode": "100100002",
-    "ItemName": "ARROZ BASMATI 1X1 KG."
-  },
-  {
     "ItemCode": "100751001",
     "ItemName": "MERMELADA DE CIRUELA 1X250 GR"
   },
@@ -41500,10 +41492,6 @@
     "ItemName": "FIDEO DE ARROZ ANCHO 5MM 1X400 GR"
   },
   {
-    "ItemCode": "101452007",
-    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
-  },
-  {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
   },
@@ -41668,10 +41656,6 @@
     "ItemName": "GLUCOSA MEL 1X1 KG."
   },
   {
-    "ItemCode": "101351011",
-    "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
-  },
-  {
     "ItemCode": "103880036",
     "ItemName": "MAYONESA POUCH DISPENSADOR HEINZ 4X3 KG"
   },
@@ -41726,10 +41710,6 @@
   {
     "ItemCode": "101150042",
     "ItemName": "BANDEJA PORTA SANDWICH JM 1 X 650 UN"
-  },
-  {
-    "ItemCode": "100353005",
-    "ItemName": "INFUSION MANZANILLA 1X20 UN"
   },
   {
     "ItemCode": "100353006",
@@ -42502,10 +42482,6 @@
   {
     "ItemCode": "104010018",
     "ItemName": "SALSA DE OSTRA 12X510 GR"
-  },
-  {
-    "ItemCode": "101355023",
-    "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
   {
     "ItemCode": "400005014",
@@ -46056,10 +46032,6 @@
     "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
   },
   {
-    "ItemCode": "100100003",
-    "ItemName": "ARROZ ARBORIO 1X1 KG"
-  },
-  {
     "ItemCode": "300157002",
     "ItemName": "YOGURT BATIDO SURTIDOS 1X120 CC."
   },
@@ -46878,10 +46850,6 @@
   {
     "ItemCode": "100102004",
     "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
-    "ItemCode": "304760238",
-    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "200201019",
@@ -48432,10 +48400,6 @@
     "ItemName": "CREMA VEGETAL CALO 12X1"
   },
   {
-    "ItemCode": "100304012",
-    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304010",
     "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
   },
@@ -48450,10 +48414,6 @@
   {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
-  },
-  {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
   },
   {
     "ItemCode": "204380027",
@@ -48518,5 +48478,45 @@
   {
     "ItemCode": "101350004",
     "ItemName": "ADEREZO CESAR 1X1 KG"
+  },
+  {
+    "ItemCode": "100100002",
+    "ItemName": "ARROZ BASMATI 1X1 KG."
+  },
+  {
+    "ItemCode": "101355023",
+    "ItemName": "TINTA CALAMAR 1 X 90 GR"
+  },
+  {
+    "ItemCode": "100100003",
+    "ItemName": "ARROZ ARBORIO 1X1 KG"
+  },
+  {
+    "ItemCode": "101452007",
+    "ItemName": "VINAGRE DE ARROZ BLANCO 1X500 CC."
+  },
+  {
+    "ItemCode": "101351011",
+    "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
+  },
+  {
+    "ItemCode": "100353005",
+    "ItemName": "INFUSION MANZANILLA 1X20 UN"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "104670067",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16 X 50 BLS"
+  },
+  {
+    "ItemCode": "100304012",
+    "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "304760238",
+    "ItemName": "FILETE AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   }
 ]
