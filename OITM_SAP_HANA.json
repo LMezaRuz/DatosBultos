@@ -22024,14 +22024,6 @@
     "ItemName": "COBERTURA CHOCOLATE ALTA FLUIDEZ SICAO 1X10KG"
   },
   {
-    "ItemCode": "202910075",
-    "ItemName": "PULPA PIERNA CERDO DESHUESADA 98VL FRICASA (20 KG APROX)"
-  },
-  {
-    "ItemCode": "203210085",
-    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
-  },
-  {
     "ItemCode": "103700008",
     "ItemName": "LECHE CONDENSADA PARMALAT 24X395 GR (P6011)"
   },
@@ -22706,10 +22698,6 @@
   {
     "ItemCode": "104140004",
     "ItemName": "PAN DE MOLDE INTEGRAL 1X650 GR"
-  },
-  {
-    "ItemCode": "200201018",
-    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
   },
   {
     "ItemCode": "104170007",
@@ -27434,10 +27422,6 @@
   {
     "ItemCode": "203210070",
     "ItemName": "FILETE DE VACUNO PORCIONADO TR 5X200 GR (5 KG)(MM)"
-  },
-  {
-    "ItemCode": "203210074",
-    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
   },
   {
     "ItemCode": "203430006",
@@ -34624,14 +34608,6 @@
     "ItemName": "TRISOL TEXTURAS 8X1 KG"
   },
   {
-    "ItemCode": "304760331",
-    "ItemName": "HUACHALOMO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)(X-MAYOR)"
-  },
-  {
-    "ItemCode": "202910049",
-    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
-  },
-  {
     "ItemCode": "200462012",
     "ItemName": "POSTA NEGRA AL VACIO CAT V BRASIL CONG. (20 KG APROX)"
   },
@@ -40036,10 +40012,6 @@
     "ItemName": "LECHE PLATANO LONCO 6X200 CC"
   },
   {
-    "ItemCode": "200050003",
-    "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
     "ItemCode": "400301008",
     "ItemName": "PAPEL TERMICO JUAN MAESTRO ROLLO 1X60 UN"
   },
@@ -42378,10 +42350,6 @@
   {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
-  },
-  {
-    "ItemCode": "100352008",
-    "ItemName": "CAFE KIMBO NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
   },
   {
     "ItemCode": "100355016",
@@ -47708,10 +47676,6 @@
     "ItemName": "SALAME ITALIANO LAMINADO 1X1.45 KG."
   },
   {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
-  },
-  {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
   },
@@ -48024,10 +47988,6 @@
     "ItemName": "MOSTAZA CAROZZI 10X1 KG"
   },
   {
-    "ItemCode": "403130002",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
-  },
-  {
     "ItemCode": "300153002",
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
@@ -48168,10 +48128,6 @@
     "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101352008",
     "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
@@ -48274,10 +48230,6 @@
   {
     "ItemCode": "202910017",
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
-  },
-  {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
     "ItemCode": "200460028",
@@ -48428,10 +48380,6 @@
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "400301047",
     "ItemName": "PORTA VASOS EMBUTIDO GYN  (2 CAVIDADES) 1 X 450 UNIDADES"
   },
@@ -48518,5 +48466,57 @@
   {
     "ItemCode": "101358010",
     "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200201018",
+    "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "403130002",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
+  },
+  {
+    "ItemCode": "304760331",
+    "ItemName": "HUACHALOMO VACIO CAT-V BRASIL BOA CARNE 20 KG (APROX)(X-MAYOR)"
+  },
+  {
+    "ItemCode": "202910049",
+    "ItemName": "PULPA PIERNA DE CERDO DESHUESADA 95 VL BRASIL FRICASA (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "100352008",
+    "ItemName": "CAFE KIMBO NAPOLI EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "202910075",
+    "ItemName": "PULPA PIERNA CERDO DESHUESADA 98VL FRICASA (20 KG APROX)"
+  },
+  {
+    "ItemCode": "203210074",
+    "ItemName": "CHURRASCO DE VACUNO PAE FLOW PACK 1X30 UN (MM)"
+  },
+  {
+    "ItemCode": "203210085",
+    "ItemName": "DESPUNTE VACUNO CADENAS KG (PMP)"
+  },
+  {
+    "ItemCode": "200050003",
+    "ItemName": "FRAMBUESA IQF 10X1 KG."
   }
 ]
