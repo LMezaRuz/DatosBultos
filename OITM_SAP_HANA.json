@@ -22184,10 +22184,6 @@
     "ItemName": "HELADO PUDU CHOCOLATE STEVIA 1X5 LT"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "102480008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SECRETO DEL FRAILE 12X1 LTR"
   },
@@ -23376,10 +23372,6 @@
     "ItemName": "SALSA COLA DE MONO 6X1KG"
   },
   {
-    "ItemCode": "103910049",
-    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
-  },
-  {
     "ItemCode": "103010010",
     "ItemName": "COBERTURA CHOCOLATE DE LECHE SICAO 1X10 KG"
   },
@@ -23462,10 +23454,6 @@
   {
     "ItemCode": "104070010",
     "ItemName": "PEPINILLO DILL ENTERO 20-30 MAIFRE 10X1 KG"
-  },
-  {
-    "ItemCode": "103910031",
-    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
   },
   {
     "ItemCode": "103650013",
@@ -31606,10 +31594,6 @@
   {
     "ItemCode": "103250009",
     "ItemName": "SOBRE DE PAPAS FRITAS BCH 1X4000 UN"
-  },
-  {
-    "ItemCode": "103910034",
-    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
     "ItemCode": "204300007",
@@ -43432,10 +43416,6 @@
     "ItemName": "MARUCHAN CON CAMARON 12X64 GR"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "101009032",
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
@@ -43450,10 +43430,6 @@
   {
     "ItemCode": "400252004",
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
-  },
-  {
-    "ItemCode": "103910047",
-    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
   },
   {
     "ItemCode": "300154009",
@@ -47556,10 +47532,6 @@
     "ItemName": "SYRUP MOJITO MIX  MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "204380017",
     "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
   },
@@ -48492,20 +48464,12 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "203210042",
@@ -48530,5 +48494,41 @@
   {
     "ItemCode": "101202001",
     "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "103910031",
+    "ItemName": "MERMELADA FRAMBUESA WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910034",
+    "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
+  },
+  {
+    "ItemCode": "103910047",
+    "ItemName": "MERMELADA MORA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "103910049",
+    "ItemName": "MERMELADA FRUTILLA LOS LAGOS SACHET 24X225"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   }
 ]
