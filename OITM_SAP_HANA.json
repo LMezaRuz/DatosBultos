@@ -24136,10 +24136,6 @@
     "ItemName": "YOGURT YOGU YOGU FRUTILLA 6X115 GR"
   },
   {
-    "ItemCode": "204380034",
-    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "303850022",
     "ItemName": "MANTEQUILLA KUMEY 20X250 GR (2222)"
   },
@@ -24402,10 +24398,6 @@
   {
     "ItemCode": "100304015",
     "ItemName": "NECTAR DE PIÑA 6X200 ML"
-  },
-  {
-    "ItemCode": "302890052",
-    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
   },
   {
     "ItemCode": "103720007",
@@ -32418,10 +32410,6 @@
   {
     "ItemCode": "101452003",
     "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
-  },
-  {
-    "ItemCode": "100558003",
-    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   },
   {
     "ItemCode": "204790000",
@@ -40540,10 +40528,6 @@
     "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
   },
   {
-    "ItemCode": "100852024",
-    "ItemName": "GALLETA TUAREG 35X120 GR"
-  },
-  {
     "ItemCode": "304760036",
     "ItemName": "ASADO CARNICERO  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
   },
@@ -40554,10 +40538,6 @@
   {
     "ItemCode": "101300002",
     "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
-  },
-  {
-    "ItemCode": "100351011",
-    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
   },
   {
     "ItemCode": "300353134",
@@ -43212,10 +43192,6 @@
     "ItemName": "TE TWININGS VERDE 1 X10 UN"
   },
   {
-    "ItemCode": "200304001",
-    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
     "ItemCode": "100101018",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G1 10X1 KG"
   },
@@ -43946,10 +43922,6 @@
   {
     "ItemCode": "101305005",
     "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101201016",
-    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "900621423",
@@ -47368,10 +47340,6 @@
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200308001",
-    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
-  },
-  {
     "ItemCode": "101303005",
     "ItemName": "GELATINA EN POLVO SIN SABOR 1x1 kg."
   },
@@ -47482,10 +47450,6 @@
   {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
-  },
-  {
-    "ItemCode": "200308002",
-    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
   {
     "ItemCode": "203210133",
@@ -47830,14 +47794,6 @@
   {
     "ItemCode": "204300022",
     "ItemName": "TRUTRO ENTERO LOCAL 1X15 KG"
-  },
-  {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
-    "ItemCode": "200003005",
-    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
   },
   {
     "ItemCode": "202900008",
@@ -48530,5 +48486,49 @@
   {
     "ItemCode": "101305002",
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "100351011",
+    "ItemName": "CAFE NESCAFE STICK 180 X1.8 GR"
+  },
+  {
+    "ItemCode": "204380034",
+    "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200003005",
+    "ItemName": "ARROLLADO DE JAMON QUESO 1X100 UN."
+  },
+  {
+    "ItemCode": "200308002",
+    "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
+  },
+  {
+    "ItemCode": "200304001",
+    "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
+  },
+  {
+    "ItemCode": "200308001",
+    "ItemName": "SURTIDO DE MARISCOS NACIONAL 1X1 KG"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "100852024",
+    "ItemName": "GALLETA TUAREG 35X120 GR"
+  },
+  {
+    "ItemCode": "302890052",
+    "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
+  },
+  {
+    "ItemCode": "101201016",
+    "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100558003",
+    "ItemName": "PIMIENTA NEGRA MOLIDA 1X1 KG"
   }
 ]
