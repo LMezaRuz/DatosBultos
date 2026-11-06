@@ -35232,10 +35232,6 @@
     "ItemName": "YOGUR BATIDO SABOR VAINILLA CALAN 12X1 KG"
   },
   {
-    "ItemCode": "204300023",
-    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
-  },
-  {
     "ItemCode": "304850049",
     "ItemName": "YOGURT DAMASCO CALAN 48X110 GR"
   },
@@ -40504,10 +40500,6 @@
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 4X5 LT"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "202820003",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 36/40 20X500 GR"
   },
@@ -43314,10 +43306,6 @@
   {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
-  },
-  {
-    "ItemCode": "203210042",
-    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
   },
   {
     "ItemCode": "202910027",
@@ -47536,10 +47524,6 @@
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
   {
-    "ItemCode": "101202001",
-    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
-  },
-  {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
@@ -47734,10 +47718,6 @@
   {
     "ItemCode": "100001002",
     "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
   },
   {
     "ItemCode": "200500039",
@@ -48352,10 +48332,6 @@
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "203190031",
     "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
   },
@@ -48508,10 +48484,6 @@
     "ItemName": "MORA IQF SMART CHOICE 10 X 1KG"
   },
   {
-    "ItemCode": "204300083",
-    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
-  },
-  {
     "ItemCode": "300406003",
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
@@ -48530,5 +48502,33 @@
   {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "203210042",
+    "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
+  },
+  {
+    "ItemCode": "204300083",
+    "ItemName": "ALA ENTERA DE POLLO CONG. BRASIL AURORA 1X15 KG"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "204300023",
+    "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "101202001",
+    "ItemName": "PURE DE PAPAS FORM. COMPLETA C/LECHE TKF 1X1 KG"
   }
 ]
