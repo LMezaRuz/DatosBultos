@@ -22756,10 +22756,6 @@
     "ItemName": "HUESO DE BOVINO CORRIENTE CONG. (23 KG APROX)"
   },
   {
-    "ItemCode": "104010073",
-    "ItemName": "SALSA SWEET CHILI 3X4 KG"
-  },
-  {
     "ItemCode": "102560024",
     "ItemName": "SALSA CHILI SAMBAL 4X3,6 KG"
   },
@@ -35224,10 +35220,6 @@
     "ItemName": "SALSA DE OSTRAS 6X2 KG"
   },
   {
-    "ItemCode": "104010072",
-    "ItemName": "SALSA DE CIRUELA 6X2,27 KG"
-  },
-  {
     "ItemCode": "200458001",
     "ItemName": "CORDERO ENTERO"
   },
@@ -40176,10 +40168,6 @@
     "ItemName": "ESENCIA DE VAINILLA GOURMET 1X1 LT"
   },
   {
-    "ItemCode": "300156001",
-    "ItemName": "YOGURT NATURAL 1X1 LT."
-  },
-  {
     "ItemCode": "203190064",
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX) (X-MAYOR)"
   },
@@ -41126,10 +41114,6 @@
   {
     "ItemCode": "200100005",
     "ItemName": "HELADO SAN FCO. LUCUMA MANJAR (CREMA) 1 X 4,8 LTS"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "200300001",
@@ -48530,5 +48514,21 @@
   {
     "ItemCode": "300407004",
     "ItemName": "QUESO REGGIANITO COLUN PIEZA KG (7 KG APROX)"
+  },
+  {
+    "ItemCode": "300156001",
+    "ItemName": "YOGURT NATURAL 1X1 LT."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "104010072",
+    "ItemName": "SALSA DE CIRUELA 6X2,27 KG"
+  },
+  {
+    "ItemCode": "104010073",
+    "ItemName": "SALSA SWEET CHILI 3X4 KG"
   }
 ]
