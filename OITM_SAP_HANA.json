@@ -24144,10 +24144,6 @@
     "ItemName": "CERVEZA STOUT BOTELLA CUELLO NEGRO 24X330 ML"
   },
   {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "204380029",
     "ItemName": "MORA IQF NACIONAL 10X1 KG."
   },
@@ -32184,10 +32180,6 @@
     "ItemName": "ACEITE CHEF EXTRAVIRGEN 12X500"
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "203210096",
     "ItemName": "CHURRASCO DE VACUNO JUAN MAESTRO 50X105 GR"
   },
@@ -32482,10 +32474,6 @@
   {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
   {
     "ItemCode": "101452003",
@@ -34710,10 +34698,6 @@
   {
     "ItemCode": "203190037",
     "ItemName": "CHULETA CENTRO CONG. MARINADA 42X180 GR (MM)"
-  },
-  {
-    "ItemCode": "203190031",
-    "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
   },
   {
     "ItemCode": "204750022",
@@ -40412,10 +40396,6 @@
     "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   },
   {
-    "ItemCode": "101402007",
-    "ItemName": "ALCAPARRAS 1X965 Gr"
-  },
-  {
     "ItemCode": "101357005",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X500 CC"
   },
@@ -42488,10 +42468,6 @@
     "ItemName": "AVENA CON LECHE TKF 1 X1 KG"
   },
   {
-    "ItemCode": "103070006",
-    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
     "ItemCode": "101200008",
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
   },
@@ -42562,10 +42538,6 @@
   {
     "ItemCode": "100557018",
     "ItemName": "AZAFRAN EN HEBRA 1X1 GR"
-  },
-  {
-    "ItemCode": "200004004",
-    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
   },
   {
     "ItemCode": "304760048",
@@ -42712,10 +42684,6 @@
     "ItemName": "ESENCIA DE LIMON 12X500 CC"
   },
   {
-    "ItemCode": "101403002",
-    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "200304004",
     "ItemName": "JAIBA MARMOLA CARNE NAC ESTANDAR (CANCER EDWARDSII) 1 X 500 GRS"
   },
@@ -42790,10 +42758,6 @@
   {
     "ItemCode": "300400008",
     "ItemName": "QUESO RICOTTA 1X1 KG."
-  },
-  {
-    "ItemCode": "200051026",
-    "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
   {
     "ItemCode": "200051014",
@@ -47768,10 +47732,6 @@
     "ItemName": "CEBOLLA CUBO F/SERVICE 12 UN X 1 KG"
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "202910013",
     "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   },
@@ -48476,10 +48436,6 @@
     "ItemName": "TRIGO MOTE 1X1 KG"
   },
   {
-    "ItemCode": "100201012",
-    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
-  },
-  {
     "ItemCode": "100201010",
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
@@ -48530,5 +48486,49 @@
   {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100201012",
+    "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "203190031",
+    "ItemName": "CHULETON DE CERDO 300 GR. (6 BOLSAS X 3 UN) MM"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200004004",
+    "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
+  },
+  {
+    "ItemCode": "101402007",
+    "ItemName": "ALCAPARRAS 1X965 Gr"
+  },
+  {
+    "ItemCode": "103070006",
+    "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
+  },
+  {
+    "ItemCode": "101403002",
+    "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "200051026",
+    "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
   }
 ]
