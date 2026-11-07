@@ -31420,10 +31420,6 @@
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
   {
-    "ItemCode": "101200014",
-    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
-  },
-  {
     "ItemCode": "303190000",
     "ItemName": "ARROLLADO HUASO CON AJI 21X330 GR"
   },
@@ -43104,10 +43100,6 @@
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
-    "ItemCode": "100201002",
-    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
-  },
-  {
     "ItemCode": "204700005",
     "ItemName": "TORTA DE CHOCOLATE 16 PORCIONES"
   },
@@ -43194,10 +43186,6 @@
   {
     "ItemCode": "101200020",
     "ItemName": "JUGO EN POLVO LIVEAN PERA DE AGUA 10X7 GR"
-  },
-  {
-    "ItemCode": "101200018",
-    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
   },
   {
     "ItemCode": "200460501",
@@ -43754,10 +43742,6 @@
   {
     "ItemCode": "103750004",
     "ItemName": "LECHE LONCOLECHE PROTEIN FULLPRO CAPPUCCINO 18X250"
-  },
-  {
-    "ItemCode": "101351004",
-    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
   },
   {
     "ItemCode": "101303001",
@@ -47484,10 +47468,6 @@
     "ItemName": "GANSO PARAGUAY CAT. V - LOCAL X KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "200455003",
     "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
@@ -47608,14 +47588,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "101200015",
-    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
-  },
-  {
-    "ItemCode": "101200016",
-    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
-  },
-  {
     "ItemCode": "103560000",
     "ItemName": "LIPTON INFUSION MENTA 12X20 BLS"
   },
@@ -47664,10 +47636,6 @@
     "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47706,10 +47674,6 @@
   {
     "ItemCode": "101100057",
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
-  },
-  {
-    "ItemCode": "101003001",
-    "ItemName": "CREMA DE COCO 1X425 GR"
   },
   {
     "ItemCode": "100900005",
@@ -48176,10 +48140,6 @@
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
   },
@@ -48248,10 +48208,6 @@
     "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100600002",
     "ItemName": "ATUN LOMITO EN ACEITE 48X140 GR"
   },
@@ -48266,10 +48222,6 @@
   {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
-  },
-  {
-    "ItemCode": "203210124",
-    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
   },
   {
     "ItemCode": "202720006",
@@ -48420,14 +48372,6 @@
     "ItemName": "SAL FINA LOBOS 10X1 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -48522,10 +48466,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
   },
   {
     "ItemCode": "204310017",
@@ -48638,5 +48578,65 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "101200016",
+    "ItemName": "JUGO EN POLVO LIVEAN BERRIES 10X7 GR"
+  },
+  {
+    "ItemCode": "101200015",
+    "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200014",
+    "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
+  },
+  {
+    "ItemCode": "101200018",
+    "ItemName": "JUGO EN POLVO LIVEAN MANZANA 10X7 GR"
+  },
+  {
+    "ItemCode": "100201002",
+    "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "101003001",
+    "ItemName": "CREMA DE COCO 1X425 GR"
+  },
+  {
+    "ItemCode": "101351004",
+    "ItemName": "PASTA DE AJÍ AMARILLO 1X205 GR"
+  },
+  {
+    "ItemCode": "203210124",
+    "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 4X1 KG"
   }
 ]
