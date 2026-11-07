@@ -28616,10 +28616,6 @@
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
   },
@@ -32384,10 +32380,6 @@
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
-    "ItemCode": "202910016",
-    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
-  },
-  {
     "ItemCode": "203510019",
     "ItemName": "HAMBURGUESA DE VACUNO PREMIUM PAMPA VERDE 36X100 GR"
   },
@@ -35888,10 +35880,6 @@
     "ItemName": "FILETILLO DE POLLO SABORIZADO 5X1 KG"
   },
   {
-    "ItemCode": "103940009",
-    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "103880018",
     "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
   },
@@ -36666,10 +36654,6 @@
   {
     "ItemCode": "204090004",
     "ItemName": "CHORITO JUGOSON EN CONCHA 5X1 KG"
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   },
   {
     "ItemCode": "400251006",
@@ -39940,10 +39924,6 @@
     "ItemName": "MANTECA ASTRA 40X200 GR"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "200100047",
     "ItemName": "HELADO PUDU COOKES & CREAM 1X460 ML"
   },
@@ -40754,10 +40734,6 @@
   {
     "ItemCode": "101351012",
     "ItemName": "SALSA TABASCO ORIGINAL 1X60 ML"
-  },
-  {
-    "ItemCode": "204790005",
-    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
     "ItemCode": "400011012",
@@ -43960,10 +43936,6 @@
     "ItemName": "PAPAS PRE FRITAS 9/18 MM STEAKHOUSE SIMPLOT 7X2 KG."
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "100700003",
     "ItemName": "CREMA DE VERDURAS (REND. 14 LT) TKF 1X1 KG"
   },
@@ -44712,10 +44684,6 @@
     "ItemName": "AJI EN CREMA JB 10X1 KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
   },
@@ -44790,10 +44758,6 @@
   {
     "ItemCode": "100556001",
     "ItemName": "OREGANO ENTERO 1X250 GR"
-  },
-  {
-    "ItemCode": "100003006",
-    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
     "ItemCode": "101100039",
@@ -48504,16 +48468,8 @@
     "ItemName": "POROTO VERDE C/ FRANCES 9X1 KG"
   },
   {
-    "ItemCode": "101356002",
-    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
-  },
-  {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "103670005",
@@ -48538,10 +48494,6 @@
   {
     "ItemCode": "202720035",
     "ItemName": "BROWNIE DE CHOCOLATE C/NUECES Y CHIPS CONGELADO 18X90 GR"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "100052005",
@@ -48638,5 +48590,53 @@
   {
     "ItemCode": "304760106",
     "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "202910016",
+    "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "100003006",
+    "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
+  },
+  {
+    "ItemCode": "101356002",
+    "ItemName": "SALSA BBQ 10X1 KG CAROZZI"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "103940009",
+    "ItemName": "MOSTAZA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "204790005",
+    "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
   }
 ]
