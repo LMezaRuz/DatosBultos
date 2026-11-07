@@ -24364,10 +24364,6 @@
     "ItemName": "ABASTERO AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
   {
-    "ItemCode": "203200041",
-    "ItemName": "TIRAS DE PECHUGA DE POLLO COCIDAS CONG. 12X400 GR"
-  },
-  {
     "ItemCode": "101100062",
     "ItemName": "QUIFAROS LUCCHETTI 30 UN X 400 GR"
   },
@@ -27806,10 +27802,6 @@
   {
     "ItemCode": "102700021",
     "ItemName": "FANTA NARANJA LATA SABOR ORIGINAL 6X350 CC"
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "302960002",
@@ -35516,10 +35508,6 @@
     "ItemName": "FILETILLO DE POLLO SABORIZADO 5X1 KG"
   },
   {
-    "ItemCode": "103880018",
-    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
-  },
-  {
     "ItemCode": "203210108",
     "ItemName": "LOMO LISO PORCIONADO S/MARINAR 300 GR (6 BOLSAS X 3 UN)"
   },
@@ -35542,10 +35530,6 @@
   {
     "ItemCode": "203210140",
     "ItemName": "HAMBURGUESA DE VACUNO SMASH 32X113 GR"
-  },
-  {
-    "ItemCode": "103670010",
-    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
   },
   {
     "ItemCode": "203610000",
@@ -42880,10 +42864,6 @@
     "ItemName": "MOUSSE DE FRUTILLA TKF 1X1 KG"
   },
   {
-    "ItemCode": "300156008",
-    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
-  },
-  {
     "ItemCode": "202730009",
     "ItemName": "DONUT RELLENA DE VAINILLA 36X70 GR (45040)"
   },
@@ -42894,10 +42874,6 @@
   {
     "ItemCode": "203210122",
     "ItemName": "SMASH BURGER AMERICANA 7X125 GR"
-  },
-  {
-    "ItemCode": "300156007",
-    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
   },
   {
     "ItemCode": "300250001",
@@ -43494,10 +43470,6 @@
   {
     "ItemCode": "104010055",
     "ItemName": "SALSA TERIYAKI 12X250 GR"
-  },
-  {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "103650000",
@@ -48172,10 +48144,6 @@
     "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
   },
@@ -48638,5 +48606,37 @@
   {
     "ItemCode": "100201002",
     "ItemName": "AZUCAR MINI PORCION BIDFOOD 800X5GR"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "103670010",
+    "ItemName": "KETCHUP TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "103880018",
+    "ItemName": "MAYONESA TRAVERSO SACHET 300 X 8 GR"
+  },
+  {
+    "ItemCode": "203200041",
+    "ItemName": "TIRAS DE PECHUGA DE POLLO COCIDAS CONG. 12X400 GR"
+  },
+  {
+    "ItemCode": "300156007",
+    "ItemName": "YOGURT FRUTILLA BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "300156008",
+    "ItemName": "YOGURT DAMASCO BOLSA  1X1 LT."
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   }
 ]
