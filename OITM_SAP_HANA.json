@@ -28288,16 +28288,8 @@
     "ItemName": "CONDIMENTO CHOCLO TOMMY BEANS 5 UN X 1 KG"
   },
   {
-    "ItemCode": "103520016",
-    "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
-  },
-  {
     "ItemCode": "200001001",
     "ItemName": "CHURROS ESPAÑOLES CRUDOS 8X25X20 GR"
-  },
-  {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
     "ItemCode": "400102003",
@@ -31930,10 +31922,6 @@
   {
     "ItemCode": "203210109",
     "ItemName": "LOMO LISO PORCIONADO SWIFT 250 GR (6 BOLSAS X 4 UN)"
-  },
-  {
-    "ItemCode": "100450007",
-    "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
     "ItemCode": "100801005",
@@ -36120,10 +36108,6 @@
     "ItemName": "YOGURT GRIEGO OIKOS C/TROZO DURAZNO 48X110"
   },
   {
-    "ItemCode": "101353042",
-    "ItemName": "MAYONESA CAROZZI 10X1 KG"
-  },
-  {
     "ItemCode": "103910023",
     "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
   },
@@ -39314,10 +39298,6 @@
   {
     "ItemCode": "500001004",
     "ItemName": "TAMPER 58 MM PARA PISAR CAFÉ"
-  },
-  {
-    "ItemCode": "103670023",
-    "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
   {
     "ItemCode": "400301025",
@@ -47584,20 +47564,12 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "100101010",
     "ItemName": "ARROZ G1 GRAN SELECCION TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "100700006",
     "ItemName": "CREMA DE CHAMPIÑONES (REND. 14 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
   {
     "ItemCode": "103260004",
@@ -47622,10 +47594,6 @@
   {
     "ItemCode": "104670097",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "101001003",
@@ -48116,10 +48084,6 @@
     "ItemName": "MANTEQUILLA PORCION TONADITA 300 UN X 10 GRS"
   },
   {
-    "ItemCode": "100803001",
-    "ItemName": "ALMENDRA NATURAL 1X1 KG"
-  },
-  {
     "ItemCode": "300156001",
     "ItemName": "YOGURT NATURAL 1X1 LT."
   },
@@ -48468,10 +48432,6 @@
     "ItemName": "PAÑO MULTIUSO RICK 1X3 UN. (1201414)"
   },
   {
-    "ItemCode": "400011008",
-    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
     "ItemCode": "400001001",
     "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
   },
@@ -48592,10 +48552,6 @@
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
   },
   {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
-  },
-  {
     "ItemCode": "100200003",
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
@@ -48638,5 +48594,49 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "100803001",
+    "ItemName": "ALMENDRA NATURAL 1X1 KG"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "103520016",
+    "ItemName": "HARINA SIN POLVO FLOR POLI 1 X 25 KG"
+  },
+  {
+    "ItemCode": "103670023",
+    "ItemName": "KETCHUP CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
+  },
+  {
+    "ItemCode": "101353042",
+    "ItemName": "MAYONESA CAROZZI 10X1 KG"
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "400011008",
+    "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
+  },
+  {
+    "ItemCode": "100450007",
+    "ItemName": "ALGA NORI BLUE 1X100 UN."
   }
 ]
