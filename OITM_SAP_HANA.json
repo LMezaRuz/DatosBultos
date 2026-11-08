@@ -24148,10 +24148,6 @@
     "ItemName": "BEBIDA VEGETAL COCO SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "303850019",
-    "ItemName": "MANTEQUILLA SIN SAL TONADITA 1X5 KG"
-  },
-  {
     "ItemCode": "100551001",
     "ItemName": "AJO EN POLVO 1X250 GR"
   },
@@ -42264,10 +42260,6 @@
     "ItemName": "MAYONESA FS HELLMANNS 6X1880 GR"
   },
   {
-    "ItemCode": "100551002",
-    "ItemName": "AJO EN POLVO 1X1 KG"
-  },
-  {
     "ItemCode": "400005016",
     "ItemName": "GORRO CHEF 1X10 UN."
   },
@@ -43638,10 +43630,6 @@
   {
     "ItemCode": "103720010",
     "ItemName": "LECHE PROTEIN NATURAL DESCREMADA S/LACTOSA 6X200 ML"
-  },
-  {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
     "ItemCode": "100855012",
@@ -47512,10 +47500,6 @@
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
   {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
-  },
-  {
     "ItemCode": "100900005",
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
@@ -47876,10 +47860,6 @@
     "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "100100003",
     "ItemName": "ARROZ ARBORIO 1X1 KG"
   },
@@ -48010,10 +47990,6 @@
   {
     "ItemCode": "100251002",
     "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "200500039",
@@ -48384,10 +48360,6 @@
     "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -48446,10 +48418,6 @@
   {
     "ItemCode": "204300041",
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
-  },
-  {
-    "ItemCode": "100050003",
-    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
   },
   {
     "ItemCode": "203200032",
@@ -48638,5 +48606,37 @@
   {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "100551002",
+    "ItemName": "AJO EN POLVO 1X1 KG"
+  },
+  {
+    "ItemCode": "100050003",
+    "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "303850019",
+    "ItemName": "MANTEQUILLA SIN SAL TONADITA 1X5 KG"
   }
 ]
