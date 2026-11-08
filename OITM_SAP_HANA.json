@@ -31216,10 +31216,6 @@
     "ItemName": "STRUDEL DE MANZANA 48X125 GR"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "101200015",
     "ItemName": "JUGO EN POLVO LIVEAN PIÑA 10X7 GR"
   },
@@ -46080,10 +46076,6 @@
     "ItemName": "HARINA SIN POLVOS YANINE 12X1 KG"
   },
   {
-    "ItemCode": "204790022",
-    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "100101017",
     "ItemName": "ARROZ PREGRANEADO MIRAFLORES 10X1 KG"
   },
@@ -46254,10 +46246,6 @@
   {
     "ItemCode": "302960001",
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
-  },
-  {
-    "ItemCode": "204380026",
-    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
   },
   {
     "ItemCode": "202720006",
@@ -47032,10 +47020,6 @@
     "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "101304001",
-    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "103910046",
     "ItemName": "MERMELADA DURAZNO LOS LAGOS 24X225"
   },
@@ -47066,10 +47050,6 @@
   {
     "ItemCode": "304760447",
     "ItemName": "POSTA PALETA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "202910017",
@@ -48448,10 +48428,6 @@
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
   {
-    "ItemCode": "204380027",
-    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
-  },
-  {
     "ItemCode": "100803001",
     "ItemName": "ALMENDRA NATURAL 1X1 KG"
   },
@@ -48638,5 +48614,29 @@
   {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
+  },
+  {
+    "ItemCode": "204790022",
+    "ItemName": "ESPARRAGOS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204380027",
+    "ItemName": "FRAMBUESA IQF SMART CHOICE (NACIONAL) 10X1 KG."
+  },
+  {
+    "ItemCode": "204380026",
+    "ItemName": "ARANDANO IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "101304001",
+    "ItemName": "CREMA PASTELERA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   }
 ]
