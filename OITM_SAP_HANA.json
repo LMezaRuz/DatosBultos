@@ -31380,10 +31380,6 @@
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
   },
   {
-    "ItemCode": "204300082",
-    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
-  },
-  {
     "ItemCode": "200460052",
     "ItemName": "TRUTRO ENTERO DE POLLO CONG IMP 6 BL X 2 KG"
   },
@@ -34924,10 +34920,6 @@
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
   {
-    "ItemCode": "304470001",
-    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
     "ItemCode": "304280000",
     "ItemName": "PASTEL DE CHOCLO CONGELADO 3X2,2 KG"
   },
@@ -35218,10 +35210,6 @@
   {
     "ItemCode": "103750008",
     "ItemName": "LECHE BON MOMENT CAPUCCINO DANONE 6X200 GR"
-  },
-  {
-    "ItemCode": "400011001",
-    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
     "ItemCode": "103770003",
@@ -42140,10 +42128,6 @@
     "ItemName": "CREMA PARA BATIR LONCO LECHE 12X500 ML"
   },
   {
-    "ItemCode": "400001004",
-    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
-  },
-  {
     "ItemCode": "104500010",
     "ItemName": "COUS COUS CAROZZI 14X250 GR"
   },
@@ -43418,10 +43402,6 @@
   {
     "ItemCode": "101452005",
     "ItemName": "VINAGRE ROSADO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
-    "ItemCode": "200500035",
-    "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
   {
     "ItemCode": "100951005",
@@ -47696,10 +47676,6 @@
     "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "100052002",
     "ItemName": "PEPINILLO DILL ENTERO 1X1 KG"
   },
@@ -48638,5 +48614,29 @@
   {
     "ItemCode": "103580001",
     "ItemName": "HUEVO COLOR GRANDE 6X30 UN"
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "304470001",
+    "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
+  },
+  {
+    "ItemCode": "400001004",
+    "ItemName": "BOLSA TRANSPARENTE (120X130) 1X1 UN."
+  },
+  {
+    "ItemCode": "400011001",
+    "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
+  },
+  {
+    "ItemCode": "200500035",
+    "ItemName": "CHOCLO EN GRANO 16X1 KG"
+  },
+  {
+    "ItemCode": "204300082",
+    "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
   }
 ]
