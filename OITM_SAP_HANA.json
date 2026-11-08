@@ -42080,10 +42080,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO CHOCOLATE 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "100001008",
-    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
-  },
-  {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
   },
@@ -44004,14 +44000,6 @@
     "ItemName": "JARABE DE GOMA MEL 1X1,03 LT."
   },
   {
-    "ItemCode": "100303007",
-    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
-  },
-  {
-    "ItemCode": "101150048",
-    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
-  },
-  {
     "ItemCode": "100905001",
     "ItemName": "SEMOLA 1X1 KG"
   },
@@ -44036,16 +44024,8 @@
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
   {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
-  },
-  {
     "ItemCode": "104620002",
     "ItemName": "MARUCHAN SABOR CARNE DE RES 12X64 GR"
-  },
-  {
-    "ItemCode": "204710000",
-    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   },
   {
     "ItemCode": "100750003",
@@ -44130,10 +44110,6 @@
   {
     "ItemCode": "102840020",
     "ItemName": "CAFE ADDESO EXCLUSIVO EN CAPSULA COMPATIBLE (ESPRESSO POINT) 1X100 UN"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "203210120",
@@ -44362,10 +44338,6 @@
   {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
-  },
-  {
-    "ItemCode": "200250003",
-    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
   },
   {
     "ItemCode": "304340002",
@@ -48504,10 +48476,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101250001",
-    "ItemName": "QUINOA 1X1 KG"
-  },
-  {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
   },
@@ -48638,5 +48606,37 @@
   {
     "ItemCode": "101355004",
     "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "200250003",
+    "ItemName": "PAPAS PRE FRITAS FF 7MM 5x2.5 kg"
+  },
+  {
+    "ItemCode": "100001008",
+    "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
+  },
+  {
+    "ItemCode": "100303007",
+    "ItemName": "LIMONADA CONCENTRADA 4X5 LT"
+  },
+  {
+    "ItemCode": "101150048",
+    "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "101250001",
+    "ItemName": "QUINOA 1X1 KG"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "204710000",
+    "ItemName": "TORTILLA DE TRIGO 6'' (15 CM) SYSCO 12X24 UN"
   }
 ]
