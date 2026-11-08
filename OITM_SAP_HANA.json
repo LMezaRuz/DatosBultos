@@ -27756,10 +27756,6 @@
     "ItemName": "QUESO MANTECOSO PARCELAS PIEZA  10 K"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "100701012",
     "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
@@ -36316,10 +36312,6 @@
     "ItemName": "YOGU YOGU PIÑA 6X200 CC"
   },
   {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
-  },
-  {
     "ItemCode": "101302003",
     "ItemName": "ESENCIA VAINILLA 1x100 cc"
   },
@@ -43712,10 +43704,6 @@
     "ItemName": "CHOCLO EN GRANO DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101201016",
     "ItemName": "SEMOLA CON LECHE TKF 1X1 KG"
   },
@@ -48300,16 +48288,8 @@
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "101151016",
     "ItemName": "CEBOLLA FRITA 35X300 GR"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
   },
   {
     "ItemCode": "300150002",
@@ -48322,14 +48302,6 @@
   {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "300156001",
@@ -48350,10 +48322,6 @@
   {
     "ItemCode": "200250011",
     "ItemName": "PAPAS PREFRITAS SKINONWEDGES FARM FRITES 5X2,5 KG"
-  },
-  {
-    "ItemCode": "203190062",
-    "ItemName": "LOMITO CERVEZA 5X2 KG"
   },
   {
     "ItemCode": "101010002",
@@ -48572,10 +48540,6 @@
     "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -48638,5 +48602,41 @@
   {
     "ItemCode": "204710001",
     "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "203190062",
+    "ItemName": "LOMITO CERVEZA 5X2 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   }
 ]
