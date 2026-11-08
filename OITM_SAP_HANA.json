@@ -31872,10 +31872,6 @@
     "ItemName": "MIEL DE PALMA COCALAN 24 X 240 GR"
   },
   {
-    "ItemCode": "400011002",
-    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
-  },
-  {
     "ItemCode": "103010015",
     "ItemName": "COBERTURA DE CHOCOLATE 6X1,36 KG"
   },
@@ -39424,10 +39420,6 @@
     "ItemName": "QUESO CREMA RENY PICOT 1 X 1,36 KG"
   },
   {
-    "ItemCode": "100854012",
-    "ItemName": "PAPAS HILO TIKA 21X180 GR"
-  },
-  {
     "ItemCode": "100557011",
     "ItemName": "ENELDO EN SOBRE 1x8 g."
   },
@@ -41234,10 +41226,6 @@
   {
     "ItemCode": "400005016",
     "ItemName": "GORRO CHEF 1X10 UN."
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "200200010",
@@ -45916,10 +45904,6 @@
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
   {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
-  },
-  {
     "ItemCode": "204300087",
     "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
   },
@@ -46110,10 +46094,6 @@
   {
     "ItemCode": "103830005",
     "ItemName": "MANJAR PASTELERO EN BOLSA NESTLE 3X6 KG"
-  },
-  {
-    "ItemCode": "101352008",
-    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
   },
   {
     "ItemCode": "100200004",
@@ -46520,10 +46500,6 @@
     "ItemName": "MANTECA VEGETAL BLANDA 1X1 KG."
   },
   {
-    "ItemCode": "204790008",
-    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "303880000",
     "ItemName": "SALSA MAYONESA GYN JM 12X1 KG"
   },
@@ -46606,10 +46582,6 @@
   {
     "ItemCode": "104210008",
     "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
-    "ItemCode": "204790043",
-    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
   {
     "ItemCode": "200100030",
@@ -48224,10 +48196,6 @@
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -48426,10 +48394,6 @@
   {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "100803002",
@@ -48638,5 +48602,41 @@
   {
     "ItemCode": "203190058",
     "ItemName": "CHULETA CENTRO DE CERDO PORCIONADA 5 KG (APROX)"
+  },
+  {
+    "ItemCode": "204790043",
+    "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
+  },
+  {
+    "ItemCode": "101352008",
+    "ItemName": "KETCHUP HELLMANNS FS 6X2 KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "100854012",
+    "ItemName": "PAPAS HILO TIKA 21X180 GR"
+  },
+  {
+    "ItemCode": "400011002",
+    "ItemName": "ESPONJA DORADA 1X3 UN. (1100338)"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
+  },
+  {
+    "ItemCode": "204790008",
+    "ItemName": "CHOCLO EN GRANO IMP SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
