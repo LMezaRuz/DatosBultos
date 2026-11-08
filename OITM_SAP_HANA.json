@@ -23688,10 +23688,6 @@
     "ItemName": "NOT HOTDOG 4X680 GR"
   },
   {
-    "ItemCode": "400011005",
-    "ItemName": "ESPONJA DE ACERO 1X1 UN"
-  },
-  {
     "ItemCode": "101002011",
     "ItemName": "CREMA SIN LACTOSA LONCOLECHE LIGHT 6X200 ML"
   },
@@ -35348,10 +35344,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
   {
-    "ItemCode": "203190056",
-    "ItemName": "LOMITO DE CERDO 30X140 GR"
-  },
-  {
     "ItemCode": "103520010",
     "ItemName": "HARINA ESPECIALIDAD PIZZA YANINE 1X25 KG"
   },
@@ -41012,10 +41004,6 @@
     "ItemName": "STICKER CHAMPIÑÓN TB 1X1.000 UN"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "100852007",
     "ItemName": "GALLETA CHAMPAÑITA COSTA 1x85 gr"
   },
@@ -41550,10 +41538,6 @@
   {
     "ItemCode": "100351002",
     "ItemName": "CAFE INSTANTANEO 1X500 GR"
-  },
-  {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
     "ItemCode": "100304046",
@@ -42314,10 +42298,6 @@
   {
     "ItemCode": "200051008",
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "204310009",
-    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
   },
   {
     "ItemCode": "104420000",
@@ -46004,10 +45984,6 @@
     "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
-    "ItemCode": "204700003",
-    "ItemName": "CARROT CAKE 16 PORCIONES"
-  },
-  {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
@@ -46066,10 +46042,6 @@
   {
     "ItemCode": "204180001",
     "ItemName": "PAPA PREFRITAS CAMOTE CRUNCH 9MM FARM FRITES 5X2 KG"
-  },
-  {
-    "ItemCode": "400011003",
-    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
     "ItemCode": "101353020",
@@ -46242,10 +46214,6 @@
   {
     "ItemCode": "400011008",
     "ItemName": "ESPONJA LISA 1X4 UN. (1100271)"
-  },
-  {
-    "ItemCode": "400011010",
-    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE CLASICA 1X3 UN (C200505)"
   },
   {
     "ItemCode": "103830005",
@@ -46490,10 +46458,6 @@
   {
     "ItemCode": "204380034",
     "ItemName": "PULPA DE MANGO RIO ALTO 5X1 KG"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "204180017",
@@ -48184,10 +48148,6 @@
     "ItemName": "DESINFECTANTE IGENIX AEROSOL 1X360 CC"
   },
   {
-    "ItemCode": "403130001",
-    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
-  },
-  {
     "ItemCode": "400005013",
     "ItemName": "GUANTE DE LATEX MANGA LARGA 38CM 1X1 UN."
   },
@@ -48638,5 +48598,45 @@
   {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "400011010",
+    "ItemName": "PAÑO ESPONJA ULTRA ABSORBENTE CLASICA 1X3 UN (C200505)"
+  },
+  {
+    "ItemCode": "400011005",
+    "ItemName": "ESPONJA DE ACERO 1X1 UN"
+  },
+  {
+    "ItemCode": "204310009",
+    "ItemName": "CRUMBLE DE MANZANA Y CARAMELO 4 UN (1X12 PORCIONES)"
+  },
+  {
+    "ItemCode": "204700003",
+    "ItemName": "CARROT CAKE 16 PORCIONES"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "400011003",
+    "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "403130001",
+    "ItemName": "GUANTE DE NITRILO NEGRO TALLA M 1X100 UN"
+  },
+  {
+    "ItemCode": "203190056",
+    "ItemName": "LOMITO DE CERDO 30X140 GR"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   }
 ]
