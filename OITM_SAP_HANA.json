@@ -23316,10 +23316,6 @@
     "ItemName": "HARINA PANADERA FORTALEZA SAN CRISTOBAL 1X25 KG"
   },
   {
-    "ItemCode": "203430016",
-    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "102910001",
     "ItemName": "PATAS DE CERDO 1X1 KG"
   },
@@ -32216,10 +32212,6 @@
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "203510019",
     "ItemName": "HAMBURGUESA DE VACUNO PREMIUM PAMPA VERDE 36X100 GR"
   },
@@ -35738,10 +35730,6 @@
   {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
-  },
-  {
-    "ItemCode": "400100003",
-    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
   },
   {
     "ItemCode": "304440025",
@@ -40468,10 +40456,6 @@
     "ItemName": "SALSA TABASCO JALAPEÑO 1X60 ML"
   },
   {
-    "ItemCode": "400100005",
-    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
-  },
-  {
     "ItemCode": "200308003",
     "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
   },
@@ -41930,10 +41914,6 @@
   {
     "ItemCode": "100355016",
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
-  },
-  {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   },
   {
     "ItemCode": "100356005",
@@ -44106,10 +44086,6 @@
   {
     "ItemCode": "101007022",
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "104670012",
@@ -48084,10 +48060,6 @@
     "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "100001008",
     "ItemName": "ACEITE DE OLIVA EXTRA VIRGEN SANTIAGO 12X250 CC"
   },
@@ -48170,10 +48142,6 @@
   {
     "ItemCode": "300351005",
     "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
     "ItemCode": "100600001",
@@ -48492,28 +48460,8 @@
     "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "203190062",
     "ItemName": "LOMITO CERVEZA 5X2 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "300150002",
@@ -48638,5 +48586,57 @@
   {
     "ItemCode": "304760623",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "203430016",
+    "ItemName": "MANGO IQF RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "400100003",
+    "ItemName": "BOLSA PREPICADA (40X60) ROLLO 1X4.8 KG."
+  },
+  {
+    "ItemCode": "400100005",
+    "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   }
 ]
