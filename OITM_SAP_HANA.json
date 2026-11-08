@@ -41720,10 +41720,6 @@
     "ItemName": "FIBRA PARRILLERA AZUL 3M 1X5 UN."
   },
   {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
-  },
-  {
     "ItemCode": "200500035",
     "ItemName": "CHOCLO EN GRANO 16X1 KG"
   },
@@ -42470,10 +42466,6 @@
   {
     "ItemCode": "400011016",
     "ItemName": "TRAPERO DOBLE CON OJAL 1X1 UN (1100771)"
-  },
-  {
-    "ItemCode": "104010050",
-    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
   {
     "ItemCode": "104010055",
@@ -46332,10 +46324,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
-    "ItemCode": "100102004",
-    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
-  },
-  {
     "ItemCode": "200307003",
     "ItemName": "SALMON FILETE PREMIUM 2/3 CON PIEL TRIM D AL VACIO KG"
   },
@@ -46594,10 +46582,6 @@
   {
     "ItemCode": "100555001",
     "ItemName": "CALLAMPA DESHIDRATADA 1X1 KG"
-  },
-  {
-    "ItemCode": "100101004",
-    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
   },
   {
     "ItemCode": "200500019",
@@ -46872,10 +46856,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "103700004",
-    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
-  },
-  {
     "ItemCode": "300407001",
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
@@ -46910,10 +46890,6 @@
   {
     "ItemCode": "100202016",
     "ItemName": "ENDULZANTE IANSA CERO K ALULOSA SUCRALOSA 1X180 ML"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "100052005",
@@ -47032,20 +47008,12 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "104540004",
     "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "101001003",
     "ItemName": "LECHE DE COCO 1X400 GR"
-  },
-  {
-    "ItemCode": "203200030",
-    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
   },
   {
     "ItemCode": "204090002",
@@ -48308,10 +48276,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
   {
-    "ItemCode": "100102012",
-    "ItemName": "POROTO NEGRO 10X1 KG."
-  },
-  {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
@@ -48638,5 +48602,41 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100102004",
+    "ItemName": "GARBANZOS ENTEROS SIN PIEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100102012",
+    "ItemName": "POROTO NEGRO 10X1 KG."
+  },
+  {
+    "ItemCode": "203200030",
+    "ItemName": "MILANESA DE POLLO REBOZADA SADIA 3 X 3 KG"
+  },
+  {
+    "ItemCode": "100101004",
+    "ItemName": "ARROZ INTEGRAL TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "104010050",
+    "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
+  },
+  {
+    "ItemCode": "103700004",
+    "ItemName": "LECHE CONDENSADA NESTLE BOLSA 3X6 KG"
   }
 ]
