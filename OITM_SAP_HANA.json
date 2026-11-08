@@ -35320,10 +35320,6 @@
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
   {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "101357001",
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X1.200 ML"
   },
@@ -48056,10 +48052,6 @@
     "ItemName": "MINI CHURROS PREFRITOS RELLENO MANJAR 13 GR 8X50 UN."
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
@@ -48098,14 +48090,6 @@
   {
     "ItemCode": "304760623",
     "ItemName": "POSTA NEGRA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "300351017",
@@ -48290,10 +48274,6 @@
   {
     "ItemCode": "100402002",
     "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "100751011",
@@ -48638,5 +48618,25 @@
   {
     "ItemCode": "101009033",
     "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   }
 ]
