@@ -23336,10 +23336,6 @@
     "ItemName": "JARABE DE REMOJO 4X5 LT"
   },
   {
-    "ItemCode": "104690005",
-    "ItemName": "TOMATE PELADO ARCO IMP 6X2,5 KG"
-  },
-  {
     "ItemCode": "103750002",
     "ItemName": "LECHE SEMI DESCREMADA VAINILLA LONCOLECHE 12X1 LT"
   },
@@ -27616,10 +27612,6 @@
     "ItemName": "LOCOS COCIDOS NACIONAL FRASCO 1X1 KG"
   },
   {
-    "ItemCode": "100355006",
-    "ItemName": "SYRUP COCO MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "204310014",
     "ItemName": "LINGOTE DE PRALINE Y CARAMELO 27X72 GR"
   },
@@ -27966,10 +27958,6 @@
   {
     "ItemCode": "300157018",
     "ItemName": "YOGURT LIGHT VAINILLA SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "104560006",
-    "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
   {
     "ItemCode": "300157014",
@@ -35486,10 +35474,6 @@
   {
     "ItemCode": "302890052",
     "ItemName": "LONGANIZA COCIDA AHUMADA 1 KG APROX"
-  },
-  {
-    "ItemCode": "204300091",
-    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
     "ItemCode": "103910060",
@@ -48638,5 +48622,21 @@
   {
     "ItemCode": "100200001",
     "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "204300091",
+    "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
+  },
+  {
+    "ItemCode": "104690005",
+    "ItemName": "TOMATE PELADO ARCO IMP 6X2,5 KG"
+  },
+  {
+    "ItemCode": "104560006",
+    "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
+  },
+  {
+    "ItemCode": "100355006",
+    "ItemName": "SYRUP COCO MONIN 1X750 ML"
   }
 ]
