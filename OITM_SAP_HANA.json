@@ -43812,10 +43812,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA S/HUESO S/PIEL 10X2 KG"
   },
   {
-    "ItemCode": "200200010",
-    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
-  },
-  {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
   },
@@ -47632,10 +47628,6 @@
     "ItemName": "SYRUP MENTA PEPPERMINT MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "104660017",
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
@@ -48638,5 +48630,13 @@
   {
     "ItemCode": "102680011",
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "200200010",
+    "ItemName": "MEDIALUNA ARGENTINA CLASICA 180X45 GR"
   }
 ]
