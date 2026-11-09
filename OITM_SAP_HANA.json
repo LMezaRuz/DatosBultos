@@ -31644,10 +31644,6 @@
     "ItemName": "NUTELLA BALDE LOCAL 2X3 KG"
   },
   {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "104030006",
     "ItemName": "ACEITE SABOR MANTEQUILLA 3X3,78 LT"
   },
@@ -40020,10 +40016,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "101200006",
     "ItemName": "JUGO POLVO NARANJA (REND. 25 LT) TKF 1X1 KG"
   },
@@ -42756,10 +42748,6 @@
     "ItemName": "ACEITE DE SESAMO 1X500 ML"
   },
   {
-    "ItemCode": "200300004",
-    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
-  },
-  {
     "ItemCode": "101358005",
     "ItemName": "SALSA PARA PIZZA 1X3 KG."
   },
@@ -43414,10 +43402,6 @@
   {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "304760444",
-    "ItemName": "ABASTERO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "200051017",
@@ -46968,10 +46952,6 @@
     "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -48308,14 +48288,6 @@
     "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
   },
@@ -48342,10 +48314,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
-    "ItemCode": "100553001",
-    "ItemName": "COMINO MOLIDO 1X250 GR"
   },
   {
     "ItemCode": "101352009",
@@ -48576,14 +48544,6 @@
     "ItemName": "MUFFIN VAINILLA 36X110 GR"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
-    "ItemCode": "100902005",
-    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
-  },
-  {
     "ItemCode": "300405006",
     "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
@@ -48638,5 +48598,45 @@
   {
     "ItemCode": "100901005",
     "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "200300004",
+    "ItemName": "ATUN LOMO AL VACIO 2 a 4 KG (APRÓX)"
+  },
+  {
+    "ItemCode": "100553001",
+    "ItemName": "COMINO MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "100902005",
+    "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
+  },
+  {
+    "ItemCode": "304760444",
+    "ItemName": "ABASTERO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   }
 ]
