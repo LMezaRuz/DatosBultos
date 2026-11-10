@@ -22572,10 +22572,6 @@
     "ItemName": "PASTA PAPPARDELLE AL HUEVO ARCOORO 10X500 GR"
   },
   {
-    "ItemCode": "104690003",
-    "ItemName": "PULPA DE TOMATE POMODORO POLPABOX ARCO IMP 1X10 KG"
-  },
-  {
     "ItemCode": "203200049",
     "ItemName": "CARNE PICADA DE PECHUGA DE POLLO SAZONADA 5X1 KG"
   },
@@ -23516,10 +23512,6 @@
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL FRIGOCLASS 20KG (APROX)"
   },
   {
-    "ItemCode": "104900006",
-    "ItemName": "CHIPS 4 MADERA PARA AHUMAR DE ROBLE 1X13 KG"
-  },
-  {
     "ItemCode": "304760652",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP BRASIL FRIGOCLASS 20KG (APROX)"
   },
@@ -23538,10 +23530,6 @@
   {
     "ItemCode": "104090005",
     "ItemName": "LOCOS COCIDOS CALIBRE 10-12 FRASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "104900007",
-    "ItemName": "CHIPS 4 MADERA PARA AHUMAR DE MANZANO 1X13 KG"
   },
   {
     "ItemCode": "204090016",
@@ -42876,10 +42864,6 @@
     "ItemName": "FRUTILLA IQF 15X1 KG."
   },
   {
-    "ItemCode": "100951002",
-    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
-  },
-  {
     "ItemCode": "101006004",
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
@@ -43454,10 +43438,6 @@
   {
     "ItemCode": "400011004",
     "ItemName": "ESPONJA DE ACERO GALVANIZADO 1X50 UN."
-  },
-  {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   },
   {
     "ItemCode": "200001001",
@@ -47164,10 +47144,6 @@
     "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
@@ -47270,10 +47246,6 @@
   {
     "ItemCode": "100557006",
     "ItemName": "PESTO 1X190 GR"
-  },
-  {
-    "ItemCode": "200307004",
-    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
   },
   {
     "ItemCode": "100905003",
@@ -47584,10 +47556,6 @@
     "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
   },
   {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
-  },
-  {
     "ItemCode": "104010055",
     "ItemName": "SALSA TERIYAKI 12X250 GR"
   },
@@ -47610,10 +47578,6 @@
   {
     "ItemCode": "200051006",
     "ItemName": "PULPA DE MARACUYA S/PEPA MINUTO VERDE 10 X 1 KG"
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "204380016",
@@ -48646,5 +48610,41 @@
   {
     "ItemCode": "300152006",
     "ItemName": "MANTECA CRUCINA PANADERA 10X1"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "104690003",
+    "ItemName": "PULPA DE TOMATE POMODORO POLPABOX ARCO IMP 1X10 KG"
+  },
+  {
+    "ItemCode": "200307004",
+    "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
+  },
+  {
+    "ItemCode": "104900007",
+    "ItemName": "CHIPS 4 MADERA PARA AHUMAR DE MANZANO 1X13 KG"
+  },
+  {
+    "ItemCode": "104900006",
+    "ItemName": "CHIPS 4 MADERA PARA AHUMAR DE ROBLE 1X13 KG"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100951002",
+    "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
   }
 ]
