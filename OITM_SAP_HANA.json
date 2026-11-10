@@ -22720,10 +22720,6 @@
     "ItemName": "CERVEZA LAGER LATA CUELLO NEGRO 24X473 ML"
   },
   {
-    "ItemCode": "304860009",
-    "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
-  },
-  {
     "ItemCode": "203510017",
     "ItemName": "HAMBURGUESA DE VACUNO MASTODONTE 40X185 GR"
   },
@@ -31652,10 +31648,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 100% CARNE T-REX 30X185 GR"
   },
   {
-    "ItemCode": "304760456",
-    "ItemName": "TAPABARRIGA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
     "ItemCode": "204300085",
     "ItemName": "ALITAS CROCANTES DE POLLO ALEGRA 6X1,5 KG"
   },
@@ -32082,10 +32074,6 @@
   {
     "ItemCode": "200004004",
     "ItemName": "SOPAIPILLA 9 CM 120UN X 40 GRS.APROX"
-  },
-  {
-    "ItemCode": "304760451",
-    "ItemName": "CHOCLILLO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
   {
     "ItemCode": "104670005",
@@ -39828,10 +39816,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "101009007",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
-  },
-  {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
   },
@@ -40070,10 +40054,6 @@
   {
     "ItemCode": "101009017",
     "ItemName": "LECHE FRUTILLA LONCO 6X200 CC"
-  },
-  {
-    "ItemCode": "101009016",
-    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
   {
     "ItemCode": "101009014",
@@ -42464,10 +42444,6 @@
     "ItemName": "SALSA DE FRAMBUESA FOOD SERVICE 1X1 LT."
   },
   {
-    "ItemCode": "101201026",
-    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
-  },
-  {
     "ItemCode": "101201025",
     "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
   },
@@ -42642,10 +42618,6 @@
   {
     "ItemCode": "100151011",
     "ItemName": "CEREAL CORN FLAKES 16X480 GR"
-  },
-  {
-    "ItemCode": "101201029",
-    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   },
   {
     "ItemCode": "101201032",
@@ -47284,10 +47256,6 @@
     "ItemName": "CHAMPIÑON LAM. CONGELADO 10X1 KG"
   },
   {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
@@ -48584,10 +48552,6 @@
     "ItemName": "CEREAL TRIX 10X800 GR"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "101002008",
     "ItemName": "CREMA LISTA 6X200 CC"
   },
@@ -48646,5 +48610,41 @@
   {
     "ItemCode": "100302028",
     "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009007",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 12X1 LT"
+  },
+  {
+    "ItemCode": "101009016",
+    "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "304760456",
+    "ItemName": "TAPABARRIGA AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "304760451",
+    "ItemName": "CHOCLILLO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
+  },
+  {
+    "ItemCode": "304860009",
+    "ItemName": "YOGHURT S/LACTOSA LONCOLECHE BOTELLA SABOR FRUTILLA 6X900 GR"
+  },
+  {
+    "ItemCode": "101201026",
+    "ItemName": "MOUSSE DE LUCUMA TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101201029",
+    "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
   }
 ]
