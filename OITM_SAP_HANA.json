@@ -30820,10 +30820,6 @@
     "ItemName": "QUESO MOZZARELLA CALO 4X2,7 KG"
   },
   {
-    "ItemCode": "101402004",
-    "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
-  },
-  {
     "ItemCode": "400104014",
     "ItemName": "BANDEJA HOTDOG 16CM JUAN MAESTRO 1X100 U."
   },
@@ -31934,10 +31930,6 @@
   {
     "ItemCode": "204300032",
     "ItemName": "POLLO ENTERO LOCAL CONG. CALIBRE 2.0 CAJA 8X2 KG"
-  },
-  {
-    "ItemCode": "104670010",
-    "ItemName": "TE TWININGS VERDE 1X50 UN"
   },
   {
     "ItemCode": "304760444",
@@ -35492,10 +35484,6 @@
     "ItemName": "JUGO NECTAR VIVO MANZANA 12x1 lt."
   },
   {
-    "ItemCode": "101007014",
-    "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
-  },
-  {
     "ItemCode": "100852017",
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
   },
@@ -35986,10 +35974,6 @@
   {
     "ItemCode": "102980022",
     "ItemName": "CHOCOLATE VIZZIO 1X10 KG"
-  },
-  {
-    "ItemCode": "304760632",
-    "ItemName": "PALANCA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
     "ItemCode": "200307005",
@@ -40156,10 +40140,6 @@
     "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "104010050",
     "ItemName": "SALSA TERIYAKI SPECIA 6X1.3 KG"
   },
@@ -40296,10 +40276,6 @@
     "ItemName": "CARNE MECHADA DE VACUNO CHIPOTLE TROZO REFRIGERADA 16X1 KG"
   },
   {
-    "ItemCode": "100751009",
-    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
-  },
-  {
     "ItemCode": "203200029",
     "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
   },
@@ -40430,10 +40406,6 @@
   {
     "ItemCode": "100851001",
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "101100018",
@@ -42640,10 +42612,6 @@
     "ItemName": "MANJAR PORCION COLUN 120X20 GR."
   },
   {
-    "ItemCode": "100751011",
-    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
-  },
-  {
     "ItemCode": "100751046",
     "ItemName": "MERMELADA DE DURAZNO PORCION 192X20 GR."
   },
@@ -42954,10 +42922,6 @@
   {
     "ItemCode": "104670005",
     "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
-  },
-  {
-    "ItemCode": "101009001",
-    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
   {
     "ItemCode": "200459004",
@@ -48004,10 +47968,6 @@
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
   },
   {
-    "ItemCode": "304760109",
-    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
-  },
-  {
     "ItemCode": "200200022",
     "ItemName": "MUFFIN DE VAINILLA CON DULCE DE LECHE 36X125 GR"
   },
@@ -48468,10 +48428,6 @@
     "ItemName": "SOPA DE POLLO CON FIDEOS (REND. 16 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "100202001",
-    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
     "ItemCode": "101201005",
     "ItemName": "FLAN VIVO CHOCOLATE C/CARAMELO 12X90 GR"
   },
@@ -48640,10 +48596,6 @@
     "ItemName": "POLENTA 1X1 KG"
   },
   {
-    "ItemCode": "100751012",
-    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
-  },
-  {
     "ItemCode": "102790004",
     "ItemName": "CAFE ALTA RICA NESCAFE 6X100 GRS (P&H)"
   },
@@ -48654,5 +48606,53 @@
   {
     "ItemCode": "100601006",
     "ItemName": "SURTIDO PARA CALDILLO 24x425 gr"
+  },
+  {
+    "ItemCode": "100751009",
+    "ItemName": "MERMELADA DE FRAMBUESA 1X1 KG"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101402004",
+    "ItemName": "ESPARRAGOS EN LATA 1X425 GR"
+  },
+  {
+    "ItemCode": "104670010",
+    "ItemName": "TE TWININGS VERDE 1X50 UN"
+  },
+  {
+    "ItemCode": "304760109",
+    "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "304760632",
+    "ItemName": "PALANCA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100202001",
+    "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
+  },
+  {
+    "ItemCode": "100751011",
+    "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
+  },
+  {
+    "ItemCode": "100751012",
+    "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
+  },
+  {
+    "ItemCode": "101007014",
+    "ItemName": "LECHE ENTERA POLVO COLUN 1x900 GRS."
+  },
+  {
+    "ItemCode": "101009001",
+    "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   }
 ]
