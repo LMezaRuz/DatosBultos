@@ -23100,10 +23100,6 @@
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
   },
   {
-    "ItemCode": "102590001",
-    "ItemName": "CHORITO NATURAL 1X425 GR"
-  },
-  {
     "ItemCode": "103730007",
     "ItemName": "LECHE EN POLVO DESCREMADA LONCO LECHE 20X760 GR"
   },
@@ -23238,10 +23234,6 @@
   {
     "ItemCode": "303190007",
     "ItemName": "COSTILLAR DE CERDO KG. (P&H)"
-  },
-  {
-    "ItemCode": "104520004",
-    "ItemName": "SAL FINA SALERO 1X500 UN"
   },
   {
     "ItemCode": "203510017",
@@ -27814,10 +27806,6 @@
   {
     "ItemCode": "203480000",
     "ItemName": "GALLETA AMERICANA RED VELVET CON CHIPS CHOCOLATE BLANCO 36X80 GR"
-  },
-  {
-    "ItemCode": "103210006",
-    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
   },
   {
     "ItemCode": "103210000",
@@ -35976,10 +35964,6 @@
     "ItemName": "BROWNIE SIN GLUTEN 20X100 G"
   },
   {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
-  },
-  {
     "ItemCode": "203510015",
     "ItemName": "HAMBURGUESA DE VACUNO 45X120 GR"
   },
@@ -39696,10 +39680,6 @@
     "ItemName": "FILETE AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "101305007",
     "ItemName": "SALSA DE CHOCOLATE FOOD SERVICE 1X1 LT."
   },
@@ -40194,10 +40174,6 @@
   {
     "ItemCode": "200051020",
     "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "203200032",
-    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   },
   {
     "ItemCode": "100356018",
@@ -41924,10 +41900,6 @@
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
-    "ItemCode": "100557006",
-    "ItemName": "PESTO 1X190 GR"
-  },
-  {
     "ItemCode": "100855003",
     "ItemName": "CURRY 1X200 GR"
   },
@@ -42126,10 +42098,6 @@
   {
     "ItemCode": "100902001",
     "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
-    "ItemCode": "104560004",
-    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
   {
     "ItemCode": "400005003",
@@ -42618,10 +42586,6 @@
   {
     "ItemCode": "304420004",
     "ItemName": "SALSA DE QUESO CHEDDAR 8X1 KG"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "400252003",
@@ -48356,10 +48320,6 @@
     "ItemName": "PALANCA AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
   },
@@ -48654,5 +48614,45 @@
   {
     "ItemCode": "102960006",
     "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "102590001",
+    "ItemName": "CHORITO NATURAL 1X425 GR"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "103210006",
+    "ItemName": "MECHADA TROZO VERDURA 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "104520004",
+    "ItemName": "SAL FINA SALERO 1X500 UN"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "100557006",
+    "ItemName": "PESTO 1X190 GR"
+  },
+  {
+    "ItemCode": "104560004",
+    "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "203200032",
+    "ItemName": "POP CORN PECHUGA DE POLLO REBOZADA 4X2,5 KG"
   }
 ]
