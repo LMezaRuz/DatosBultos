@@ -23380,10 +23380,6 @@
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
   },
   {
-    "ItemCode": "303870004",
-    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
-  },
-  {
     "ItemCode": "101450002",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 12X1 LT"
   },
@@ -35284,10 +35280,6 @@
     "ItemName": "ASIENTO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
   {
-    "ItemCode": "304760505",
-    "ItemName": "SOBRE COSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
-  },
-  {
     "ItemCode": "203210135",
     "ItemName": "CHURRASCO DE VACUNO 20X210 GR"
   },
@@ -35702,10 +35694,6 @@
   {
     "ItemCode": "300154010",
     "ItemName": "HORNITO HOJA 20X1"
-  },
-  {
-    "ItemCode": "304760028",
-    "ItemName": "GANSO AL VACIO CAT V BRASIL REFRIGERADO LOCAL (20 KG APROX)"
   },
   {
     "ItemCode": "100302005",
@@ -39828,10 +39816,6 @@
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "101201043",
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -41080,10 +41064,6 @@
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
   },
   {
-    "ItemCode": "101100024",
-    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
-  },
-  {
     "ItemCode": "200250008",
     "ItemName": "PAPAS PRE FRITAS NOISETTES / DUQUESAS 4x2.5 kg."
   },
@@ -41238,10 +41218,6 @@
   {
     "ItemCode": "400005005",
     "ItemName": "GUANTE MULTIUSO TALLA S 1X1 UN"
-  },
-  {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
   },
   {
     "ItemCode": "100801001",
@@ -41930,10 +41906,6 @@
   {
     "ItemCode": "100852018",
     "ItemName": "GALLETA DIN DON 1X115 GR"
-  },
-  {
-    "ItemCode": "101305001",
-    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
     "ItemCode": "100300014",
@@ -46656,14 +46628,6 @@
     "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
-    "ItemCode": "101305006",
-    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
-  },
-  {
-    "ItemCode": "101305005",
-    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "102680010",
     "ItemName": "HELADO SOFT SABOR PISTACHO 10X800 GR"
   },
@@ -47138,10 +47102,6 @@
   {
     "ItemCode": "400001007",
     "ItemName": "BOLSA DE BASURA BIO ROLLO 110X120  1X5 UN"
-  },
-  {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
   },
   {
     "ItemCode": "204790018",
@@ -47960,10 +47920,6 @@
     "ItemName": "SALSA OSCURA PFC 6X2,42 LT"
   },
   {
-    "ItemCode": "104110000",
-    "ItemName": "TOFU 12X307 GRS."
-  },
-  {
     "ItemCode": "104010074",
     "ItemName": "SALSA SRIRACHA 12X822 GR"
   },
@@ -47990,10 +47946,6 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
-  },
-  {
-    "ItemCode": "100450003",
-    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
   },
   {
     "ItemCode": "100450007",
@@ -48348,10 +48300,6 @@
     "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
-    "ItemCode": "200002007",
-    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
-  },
-  {
     "ItemCode": "100304014",
     "ItemName": "NECTAR DE NARANJA 6X200 ML"
   },
@@ -48418,10 +48366,6 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "101050002",
@@ -48644,15 +48588,71 @@
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
-  },
-  {
     "ItemCode": "100101014",
     "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
   },
   {
     "ItemCode": "204380030",
     "ItemName": "PULPA DE FRUTILLA NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "304760028",
+    "ItemName": "GANSO AL VACIO CAT V BRASIL REFRIGERADO LOCAL (20 KG APROX)"
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "304760505",
+    "ItemName": "SOBRE COSTILLA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
+  },
+  {
+    "ItemCode": "303870004",
+    "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200002007",
+    "ItemName": "EMPANADITA RAVIOLERA EXTRA QUESO PARA FREIR 1X192 UN"
+  },
+  {
+    "ItemCode": "101305005",
+    "ItemName": "SALSA DE CARAMELO GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305001",
+    "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101305006",
+    "ItemName": "SALSA DE MANJAR GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101100024",
+    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
+  },
+  {
+    "ItemCode": "100450003",
+    "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "104110000",
+    "ItemName": "TOFU 12X307 GRS."
   }
 ]
