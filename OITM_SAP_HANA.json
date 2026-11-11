@@ -24396,10 +24396,6 @@
     "ItemName": "CHOCOLATE SUC. SICAO ALTA FLUIDEZ 10 KG (ILD-009)"
   },
   {
-    "ItemCode": "101007021",
-    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
-  },
-  {
     "ItemCode": "304850033",
     "ItemName": "YOGURT VEGETAL DE LECHE SOYA C/TROZOS MANGO Y MARACUYA 12X130 GR"
   },
@@ -28188,24 +28184,12 @@
     "ItemName": "GUATA VACUNO CONG. KG (20 KG APROX.)"
   },
   {
-    "ItemCode": "400301022",
-    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
-  },
-  {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
-    "ItemCode": "400301076",
-    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
     "ItemCode": "400301074",
     "ItemName": "PORTA COMPLETO CHICO GYN 1X700 UN"
-  },
-  {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
     "ItemCode": "100351015",
@@ -40248,10 +40232,6 @@
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
   },
   {
-    "ItemCode": "100351017",
-    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
-  },
-  {
     "ItemCode": "100300006",
     "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
@@ -41784,10 +41764,6 @@
     "ItemName": "QUESO PROVOLETA PIEZA KG (2,25 KG APROX)"
   },
   {
-    "ItemCode": "104670066",
-    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
-  },
-  {
     "ItemCode": "100250004",
     "ItemName": "SALSA ESPAÑOLA MAGGI 1X1 KG."
   },
@@ -42592,10 +42568,6 @@
     "ItemName": "GALLETA DE SODA FAMILIAR MCKAY 20X180 GR."
   },
   {
-    "ItemCode": "101150055",
-    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
-  },
-  {
     "ItemCode": "100102015",
     "ItemName": "POROTO BLANCO 10X1 KG."
   },
@@ -42734,10 +42706,6 @@
   {
     "ItemCode": "104670062",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 20 BLS"
-  },
-  {
-    "ItemCode": "400101007",
-    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
     "ItemCode": "200051028",
@@ -42906,10 +42874,6 @@
   {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "400010014",
@@ -47800,10 +47764,6 @@
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "100001003",
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
@@ -48208,14 +48168,6 @@
     "ItemName": "SALSA QUESO CHEDDAR C/DISP. 4X4 KG"
   },
   {
-    "ItemCode": "101150041",
-    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
-  },
-  {
-    "ItemCode": "400301072",
-    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
-  },
-  {
     "ItemCode": "203190061",
     "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
   },
@@ -48310,22 +48262,6 @@
   {
     "ItemCode": "100850015",
     "ItemName": "SUPER 8 4X24 UN"
-  },
-  {
-    "ItemCode": "101150038",
-    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
-  },
-  {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
-    "ItemCode": "103250002",
-    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
-  },
-  {
-    "ItemCode": "101150047",
-    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
   },
   {
     "ItemCode": "400301077",
@@ -48654,5 +48590,69 @@
   {
     "ItemCode": "403250022",
     "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150041",
+    "ItemName": "BANDEJA PINCHO GRANDE JM 1 x 300 UN"
+  },
+  {
+    "ItemCode": "400301022",
+    "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
+  },
+  {
+    "ItemCode": "100351017",
+    "ItemName": "CAFE GOLD STICK  96 UN X 1,8 GR"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "104670066",
+    "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "400301076",
+    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "400101007",
+    "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "101150047",
+    "ItemName": "CAPSULA PORTA COMPLETO 10 CM DOGGIS 1X1500 UN"
+  },
+  {
+    "ItemCode": "101007021",
+    "ItemName": "LECHE EN POLVO 26 % MATERIA GRASA TKF 1 X 1 KG"
+  },
+  {
+    "ItemCode": "101150055",
+    "ItemName": "SOBRE PORTA SANDWICH JM 2.400 UN"
+  },
+  {
+    "ItemCode": "400301072",
+    "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
+  },
+  {
+    "ItemCode": "101150038",
+    "ItemName": "BANDEJA PAPAS DOGGIS 1 X 650 UNID"
+  },
+  {
+    "ItemCode": "103250002",
+    "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   }
 ]
