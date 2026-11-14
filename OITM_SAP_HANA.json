@@ -35400,10 +35400,6 @@
     "ItemName": "TE LIPTON BLACK ORANGE 12 X 20 BLS"
   },
   {
-    "ItemCode": "204390008",
-    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
-  },
-  {
     "ItemCode": "300404009",
     "ItemName": "QUESO GAUDA CALO P-3KG"
   },
@@ -35734,10 +35730,6 @@
   {
     "ItemCode": "101150015",
     "ItemName": "HUEVO ENTERO EN POLVO GYN 1 X 1 KG"
-  },
-  {
-    "ItemCode": "202820027",
-    "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
   },
   {
     "ItemCode": "204150018",
@@ -42772,10 +42764,6 @@
     "ItemName": "YOGURT DANONE LIGHT & FREE VAINILLA CAJA 48X115GR"
   },
   {
-    "ItemCode": "200302006",
-    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
   },
@@ -42970,10 +42958,6 @@
   {
     "ItemCode": "200500018",
     "ItemName": "PIMIENTO CUBO ROJO 12X1 KG."
-  },
-  {
-    "ItemCode": "200302015",
-    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   },
   {
     "ItemCode": "200300001",
@@ -47056,10 +47040,6 @@
     "ItemName": "POSTA ROSADA AL VACIO CAT U BRASIL CONG. LOCAL (20 KG APROX)"
   },
   {
-    "ItemCode": "204090009",
-    "ItemName": "ALMEJA JULIANA 24X500 GR"
-  },
-  {
     "ItemCode": "200100010",
     "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
   },
@@ -48754,5 +48734,25 @@
   {
     "ItemCode": "102680000",
     "ItemName": "PREPARADO HELADO SOFT CALO FRUTILLA 12X1 L"
+  },
+  {
+    "ItemCode": "202820027",
+    "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
+  },
+  {
+    "ItemCode": "204090009",
+    "ItemName": "ALMEJA JULIANA 24X500 GR"
+  },
+  {
+    "ItemCode": "204390008",
+    "ItemName": "PULPO EN TROZOS IVP 16X500 GR"
+  },
+  {
+    "ItemCode": "200302006",
+    "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
+  },
+  {
+    "ItemCode": "200302015",
+    "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
   }
 ]
