@@ -22576,10 +22576,6 @@
     "ItemName": "SYRUP PEPINO MONIN 4X1 LT"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "104660022",
     "ItemName": "SYRUP HIBISCUS MONIN 4X1 LT"
   },
@@ -35636,10 +35632,6 @@
     "ItemName": "MAYONESA POUCH DISPENSADOR HEINZ 4X3 KG"
   },
   {
-    "ItemCode": "204180032",
-    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
-  },
-  {
     "ItemCode": "103940025",
     "ItemName": "MOSTAZA DIJON CLOVIS 12X200 GR"
   },
@@ -36054,10 +36046,6 @@
   {
     "ItemCode": "200500008",
     "ItemName": "PASTA DE CHOCLO 7X1 KG."
-  },
-  {
-    "ItemCode": "200304004",
-    "ItemName": "JAIBA MARMOLA CARNE NAC ESTANDAR (CANCER EDWARDSII) 1 X 500 GRS"
   },
   {
     "ItemCode": "202720039",
@@ -41710,10 +41698,6 @@
   {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "200003001",
@@ -47720,14 +47704,6 @@
     "ItemName": "NUECES MARIPOSA 1x1 kg"
   },
   {
-    "ItemCode": "203210123",
-    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
-  },
-  {
-    "ItemCode": "203200029",
-    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
-  },
-  {
     "ItemCode": "101007020",
     "ItemName": "LECHE EN POLVO 12% MATERIA GRASA TKF 1X1 KG"
   },
@@ -48002,10 +47978,6 @@
   {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "303870001",
@@ -48754,5 +48726,33 @@
   {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200304004",
+    "ItemName": "JAIBA MARMOLA CARNE NAC ESTANDAR (CANCER EDWARDSII) 1 X 500 GRS"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "203210123",
+    "ItemName": "CHURRASCO DE VACUNO 25X200 GR (CAJA 5 KG) (MM)"
+  },
+  {
+    "ItemCode": "203200029",
+    "ItemName": "CHURRASCO DE POLLO JUAN MAESTRO 38X105 GR"
+  },
+  {
+    "ItemCode": "204180032",
+    "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG NAC"
   }
 ]
