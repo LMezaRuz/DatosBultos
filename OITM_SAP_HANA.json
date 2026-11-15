@@ -32072,10 +32072,6 @@
     "ItemName": "CREMA PASTELERA TKF 1X1 KG"
   },
   {
-    "ItemCode": "104210008",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
-  },
-  {
     "ItemCode": "404600009",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50 UN 14X1UN (SE70065)"
   },
@@ -32390,10 +32386,6 @@
   {
     "ItemCode": "103940024",
     "ItemName": "MOSTAZA DIJON CLOVIS 6X830 GR"
-  },
-  {
-    "ItemCode": "101100066",
-    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "204090005",
@@ -36062,10 +36054,6 @@
   {
     "ItemCode": "102630005",
     "ItemName": "CABALLA AL NATURAL EN TARRO COLISEO 24X425 GR"
-  },
-  {
-    "ItemCode": "100002004",
-    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
   },
   {
     "ItemCode": "100201015",
@@ -43908,10 +43896,6 @@
     "ItemName": "FLAN CON LECHE FRUTILLA TKF 1 X 1 KG"
   },
   {
-    "ItemCode": "100101006",
-    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
-  },
-  {
     "ItemCode": "300157024",
     "ItemName": "YOGURT DANONE LIGHT & FREE FRUTILLA 115G CAJA 48X115"
   },
@@ -44236,10 +44220,6 @@
     "ItemName": "KETCHUP JB 10X1 KG"
   },
   {
-    "ItemCode": "100102015",
-    "ItemName": "POROTO BLANCO 10X1 KG."
-  },
-  {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
   },
@@ -44422,10 +44402,6 @@
   {
     "ItemCode": "200307004",
     "ItemName": "SALMON AHUMADO SLICE 1X500 GR"
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "202730073",
@@ -48160,10 +48136,6 @@
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "101002005",
     "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
@@ -48210,10 +48182,6 @@
   {
     "ItemCode": "100854011",
     "ItemName": "PAPAS FRITAS KRYZPO ORIGINAL 14 UN X 130 GRS"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "100002007",
@@ -48544,14 +48512,6 @@
     "ItemName": "TE CHAI MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "100201005",
-    "ItemName": "AZUCAR 10 X 1 KG"
-  },
-  {
     "ItemCode": "102500000",
     "ItemName": "ACEITE PARA FREIR CUKIT MEZCLA 1X5 LT"
   },
@@ -48754,5 +48714,45 @@
   {
     "ItemCode": "100101012",
     "ItemName": "ARROZ G2 LARGO ANCHO TUCAPEL (AZUL) 5X2 KG."
+  },
+  {
+    "ItemCode": "101100066",
+    "ItemName": "CABELLITOS DE ANGEL CORTO 51 LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100102015",
+    "ItemName": "POROTO BLANCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100002004",
+    "ItemName": "ACEITE MARAVILLA CHEF 12X1 LT"
+  },
+  {
+    "ItemCode": "100201005",
+    "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "100101006",
+    "ItemName": "ARROZ PREGRANEADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210008",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 2X5 KG"
   }
 ]
