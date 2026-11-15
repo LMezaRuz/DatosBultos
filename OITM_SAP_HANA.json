@@ -33956,10 +33956,6 @@
     "ItemName": "GLUCO TEXTURAS 24 X 600 GR"
   },
   {
-    "ItemCode": "200250004",
-    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
-  },
-  {
     "ItemCode": "104910005",
     "ItemName": "ALGIN TEXTURAS 24 X 225 GR"
   },
@@ -41872,10 +41868,6 @@
     "ItemName": "NECTAR NARANJA WATTS 6X200 ML"
   },
   {
-    "ItemCode": "200500047",
-    "ItemName": "PIMENTON SLICE F/S ROJO 12 UN X 1 KG"
-  },
-  {
     "ItemCode": "200500006",
     "ItemName": "CHAMPIÑONES EN TIRAS CONGELADO 10X1 KG"
   },
@@ -42532,10 +42524,6 @@
     "ItemName": "EMPANADA DE CAMARON QUESO DIEZ PUNTOS  10X10 UN"
   },
   {
-    "ItemCode": "100001004",
-    "ItemName": "ACEITE DE OLIVA 1X250 ML"
-  },
-  {
     "ItemCode": "200303005",
     "ItemName": "FILETE MERLUZA APANADA 4X2.5 KG"
   },
@@ -43058,10 +43046,6 @@
   {
     "ItemCode": "100050003",
     "ItemName": "ACEITUNAS VERDES SIN CAROZO 1X1 KG"
-  },
-  {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
     "ItemCode": "200002012",
@@ -44026,14 +44010,6 @@
   {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
-    "ItemCode": "202900000",
-    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
     "ItemCode": "101452004",
@@ -48116,10 +48092,6 @@
     "ItemName": "CONCENTRADO SABOR FRUTILLA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
   },
@@ -48262,10 +48234,6 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
-  },
-  {
-    "ItemCode": "100556001",
-    "ItemName": "OREGANO ENTERO 1X250 GR"
   },
   {
     "ItemCode": "100557021",
@@ -48482,10 +48450,6 @@
   {
     "ItemCode": "202730093",
     "ItemName": "PAN DE QUESO CRUDO 26X400 GR"
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "204870022",
@@ -48754,5 +48718,41 @@
   {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "202900000",
+    "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100556001",
+    "ItemName": "OREGANO ENTERO 1X250 GR"
+  },
+  {
+    "ItemCode": "200500047",
+    "ItemName": "PIMENTON SLICE F/S ROJO 12 UN X 1 KG"
+  },
+  {
+    "ItemCode": "200250004",
+    "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "100001004",
+    "ItemName": "ACEITE DE OLIVA 1X250 ML"
+  },
+  {
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   }
 ]
