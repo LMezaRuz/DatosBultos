@@ -41824,10 +41824,6 @@
     "ItemName": "GYOZA DE POLLO DIEZ PUNTOS 5X30 UN"
   },
   {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
-  },
-  {
     "ItemCode": "200302007",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 26/30 1X1 KG"
   },
@@ -41962,10 +41958,6 @@
   {
     "ItemCode": "100852011",
     "ItemName": "GALLETA DE LIMON 1X140 GR."
-  },
-  {
-    "ItemCode": "200003004",
-    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
   {
     "ItemCode": "104930000",
@@ -42698,10 +42690,6 @@
   {
     "ItemCode": "200302015",
     "ItemName": "CAMARON IMP CH CRUDO C/CASCARA 36/40 CH 10X1 KG"
-  },
-  {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
   },
   {
     "ItemCode": "100853004",
@@ -47652,10 +47640,6 @@
     "ItemName": "ACEITE SESAMO 12X1 LT"
   },
   {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
     "ItemCode": "402760000",
     "ItemName": "BOMBILLAS COMPOSTABLES CON PAPEL 6X400 UN"
   },
@@ -48754,5 +48738,21 @@
   {
     "ItemCode": "202910045",
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003004",
+    "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   }
 ]
