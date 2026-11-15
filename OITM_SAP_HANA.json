@@ -24476,10 +24476,6 @@
     "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
   },
   {
-    "ItemCode": "101010006",
-    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
-  },
-  {
     "ItemCode": "103070019",
     "ItemName": "ALCAPARRAS CON TALLO EN VINAGRE IMP ITALCAR 12X720 ML"
   },
@@ -28242,10 +28238,6 @@
   {
     "ItemCode": "303870002",
     "ItemName": "MARGARINA SURENA VEGETAL EN POTE 6 X 900 GR"
-  },
-  {
-    "ItemCode": "200051008",
-    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "303660005",
@@ -32110,10 +32102,6 @@
   {
     "ItemCode": "200051018",
     "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200051005",
-    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
   },
   {
     "ItemCode": "202720035",
@@ -40416,10 +40404,6 @@
     "ItemName": "DURAZNOS CUBITOS WASIL 16X500"
   },
   {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
-  },
-  {
     "ItemCode": "100654005",
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
@@ -41656,10 +41640,6 @@
     "ItemName": "GALLETA GRETEL SABORES 1X85 GR"
   },
   {
-    "ItemCode": "100300015",
-    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
-  },
-  {
     "ItemCode": "103520001",
     "ItemName": "HARINA PARA PIZZA SAN CRISTOBAL 1X25 KG"
   },
@@ -42784,10 +42764,6 @@
     "ItemName": "BAGUETTE TRADICIONAL PRECOCIDO BRIDOR 50 X 140 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100651008",
     "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
   },
@@ -42898,10 +42874,6 @@
   {
     "ItemCode": "200201018",
     "ItemName": "MINI CROISSANT BRIDOR 225X25 GR (28296)"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "200307005",
@@ -43022,10 +42994,6 @@
   {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "100150003",
@@ -43652,10 +43620,6 @@
     "ItemName": "JALEA DE GUINDA (REND. 15 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "101100043",
     "ItemName": "SPAGUETTI INTEGRAL 25X400 GR"
   },
@@ -43666,10 +43630,6 @@
   {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
-  },
-  {
-    "ItemCode": "100300014",
-    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
     "ItemCode": "103940022",
@@ -48260,10 +48220,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
   },
@@ -48724,10 +48680,6 @@
     "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
   },
   {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -48754,5 +48706,53 @@
   {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "200051005",
+    "ItemName": "PULPA DE MANGO MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051008",
+    "ItemName": "PULPA DE PIÑA MINUTO VERDE 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101010006",
+    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "100300014",
+    "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
+  },
+  {
+    "ItemCode": "100300015",
+    "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   }
 ]
