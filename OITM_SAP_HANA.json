@@ -35712,10 +35712,6 @@
     "ItemName": "VINAGRE BALSAMICO GLASEADO BORGO IMP 6X500 ML"
   },
   {
-    "ItemCode": "100300007",
-    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
-  },
-  {
     "ItemCode": "200304006",
     "ItemName": "OSTION CON CORAL 1x1 KG"
   },
@@ -35754,10 +35750,6 @@
   {
     "ItemCode": "101150008",
     "ItemName": "SAL DOGGIS 6 x  1 KG"
-  },
-  {
-    "ItemCode": "100300006",
-    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
   },
   {
     "ItemCode": "204290000",
@@ -40408,10 +40400,6 @@
     "ItemName": "CHOCOLATE CALLEBAUT EXTRA AMARGO 80% 8X2.5 KG (80-20-U76)"
   },
   {
-    "ItemCode": "104010005",
-    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
     "ItemCode": "300154030",
     "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
@@ -43832,10 +43820,6 @@
     "ItemName": "AGUA MINERAL SIN GAS PET PUYEHUE 12X500 CC"
   },
   {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "103940022",
     "ItemName": "MOSTAZA POUCH DISPENSADOR HEINZ 6X2 KG"
   },
@@ -43862,10 +43846,6 @@
   {
     "ItemCode": "101200008",
     "ItemName": "JUGO POLVO NARANJA PLATANO (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
     "ItemCode": "101200003",
@@ -44182,10 +44162,6 @@
   {
     "ItemCode": "100754001",
     "ItemName": "DULCE DE MEMBRILLO 1X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
   },
   {
     "ItemCode": "304420001",
@@ -48396,10 +48372,6 @@
     "ItemName": "FILETITO CROCANTE DE POLLO ALEGRA 4X1,5 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "103880023",
     "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
@@ -48580,10 +48552,6 @@
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
-    "ItemCode": "400008004",
-    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
-  },
-  {
     "ItemCode": "101302001",
     "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
   },
@@ -48754,5 +48722,37 @@
   {
     "ItemCode": "100600001",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "104010005",
+    "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
+  },
+  {
+    "ItemCode": "400008004",
+    "ItemName": "LAVALOZA INDUSTRIAL DEFORT 2X5 LT"
+  },
+  {
+    "ItemCode": "100300007",
+    "ItemName": "AGUA MINERAL SIN GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100300006",
+    "ItemName": "AGUA MINERAL CON GAS VIDRIO PUYEHUE 12X330 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   }
 ]
