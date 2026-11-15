@@ -27688,10 +27688,6 @@
     "ItemName": "TALLARIN LUCCHETTI 1X5 KG"
   },
   {
-    "ItemCode": "203430004",
-    "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
-  },
-  {
     "ItemCode": "101009039",
     "ItemName": "LECHE LONCOLECHE BREAK CHOCO AVELLANA 18X250"
   },
@@ -28072,10 +28068,6 @@
     "ItemName": "PULPA DILUIDA DE FRUTILLA BIDON 1X5 LT"
   },
   {
-    "ItemCode": "203190043",
-    "ItemName": "PULLED PORK 8X1 KG"
-  },
-  {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   },
@@ -28446,10 +28438,6 @@
   {
     "ItemCode": "100751024",
     "ItemName": "MERMELADA DE DAMASCO REGIMEL 1X200 GR"
-  },
-  {
-    "ItemCode": "302960001",
-    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
   },
   {
     "ItemCode": "303870012",
@@ -31736,10 +31724,6 @@
     "ItemName": "DURAZNOS TROCITOS WASIL 24X590"
   },
   {
-    "ItemCode": "302960003",
-    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
-  },
-  {
     "ItemCode": "103910052",
     "ItemName": "MERMELADA DE MARACUYA WATTS 6X1 KG"
   },
@@ -32074,10 +32058,6 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
-  },
-  {
-    "ItemCode": "103180002",
-    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   },
   {
     "ItemCode": "400010018",
@@ -35658,10 +35638,6 @@
   {
     "ItemCode": "304760004",
     "ItemName": "PUNTA PALETA  AL VACIO BRASIL CAT V LOCAL (CAJA 20 KG APROX.)"
-  },
-  {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101150053",
@@ -48476,10 +48452,6 @@
     "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
-    "ItemCode": "101302001",
-    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
-  },
-  {
     "ItemCode": "101201043",
     "ItemName": "JALEA DE LIMON (REND. 15 LT) TKF 1 X 1 KG"
   },
@@ -48518,10 +48490,6 @@
   {
     "ItemCode": "101402005",
     "ItemName": "CHOCLITOS COCKTAIL 425 GR"
-  },
-  {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
   },
   {
     "ItemCode": "100450003",
@@ -48754,5 +48722,37 @@
   {
     "ItemCode": "101305001",
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "203190043",
+    "ItemName": "PULLED PORK 8X1 KG"
+  },
+  {
+    "ItemCode": "203430004",
+    "ItemName": "MIX BERRIES CONGELADO 10X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101302001",
+    "ItemName": "ESENCIA DE VAINILLA 1X1 LT."
+  },
+  {
+    "ItemCode": "302960003",
+    "ItemName": "CHOCOLATE SUC. SICAO BLANCO 12X800 GR (ILW-A99)"
+  },
+  {
+    "ItemCode": "302960001",
+    "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO ALTA FLUIDEZ 12X800 GR (ILD-A99)"
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "103180002",
+    "ItemName": "DURAZNOS EN TROCITOS SMART CHOICE 6X2.84 KG"
   }
 ]
