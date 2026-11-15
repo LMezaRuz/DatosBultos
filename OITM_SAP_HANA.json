@@ -31756,10 +31756,6 @@
     "ItemName": "TOALLA INTERF. CONTINUA PEAKSERVE 12X410 UN TO70047"
   },
   {
-    "ItemCode": "104040015",
-    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
-  },
-  {
     "ItemCode": "203510018",
     "ItemName": "HAMBURGUESA DE VACUNO 100% CARNE T-REX 30X185 GR"
   },
@@ -31954,10 +31950,6 @@
   {
     "ItemCode": "104110000",
     "ItemName": "TOFU 12X307 GRS."
-  },
-  {
-    "ItemCode": "204710001",
-    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   },
   {
     "ItemCode": "204710000",
@@ -39080,10 +39072,6 @@
     "ItemName": "LIMON SODA 6X1,5 LT"
   },
   {
-    "ItemCode": "300351011",
-    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
-  },
-  {
     "ItemCode": "200462007",
     "ItemName": "POLLO GANSO X KG (NV)"
   },
@@ -39658,10 +39646,6 @@
   {
     "ItemCode": "304430008",
     "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
-    "ItemCode": "400301036",
-    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
   },
   {
     "ItemCode": "101009015",
@@ -41850,10 +41834,6 @@
   {
     "ItemCode": "100558001",
     "ItemName": "PIMIENTA BLANCA MOLIDA 1X1 KG"
-  },
-  {
-    "ItemCode": "400011005",
-    "ItemName": "ESPONJA DE ACERO 1X1 UN"
   },
   {
     "ItemCode": "400005016",
@@ -47832,14 +47812,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "100550005",
-    "ItemName": "MERKEN MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "200456009",
-    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
-  },
-  {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
@@ -47926,10 +47898,6 @@
   {
     "ItemCode": "203190061",
     "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "400008004",
@@ -48754,5 +48722,37 @@
   {
     "ItemCode": "200452003",
     "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6,82 KG - LOCAL"
+  },
+  {
+    "ItemCode": "400011005",
+    "ItemName": "ESPONJA DE ACERO 1X1 UN"
+  },
+  {
+    "ItemCode": "300351011",
+    "ItemName": "CHORIZO PARRILLERO LLANQUIHUE 1X500GR"
+  },
+  {
+    "ItemCode": "100550005",
+    "ItemName": "MERKEN MOLIDO 1X250 GR"
+  },
+  {
+    "ItemCode": "200456009",
+    "ItemName": "MOLIDA CONGELADA 8% GRASA 6X1 KG (MM)"
+  },
+  {
+    "ItemCode": "104040015",
+    "ItemName": "CHIPOTLES ADOBO 12X800 GR"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "400301036",
+    "ItemName": "STICKER POLLO TERIYAKI TB 1X1.000 UN"
+  },
+  {
+    "ItemCode": "204710001",
+    "ItemName": "TORTILLA DE TRIGO 12'' (30 CM) SYSCO 8X12 UN"
   }
 ]
