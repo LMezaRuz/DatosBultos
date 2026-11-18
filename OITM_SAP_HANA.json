@@ -23272,10 +23272,6 @@
     "ItemName": "FRAMBUESA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "101353026",
-    "ItemName": "MAYONESA JANO 10X970 GR"
-  },
-  {
     "ItemCode": "104170006",
     "ItemName": "PAPAS FRITAS SABOR QUESO KRYZPO 8X6X37 GR"
   },
@@ -36184,10 +36180,6 @@
     "ItemName": "HUACHALOMO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "104670095",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
-  },
-  {
     "ItemCode": "104670061",
     "ItemName": "TE LIPTON CAMOMILE 12X20 BLS"
   },
@@ -39992,10 +39984,6 @@
     "ItemName": "MERMELADA DAMASCO WATTS 12X360 GR"
   },
   {
-    "ItemCode": "304340003",
-    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
-  },
-  {
     "ItemCode": "204790018",
     "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
@@ -40358,10 +40346,6 @@
   {
     "ItemCode": "300403010",
     "ItemName": "QUESO CHESSINO CREMA DOS ALAMOS 1X100 GR"
-  },
-  {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   },
   {
     "ItemCode": "304490000",
@@ -41666,10 +41650,6 @@
   {
     "ItemCode": "300157015",
     "ItemName": "YOGURT PLATANO BATIDO SOPROLE 1X120 GR."
-  },
-  {
-    "ItemCode": "101009038",
-    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
   },
   {
     "ItemCode": "300351015",
@@ -43064,10 +43044,6 @@
     "ItemName": "YOGURT PROTEIN NATURAL CON GRANOLA EN POTE LONCOLECHE 12X142 GR"
   },
   {
-    "ItemCode": "304850032",
-    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
-  },
-  {
     "ItemCode": "304850025",
     "ItemName": "YOGURT GRIEGO MIX CHOCO CRUNCH OIKOS 12X142GR"
   },
@@ -43242,10 +43218,6 @@
   {
     "ItemCode": "303870006",
     "ItemName": "MARGARINA SURENA 12X450 GR"
-  },
-  {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
   {
     "ItemCode": "103670023",
@@ -48834,5 +48806,33 @@
   {
     "ItemCode": "200100023",
     "ItemName": "HELADO PUDU MANJAR DE CAMPO 1X460 ML"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
+  },
+  {
+    "ItemCode": "101353026",
+    "ItemName": "MAYONESA JANO 10X970 GR"
+  },
+  {
+    "ItemCode": "104670095",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
+  },
+  {
+    "ItemCode": "101009038",
+    "ItemName": "LECHE LONCOLECHE BREAK CAPPUCINO 18X250 ML"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
+  },
+  {
+    "ItemCode": "304340003",
+    "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
+  },
+  {
+    "ItemCode": "304850032",
+    "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   }
 ]
