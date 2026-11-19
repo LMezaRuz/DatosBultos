@@ -22356,10 +22356,6 @@
     "ItemName": "LECHE EN POLVO CALO CRECER 1+ 10X800 GR"
   },
   {
-    "ItemCode": "200500026",
-    "ItemName": "PURE DE PALTA 1X1 KG."
-  },
-  {
     "ItemCode": "103630007",
     "ItemName": "CONCENTRADO SABOR NARANJA CON SUCRALOSA 4X5 LT"
   },
@@ -23518,10 +23514,6 @@
   {
     "ItemCode": "104190001",
     "ItemName": "PAPEL HIGIENICO D.HOJA TECNOPAPEL 22 MT 2X24 UN"
-  },
-  {
-    "ItemCode": "202720041",
-    "ItemName": "MINI MUFFIN CHIPS CHOCOLATES 80X20 GR"
   },
   {
     "ItemCode": "101009001",
@@ -31788,10 +31780,6 @@
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
   {
-    "ItemCode": "102780005",
-    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
-  },
-  {
     "ItemCode": "200460008",
     "ItemName": "TRUTRO  LARGO SELECCION 1x800 gr"
   },
@@ -36482,10 +36470,6 @@
   {
     "ItemCode": "100300008",
     "ItemName": "AGUA MINERAL CON GAS VITAL PET 6X1.6 LT."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "200500079",
@@ -42368,10 +42352,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA FRUTILLA 48 X 125 GRS"
   },
   {
-    "ItemCode": "101357002",
-    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
-  },
-  {
     "ItemCode": "102660006",
     "ItemName": "AZUCAR G2 DE REYES 10X900 GR"
   },
@@ -44424,10 +44404,6 @@
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300157010",
     "ItemName": "YOGURT AFLANADO NATURAL SOPROLE 1X155 GR."
   },
@@ -44578,10 +44554,6 @@
   {
     "ItemCode": "204380016",
     "ItemName": "PULPA DE FRUTILLA RIO ALTO  5X1 KG"
-  },
-  {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
     "ItemCode": "101452004",
@@ -48012,10 +47984,6 @@
     "ItemName": "ARROZ BASMATI 1X1 KG."
   },
   {
-    "ItemCode": "300001010",
-    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG (W2-U73)"
-  },
-  {
     "ItemCode": "100350001",
     "ItemName": "CAFE EN GRANO PRESTIGE (80% ARABICA - 20% ROBUSTA) 6X1 KG"
   },
@@ -48842,5 +48810,37 @@
   {
     "ItemCode": "101450006",
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "102780005",
+    "ItemName": "CAFE DESCAFEINADO MOLIDO 1X226.8 GR"
+  },
+  {
+    "ItemCode": "202720041",
+    "ItemName": "MINI MUFFIN CHIPS CHOCOLATES 80X20 GR"
+  },
+  {
+    "ItemCode": "101357002",
+    "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "300001010",
+    "ItemName": "CHOCOLATE CALLEBAUT BLANCO 28% 6X1 KG (W2-U73)"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "200500026",
+    "ItemName": "PURE DE PALTA 1X1 KG."
   }
 ]
