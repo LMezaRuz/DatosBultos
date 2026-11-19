@@ -24388,10 +24388,6 @@
     "ItemName": "PULPA DE TOMATE POMODORO POLPABOX ARCO IMP 1X10 KG"
   },
   {
-    "ItemCode": "202820019",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "303850001",
     "ItemName": "MANTEQUILLA EN PAN LONCOLECHE 10X1 KG"
   },
@@ -27940,10 +27936,6 @@
     "ItemName": "CHAMPIÑON LAMINADO CONG SMART CHOICE 10X1 KG"
   },
   {
-    "ItemCode": "100302037",
-    "ItemName": "SPRITE LATA 6X350 CC."
-  },
-  {
     "ItemCode": "204530004",
     "ItemName": "SALMON FILETE ATLANTICO SIN PIEL (SALMO SALAR) KG"
   },
@@ -28082,10 +28074,6 @@
   {
     "ItemCode": "100905002",
     "ItemName": "SEMOLA 1x500 g."
-  },
-  {
-    "ItemCode": "103760001",
-    "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
   {
     "ItemCode": "104320012",
@@ -36152,10 +36140,6 @@
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "100302032",
-    "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
     "ItemCode": "100302015",
     "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
@@ -40260,10 +40244,6 @@
     "ItemName": "ARVEJAS WASIL 48X300 GR"
   },
   {
-    "ItemCode": "103210000",
-    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
-  },
-  {
     "ItemCode": "100304046",
     "ItemName": "NECTAR PERA JUMEX 24X335 ML."
   },
@@ -42332,10 +42312,6 @@
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
   {
-    "ItemCode": "101002003",
-    "ItemName": "CREMA UHT SURLAT 12X1 LT"
-  },
-  {
     "ItemCode": "100852005",
     "ItemName": "GALLETA OBLEA SABOR HELADO 1X140 GR."
   },
@@ -42948,10 +42924,6 @@
     "ItemName": "GUANTE DE NITRILO NEGRO TALLA L 1X100 UN"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "203510012",
     "ItemName": "SMASH BURGER 75 GR (6 BOLSAS X 13 UN)"
   },
@@ -43030,10 +43002,6 @@
   {
     "ItemCode": "304760445",
     "ItemName": "PUNTA PICANA AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
-  },
-  {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   },
   {
     "ItemCode": "100557021",
@@ -47804,18 +47772,6 @@
     "ItemName": "ACEITE DE OLIVA 1X1 LT"
   },
   {
-    "ItemCode": "400001002",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
-  },
-  {
-    "ItemCode": "400001003",
-    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
-  },
-  {
-    "ItemCode": "400001001",
-    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -47882,14 +47838,6 @@
   {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "200500026",
@@ -48580,10 +48528,6 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
-  },
-  {
     "ItemCode": "200002009",
     "ItemName": "EMPANADA CAMARON MANDARIN 2X50 UN"
   },
@@ -48842,5 +48786,61 @@
   {
     "ItemCode": "100050007",
     "ItemName": "ACEITUNAS NEGRA EN RODAJAS 1X935 GR"
+  },
+  {
+    "ItemCode": "400001002",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 50X70 1X10 UN"
+  },
+  {
+    "ItemCode": "400001003",
+    "ItemName": "BOLSA DE BASURA BIO ROLLO 70X90 1X10 UN"
+  },
+  {
+    "ItemCode": "400001001",
+    "ItemName": "BOLSA DE BASURA ROLLO 80X110 1X10 UN"
+  },
+  {
+    "ItemCode": "202820019",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO DESV 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "101002003",
+    "ItemName": "CREMA UHT SURLAT 12X1 LT"
+  },
+  {
+    "ItemCode": "103760001",
+    "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
+  },
+  {
+    "ItemCode": "100302037",
+    "ItemName": "SPRITE LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302032",
+    "ItemName": "SPRITE ZERO LATA 6X350 CC"
+  },
+  {
+    "ItemCode": "103210000",
+    "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
   }
 ]
