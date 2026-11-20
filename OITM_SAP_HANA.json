@@ -23760,10 +23760,6 @@
     "ItemName": "YOGHURT LONCOLECHE S/L TROZOS DURAZNO 24X140 GR"
   },
   {
-    "ItemCode": "203200018",
-    "ItemName": "REBOZADO DE POLLO SADIA 45X100 GR"
-  },
-  {
     "ItemCode": "103480038",
     "ItemName": "GALLETAS DE NAVIDAD MCKAY 14X120 GR"
   },
@@ -44984,10 +44980,6 @@
     "ItemName": "GALLETA OREO 30X108 GR"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "100654002",
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
@@ -45198,10 +45190,6 @@
   {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
-  },
-  {
-    "ItemCode": "101356003",
-    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
     "ItemCode": "304760617",
@@ -45666,10 +45654,6 @@
   {
     "ItemCode": "304760028",
     "ItemName": "GANSO AL VACIO CAT V BRASIL REFRIGERADO LOCAL (20 KG APROX)"
-  },
-  {
-    "ItemCode": "204300073",
-    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
   },
   {
     "ItemCode": "204090017",
@@ -46480,10 +46464,6 @@
     "ItemName": "SALSA AMERICANA TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -46722,10 +46702,6 @@
   {
     "ItemCode": "101150032",
     "ItemName": "SALSA SMOKEY BBQ 1X3,7 LT"
-  },
-  {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
   },
   {
     "ItemCode": "100102004",
@@ -47708,10 +47684,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "101010006",
-    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
-  },
-  {
     "ItemCode": "100950001",
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
@@ -47756,10 +47728,6 @@
     "ItemName": "SPAGUETTI IMP. BERRAK 2X5 KG"
   },
   {
-    "ItemCode": "101008006",
-    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
-  },
-  {
     "ItemCode": "104560004",
     "ItemName": "PASTA DE TOMATE (TRIPLE CONCENTRADO) SMART CHOICE 12X1 KG"
   },
@@ -47794,10 +47762,6 @@
   {
     "ItemCode": "103940023",
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 6X770 GR"
-  },
-  {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
   },
   {
     "ItemCode": "100001007",
@@ -48412,10 +48376,6 @@
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "100650001",
     "ItemName": "COCKTAIL DE FRUTAS 1X3 KG."
   },
@@ -48850,5 +48810,45 @@
   {
     "ItemCode": "103650038",
     "ItemName": "NECTAR PROTEINA SELECCION TROPICAL WATTS 18X250 ML"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101356003",
+    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "204300073",
+    "ItemName": "FILETILLO DE POLLO IMP. CONG. IQF 12X1 KG."
+  },
+  {
+    "ItemCode": "203200018",
+    "ItemName": "REBOZADO DE POLLO SADIA 45X100 GR"
+  },
+  {
+    "ItemCode": "101008006",
+    "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101010006",
+    "ItemName": "LECHE LONCO S/LAC NAT ENT 12X1  KG"
   }
 ]
