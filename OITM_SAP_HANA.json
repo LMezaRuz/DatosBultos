@@ -23968,14 +23968,6 @@
     "ItemName": "JABON LIQUIDO 1X650 CC"
   },
   {
-    "ItemCode": "103650038",
-    "ItemName": "NECTAR PROTEINA SELECCION TROPICAL WATTS 18X250 ML"
-  },
-  {
-    "ItemCode": "103650037",
-    "ItemName": "NECTAR PROTEINA SELECCION CIRUELA BERRIES WATTS 18X250 ML"
-  },
-  {
     "ItemCode": "304110016",
     "ItemName": "QUESO CABRA LAS PARCELAS DE VALDIVIA 20X200 GR"
   },
@@ -47488,10 +47480,6 @@
     "ItemName": "CHOCOLATE SUC. SICAO SEMI AMARGO GANACHE 12X800 GR (ISD-A99)"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "204180036",
     "ItemName": "PAPAS PRE FRITAS SKIN ON WEDGES MCCAIN 6X2.5 KG"
   },
@@ -48584,10 +48572,6 @@
     "ItemName": "QUESO CHANCO LAS PARCELAS LAMINADO 12X233 GR"
   },
   {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
-  },
-  {
     "ItemCode": "204300087",
     "ItemName": "TRUTRO ENTERO DE POLLO MARINADO CONG. ADORO 20 KG."
   },
@@ -48612,16 +48596,8 @@
     "ItemName": "PANGASIUS (170/220) 10X1 KG - LOCAL"
   },
   {
-    "ItemCode": "300154017",
-    "ItemName": "MARGARINA CALO 72X125 GR"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
-  },
-  {
-    "ItemCode": "300154014",
-    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
   },
   {
     "ItemCode": "101050001",
@@ -48850,5 +48826,29 @@
   {
     "ItemCode": "204150020",
     "ItemName": "PAN MOLDE BLANCO TRADICIONAL 14X14 CM CONGELADO 4X2,6 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "300154017",
+    "ItemName": "MARGARINA CALO 72X125 GR"
+  },
+  {
+    "ItemCode": "300154014",
+    "ItemName": "MARGARINA DONA JUANITA 12X1KG"
+  },
+  {
+    "ItemCode": "103650037",
+    "ItemName": "NECTAR PROTEINA SELECCION CIRUELA BERRIES WATTS 18X250 ML"
+  },
+  {
+    "ItemCode": "103650038",
+    "ItemName": "NECTAR PROTEINA SELECCION TROPICAL WATTS 18X250 ML"
   }
 ]
