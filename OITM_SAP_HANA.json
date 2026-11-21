@@ -22916,10 +22916,6 @@
     "ItemName": "FIDEOS INSTANTANEOS DE CARNE TRAVERSO 12X65 GR"
   },
   {
-    "ItemCode": "100150003",
-    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
-  },
-  {
     "ItemCode": "102610000",
     "ItemName": "ARROZ IMP. TUCAPEL BLUE BONNET G2 10X1 KG"
   },
@@ -24134,10 +24130,6 @@
   {
     "ItemCode": "202820027",
     "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
-  },
-  {
-    "ItemCode": "101401005",
-    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   },
   {
     "ItemCode": "204300085",
@@ -32484,10 +32476,6 @@
     "ItemName": "MANTEQUILLA KUMEY 20X250 GR (2222)"
   },
   {
-    "ItemCode": "103940026",
-    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
-  },
-  {
     "ItemCode": "100600004",
     "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
   },
@@ -32534,10 +32522,6 @@
   {
     "ItemCode": "400301035",
     "ItemName": "STICKER POLLO TB 1X1.000 UN"
-  },
-  {
-    "ItemCode": "103880023",
-    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
   },
   {
     "ItemCode": "600001012",
@@ -35746,10 +35730,6 @@
   {
     "ItemCode": "204300086",
     "ItemName": "MEDIA PECHUGA SIN MARINAR IQF SADIA 2X4,5 KG"
-  },
-  {
-    "ItemCode": "100902003",
-    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
   },
   {
     "ItemCode": "200300003",
@@ -42808,10 +42788,6 @@
     "ItemName": "CUBOS DE FILETE 5X1 KG (MM)"
   },
   {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
-  },
-  {
     "ItemCode": "104560006",
     "ItemName": "SALSA DE TOMATE POMAROLA ITALIANA 10X1 KG"
   },
@@ -44104,10 +44080,6 @@
     "ItemName": "CREMELL PIE DE LIMON TKF 1X1 KG"
   },
   {
-    "ItemCode": "101358010",
-    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
-  },
-  {
     "ItemCode": "101201020",
     "ItemName": "FLAN CON LECHE LUCUMA TKF 1X1 KG"
   },
@@ -44398,10 +44370,6 @@
   {
     "ItemCode": "300408001",
     "ItemName": "QUESILLO POTE 1X300 GR."
-  },
-  {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
     "ItemCode": "101201017",
@@ -48380,10 +48348,6 @@
     "ItemName": "AZUCAR GRANULADA 1X5 KG"
   },
   {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
-  },
-  {
     "ItemCode": "102660000",
     "ItemName": "AZUCAR RUBIA IANSA 18X500 GR"
   },
@@ -48424,10 +48388,6 @@
     "ItemName": "ATUN LOMITO AL AGUA 48X160 GR"
   },
   {
-    "ItemCode": "100002003",
-    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
     "ItemCode": "101100060",
     "ItemName": "CORBATAS LUCCHETTI 30X400 GR"
   },
@@ -48446,10 +48406,6 @@
   {
     "ItemCode": "101201029",
     "ItemName": "CREMELL SUSPIRO LIMEÑO TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101100061",
-    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
   },
   {
     "ItemCode": "101100062",
@@ -48780,10 +48736,6 @@
     "ItemName": "HARINA SIN POLVOS SELECTA 1X5 KG."
   },
   {
-    "ItemCode": "100752001",
-    "ItemName": "MIEL DE ABEJAS 1X1 KG"
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
@@ -48850,5 +48802,53 @@
   {
     "ItemCode": "200051026",
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "100150003",
+    "ItemName": "AVENA INSTANTANEA  1X1 Kg"
+  },
+  {
+    "ItemCode": "100752001",
+    "ItemName": "MIEL DE ABEJAS 1X1 KG"
+  },
+  {
+    "ItemCode": "103940026",
+    "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
+  },
+  {
+    "ItemCode": "101100061",
+    "ItemName": "ESPIRALES LUCCHETTI 30 UN X 400 GR"
+  },
+  {
+    "ItemCode": "101358010",
+    "ItemName": "SALSA DE TOMATE ITALIANA SAN REMO 10X1 KG"
+  },
+  {
+    "ItemCode": "103880023",
+    "ItemName": "MAYONESA REAL KRAFT 30 OZ 12X789 GR"
+  },
+  {
+    "ItemCode": "100002003",
+    "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
+  },
+  {
+    "ItemCode": "100902003",
+    "ItemName": "HARINA SIN POLVOS MONT BLANC 12X1 KG."
+  },
+  {
+    "ItemCode": "101401005",
+    "ItemName": "POROTOS NEGROS WASIL 16X380GRS."
   }
 ]
