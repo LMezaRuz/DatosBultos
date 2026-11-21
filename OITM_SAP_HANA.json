@@ -24160,10 +24160,6 @@
     "ItemName": "PIMIENTO MORRÓN VERDE KG."
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101050003",
     "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
@@ -27216,10 +27212,6 @@
     "ItemName": "COSTILLAR DE CERDO ALEMAN LOCAL 10 KG APROX."
   },
   {
-    "ItemCode": "101452003",
-    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
-  },
-  {
     "ItemCode": "203900005",
     "ItemName": "HAMBURGUESA MERLUZA APANADA EL GOLFO 50X100 G"
   },
@@ -28184,10 +28176,6 @@
     "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
   },
   {
-    "ItemCode": "303660008",
-    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
-  },
-  {
     "ItemCode": "200051026",
     "ItemName": "PULPA DE JUGO DE LIMON VITAFRUTTA LEMON FROST 10X1 KG"
   },
@@ -28446,10 +28434,6 @@
   {
     "ItemCode": "103750003",
     "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
-    "ItemCode": "100651008",
-    "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
   },
   {
     "ItemCode": "104610008",
@@ -36116,10 +36100,6 @@
     "ItemName": "GUANTE DE LATEX TALLA L 1X100 UN."
   },
   {
-    "ItemCode": "104600004",
-    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
-  },
-  {
     "ItemCode": "304760499",
     "ItemName": "POSTA ROSADA AL VACIO CAT-V BRASIL MATABOI 20 KG (APROX) LOCAL"
   },
@@ -36138,10 +36118,6 @@
   {
     "ItemCode": "100750003",
     "ItemName": "MANJAR SOPROLE BOLSA 1X1 KG"
-  },
-  {
-    "ItemCode": "303660007",
-    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
   },
   {
     "ItemCode": "303660005",
@@ -40180,10 +40156,6 @@
     "ItemName": "CAFE NESCAFE DESCAFEINADO TARRO 1X170 GR"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "100003003",
     "ItemName": "FRITO MASTER PLUS (MANTECA FLUIDA VEGETAL) 1X10 LT"
   },
@@ -42848,10 +42820,6 @@
     "ItemName": "MECHADA VACUNO CHIPOTLE TROZO 16X1 KG"
   },
   {
-    "ItemCode": "101450006",
-    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
-  },
-  {
     "ItemCode": "101007022",
     "ItemName": "LECHE EN POLVO 18 % MATERIA GRASA TKF 1 X 1 KG"
   },
@@ -43652,10 +43620,6 @@
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
   {
-    "ItemCode": "101100024",
-    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
-  },
-  {
     "ItemCode": "400010017",
     "ItemName": "DESENGRASANTE INDUSTRIAL DEFORT 2X5 LT"
   },
@@ -44016,10 +43980,6 @@
     "ItemName": "MERMELADA DE ARANDANO MIX SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "202670000",
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
@@ -44082,10 +44042,6 @@
   {
     "ItemCode": "200050003",
     "ItemName": "FRAMBUESA IQF 10X1 KG."
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "101100050",
@@ -48820,10 +48776,6 @@
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
   {
-    "ItemCode": "203230003",
-    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
-  },
-  {
     "ItemCode": "204790043",
     "ItemName": "POROTO VERDE CORTE FRANCES DIEZ PUNTOS 20X500 GR"
   },
@@ -48850,5 +48802,53 @@
   {
     "ItemCode": "300157007",
     "ItemName": "YOGURT NATURAL 1X800 GR"
+  },
+  {
+    "ItemCode": "104600004",
+    "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "203230003",
+    "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
+  },
+  {
+    "ItemCode": "101450006",
+    "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
+  },
+  {
+    "ItemCode": "101452003",
+    "ItemName": "VINAGRE DE MANZANA PET TRAVERSO 12X500 ML"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "101100024",
+    "ItemName": "RAVIOLES DE CARNE 1X400 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "303660008",
+    "ItemName": "PULPA DILUIDA DE PIÑA BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "303660007",
+    "ItemName": "PULPA DILUIDA DE MANGO BIDON 1X5 LT"
+  },
+  {
+    "ItemCode": "100651008",
+    "ItemName": "DURAZNOS EN CUBITOS 1X3 KG."
   }
 ]
