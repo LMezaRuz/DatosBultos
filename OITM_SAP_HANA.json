@@ -28204,10 +28204,6 @@
     "ItemName": "CHOCOLATE REAL SICAO BLANCO 33% 10 KG (CHW-094)"
   },
   {
-    "ItemCode": "104010004",
-    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
-  },
-  {
     "ItemCode": "100201004",
     "ItemName": "AZUCAR GRANULADA IANSA SACHET 1X60X5 GRS."
   },
@@ -32416,10 +32412,6 @@
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "100355003",
-    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "400301022",
     "ItemName": "CAJA PAPA FAMILIAR DOGGIS 1 X 300 UN"
   },
@@ -35670,10 +35662,6 @@
   {
     "ItemCode": "101200024",
     "ItemName": "JUGO EN POLVO ZUKO MANZANA 10X15 GR"
-  },
-  {
-    "ItemCode": "204150016",
-    "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
   },
   {
     "ItemCode": "101150036",
@@ -41284,10 +41272,6 @@
     "ItemName": "DURAZNO MITADES 24X590 G."
   },
   {
-    "ItemCode": "100355001",
-    "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "100355006",
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
@@ -41626,10 +41610,6 @@
   {
     "ItemCode": "101200007",
     "ItemName": "JUGO POLVO MANZANA (REND. 25 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "100701012",
-    "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
   },
   {
     "ItemCode": "100304047",
@@ -43074,10 +43054,6 @@
   {
     "ItemCode": "300150005",
     "ItemName": "CREMA LISTA LIGHT SIN LACTOSA LONCOLECHE 6X200 ML"
-  },
-  {
-    "ItemCode": "200201001",
-    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   },
   {
     "ItemCode": "101009033",
@@ -48104,10 +48080,6 @@
     "ItemName": "SALSA BLANCA TKF 1 X1 KG"
   },
   {
-    "ItemCode": "100251002",
-    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
-  },
-  {
     "ItemCode": "102790002",
     "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   },
@@ -48232,16 +48204,8 @@
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
-    "ItemCode": "100904001",
-    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
   },
   {
     "ItemCode": "200302006",
@@ -48704,10 +48668,6 @@
     "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "103880017",
     "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
@@ -48850,5 +48810,45 @@
   {
     "ItemCode": "304430000",
     "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "104010004",
+    "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
+  },
+  {
+    "ItemCode": "100251002",
+    "ItemName": "CALDO CONCENTRADO DE POLLO TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "204150016",
+    "ItemName": "PAN MOLDE BLANCO SIN GLUTEN 4X400 GR"
+  },
+  {
+    "ItemCode": "100904001",
+    "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100355003",
+    "ItemName": "SYRUP AVELLANA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100355001",
+    "ItemName": "SYRUP ALMENDRA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "100701012",
+    "ItemName": "SOPA DE CARNE CON VERDURAS (REND. 16 LT) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "200201001",
+    "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
   }
 ]
