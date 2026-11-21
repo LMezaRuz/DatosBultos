@@ -28416,10 +28416,6 @@
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
-    "ItemCode": "101357006",
-    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
@@ -41644,10 +41640,6 @@
     "ItemName": "PIÑAS EN TROZOS LATA 24X565 GR"
   },
   {
-    "ItemCode": "204180023",
-    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
-  },
-  {
     "ItemCode": "304850046",
     "ItemName": "YOGURT GRIEGO NATURAL NO ENDULZADO POTE OIKOS 6X800 GR"
   },
@@ -41782,10 +41774,6 @@
   {
     "ItemCode": "100850001",
     "ItemName": "KIT KAT 4 FINGERS MILK 1X 41G"
-  },
-  {
-    "ItemCode": "204790054",
-    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
   },
   {
     "ItemCode": "100151005",
@@ -48112,10 +48100,6 @@
     "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
@@ -48166,10 +48150,6 @@
   {
     "ItemCode": "100102005",
     "ItemName": "ARVEJAS VERDES PARTIDAS 10X1 KG."
-  },
-  {
-    "ItemCode": "100559007",
-    "ItemName": "SAL FINA 1X1 KG"
   },
   {
     "ItemCode": "101202001",
@@ -48536,10 +48516,6 @@
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "101002003",
     "ItemName": "CREMA UHT SURLAT 12X1 LT"
   },
@@ -48850,5 +48826,29 @@
   {
     "ItemCode": "400105001",
     "ItemName": "FILM PLASTICO 30 X1400 MTS."
+  },
+  {
+    "ItemCode": "101357006",
+    "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "100559007",
+    "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "204180023",
+    "ItemName": "PAPAS PREFRITAS 9MM COOLMIND 7X2 KG"
+  },
+  {
+    "ItemCode": "204790054",
+    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
   }
 ]
