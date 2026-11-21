@@ -28384,10 +28384,6 @@
     "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
-    "ItemCode": "204530045",
-    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 1/2 LB"
-  },
-  {
     "ItemCode": "101100056",
     "ItemName": "SPAGUETTI LUCCHETTI 1X5 KG."
   },
@@ -41580,10 +41576,6 @@
     "ItemName": "NECTAR MANGO JUMEX 24X335 ML."
   },
   {
-    "ItemCode": "100304010",
-    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "100304012",
     "ItemName": "JUGO DE DURAZNO JUMEX 24X335 ML."
   },
@@ -42296,10 +42288,6 @@
     "ItemName": "TOALLA D.HOJA 2X24 MT (CLAS-TO55046)"
   },
   {
-    "ItemCode": "101050002",
-    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
-  },
-  {
     "ItemCode": "204140004",
     "ItemName": "MINI PAN AMASADO BLANCO 125X40 GR"
   },
@@ -42580,10 +42568,6 @@
     "ItemName": "CHURRASCO TRADICIONAL 45X120 GR"
   },
   {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
-  },
-  {
     "ItemCode": "100752001",
     "ItemName": "MIEL DE ABEJAS 1X1 KG"
   },
@@ -42778,10 +42762,6 @@
   {
     "ItemCode": "300157036",
     "ItemName": "YOGURT GRIEGO OIKOS C/COCO 48X110"
-  },
-  {
-    "ItemCode": "100304011",
-    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
   },
   {
     "ItemCode": "101009009",
@@ -47664,10 +47644,6 @@
     "ItemName": "ARROZ G2 LARGO ANGOSTO MIRAFLORES 10X1 KG (571693)"
   },
   {
-    "ItemCode": "100304009",
-    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
-  },
-  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
@@ -48850,5 +48826,29 @@
   {
     "ItemCode": "400011003",
     "ItemName": "ESPONJA ANATOMICA 1X3 UN. (C500414)"
+  },
+  {
+    "ItemCode": "204530045",
+    "ItemName": "SALMON FILETE NAC CON PIEL \"TRIM D\" 1/2 LB"
+  },
+  {
+    "ItemCode": "101050002",
+    "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
+  },
+  {
+    "ItemCode": "100304011",
+    "ItemName": "JUGO DE PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304009",
+    "ItemName": "JUGO DE COCO PIÑA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "100304010",
+    "ItemName": "JUGO DE MANZANA JUMEX 24X335 ML."
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   }
 ]
