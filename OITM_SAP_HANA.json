@@ -28380,10 +28380,6 @@
     "ItemName": "LIPTON INFUSION MENTA 12X20 BLS"
   },
   {
-    "ItemCode": "200201002",
-    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
-  },
-  {
     "ItemCode": "202720041",
     "ItemName": "MINI MUFFIN CHIPS CHOCOLATES 80X20 GR"
   },
@@ -48224,10 +48220,6 @@
     "ItemName": "CARNE MECHADA CAMPESTRE CONGELADA 8X1 KG"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "202820022",
     "ItemName": "CAMARON 100/200 COCIDO PELADO EL GOLFO 20X200 GR"
   },
@@ -48850,5 +48842,13 @@
   {
     "ItemCode": "303850019",
     "ItemName": "MANTEQUILLA SIN SAL TONADITA 1X5 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "200201002",
+    "ItemName": "CROISSANT CURVO BRIDOR 60X80 GR"
   }
 ]
