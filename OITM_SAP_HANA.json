@@ -41236,10 +41236,6 @@
     "ItemName": "SYRUP COCO MONIN 1X750 ML"
   },
   {
-    "ItemCode": "200200011",
-    "ItemName": "MUFFIN VAINILLA 36X110 GR"
-  },
-  {
     "ItemCode": "100751046",
     "ItemName": "MERMELADA DE DURAZNO PORCION 192X20 GR."
   },
@@ -42450,10 +42446,6 @@
   {
     "ItemCode": "101200026",
     "ItemName": "JUGO POLVO FRUTILLA SUCRALOSA (REND. 33 LTS) TKF 1 X 231 GRS"
-  },
-  {
-    "ItemCode": "103630005",
-    "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
   },
   {
     "ItemCode": "100303004",
@@ -48568,10 +48560,6 @@
     "ItemName": "AJI DE COLOR 1X1 KG"
   },
   {
-    "ItemCode": "100303001",
-    "ItemName": "CONCENTRADO SABOR FRAMBUESA TRAVERSO 1X5 LT"
-  },
-  {
     "ItemCode": "100102012",
     "ItemName": "POROTO NEGRO 10X1 KG."
   },
@@ -48850,5 +48838,17 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "200200011",
+    "ItemName": "MUFFIN VAINILLA 36X110 GR"
+  },
+  {
+    "ItemCode": "100303001",
+    "ItemName": "CONCENTRADO SABOR FRAMBUESA TRAVERSO 1X5 LT"
+  },
+  {
+    "ItemCode": "103630005",
+    "ItemName": "CONCENTRADO TRAVERSO SABOR MANGO 1X5 LT"
   }
 ]
