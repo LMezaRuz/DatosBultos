@@ -31792,10 +31792,6 @@
     "ItemName": "LECHE LONCOLECHE PROTEIN EXTRA PROTEINA 12X1 LT"
   },
   {
-    "ItemCode": "101201025",
-    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
-  },
-  {
     "ItemCode": "203550001",
     "ItemName": "FRANUI CHOCOLATE 24X150 GR."
   },
@@ -39668,10 +39664,6 @@
     "ItemName": "MANI SALADO 1X1 KG"
   },
   {
-    "ItemCode": "100803003",
-    "ItemName": "NUEZ CUARTILLO 1X1 KG"
-  },
-  {
     "ItemCode": "200460018",
     "ItemName": "TRUTRO ALA DE POLLO CONG. 1X15 KG IMP 115"
   },
@@ -41052,10 +41044,6 @@
     "ItemName": "CANELA MOLIDA GOURMET 1X15 GR"
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "100356005",
     "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
   },
@@ -41294,10 +41282,6 @@
   {
     "ItemCode": "100151005",
     "ItemName": "NESTUM 5 CEREALES 24X250 GR"
-  },
-  {
-    "ItemCode": "200302008",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
   },
   {
     "ItemCode": "400004008",
@@ -42788,10 +42772,6 @@
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
   {
-    "ItemCode": "101401007",
-    "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
     "ItemCode": "101401009",
     "ItemName": "POROTOS WASIL 16X380"
   },
@@ -43024,10 +43004,6 @@
     "ItemName": "CREMA LISTA 6X200 CC"
   },
   {
-    "ItemCode": "101450004",
-    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
     "ItemCode": "104670095",
     "ItemName": "TE LIPTON YELLOW LABEL 12 X 25 BLS"
   },
@@ -43042,10 +43018,6 @@
   {
     "ItemCode": "101100022",
     "ItemName": "LASAÑA PRECOCIDA 1X360 GR"
-  },
-  {
-    "ItemCode": "400102004",
-    "ItemName": "BROCHETAS 15 CM 1X100 UN"
   },
   {
     "ItemCode": "101358005",
@@ -47752,10 +47724,6 @@
     "ItemName": "PULPA DE FRAMBUESA SMART CHOICE (NACIONAL) 10X1 KG."
   },
   {
-    "ItemCode": "204380022",
-    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
-  },
-  {
     "ItemCode": "204380021",
     "ItemName": "PULPA DE MARACUYA S/S RIO ALTO 5X1 KG."
   },
@@ -48136,10 +48104,6 @@
     "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
   {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
-  },
-  {
     "ItemCode": "104010004",
     "ItemName": "KETCHUP HEINZ THUNDERBIRD 16X397 GR NACIONAL"
   },
@@ -48242,10 +48206,6 @@
   {
     "ItemCode": "103070006",
     "ItemName": "FONDOS DE ALCACHOFA SMART CHOICE 6X900 GR"
-  },
-  {
-    "ItemCode": "101003002",
-    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
   },
   {
     "ItemCode": "302960001",
@@ -48850,5 +48810,45 @@
   {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101201025",
+    "ItemName": "MOUSSE DE MANJAR TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100803003",
+    "ItemName": "NUEZ CUARTILLO 1X1 KG"
+  },
+  {
+    "ItemCode": "400102004",
+    "ItemName": "BROCHETAS 15 CM 1X100 UN"
+  },
+  {
+    "ItemCode": "101450004",
+    "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
+  },
+  {
+    "ItemCode": "101401007",
+    "ItemName": "GARBANZOS WASIL 16X380GRS."
+  },
+  {
+    "ItemCode": "200302008",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 36/40 1X1 KG"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101003002",
+    "ItemName": "CREMA VEGETAL DECOR UP 12X1 LT"
+  },
+  {
+    "ItemCode": "204380022",
+    "ItemName": "PULPA DE MARACUYA C/S RIO ALTO 5X1 KG."
   }
 ]
