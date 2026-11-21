@@ -36112,10 +36112,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051016",
     "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
@@ -36530,10 +36526,6 @@
   {
     "ItemCode": "200456050",
     "ItemName": "CHURRASCO DE ASIENTO (MUSCULO) AL VACIO 6X1 KG (MM)"
-  },
-  {
-    "ItemCode": "104070008",
-    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
   },
   {
     "ItemCode": "101009041",
@@ -43068,10 +43060,6 @@
     "ItemName": "LOMITO DE CERDO A LA CERVEZA CONG. 5X2 KG"
   },
   {
-    "ItemCode": "200203013",
-    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
-  },
-  {
     "ItemCode": "101201024",
     "ItemName": "MOUSSE DE FRAMBUESA TKF 1X1 KG"
   },
@@ -43382,10 +43370,6 @@
   {
     "ItemCode": "100852021",
     "ItemName": "GALLETA DONUTS 1X100 GRS"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
     "ItemCode": "300154012",
@@ -43994,10 +43978,6 @@
   {
     "ItemCode": "104010003",
     "ItemName": "MOSTAZA HEINZ THUNDERBIRD 16X361 GR NACIONAL"
-  },
-  {
-    "ItemCode": "200500032",
-    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
   },
   {
     "ItemCode": "101357002",
@@ -47916,10 +47896,6 @@
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
   {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
     "ItemCode": "101400003",
     "ItemName": "CHAMPIÑON ENTERO 1X400 GR"
   },
@@ -48552,10 +48528,6 @@
     "ItemName": "POCILLO TRANSP. PLASTICO 1,5 OZ 1 X 2500 UN"
   },
   {
-    "ItemCode": "404600005",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
-  },
-  {
     "ItemCode": "103670023",
     "ItemName": "KETCHUP CAROZZI 10X1 KG"
   },
@@ -48598,10 +48570,6 @@
   {
     "ItemCode": "101404002",
     "ItemName": "TOMATE PELADO IMP. COPPOLA 6X2,5 KG"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "102480005",
@@ -48850,5 +48818,37 @@
   {
     "ItemCode": "302890006",
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "200203013",
+    "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
+  },
+  {
+    "ItemCode": "200500032",
+    "ItemName": "AROS DE CEBOLLA FF 10X1.1 KG."
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "404600005",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 24X200 UN  SE70055"
+  },
+  {
+    "ItemCode": "104070008",
+    "ItemName": "PEPINILLO DILL LAMINADO MAIFRE 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
