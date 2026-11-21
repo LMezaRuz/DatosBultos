@@ -32112,10 +32112,6 @@
     "ItemName": "JUGO POLVO MELON TUNA (REND. 25 LT) TKF 1X1 KG"
   },
   {
-    "ItemCode": "200308003",
-    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
-  },
-  {
     "ItemCode": "101011002",
     "ItemName": "QUESO RALLADO 1X40 GR."
   },
@@ -34820,10 +34816,6 @@
     "ItemName": "HAMBURGUESA DE CERDO 40X125 GR (MM)"
   },
   {
-    "ItemCode": "203190060",
-    "ItemName": "CUBOS DE CERDO 2X2 CM 5X1 KG"
-  },
-  {
     "ItemCode": "203210103",
     "ItemName": "CARNE DESMECHADA CONGELADA 8X1 KG"
   },
@@ -35302,10 +35294,6 @@
   {
     "ItemCode": "400301072",
     "ItemName": "SACO MEDIANO KRAFT JUAN MAESTRO  1 X 500 UN"
-  },
-  {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   },
   {
     "ItemCode": "600001005",
@@ -48472,10 +48460,6 @@
     "ItemName": "CHOCLO EN GRANO PERUANO MINUTO VERDE 20X400 GR"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "101010002",
     "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
   },
@@ -48506,10 +48490,6 @@
   {
     "ItemCode": "304430007",
     "ItemName": "QUESO CREMA EN BALDE MILKAUT 1X3,6 KG"
-  },
-  {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   },
   {
     "ItemCode": "204790005",
@@ -48576,10 +48556,6 @@
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
   {
-    "ItemCode": "100101005",
-    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
-  },
-  {
     "ItemCode": "203230003",
     "ItemName": "ARROLLADO DE PRIMAVERA DIEZ PUNTOS  10X10 UN"
   },
@@ -48594,10 +48570,6 @@
   {
     "ItemCode": "101100024",
     "ItemName": "RAVIOLES DE CARNE 1X400 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "303660008",
@@ -48850,5 +48822,33 @@
   {
     "ItemCode": "103210007",
     "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "100101005",
+    "ItemName": "ARROZ G2 IMPORTADO 10X1 KG"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "203190060",
+    "ItemName": "CUBOS DE CERDO 2X2 CM 5X1 KG"
+  },
+  {
+    "ItemCode": "200308003",
+    "ItemName": "SURTIDO DE MARISCOS NAC 20X500 GR"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   }
 ]
