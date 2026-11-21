@@ -28052,10 +28052,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 75X70 GR"
   },
   {
-    "ItemCode": "104670004",
-    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
-  },
-  {
     "ItemCode": "104570018",
     "ItemName": "SALSA COLA DE MONO 6X1KG"
   },
@@ -31590,10 +31586,6 @@
   {
     "ItemCode": "204300007",
     "ItemName": "POLLO ENTERO CONG. CALIBRE 2.1 KG. (16 KG)"
-  },
-  {
-    "ItemCode": "104670005",
-    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
   },
   {
     "ItemCode": "204300041",
@@ -47812,10 +47804,6 @@
     "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
   },
   {
-    "ItemCode": "204380028",
-    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
-  },
-  {
     "ItemCode": "203430009",
     "ItemName": "MIX BERRIES CONGELADO 5X1 KG"
   },
@@ -48112,14 +48100,6 @@
     "ItemName": "SALSA DE SOYA KIKKOMAN 1X18.9 LT."
   },
   {
-    "ItemCode": "101354007",
-    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "400100005",
     "ItemName": "BOLSA PREPICADA (20X30) ROLLO 1X1 UN."
   },
@@ -48194,10 +48174,6 @@
   {
     "ItemCode": "304460002",
     "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
-  },
-  {
-    "ItemCode": "103210007",
-    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   },
   {
     "ItemCode": "302890006",
@@ -48322,10 +48298,6 @@
   {
     "ItemCode": "104080006",
     "ItemName": "HUMO LIQUIDO GOURMET 6X1 LT"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
     "ItemCode": "304430008",
@@ -48850,5 +48822,33 @@
   {
     "ItemCode": "100004001",
     "ItemName": "ACEITE VEGETAL BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "101354007",
+    "ItemName": "MOSTAZA HELLMANNS 10X1 KG"
+  },
+  {
+    "ItemCode": "104670005",
+    "ItemName": "TE TWININGS EARL GREY TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "104670004",
+    "ItemName": "TE TWININGS ENGLISH BREAKFAST TEA 100 GR 1X50 UN"
+  },
+  {
+    "ItemCode": "204380028",
+    "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "103210007",
+    "ItemName": "CARNE MECHADA EN TROZO GOURMET 12X1 KG (VE)"
   }
 ]
