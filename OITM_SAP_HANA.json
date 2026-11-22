@@ -23888,10 +23888,6 @@
     "ItemName": "BEBIDA LACTEA SABOR MANJAR SHAKE A SHAKE 6X190 ML"
   },
   {
-    "ItemCode": "303850021",
-    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
-  },
-  {
     "ItemCode": "204950005",
     "ItemName": "SOUR LIMON SUTIL LA PIZKA 6X1 LT"
   },
@@ -47480,20 +47476,8 @@
     "ItemName": "CAFE KIMBO EN GRANO EXTRA CREAM (60% ROBUSTA - 40% ARABICA) 6X1 KG"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "103250002",
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
-  },
-  {
-    "ItemCode": "400301076",
-    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "400301075",
-    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
     "ItemCode": "400301048",
@@ -47870,10 +47854,6 @@
   {
     "ItemCode": "204790054",
     "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
-  },
-  {
-    "ItemCode": "101356003",
-    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
   },
   {
     "ItemCode": "302890038",
@@ -48484,32 +48464,16 @@
     "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "300250001",
     "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "101150079",
     "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
-  },
-  {
-    "ItemCode": "100850015",
-    "ItemName": "SUPER 8 4X24 UN"
   },
   {
     "ItemCode": "104040041",
@@ -48850,5 +48814,41 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "400301076",
+    "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "400301075",
+    "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
+  },
+  {
+    "ItemCode": "101356003",
+    "ItemName": "SALSA BBQ HELLMANNS 8X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "100850015",
+    "ItemName": "SUPER 8 4X24 UN"
+  },
+  {
+    "ItemCode": "303850021",
+    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
   }
 ]
