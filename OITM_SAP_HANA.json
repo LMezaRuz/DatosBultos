@@ -22828,10 +22828,6 @@
     "ItemName": "ALCACHOFAS ENTERAS Y MEDIANAS EN ACEITE ARCO IMP 12X720 ML"
   },
   {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
-  },
-  {
     "ItemCode": "104060010",
     "ItemName": "CHOCOLATE SAHNE NUSS 1X1 UN"
   },
@@ -48696,10 +48692,6 @@
     "ItemName": "NUEZ CUARTILLO 1X1 KG"
   },
   {
-    "ItemCode": "200500035",
-    "ItemName": "CHOCLO EN GRANO 16X1 KG"
-  },
-  {
     "ItemCode": "300400023",
     "ItemName": "QUESO REGGIANITO EN PIEZA (4,5 KG APROX.)"
   },
@@ -48850,5 +48842,13 @@
   {
     "ItemCode": "100904001",
     "ItemName": "POLVOS DE HORNEAR 1X500 GR."
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "200500035",
+    "ItemName": "CHOCLO EN GRANO 16X1 KG"
   }
 ]
