@@ -24252,10 +24252,6 @@
     "ItemName": "CHOCOLATE EN POLVO KIT KAT 6X1,3 KG"
   },
   {
-    "ItemCode": "101150026",
-    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
-  },
-  {
     "ItemCode": "101150048",
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
@@ -27622,10 +27618,6 @@
   {
     "ItemCode": "103250002",
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
-  },
-  {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
   },
   {
     "ItemCode": "400103010",
@@ -31840,10 +31832,6 @@
     "ItemName": "CEREAL VIVO GRANOLA MIEL & ALMENDRAS 12X330 GR"
   },
   {
-    "ItemCode": "101355003",
-    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
-  },
-  {
     "ItemCode": "400301041",
     "ItemName": "CAJA DELIVERY COSTILLITAS MAMUT 1 X 100 UN"
   },
@@ -35676,10 +35664,6 @@
     "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
   },
   {
-    "ItemCode": "101150040",
-    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
-  },
-  {
     "ItemCode": "202620000",
     "ItemName": "ATUN EN PORCIONES 20X500 GR"
   },
@@ -35718,10 +35702,6 @@
   {
     "ItemCode": "100356006",
     "ItemName": "TE HIERBAS SURTIDAS SUPREMO  1X100 UN."
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
   },
   {
     "ItemCode": "100201002",
@@ -47472,10 +47452,6 @@
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
   },
   {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
-  },
-  {
     "ItemCode": "203200018",
     "ItemName": "REBOZADO DE POLLO SADIA 45X100 GR"
   },
@@ -47624,10 +47600,6 @@
     "ItemName": "DONUT RELLENA CON DULCE DE LECHE Y COB. CHOCOLATE 48X75 GR"
   },
   {
-    "ItemCode": "304850048",
-    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
-  },
-  {
     "ItemCode": "202730080",
     "ItemName": "DONUT RELLENA CHOCOLATE TOPPING TRICOLOR 36X72 GR (81929)"
   },
@@ -47772,28 +47744,12 @@
     "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "400301073",
     "ItemName": "FUNDA PORTA COMPLETO CHICO GYN 1X700 UN"
   },
   {
     "ItemCode": "101150049",
     "ItemName": "MANTEL NEGRO CHICO DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
-    "ItemCode": "103140000",
-    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
-  },
-  {
-    "ItemCode": "101150079",
-    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
   },
   {
     "ItemCode": "400010019",
@@ -48850,5 +48806,49 @@
   {
     "ItemCode": "304760668",
     "ItemName": "HUACHALOMO AL VACIO CAT-V IMP BRASIL NATURAFRIG 20KG (APROX) (X-MAYOR)"
+  },
+  {
+    "ItemCode": "101355003",
+    "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
+  },
+  {
+    "ItemCode": "101150040",
+    "ItemName": "BANDEJA PINCHO GRANDE DOGGIS ND 1 X 300 UNI"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "103140000",
+    "ItemName": "GALLETA OREO MOLIDA (CRUMBS SMALL) 2  X 4 KG."
+  },
+  {
+    "ItemCode": "101150026",
+    "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101150079",
+    "ItemName": "SALSA DE CHOCOLATE SEMI AMARGO GYN 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
+  },
+  {
+    "ItemCode": "304850048",
+    "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   }
 ]
