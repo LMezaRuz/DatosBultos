@@ -47304,10 +47304,6 @@
     "ItemName": "ADEREZO QUESO CHEDDAR HELLMANNS 12X1 LT."
   },
   {
-    "ItemCode": "300250001",
-    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
-  },
-  {
     "ItemCode": "101150026",
     "ItemName": "SALSA CAPUCCINO GYN 10 UN X 1 KG"
   },
@@ -47892,28 +47888,12 @@
     "ItemName": "CAJA DE PAPAS FRITAS XL DOGGIS 1X120 UN"
   },
   {
-    "ItemCode": "403250022",
-    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
-  },
-  {
     "ItemCode": "400301076",
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "101150050",
-    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
-  },
-  {
     "ItemCode": "400301075",
     "ItemName": "PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
-  },
-  {
-    "ItemCode": "104010020",
-    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
-  },
-  {
-    "ItemCode": "101355004",
-    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   },
   {
     "ItemCode": "400301048",
@@ -48748,10 +48728,6 @@
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
   },
   {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "300153001",
     "ItemName": "MANTEQUILLA CALO 40X125"
   },
@@ -48840,15 +48816,39 @@
     "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
-    "ItemCode": "101353020",
-    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
-  },
-  {
     "ItemCode": "101357002",
     "ItemName": "SALSA DE SOYA GOURMET 1X1 LT"
   },
   {
     "ItemCode": "101358007",
     "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "403250022",
+    "ItemName": "CONO SNACK DDG 1 X 150 UNI"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "101150050",
+    "ItemName": "MANTEL NEGRO GRANDE DOGGIS 1000 UN"
+  },
+  {
+    "ItemCode": "101353020",
+    "ItemName": "MAYONESA DELI HELLMANNS 10X970 GR"
+  },
+  {
+    "ItemCode": "300250001",
+    "ItemName": "CHOCOLATE DARK EN MONEDAS CARAVELLA GYN 1X1 KG"
+  },
+  {
+    "ItemCode": "104010020",
+    "ItemName": "SALSA DE AJO VEGANA HELLMANNS 10X950 GR"
+  },
+  {
+    "ItemCode": "101355004",
+    "ItemName": "SALSA QUESO HELLMANNS 10X980 GR"
   }
 ]
