@@ -39344,10 +39344,6 @@
     "ItemName": "MANJAR CALO DULCE CHILENO 2X6KG"
   },
   {
-    "ItemCode": "300152003",
-    "ItemName": "MANTECA ASTRA 12X100 GR"
-  },
-  {
     "ItemCode": "101353026",
     "ItemName": "MAYONESA JANO 10X970 GR"
   },
@@ -48368,10 +48364,6 @@
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
   {
-    "ItemCode": "103910029",
-    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
-  },
-  {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
   },
@@ -48560,10 +48552,6 @@
     "ItemName": "MERMELADA DE MANGO 0% AZUCAR WATTS 24 X 200 GR"
   },
   {
-    "ItemCode": "101009025",
-    "ItemName": "YOGU YOGU MORA 6X200 CC"
-  },
-  {
     "ItemCode": "101009031",
     "ItemName": "YOGU YOGU DAMASSCO 6X200 CC"
   },
@@ -48572,28 +48560,12 @@
     "ItemName": "YOGU YOGU CHIRIMOYA 6X200 CC"
   },
   {
-    "ItemCode": "101009024",
-    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "101009033",
-    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
-  },
-  {
-    "ItemCode": "103750003",
-    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
-  },
-  {
     "ItemCode": "103750005",
     "ItemName": "BEBIDA LACTEA SABOR CHOCOLATE SHAKE A SHAKE 6X190 ML"
   },
   {
     "ItemCode": "103750006",
     "ItemName": "BEBIDA LACTEA SABOR MANJAR SHAKE A SHAKE 6X190 ML"
-  },
-  {
-    "ItemCode": "103910030",
-    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
   },
   {
     "ItemCode": "103910040",
@@ -48720,10 +48692,6 @@
     "ItemName": "POSTRE OIKOS CHEESE CAKE BERRIES 12X132 GR"
   },
   {
-    "ItemCode": "100002008",
-    "ItemName": "ACEITE BELMONT 10X250 ML"
-  },
-  {
     "ItemCode": "101009016",
     "ItemName": "LECHE LONCOLECHE CHOCOLATE 6X200 CC"
   },
@@ -48750,10 +48718,6 @@
   {
     "ItemCode": "100052005",
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
-  },
-  {
-    "ItemCode": "200455011",
-    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
   },
   {
     "ItemCode": "204790054",
@@ -48832,10 +48796,6 @@
     "ItemName": "MERMELADA DURAZNO WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100754005",
-    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
-  },
-  {
     "ItemCode": "101401003",
     "ItemName": "ARVEJITAS ESPECIALES 16X340"
   },
@@ -48850,5 +48810,45 @@
   {
     "ItemCode": "100005003",
     "ItemName": "ACEITE CHEF PEPITA UVA 30x500  GR"
+  },
+  {
+    "ItemCode": "300152003",
+    "ItemName": "MANTECA ASTRA 12X100 GR"
+  },
+  {
+    "ItemCode": "103750003",
+    "ItemName": "YOGU YOGU ORIGINAL MORA 12X1 LT."
+  },
+  {
+    "ItemCode": "101009033",
+    "ItemName": "YOGU YOGU VAINILLA 6X200 CC"
+  },
+  {
+    "ItemCode": "103910030",
+    "ItemName": "MERMELADA DAMASCO WATTS SACHET 12X225G"
+  },
+  {
+    "ItemCode": "103910029",
+    "ItemName": "MERMELADA MORA WATTS SACHET 12X225 GR"
+  },
+  {
+    "ItemCode": "100754005",
+    "ItemName": "DULCE MEMBRILLO WATTS 12X250G"
+  },
+  {
+    "ItemCode": "200455011",
+    "ItemName": "ALITAS REBOZADAS SADIA (CHICKEN WINGS) 3X2 KG"
+  },
+  {
+    "ItemCode": "100002008",
+    "ItemName": "ACEITE BELMONT 10X250 ML"
+  },
+  {
+    "ItemCode": "101009025",
+    "ItemName": "YOGU YOGU MORA 6X200 CC"
+  },
+  {
+    "ItemCode": "101009024",
+    "ItemName": "YOGU YOGU FRUTILLA 6X200 CC"
   }
 ]
