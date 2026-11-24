@@ -27332,10 +27332,6 @@
     "ItemName": "PAPEL HIGIENICO CONFORT ALMACENERO 1X12 UN"
   },
   {
-    "ItemCode": "100302029",
-    "ItemName": "FANTA ZERO LATA 6X350 CC."
-  },
-  {
     "ItemCode": "300157050",
     "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
@@ -37984,10 +37980,6 @@
     "ItemName": "CROISSANT DE CREMA DE CHOCOLATE Y AVELLANAS BRIDOR 56X70 GR"
   },
   {
-    "ItemCode": "100654002",
-    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
-  },
-  {
     "ItemCode": "203210105",
     "ItemName": "BIFE DE LOMO VETADO 300 GR (6 BOLSAS X 3 UN) (MM)"
   },
@@ -40162,10 +40154,6 @@
   {
     "ItemCode": "100302032",
     "ItemName": "SPRITE ZERO LATA 6X350 CC"
-  },
-  {
-    "ItemCode": "100302015",
-    "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
   },
   {
     "ItemCode": "200051028",
@@ -43784,10 +43772,6 @@
     "ItemName": "SUPREMA DE POLLO 26X120 GR."
   },
   {
-    "ItemCode": "400012003",
-    "ItemName": "PALA PLASTICA 1X1 UN."
-  },
-  {
     "ItemCode": "200456024",
     "ItemName": "ESCALOPA KAYSER 26X120 GR."
   },
@@ -45872,10 +45856,6 @@
     "ItemName": "LECHE DESCREMADA SURLAT 12X1 LT"
   },
   {
-    "ItemCode": "100302009",
-    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
-  },
-  {
     "ItemCode": "103760001",
     "ItemName": "LECHE SEMIDESCREMADA SIN LACTOSA LONCO 12X1 LT"
   },
@@ -46784,10 +46764,6 @@
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
   {
-    "ItemCode": "100600004",
-    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
-  },
-  {
     "ItemCode": "101357006",
     "ItemName": "SALSA DE SOYA TRAVERSO 1X5 LT"
   },
@@ -46902,10 +46878,6 @@
   {
     "ItemCode": "104070005",
     "ItemName": "CEBOLLA PERLA TRAVERSO 24 X 500 GR"
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "200051023",
@@ -47624,10 +47596,6 @@
     "ItemName": "MERLUZA (MERLUCCIUS PRODUCTUS) 10X1 KG (LOCAL)"
   },
   {
-    "ItemCode": "204700029",
-    "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
-  },
-  {
     "ItemCode": "400010005",
     "ItemName": "ANTIGRASA GATILLO 1x500 ML."
   },
@@ -47654,14 +47622,6 @@
   {
     "ItemCode": "303850000",
     "ItemName": "MANTEQUILLA MINI POTE 144X10 GR"
-  },
-  {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
-    "ItemCode": "101452001",
-    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   },
   {
     "ItemCode": "100402002",
@@ -47774,10 +47734,6 @@
   {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "100302028",
-    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
   },
   {
     "ItemCode": "200500018",
@@ -48896,11 +48852,55 @@
     "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
   },
   {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
     "ItemCode": "200303016",
     "ItemName": "FILETE MERLUZA TEMPURA EL GOLFO 16X500 GR"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "100654002",
+    "ItemName": "PIÑAS EN RODAJAS 1X3 KG."
+  },
+  {
+    "ItemCode": "204700029",
+    "ItemName": "CHEESECAKE DE QUESO ESTILO VASCO 14 PORCIONES"
+  },
+  {
+    "ItemCode": "400012003",
+    "ItemName": "PALA PLASTICA 1X1 UN."
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "100302029",
+    "ItemName": "FANTA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302028",
+    "ItemName": "COCA COLA ZERO LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302009",
+    "ItemName": "COCA COLA ORIGINAL LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100302015",
+    "ItemName": "COCA COLA LIGHT LATA 6X350 CC."
+  },
+  {
+    "ItemCode": "100600004",
+    "ItemName": "ATUN LOMITO ACEITE 1X1.800 GR."
+  },
+  {
+    "ItemCode": "101452001",
+    "ItemName": "VINAGRE BLANCO TRAVERSO 1X5 LT. 4% ACIDEZ"
   }
 ]
