@@ -35812,10 +35812,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA SACHET 1X60X5 GRS."
   },
   {
-    "ItemCode": "100200002",
-    "ItemName": "AZUCAR FLOR 20X500 GR"
-  },
-  {
     "ItemCode": "300403007",
     "ItemName": "QUESO CREMA 1X226 GR"
   },
@@ -43432,10 +43428,6 @@
     "ItemName": "MERMELADA FRUTAS DEL SUR WATTS 24X225 GR"
   },
   {
-    "ItemCode": "100854009",
-    "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
-  },
-  {
     "ItemCode": "103910066",
     "ItemName": "MERMELADA DE BERRIES SIN AZUCAR DOYPACK WATTS 12X350 GR"
   },
@@ -47160,10 +47152,6 @@
     "ItemName": "PANCHITOS 1X500 GR."
   },
   {
-    "ItemCode": "102520000",
-    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
-  },
-  {
     "ItemCode": "204790044",
     "ItemName": "PRIMAVERA DE VERDURAS DIEZ PUNTOS 20X500 GR"
   },
@@ -47756,10 +47744,6 @@
     "ItemName": "PULPA DE FRAMBUESA RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "200051021",
-    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "102960001",
     "ItemName": "CACAO CALLEBAUT EN POLVO 6X1 KG (DCP-89B)"
   },
@@ -47974,10 +47958,6 @@
   {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "304430000",
-    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
   },
   {
     "ItemCode": "200003001",
@@ -48404,10 +48384,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "100355014",
-    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
-  },
-  {
     "ItemCode": "104660017",
     "ItemName": "SYRUP PISTACHO MONIN 1X750 ML"
   },
@@ -48504,16 +48480,8 @@
     "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "200051028",
     "ItemName": "PULPA DE NARANJA GUALLARAUCO 10X1 KG"
-  },
-  {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101050002",
@@ -48578,34 +48546,6 @@
   {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
-    "ItemCode": "400150009",
-    "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
-  },
-  {
-    "ItemCode": "102710020",
-    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
-  },
-  {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
-    "ItemCode": "400105005",
-    "ItemName": "FILM ALUMINIO 30X100 MTS."
-  },
-  {
-    "ItemCode": "100101014",
-    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
-  },
-  {
-    "ItemCode": "100201003",
-    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
-  },
-  {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100100003",
@@ -48700,10 +48640,6 @@
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "100201015",
     "ItemName": "AZUCAR GRANULADA IANSA SACO 1X25 KG."
   },
@@ -48754,10 +48690,6 @@
   {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "100450003",
@@ -48902,5 +48834,73 @@
   {
     "ItemCode": "100900001",
     "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100355014",
+    "ItemName": "SYRUP VAINILLA MONIN 1X750 ML"
+  },
+  {
+    "ItemCode": "102520000",
+    "ItemName": "ACEITUNAS VERDE EN RODAJA 10X1 KG"
+  },
+  {
+    "ItemCode": "100854009",
+    "ItemName": "CHIPS TIKA NATIVAS SAL DE MAR 1X150 GR"
+  },
+  {
+    "ItemCode": "102710020",
+    "ItemName": "BEBIDA VEGETAL BARISTA AVENA VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "100101014",
+    "ItemName": "ARROZ G1 TUCAPEL 5X2 KG"
+  },
+  {
+    "ItemCode": "100201003",
+    "ItemName": "AZUCAR GRANULADA IANSA 1X5 KG"
+  },
+  {
+    "ItemCode": "400105005",
+    "ItemName": "FILM ALUMINIO 30X100 MTS."
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "400150009",
+    "ItemName": "REVOLVEDORES DE MADERA 14 CM 1 X 1000 UN"
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "100200002",
+    "ItemName": "AZUCAR FLOR 20X500 GR"
+  },
+  {
+    "ItemCode": "304430000",
+    "ItemName": "QUESO CREMA SMART CHOICE 12X1,36 KG"
+  },
+  {
+    "ItemCode": "200051021",
+    "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
   }
 ]
