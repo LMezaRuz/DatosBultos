@@ -27268,10 +27268,6 @@
     "ItemName": "NUGGET MERLUZA EL GOLFO 50X200 GR"
   },
   {
-    "ItemCode": "300352005",
-    "ItemName": "COSTILLAR DE CERDO KG. (NV)"
-  },
-  {
     "ItemCode": "202730041",
     "ItemName": "MINI MUFFIN RELLENO DE FRUTOS ROJOS 42X26 GR"
   },
@@ -48676,10 +48672,6 @@
     "ItemName": "ALBONDIGA DE VACUNO DIEZ PUNTOS 12X300 GRS."
   },
   {
-    "ItemCode": "304760106",
-    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
-  },
-  {
     "ItemCode": "304760109",
     "ItemName": "LOMO VETADO AL VACIO CAT-V BRASIL SWIFT 20 KG (APROX)"
   },
@@ -48896,11 +48888,19 @@
     "ItemName": "SURTIDO DE MARISCOS IMP SMART CHOICE 1X1 KG"
   },
   {
+    "ItemCode": "200004003",
+    "ItemName": "EMPANADA DE PINO CLASICA 1 X 50 UN"
+  },
+  {
     "ItemCode": "103070009",
     "ItemName": "PIMIENTO PIQUILLO SMART CHOICE 12 X 290 GR"
   },
   {
-    "ItemCode": "200004003",
-    "ItemName": "EMPANADA DE PINO CLASICA 1 X 50 UN"
+    "ItemCode": "304760106",
+    "ItemName": "POSTA ROSADA 97VL AL VACIO CAT V BRASIL (20KG APROX)"
+  },
+  {
+    "ItemCode": "300352005",
+    "ItemName": "COSTILLAR DE CERDO KG. (NV)"
   }
 ]
