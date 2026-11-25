@@ -31532,10 +31532,6 @@
     "ItemName": "NEW YORK CHEESECAKE 14 PORCIONES"
   },
   {
-    "ItemCode": "300406003",
-    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
-  },
-  {
     "ItemCode": "202910017",
     "ItemName": "COSTILLAR DE CERDO BRASIL IMP. CONG. (APROX 20 KG)"
   },
@@ -42900,10 +42896,6 @@
     "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
   },
   {
-    "ItemCode": "102780003",
-    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
-  },
-  {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
   },
@@ -43342,10 +43334,6 @@
   {
     "ItemCode": "300157038",
     "ItemName": "YOGURT GRIEGO NATURAL S/AZUCAR OIKOS 48X150 GR"
-  },
-  {
-    "ItemCode": "100450007",
-    "ItemName": "ALGA NORI BLUE 1X100 UN."
   },
   {
     "ItemCode": "200203007",
@@ -47136,10 +47124,6 @@
     "ItemName": "CURRY 1X200 GR"
   },
   {
-    "ItemCode": "100902001",
-    "ItemName": "HARINA SIN POLVOS 10X1 KG."
-  },
-  {
     "ItemCode": "204000019",
     "ItemName": "TRUTRO DE POLLO 1/4 EMPIRE 5X2,4 KG (KOSHER)"
   },
@@ -47598,10 +47582,6 @@
   {
     "ItemCode": "100050005",
     "ItemName": "ACEITUNA HUASCO 1X1 KG"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "200455004",
@@ -48700,10 +48680,6 @@
     "ItemName": "CHUCRUT TRAVERSO 6X1 KG"
   },
   {
-    "ItemCode": "101300002",
-    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
-  },
-  {
     "ItemCode": "101008003",
     "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
@@ -48726,10 +48702,6 @@
   {
     "ItemCode": "101403004",
     "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
-    "ItemCode": "304440016",
-    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
   },
   {
     "ItemCode": "304430007",
@@ -48902,5 +48874,33 @@
   {
     "ItemCode": "101009022",
     "ItemName": "LECHE MOMENTS CAPUCCINO 12X1 LT"
+  },
+  {
+    "ItemCode": "101300002",
+    "ItemName": "CHOCOLATE DULCE EN POLVO 1X1 KG."
+  },
+  {
+    "ItemCode": "102780003",
+    "ItemName": "CAFE MOLIDO (100% ARABICA) 1X226.8 GR"
+  },
+  {
+    "ItemCode": "300406003",
+    "ItemName": "QUESO MOZZARELLA GRANULADO 1X1 KG"
+  },
+  {
+    "ItemCode": "100902001",
+    "ItemName": "HARINA SIN POLVOS 10X1 KG."
+  },
+  {
+    "ItemCode": "304440016",
+    "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "100450007",
+    "ItemName": "ALGA NORI BLUE 1X100 UN."
+  },
+  {
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
