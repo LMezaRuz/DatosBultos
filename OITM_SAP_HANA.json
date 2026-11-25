@@ -27716,10 +27716,6 @@
     "ItemName": "PLATEADA KG (NV)"
   },
   {
-    "ItemCode": "204140015",
-    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
-  },
-  {
     "ItemCode": "304760027",
     "ItemName": "POLLO GANSO AL VACIO CAT V BRASIL REFRIGERADO LOCAL  (20 KG APROX)"
   },
@@ -28032,10 +28028,6 @@
     "ItemName": "PINA RODAJAS SUD. WASIL 24X560"
   },
   {
-    "ItemCode": "200452004",
-    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
-  },
-  {
     "ItemCode": "400301101",
     "ItemName": "SOBRE PAPAS FRITAS FSC DOGGIS 1 X 4000 UN"
   },
@@ -28254,10 +28246,6 @@
   {
     "ItemCode": "304760631",
     "ItemName": "LOMO LISO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "304760639",
@@ -39992,10 +39980,6 @@
     "ItemName": "CERA CREMA VIRGINIA 12X340 CC"
   },
   {
-    "ItemCode": "101000003",
-    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
-  },
-  {
     "ItemCode": "101100038",
     "ItemName": "FETTUCCINE 88 CAROZZI 25X400 GR"
   },
@@ -40118,10 +40102,6 @@
   {
     "ItemCode": "100750007",
     "ItemName": "MANJAR CALO DULCE RELLENO 2X6KG"
-  },
-  {
-    "ItemCode": "300405006",
-    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
   },
   {
     "ItemCode": "200300002",
@@ -41624,10 +41604,6 @@
     "ItemName": "GUANTE DE POLITILENO 1X100 UN"
   },
   {
-    "ItemCode": "101000002",
-    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
-  },
-  {
     "ItemCode": "300157046",
     "ItemName": "LONCO PROTEIN YOGURT VAINILLA 24X140 GRS"
   },
@@ -42986,10 +42962,6 @@
   {
     "ItemCode": "200003001",
     "ItemName": "GYOZAS DE CERDO 5X30 UN"
-  },
-  {
-    "ItemCode": "300150002",
-    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
   },
   {
     "ItemCode": "101201033",
@@ -47912,10 +47884,6 @@
     "ItemName": "SUCEDANEO DE LIMON TRAVERSO 1X5 LT."
   },
   {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
-  },
-  {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
@@ -48844,10 +48812,6 @@
     "ItemName": "PULPA PIERNA DE CERDO CONG LOCAL 90VL X KG (20 KG APROX)"
   },
   {
-    "ItemCode": "200460028",
-    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
-  },
-  {
     "ItemCode": "103200000",
     "ItemName": "AVE PIMENTON (PECHUGA DE POLLO DESMENUZADA) POUCH 24X500 GR"
   },
@@ -48902,5 +48866,41 @@
   {
     "ItemCode": "304440016",
     "ItemName": "QUESO GAUDA LAMINADO 1X1 KG (ID)"
+  },
+  {
+    "ItemCode": "204140015",
+    "ItemName": "PAN DE PAPA 12 CM 80X80 GR"
+  },
+  {
+    "ItemCode": "200452004",
+    "ItemName": "TOCINO LAMINADO AMERICANO SUGARDALE 1X6.82 KG - IMPORTADO"
+  },
+  {
+    "ItemCode": "300150002",
+    "ItemName": "CREMA CHANTILLY QUILLAYES 1X250 GR"
+  },
+  {
+    "ItemCode": "200460028",
+    "ItemName": "MEDIA PECHUGA DE POLLO IMP. CONG. MARINADA  6X2 KG"
+  },
+  {
+    "ItemCode": "300405006",
+    "ItemName": "QUESO MANTECOSO LAS PARCELAS PIEZA 3 KG"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
+    "ItemCode": "101000003",
+    "ItemName": "PREPARADO PARA HELADO CALO BASE 12X1"
+  },
+  {
+    "ItemCode": "101000002",
+    "ItemName": "PREPARADO HELADO SOFT CALO CHOCOLATE 12x1 lt"
   }
 ]
