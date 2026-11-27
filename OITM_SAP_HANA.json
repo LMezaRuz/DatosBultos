@@ -24228,10 +24228,6 @@
     "ItemName": "MAYONESA HELLMANNS VEGANA 6X1.88 KG"
   },
   {
-    "ItemCode": "103540000",
-    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
-  },
-  {
     "ItemCode": "100304048",
     "ItemName": "NECTAR GUAYABA JUMEX 24X335 ML."
   },
@@ -27232,10 +27228,6 @@
     "ItemName": "ASADO DEL CARNICERO PARAGUAY CAT V LOCAL (CJ 20 KG APROX)"
   },
   {
-    "ItemCode": "101010002",
-    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
-  },
-  {
     "ItemCode": "203190009",
     "ItemName": "COSTILLAR DE CERDO BABY BACK"
   },
@@ -27934,10 +27926,6 @@
   {
     "ItemCode": "202730007",
     "ItemName": "DONUT ROSA CON SPRINKLES 48X53 GR"
-  },
-  {
-    "ItemCode": "104610006",
-    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
     "ItemCode": "104060001",
@@ -41512,10 +41500,6 @@
     "ItemName": "QUIFAROS 1X5 KG"
   },
   {
-    "ItemCode": "300153010",
-    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
-  },
-  {
     "ItemCode": "100851001",
     "ItemName": "GALLETA AGUA NORMAL SODA 1x175  g."
   },
@@ -42270,10 +42254,6 @@
   {
     "ItemCode": "200308004",
     "ItemName": "PAILA MARINA NAC 20X500 GR"
-  },
-  {
-    "ItemCode": "100200001",
-    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
   },
   {
     "ItemCode": "103920003",
@@ -43314,10 +43294,6 @@
   {
     "ItemCode": "100701015",
     "ItemName": "SOPA DE CARNE CON FIDEOS (REND 16 LT) TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101201022",
-    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   },
   {
     "ItemCode": "101201042",
@@ -47636,10 +47612,6 @@
     "ItemName": "SPRITE LATA 6X350 CC."
   },
   {
-    "ItemCode": "104670097",
-    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
-  },
-  {
     "ItemCode": "101355023",
     "ItemName": "TINTA CALAMAR 1 X 90 GR"
   },
@@ -47786,10 +47758,6 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
-    "ItemCode": "304460002",
-    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
   },
   {
     "ItemCode": "300406003",
@@ -48364,10 +48332,6 @@
     "ItemName": "SALSA DE FRAMBUESA GOURMET 1X1 KG."
   },
   {
-    "ItemCode": "101305002",
-    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
-  },
-  {
     "ItemCode": "103260004",
     "ItemName": "ESENCIA DE VAINILLA PET TRAVERSO 6 X 1 LT"
   },
@@ -48664,10 +48628,6 @@
     "ItemName": "MIX MINI CESTAS C/FRUTOS (MANZANA/CEREZA/MANGO/FRESAS) 100X40 GR"
   },
   {
-    "ItemCode": "101353038",
-    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
-  },
-  {
     "ItemCode": "100951002",
     "ItemName": "HUEVOS BLANCO PRIMERA 1X180 UN"
   },
@@ -48950,5 +48910,45 @@
   {
     "ItemCode": "101008006",
     "ItemName": "LECHE ENTERA LONCO LECHE 12X1 LT"
+  },
+  {
+    "ItemCode": "101353038",
+    "ItemName": "MAYONESA KRAFT DELI 10X 1KG"
+  },
+  {
+    "ItemCode": "104670097",
+    "ItemName": "TE LIPTON YELLOW LABEL 12 X 100 BLS"
+  },
+  {
+    "ItemCode": "101305002",
+    "ItemName": "SALSA DE CHOCOLATE GOURMET 1X1 KG."
+  },
+  {
+    "ItemCode": "101010002",
+    "ItemName": "LECHE DESCREMADA S/LACTOSA COLUN 12x1 LT"
+  },
+  {
+    "ItemCode": "104610006",
+    "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
+  },
+  {
+    "ItemCode": "300153010",
+    "ItemName": "MANTEQUILLA SOPROLE PAN 1X125 GR."
+  },
+  {
+    "ItemCode": "100200001",
+    "ItemName": "AZUCAR FLOR IANSA 20X500 GR"
+  },
+  {
+    "ItemCode": "103540000",
+    "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
+  },
+  {
+    "ItemCode": "304460002",
+    "ItemName": "QUESO MOZZARELLA EN BARRA (5 KG APROX.)"
+  },
+  {
+    "ItemCode": "101201022",
+    "ItemName": "ARROZ CON LECHE TKF 1X1 KG"
   }
 ]
