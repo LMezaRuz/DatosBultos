@@ -24384,10 +24384,6 @@
     "ItemName": "MARGARINA CALO 12X450"
   },
   {
-    "ItemCode": "104930000",
-    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
-  },
-  {
     "ItemCode": "100300015",
     "ItemName": "AGUA MINERAL CON GAS PET PUYEHUE 12X500 CC"
   },
@@ -28154,10 +28150,6 @@
   {
     "ItemCode": "101401007",
     "ItemName": "GARBANZOS WASIL 16X380GRS."
-  },
-  {
-    "ItemCode": "100900001",
-    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
   },
   {
     "ItemCode": "100151013",
@@ -35258,10 +35250,6 @@
   {
     "ItemCode": "202720043",
     "ItemName": "MUFFIN VAINILLA SIN AZUCAR 24X90 GR"
-  },
-  {
-    "ItemCode": "103880017",
-    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   },
   {
     "ItemCode": "104810003",
@@ -42700,10 +42688,6 @@
     "ItemName": "ARROLLADO DE JAMÓN QUESO DIEZ PUNTOS 10X10 UN"
   },
   {
-    "ItemCode": "100951004",
-    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
-  },
-  {
     "ItemCode": "100751047",
     "ItemName": "MERMELADA DE DAMASCO PORCION 192X20 GR."
   },
@@ -43308,10 +43292,6 @@
     "ItemName": "QUESO RICOTTA 1X1 KG."
   },
   {
-    "ItemCode": "100901005",
-    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
-  },
-  {
     "ItemCode": "101300003",
     "ItemName": "CHOCOLATE AMARGO EN POLVO 1X1 KG."
   },
@@ -43746,10 +43726,6 @@
   {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
-  },
-  {
-    "ItemCode": "101352012",
-    "ItemName": "KETCHUP JB 10X1 KG"
   },
   {
     "ItemCode": "300351017",
@@ -47476,10 +47452,6 @@
     "ItemName": "CONCENTRADO SABOR PIÑA TRAVERSO 1X5 LT"
   },
   {
-    "ItemCode": "101007008",
-    "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
-  },
-  {
     "ItemCode": "100700005",
     "ItemName": "CREMA DE ARVEJAS CON JAMON (REND. 14 LT) TKF 1X1 KG"
   },
@@ -48208,10 +48180,6 @@
     "ItemName": "AJI JALAPEÑO LAMINADO 1 X 1 KG"
   },
   {
-    "ItemCode": "100200003",
-    "ItemName": "AZUCAR FLOR 10X1 KG"
-  },
-  {
     "ItemCode": "103480007",
     "ItemName": "GALLETA OREO 30X108 GR"
   },
@@ -48892,10 +48860,6 @@
     "ItemName": "AZUCAR GRANULADA IANSA 20X1 KG"
   },
   {
-    "ItemCode": "100201016",
-    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
-  },
-  {
     "ItemCode": "400009002",
     "ItemName": "TORK WIPE CENTERFEED TOALLA HS 6 X 300 MTS TO70018"
   },
@@ -48950,5 +48914,41 @@
   {
     "ItemCode": "101352009",
     "ItemName": "KETCHUP HELLMANNS FS 10X1 KG"
+  },
+  {
+    "ItemCode": "100201016",
+    "ItemName": "AZUCAR GRANULADA IMPORTADA 1X25 KG."
+  },
+  {
+    "ItemCode": "100951004",
+    "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
+  },
+  {
+    "ItemCode": "101007008",
+    "ItemName": "SMILK 26% (M. GRASA) TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100901005",
+    "ItemName": "HARINA ORO 2 SACO 1X25 KG."
+  },
+  {
+    "ItemCode": "100900001",
+    "ItemName": "ALMIDON DE MAIZ 1X1 KG"
+  },
+  {
+    "ItemCode": "100200003",
+    "ItemName": "AZUCAR FLOR 10X1 KG"
+  },
+  {
+    "ItemCode": "101352012",
+    "ItemName": "KETCHUP JB 10X1 KG"
+  },
+  {
+    "ItemCode": "104930000",
+    "ItemName": "HUEVO GRANDE COLOR DE GALLINA LIBRE 1X100 UN"
+  },
+  {
+    "ItemCode": "103880017",
+    "ItemName": "MAYONESA REAL KRAFT 4X3,78 LT"
   }
 ]
