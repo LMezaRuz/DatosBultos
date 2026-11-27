@@ -22848,10 +22848,6 @@
     "ItemName": "INTEGRAL MECHADA VERDURA BF 1X10 KG"
   },
   {
-    "ItemCode": "103480030",
-    "ItemName": "GALLETA BISCOFF LOTUS DULCE 10X250 GR"
-  },
-  {
     "ItemCode": "102660005",
     "ItemName": "AZUCAR GRANULADA GRADO-2 DAMA BLANCA 20X1 KG"
   },
@@ -24036,10 +24032,6 @@
     "ItemName": "FRUTILLA IQF RIO ALTO 5X1 KG"
   },
   {
-    "ItemCode": "204790029",
-    "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
-  },
-  {
     "ItemCode": "104170006",
     "ItemName": "PAPAS FRITAS SABOR QUESO KRYZPO 8X6X37 GR"
   },
@@ -24190,10 +24182,6 @@
   {
     "ItemCode": "104070012",
     "ItemName": "PICKLE MAIFRE 10X1 KG"
-  },
-  {
-    "ItemCode": "303850021",
-    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
   },
   {
     "ItemCode": "103880016",
@@ -28178,10 +28166,6 @@
   {
     "ItemCode": "100152004",
     "ItemName": "SEMILLA DE SESAMO BLANCO 1X1 KG."
-  },
-  {
-    "ItemCode": "202910013",
-    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   },
   {
     "ItemCode": "101401007",
@@ -32300,10 +32284,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
-    "ItemCode": "202820018",
-    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
-  },
-  {
     "ItemCode": "204300023",
     "ItemName": "PECHUGA DE POLLO S/H IQF S/MARINAR SADIA 12X1 KG"
   },
@@ -32726,10 +32706,6 @@
   {
     "ItemCode": "203210042",
     "ItemName": "CHURRASCO DE VACUNO DIEZ PUNTOS 25X120 GR (UN)"
-  },
-  {
-    "ItemCode": "101008003",
-    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
   },
   {
     "ItemCode": "203430009",
@@ -36728,10 +36704,6 @@
     "ItemName": "SOFRITO DIEZ PUNTOS 25X200 GR"
   },
   {
-    "ItemCode": "304430008",
-    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
-  },
-  {
     "ItemCode": "304850032",
     "ItemName": "YOGURT GRIEGO NUTS CARAMEL CRUNCH OIKOS 12X142 GR"
   },
@@ -40416,10 +40388,6 @@
     "ItemName": "CLARA DE HUEVO (ALBUMINA) 1X1 KG"
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
     "ItemCode": "100304029",
     "ItemName": "JUGO NECTAR  NARANJA VIVO 12x1 lt."
   },
@@ -43828,10 +43796,6 @@
     "ItemName": "QUESO LAS PARCELAS LAMINADO 1x350 g."
   },
   {
-    "ItemCode": "400252005",
-    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
-  },
-  {
     "ItemCode": "101002006",
     "ItemName": "CREMA NESTLE UHT 12X1 LT"
   },
@@ -43946,10 +43910,6 @@
   {
     "ItemCode": "101452002",
     "ItemName": "VINAGRE BLANCO TRAVERSO 12X500 CC."
-  },
-  {
-    "ItemCode": "300400009",
-    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
   },
   {
     "ItemCode": "300351006",
@@ -48748,10 +48708,6 @@
     "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100902007",
     "ItemName": "HARINA FORTALEZA PLUS (+) 1X25 KG"
   },
@@ -48950,5 +48906,49 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "101008003",
+    "ItemName": "LECHE COLUN ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "303850021",
+    "ItemName": "MANTEQUILLA CON SAL TONADITA 12X250 GR"
+  },
+  {
+    "ItemCode": "103480030",
+    "ItemName": "GALLETA BISCOFF LOTUS DULCE 10X250 GR"
+  },
+  {
+    "ItemCode": "400252005",
+    "ItemName": "TOALLA JUMBO AUTOCORTE ADVANCE 6X250 MT TO70026"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "300400009",
+    "ItemName": "QUESO DE CABRA BARRA KG (3 KG APROX)"
+  },
+  {
+    "ItemCode": "304430008",
+    "ItemName": "QUESO CREMATTO POUCH 2X3,5 KG"
+  },
+  {
+    "ItemCode": "204790029",
+    "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
+  },
+  {
+    "ItemCode": "202820018",
+    "ItemName": "CAMARON IMP CH CRUDO PELADO DESVENADO 36/40 10X1 KG"
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "202910013",
+    "ItemName": "RACK ENTERO CHULETA VETADA IMP. X KG (20 KG APROX)"
   }
 ]
