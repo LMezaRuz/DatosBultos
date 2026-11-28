@@ -27872,10 +27872,6 @@
     "ItemName": "MANTECA DE CACAO CALLEBAUT 4X3 KG (NCB-654)"
   },
   {
-    "ItemCode": "204790019",
-    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204380025",
     "ItemName": "PULPA DE NARANJA SEVILLANA RIO ALTO 5X1 KG."
   },
@@ -40376,10 +40372,6 @@
     "ItemName": "YOGURT BATIDO SIN LACTOSA DAMASCO 48 X 125 GRS"
   },
   {
-    "ItemCode": "200500039",
-    "ItemName": "HABAS 15X1 KG"
-  },
-  {
     "ItemCode": "101100055",
     "ItemName": "QUIFAROS LUCCHETTI 1X5 KG."
   },
@@ -42368,10 +42360,6 @@
     "ItemName": "SEMILLA DE QUINOA BANQUETE 1X400 GR"
   },
   {
-    "ItemCode": "200003003",
-    "ItemName": "GYOZAS DE POLLO 5X30 UN"
-  },
-  {
     "ItemCode": "300156009",
     "ItemName": "YOGURT VAINILLA BOLSA  1X1 LT."
   },
@@ -43182,10 +43170,6 @@
   {
     "ItemCode": "100553001",
     "ItemName": "COMINO MOLIDO 1X250 GR"
-  },
-  {
-    "ItemCode": "200003001",
-    "ItemName": "GYOZAS DE CERDO 5X30 UN"
   },
   {
     "ItemCode": "203230000",
@@ -44160,10 +44144,6 @@
     "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
   {
-    "ItemCode": "200500079",
-    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
-  },
-  {
     "ItemCode": "304850048",
     "ItemName": "YOGURT DANONE CRUNCH CON M&M 12X138 GR"
   },
@@ -44474,10 +44454,6 @@
   {
     "ItemCode": "101050001",
     "ItemName": "TORTILLA 1X12X18 CM.(330 GR)"
-  },
-  {
-    "ItemCode": "204790018",
-    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
   },
   {
     "ItemCode": "204790043",
@@ -48536,10 +48512,6 @@
     "ItemName": "COLAPEZ EN HOJA 1X1 KG."
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "101201018",
     "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
@@ -48558,10 +48530,6 @@
   {
     "ItemCode": "200458004",
     "ItemName": "SUPREME DE POLLO 2X3 KG"
-  },
-  {
-    "ItemCode": "204790054",
-    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
   },
   {
     "ItemCode": "100202015",
@@ -48626,10 +48594,6 @@
   {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
-  },
-  {
-    "ItemCode": "304420001",
-    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
   },
   {
     "ItemCode": "300408001",
@@ -48950,5 +48914,41 @@
   {
     "ItemCode": "202910016",
     "ItemName": "LOMO CENTRO DE CERDO CONG. BRASIL X KG (APROX. 20 KG)"
+  },
+  {
+    "ItemCode": "200003001",
+    "ItemName": "GYOZAS DE CERDO 5X30 UN"
+  },
+  {
+    "ItemCode": "200003003",
+    "ItemName": "GYOZAS DE POLLO 5X30 UN"
+  },
+  {
+    "ItemCode": "304420001",
+    "ItemName": "QUESO CHEDDAR FUNDIDO LAMINADO QUILLAYES/SCHREIBER 1X2,27 KG"
+  },
+  {
+    "ItemCode": "200500039",
+    "ItemName": "HABAS 15X1 KG"
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "204790018",
+    "ItemName": "ARVEJA SMART CHOICE 10 X 1KG"
+  },
+  {
+    "ItemCode": "200500079",
+    "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
+  },
+  {
+    "ItemCode": "204790054",
+    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
+  },
+  {
+    "ItemCode": "204790019",
+    "ItemName": "BROCOLI SMART CHOICE 10X1 KG"
   }
 ]
