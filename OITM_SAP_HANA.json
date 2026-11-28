@@ -27656,10 +27656,6 @@
     "ItemName": "SALMON FILETE ATLANTICO NAC TRIM D IVP 3/4 LB (KG)"
   },
   {
-    "ItemCode": "203200003",
-    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
-  },
-  {
     "ItemCode": "104670012",
     "ItemName": "TE HOJAS SUPREMO ESPECIAL 20X250 GR"
   },
@@ -28072,10 +28068,6 @@
     "ItemName": "PALMITO ENTERO SMART CHOICE 12X800 GR"
   },
   {
-    "ItemCode": "300351016",
-    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
-  },
-  {
     "ItemCode": "203200050",
     "ItemName": "TRUTRO LARGO SADIA IQF 12X1 KG"
   },
@@ -28214,10 +28206,6 @@
   {
     "ItemCode": "104820013",
     "ItemName": "VINAGRE DE VINO ROSADO PET MONTANER 4 X 5 LT"
-  },
-  {
-    "ItemCode": "104560003",
-    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
   },
   {
     "ItemCode": "202820001",
@@ -36068,10 +36056,6 @@
     "ItemName": "LECHE CON CHOCOLATE ORIGINAL 12X1 LT."
   },
   {
-    "ItemCode": "101100064",
-    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
-  },
-  {
     "ItemCode": "400011009",
     "ItemName": "PAÑO DE COCINA 1X12 UN."
   },
@@ -36142,10 +36126,6 @@
   {
     "ItemCode": "204150012",
     "ItemName": "MINI NAVETTE 100X15 GR"
-  },
-  {
-    "ItemCode": "200303015",
-    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
   },
   {
     "ItemCode": "202730046",
@@ -43428,10 +43408,6 @@
     "ItemName": "DINODORADOS MERLUZA APANADA EL GOLFO 16X440 GR"
   },
   {
-    "ItemCode": "200303012",
-    "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
-  },
-  {
     "ItemCode": "104670007",
     "ItemName": "TE TWININGS INDIAN CHAI 1X10 UN"
   },
@@ -44006,10 +43982,6 @@
   {
     "ItemCode": "200051014",
     "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "200456031",
-    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
   },
   {
     "ItemCode": "100002003",
@@ -48950,5 +48922,33 @@
   {
     "ItemCode": "100450003",
     "ItemName": "PAN RALLADO JAPONES PANKO BLANCO 1X1 KG"
+  },
+  {
+    "ItemCode": "300351016",
+    "ItemName": "VIENESAS TRADICIONAL LA ESPAÑOLA 1X900 GR"
+  },
+  {
+    "ItemCode": "200456031",
+    "ItemName": "CARNE MOLIDA VACUNO SOCOSUR 5% 10 X 500 G"
+  },
+  {
+    "ItemCode": "104560003",
+    "ItemName": "SALSA PIZZA POMAROLA 10X1 KG"
+  },
+  {
+    "ItemCode": "203200003",
+    "ItemName": "NUGGET POLLO SEARA 26X400 GR"
+  },
+  {
+    "ItemCode": "200303012",
+    "ItemName": "VARITAS REBOZADAS MERLUZA EL GOLFO 12X1 KG"
+  },
+  {
+    "ItemCode": "200303015",
+    "ItemName": "CROQUETA MERLUZA APANADA EL GOLFO 60X100 GR"
+  },
+  {
+    "ItemCode": "101100064",
+    "ItemName": "TALLARIN LUCCHETTI 25 UN X 400 GR"
   }
 ]
