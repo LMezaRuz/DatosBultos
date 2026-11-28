@@ -22908,10 +22908,6 @@
     "ItemName": "MANTECA CRUCINA 40X200 GRS"
   },
   {
-    "ItemCode": "300157053",
-    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
-  },
-  {
     "ItemCode": "100355016",
     "ItemName": "SALSA DE CARAMELO MONIN 1,89LT"
   },
@@ -31968,10 +31964,6 @@
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
   {
-    "ItemCode": "100351006",
-    "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
-  },
-  {
     "ItemCode": "203210062",
     "ItemName": "FRICANDELA (BLEND HAMBURGUESA) BOLSA 5 UN X 1 KG (MM)"
   },
@@ -32058,10 +32050,6 @@
   {
     "ItemCode": "300154033",
     "ItemName": "MARGARINA CONDESA HOJA VEGETAL 10 X 2 KG"
-  },
-  {
-    "ItemCode": "300154030",
-    "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   },
   {
     "ItemCode": "203210058",
@@ -39524,10 +39512,6 @@
     "ItemName": "CONDIMENTO CAJUN GYN 5 UN X 1 KG"
   },
   {
-    "ItemCode": "102930012",
-    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
-  },
-  {
     "ItemCode": "104600004",
     "ItemName": "SERVILLETA COCKTAIL BLANCAS H/S TECNOPAPEL 15X200 UN"
   },
@@ -42862,10 +42846,6 @@
   {
     "ItemCode": "300157052",
     "ItemName": "YOGURT FRUTILLA CALAN 48X110 GR"
-  },
-  {
-    "ItemCode": "300157050",
-    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
   },
   {
     "ItemCode": "304850039",
@@ -46524,10 +46504,6 @@
     "ItemName": "PAN DE PASCUA S. 1X500 G."
   },
   {
-    "ItemCode": "100356005",
-    "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
-  },
-  {
     "ItemCode": "100355020",
     "ItemName": "SYRUP CARAMELO SIN AZUCAR MONIN 1X750 ML"
   },
@@ -47010,18 +46986,6 @@
   {
     "ItemCode": "103480005",
     "ItemName": "GALLETA MINI DE VINO 30X35 GR"
-  },
-  {
-    "ItemCode": "103480003",
-    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X35 GR"
-  },
-  {
-    "ItemCode": "103480001",
-    "ItemName": "GALLETA MINI COCADITAS 30X35 GR"
-  },
-  {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
     "ItemCode": "203190038",
@@ -48950,5 +48914,41 @@
   {
     "ItemCode": "303870004",
     "ItemName": "MARGARINA VEGETAL PAMPERITA 10X900 GR"
+  },
+  {
+    "ItemCode": "103480003",
+    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X35 GR"
+  },
+  {
+    "ItemCode": "103480001",
+    "ItemName": "GALLETA MINI COCADITAS 30X35 GR"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
+  },
+  {
+    "ItemCode": "100356005",
+    "ItemName": "TE HIERBAS SURTIDAS 1X20 UN"
+  },
+  {
+    "ItemCode": "300157053",
+    "ItemName": "YOGURT VAINILLA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "300157050",
+    "ItemName": "YOGURT CHIRIMOYA CALAN 48X110 GR"
+  },
+  {
+    "ItemCode": "100351006",
+    "ItemName": "CAFE NESCAFE TRADICION TARRO 1X170 GR"
+  },
+  {
+    "ItemCode": "102930012",
+    "ItemName": "CEREALBAR FRUTOS ROJOS+YOGHURT 6X20X21 GR"
+  },
+  {
+    "ItemCode": "300154030",
+    "ItemName": "MARGARINA PAMPERITA PAN 10X1 KILO"
   }
 ]
