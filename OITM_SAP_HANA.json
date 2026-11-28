@@ -27976,10 +27976,6 @@
     "ItemName": "FUNDA PORTA COMPLETO MEDIANO GYN 1 X 400 UN"
   },
   {
-    "ItemCode": "101303004",
-    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
-  },
-  {
     "ItemCode": "103540000",
     "ItemName": "HARINA PAN DE MAIZ BLANCA 1X1 KG"
   },
@@ -28318,10 +28314,6 @@
   {
     "ItemCode": "102940005",
     "ItemName": "CERVEZA AMBAR BOTELLA CUELLO NEGRO 24X330 ML"
-  },
-  {
-    "ItemCode": "400251001",
-    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
   {
     "ItemCode": "200459004",
@@ -31804,10 +31796,6 @@
     "ItemName": "SERVILLETA NEGRA DINNER 12X150 UN SE70059"
   },
   {
-    "ItemCode": "103880035",
-    "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
-  },
-  {
     "ItemCode": "300157034",
     "ItemName": "YOGURT GRIEGO OIKOS C/FRUTILLA 48X110"
   },
@@ -32626,10 +32614,6 @@
   {
     "ItemCode": "203210133",
     "ItemName": "MILANESA DE VACUNO 160 GR (9 BOLSAS X 800 GR)"
-  },
-  {
-    "ItemCode": "200250041",
-    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
   },
   {
     "ItemCode": "100751051",
@@ -40824,10 +40808,6 @@
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
   {
-    "ItemCode": "101351003",
-    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "404600008",
     "ItemName": "SERVILLETA MESA BLANCA PREMIUM 50 UN 1X14 BLS (SE70060)"
   },
@@ -42036,10 +42016,6 @@
     "ItemName": "SYRUP MANZANA VERDE MONIN 1X750 ML"
   },
   {
-    "ItemCode": "400251004",
-    "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
-  },
-  {
     "ItemCode": "400250007",
     "ItemName": "PAPEL HIGIENICO JUMBO 12X300 MT  HI70003"
   },
@@ -43148,10 +43124,6 @@
     "ItemName": "YOGURT PROTEIN SABOR NATURAL ENDULZADO LONCOLECHE 24X140 GR"
   },
   {
-    "ItemCode": "103670025",
-    "ItemName": "KETCHUP POUCH DISPENSADOR KRAFT 6X2 KG"
-  },
-  {
     "ItemCode": "200402019",
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
@@ -43832,10 +43804,6 @@
     "ItemName": "PAPAS PREFRITAS 10MM FARM FRITES 6X2 KG"
   },
   {
-    "ItemCode": "100050008",
-    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
-  },
-  {
     "ItemCode": "300350010",
     "ItemName": "ANTICUCHO CARNE MIXTO UND."
   },
@@ -44192,10 +44160,6 @@
     "ItemName": "MERMELADA DE DURAZNO 1X1 KG"
   },
   {
-    "ItemCode": "204790054",
-    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
-  },
-  {
     "ItemCode": "300353050",
     "ItemName": "OSOBUCO KG (NV)"
   },
@@ -44226,14 +44190,6 @@
   {
     "ItemCode": "300353083",
     "ItemName": "GUATA CALLO TROZADA KG."
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
   },
   {
     "ItemCode": "300352005",
@@ -44542,10 +44498,6 @@
   {
     "ItemCode": "101450004",
     "ItemName": "SUCEDANEO DE LIMON HIGUERAS 1X5 LT"
-  },
-  {
-    "ItemCode": "101201018",
-    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
   },
   {
     "ItemCode": "101008006",
@@ -48796,10 +48748,6 @@
     "ItemName": "PEPINILLO DILL LAMINADO 1 X 1 KG."
   },
   {
-    "ItemCode": "204790020",
-    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
-  },
-  {
     "ItemCode": "204380028",
     "ItemName": "FRUTILLA IQF NACIONAL 10X1 KG."
   },
@@ -48950,5 +48898,57 @@
   {
     "ItemCode": "204180026",
     "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
+  },
+  {
+    "ItemCode": "400251001",
+    "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
+  },
+  {
+    "ItemCode": "400251004",
+    "ItemName": "SERVILLETA INTERFOLIADA BLANCA 1X250 UN SE70008"
+  },
+  {
+    "ItemCode": "101351003",
+    "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "103670025",
+    "ItemName": "KETCHUP POUCH DISPENSADOR KRAFT 6X2 KG"
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "204790054",
+    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
+  },
+  {
+    "ItemCode": "103880035",
+    "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
+  },
+  {
+    "ItemCode": "200250041",
+    "ItemName": "PAPAS PREFRITAS 7MM SIMPLOT 8X2,25 KG"
+  },
+  {
+    "ItemCode": "101303004",
+    "ItemName": "COLAPEZ EN HOJA 1X1 KG."
+  },
+  {
+    "ItemCode": "204790020",
+    "ItemName": "PRIMAVERA DE VERDURAS SMART CHOICE 10X1 KG"
+  },
+  {
+    "ItemCode": "101201018",
+    "ItemName": "FLAN CON LECHE CHOCOLATE TKF 1X1 KG"
+  },
+  {
+    "ItemCode": "100050008",
+    "ItemName": "ACEITUNAS NEGRAS SIN CAROZO 1X850 GR"
   }
 ]
