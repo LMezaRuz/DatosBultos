@@ -31716,10 +31716,6 @@
     "ItemName": "LOMO LISO AL VACIO CAT-V BRASIL NATURAFRIG 20 KG (APROX)"
   },
   {
-    "ItemCode": "203900006",
-    "ItemName": "COCTELITOS DE MERLUZA REBOZADOS EL GOLFO 30X400 GR"
-  },
-  {
     "ItemCode": "104620001",
     "ItemName": "MARUCHAN SABOR POLLO 12X64 GR"
   },
@@ -31830,10 +31826,6 @@
   {
     "ItemCode": "400252004",
     "ItemName": "TOALLA JUMBO BCA 2X250 MTS."
-  },
-  {
-    "ItemCode": "204530040",
-    "ItemName": "SALMON PORCIONES CENTRO CON PIEL SIN COLAS 1X5 KG"
   },
   {
     "ItemCode": "103520009",
@@ -35284,10 +35276,6 @@
     "ItemName": "POSTA NEGRA AL VACIO CAT-V IMP BRASIL FRIGOCLASS 20KG (APROX)"
   },
   {
-    "ItemCode": "200303020",
-    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "103560000",
     "ItemName": "LIPTON INFUSION MENTA 12X20 BLS"
   },
@@ -35598,10 +35586,6 @@
   {
     "ItemCode": "104010055",
     "ItemName": "SALSA TERIYAKI 12X250 GR"
-  },
-  {
-    "ItemCode": "304420003",
-    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
   },
   {
     "ItemCode": "204300077",
@@ -39592,10 +39576,6 @@
     "ItemName": "CREMA VEGETAL CALO 12X1"
   },
   {
-    "ItemCode": "200300002",
-    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
-  },
-  {
     "ItemCode": "300002002",
     "ItemName": "CHOCOLATE SUC. SICAO AMARGO 10 KG (ILD-009)"
   },
@@ -39866,10 +39846,6 @@
   {
     "ItemCode": "203550002",
     "ItemName": "FRANUI CHOCOLATE AMARGO 24X150 GR."
-  },
-  {
-    "ItemCode": "101358003",
-    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
   },
   {
     "ItemCode": "202910045",
@@ -41952,10 +41928,6 @@
     "ItemName": "EMPANADA MEDIA LUNA CON QUESO 70X50 GR"
   },
   {
-    "ItemCode": "200051020",
-    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "203200017",
     "ItemName": "FILETILLO DE POLLO COCIDO REBOZADO IQF 10 X 1 KG"
   },
@@ -42070,10 +42042,6 @@
   {
     "ItemCode": "200302028",
     "ItemName": "CAMARON IMP CH COCIDO PELADO DESVENADO 36/40 20X500 GR"
-  },
-  {
-    "ItemCode": "200302027",
-    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
   },
   {
     "ItemCode": "204180023",
@@ -42854,10 +42822,6 @@
   {
     "ItemCode": "304460004",
     "ItemName": "QUESO MOZZARELLA BARRA (2,6 KG APROX)"
-  },
-  {
-    "ItemCode": "103880016",
-    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
   },
   {
     "ItemCode": "304850048",
@@ -47140,10 +47104,6 @@
     "ItemName": "SEMILLA DE SESAMO TOSTADO 1X1 KG"
   },
   {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
-  },
-  {
     "ItemCode": "104010005",
     "ItemName": "KETCHUP POUCH DISPENSADOR HEINZ 6X3 KG"
   },
@@ -47178,10 +47138,6 @@
   {
     "ItemCode": "104610006",
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
-  },
-  {
-    "ItemCode": "100003005",
-    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
   {
     "ItemCode": "103880030",
@@ -47830,10 +47786,6 @@
   {
     "ItemCode": "400251002",
     "ItemName": "SERVILLETA MESA NEGRA PREMIUM 50UN 12X1 UN SE70034"
-  },
-  {
-    "ItemCode": "300351005",
-    "ItemName": "JAMON SERRANO 1X500 GR"
   },
   {
     "ItemCode": "100002003",
@@ -48944,11 +48896,59 @@
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
   },
   {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "200051020",
+    "ItemName": "PULPA DE MARACUYA CON PEPA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "101358003",
+    "ItemName": "TRIPLE CONCENTRADO DE TOMATE 1X3 KG."
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "103880016",
+    "ItemName": "MAYONESA REAL KRAFT 48 OZ 6X1,26 KG"
+  },
+  {
+    "ItemCode": "304420003",
+    "ItemName": "QUESO CHEDDAR LAMINADO MILKAUT 4X2,73 KG"
+  },
+  {
+    "ItemCode": "300351005",
+    "ItemName": "JAMON SERRANO 1X500 GR"
+  },
+  {
     "ItemCode": "202900000",
     "ItemName": "TOCINO AHUMADO LAMINADO CONGELADO 1X1 KG"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+    "ItemCode": "100003005",
+    "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
+  },
+  {
+    "ItemCode": "200300002",
+    "ItemName": "ATUN STEAK AL VACIO 1X5 KG"
+  },
+  {
+    "ItemCode": "200302027",
+    "ItemName": "CAMARON IMP CH COCIDO PELADO 100/200 20X500 G"
+  },
+  {
+    "ItemCode": "203900006",
+    "ItemName": "COCTELITOS DE MERLUZA REBOZADOS EL GOLFO 30X400 GR"
+  },
+  {
+    "ItemCode": "200303020",
+    "ItemName": "FILETE MERLUZA NAT APANADO EL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "204530040",
+    "ItemName": "SALMON PORCIONES CENTRO CON PIEL SIN COLAS 1X5 KG"
   }
 ]
