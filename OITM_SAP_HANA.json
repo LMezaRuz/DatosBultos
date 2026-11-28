@@ -24404,10 +24404,6 @@
     "ItemName": "GNOCCHI DE PAPA 12X500 GR"
   },
   {
-    "ItemCode": "104020005",
-    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
-  },
-  {
     "ItemCode": "304760648",
     "ItemName": "SOBRECOSTILLA AL VACIO CAT-V IMP BRASIL FRIGOCLASS 20KG (APROX)"
   },
@@ -27848,16 +27844,8 @@
     "ItemName": "HELADO SOFT SABOR CHOCOLATE 10X800 GR"
   },
   {
-    "ItemCode": "103480004",
-    "ItemName": "GALLETA MINI PALMERITAS 30X35 GR"
-  },
-  {
     "ItemCode": "103480006",
     "ItemName": "GALLETA MINI LIMON 30X35 GR."
-  },
-  {
-    "ItemCode": "103480005",
-    "ItemName": "GALLETA MINI DE VINO 30X35 GR"
   },
   {
     "ItemCode": "402740003",
@@ -35532,10 +35520,6 @@
     "ItemName": "CAMARON EC CRUDO PELADO DESVENADO 36/40 10X1KG LOCAL"
   },
   {
-    "ItemCode": "203190038",
-    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
-  },
-  {
     "ItemCode": "300154012",
     "ItemName": "MARGARINA CONDESA BATERKRIM VEGETAL 20X1"
   },
@@ -36678,10 +36662,6 @@
   {
     "ItemCode": "100004005",
     "ItemName": "ACEITE CRISTAL VEGETAL 12X900 CC"
-  },
-  {
-    "ItemCode": "200458004",
-    "ItemName": "SUPREME DE POLLO 2X3 KG"
   },
   {
     "ItemCode": "101351004",
@@ -42828,10 +42808,6 @@
     "ItemName": "ADEREZO CESAR 1X1 KG"
   },
   {
-    "ItemCode": "100905001",
-    "ItemName": "SEMOLA 1X1 KG"
-  },
-  {
     "ItemCode": "200200033",
     "ItemName": "REJILLA PASTELERA X 72 UN"
   },
@@ -42908,20 +42884,8 @@
     "ItemName": "MANI SIN SAL 1X1 KG"
   },
   {
-    "ItemCode": "103480003",
-    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X35 GR"
-  },
-  {
-    "ItemCode": "103480001",
-    "ItemName": "GALLETA MINI COCADITAS 30X35 GR"
-  },
-  {
     "ItemCode": "101100001",
     "ItemName": "TALLARIN SAN REMO 25X400 GR 87"
-  },
-  {
-    "ItemCode": "103480002",
-    "ItemName": "GALLETA MINI DULCITAS 30X35 GR"
   },
   {
     "ItemCode": "400301077",
@@ -43344,10 +43308,6 @@
     "ItemName": "JUGO EN POLVO LIVEAN NARANJA 10X7 GR"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "101050002",
     "ItemName": "BURRITOS 1X12X25 CM (640 GR)"
   },
@@ -43470,10 +43430,6 @@
   {
     "ItemCode": "103650000",
     "ItemName": "NECTAR DE DURAZNO LIVEAN 6X200 ML"
-  },
-  {
-    "ItemCode": "103480000",
-    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
   },
   {
     "ItemCode": "101100065",
@@ -44608,10 +44564,6 @@
     "ItemName": "CREMA VEGETAL CHANTILLY ULTRA RICH CLASICA 12X1 LT"
   },
   {
-    "ItemCode": "200455004",
-    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
-  },
-  {
     "ItemCode": "100552004",
     "ItemName": "CANELA MOLIDA 1X250 GR"
   },
@@ -44786,10 +44738,6 @@
   {
     "ItemCode": "304110018",
     "ItemName": "QUESO CHANCO LAS PARCELAS DE VALDIVIA 2,5 KG (APROX)"
-  },
-  {
-    "ItemCode": "101354019",
-    "ItemName": "MOSTAZA HEINZ 10X 1KG"
   },
   {
     "ItemCode": "100051004",
@@ -48512,10 +48460,6 @@
     "ItemName": "QUESO GAUDA LAMINADO SOPROLE 1X1 KG"
   },
   {
-    "ItemCode": "100202015",
-    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
-  },
-  {
     "ItemCode": "100351003",
     "ItemName": "CAFE NESCAFE DOLCA TARRO 1X400 GR"
   },
@@ -48920,10 +48864,6 @@
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "204790054",
-    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
-  },
-  {
     "ItemCode": "103880035",
     "ItemName": "MAYO DELI POUCH DISPENSADOR KRAFT 6X2 KG"
   },
@@ -48950,5 +48890,65 @@
   {
     "ItemCode": "200500021",
     "ItemName": "ESPINACA CONGELADA 1X1 KG."
+  },
+  {
+    "ItemCode": "200455004",
+    "ItemName": "SUPREMITAS (CHICKEN FINGERS) 2X3 KG"
+  },
+  {
+    "ItemCode": "200458004",
+    "ItemName": "SUPREME DE POLLO 2X3 KG"
+  },
+  {
+    "ItemCode": "204790054",
+    "ItemName": "CHOCLO GRANO CONG. GREEN FARMS 10X1 KG"
+  },
+  {
+    "ItemCode": "100202015",
+    "ItemName": "ENDULZANTE IANSA CERO K  STEVIA 1  X 250 ML"
+  },
+  {
+    "ItemCode": "101354019",
+    "ItemName": "MOSTAZA HEINZ 10X 1KG"
+  },
+  {
+    "ItemCode": "100905001",
+    "ItemName": "SEMOLA 1X1 KG"
+  },
+  {
+    "ItemCode": "104020005",
+    "ItemName": "ALCAPARRAS CAPERS 6 X 950 GR"
+  },
+  {
+    "ItemCode": "103480004",
+    "ItemName": "GALLETA MINI PALMERITAS 30X35 GR"
+  },
+  {
+    "ItemCode": "103480002",
+    "ItemName": "GALLETA MINI DULCITAS 30X35 GR"
+  },
+  {
+    "ItemCode": "103480005",
+    "ItemName": "GALLETA MINI DE VINO 30X35 GR"
+  },
+  {
+    "ItemCode": "103480003",
+    "ItemName": "GALLETA MINI DE MANTEQUILLA 30X35 GR"
+  },
+  {
+    "ItemCode": "103480001",
+    "ItemName": "GALLETA MINI COCADITAS 30X35 GR"
+  },
+  {
+    "ItemCode": "103480000",
+    "ItemName": "GALLETA MINI CHIPS CHOC 30X35 GR"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "203190038",
+    "ItemName": "LOMITO DE CERDO JUAN MAESTRO 50X105 GR"
   }
 ]
