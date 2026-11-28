@@ -36580,10 +36580,6 @@
     "ItemName": "LECHE DESCREMADA COLUN 12X1 LT.UHT"
   },
   {
-    "ItemCode": "101008001",
-    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
-  },
-  {
     "ItemCode": "100951004",
     "ItemName": "HUEVOS BLANCO EXTRA 1X180 UN."
   },
@@ -40628,10 +40624,6 @@
     "ItemName": "LOMO VETADO AL VACIO CAT-V PARAGUAY LA TROPA BEEF LOCAL 20 KG (APROX)"
   },
   {
-    "ItemCode": "101403004",
-    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
-  },
-  {
     "ItemCode": "101002007",
     "ItemName": "CREMA PARA BATIR LONCO 12X1000 ML"
   },
@@ -41854,10 +41846,6 @@
   {
     "ItemCode": "100202001",
     "ItemName": "SUCRALOSA MINI PORCION BIDFOOD 1000X0,5GR"
-  },
-  {
-    "ItemCode": "100002005",
-    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   },
   {
     "ItemCode": "103600003",
@@ -44172,10 +44160,6 @@
     "ItemName": "POSTA NEGRA PARAGUAY KG LOCAL (20 KG APROX.)"
   },
   {
-    "ItemCode": "100101007",
-    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
-  },
-  {
     "ItemCode": "101150048",
     "ItemName": "MANTEL ANTIGRASA 30X30 TOMMY BEANZ 1000 UN"
   },
@@ -44202,10 +44186,6 @@
   {
     "ItemCode": "100002003",
     "ItemName": "ACEITE 100 % MARAVILLA BIDON 1X5 LT."
-  },
-  {
-    "ItemCode": "100001002",
-    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
   },
   {
     "ItemCode": "101201020",
@@ -44368,10 +44348,6 @@
     "ItemName": "MERMELADA DE DURAZNO SIN AZUCAR WATTS 24X200 GR"
   },
   {
-    "ItemCode": "101358007",
-    "ItemName": "SALSA DE TOMATE 24X200 GR"
-  },
-  {
     "ItemCode": "101002004",
     "ItemName": "CREMA COLUN UHT 12X1 LT."
   },
@@ -44498,10 +44474,6 @@
   {
     "ItemCode": "204140007",
     "ItemName": "PAN MOLDE SANDWICH INTEGRAL 6X800 GR"
-  },
-  {
-    "ItemCode": "204150002",
-    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
   },
   {
     "ItemCode": "200300003",
@@ -48168,10 +48140,6 @@
     "ItemName": "TOMATE TRITURADO ITALIANO ARCO 1X10 KG"
   },
   {
-    "ItemCode": "103700007",
-    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
-  },
-  {
     "ItemCode": "200302006",
     "ItemName": "CAMARON IMP EC CRUDO C/CASCARA SMART CHOICE 21/25 1X1 KG"
   },
@@ -48330,10 +48298,6 @@
   {
     "ItemCode": "100304060",
     "ItemName": "NECTAR DE MANZANA 6X200 ML"
-  },
-  {
-    "ItemCode": "101002005",
-    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
   },
   {
     "ItemCode": "300150001",
@@ -48704,10 +48668,6 @@
     "ItemName": "AJI EN CREMA TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101354005",
-    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
-  },
-  {
     "ItemCode": "103670025",
     "ItemName": "KETCHUP POUCH DISPENSADOR KRAFT 6X2 KG"
   },
@@ -48924,10 +48884,6 @@
     "ItemName": "SAL FINA 1X1 KG"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "103910023",
     "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
   },
@@ -48944,11 +48900,55 @@
     "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
   },
   {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "204150002",
+    "ItemName": "PAN DE HAMBURGUESA BRIOCHE 12 CM 140X100 GR"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "101008001",
+    "ItemName": "LECHE SOPROLE ENTERA 12X1 LT"
+  },
+  {
+    "ItemCode": "103700007",
+    "ItemName": "LECHE EVAPORADA IDEAL NESTLE 48X390 GR"
+  },
+  {
+    "ItemCode": "101358007",
+    "ItemName": "SALSA DE TOMATE 24X200 GR"
+  },
+  {
+    "ItemCode": "100101007",
+    "ItemName": "ARROZ G2 GRAN SELECION TUCAPEL 10X1 KG"
+  },
+  {
+    "ItemCode": "101403004",
+    "ItemName": "PALMITO EN RODAJAS SMART CHOICE 12X800 GR"
+  },
+  {
+    "ItemCode": "101002005",
+    "ItemName": "CREMA SOPROLE UHT 12X1 KG"
+  },
+  {
+    "ItemCode": "100001002",
+    "ItemName": "ACEITE DE OLIVA DELICATO 1X 5 LT"
+  },
+  {
+    "ItemCode": "101354005",
+    "ItemName": "MOSTAZA TRAVERSO 10X1 KG"
+  },
+  {
     "ItemCode": "101352003",
     "ItemName": "KETCHUP TRAVERSO 10X1 KG"
   },
   {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+    "ItemCode": "100002005",
+    "ItemName": "ACEITE 100 % MARAVILLA 12X900 CC."
   }
 ]
