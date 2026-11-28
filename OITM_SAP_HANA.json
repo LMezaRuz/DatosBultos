@@ -27492,10 +27492,6 @@
     "ItemName": "ACEITE IND LA REINA VEGETAL 4X5 L"
   },
   {
-    "ItemCode": "103910023",
-    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
-  },
-  {
     "ItemCode": "103910024",
     "ItemName": "MERMELADA DE DAMASCO EN FRASCO WATTS 10X500 GR"
   },
@@ -35510,10 +35506,6 @@
   {
     "ItemCode": "304850041",
     "ItemName": "YOGURT FRUTILLA FULL PROTEIN LONCOLECHE 12X150 GR"
-  },
-  {
-    "ItemCode": "103910062",
-    "ItemName": "MERMELADA FRAMBUESA EN FRASCO WATT’S 10X500 GR"
   },
   {
     "ItemCode": "304850047",
@@ -48464,10 +48456,6 @@
     "ItemName": "MOSTAZA GRANO A LA ANTIGUA CLOVIS 12X200 GR"
   },
   {
-    "ItemCode": "100750005",
-    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
-  },
-  {
     "ItemCode": "200250039",
     "ItemName": "PAPAS PREFRITAS PREMIUM CRUNCH 10MM FARM FRITES 6X2 KG"
   },
@@ -48888,22 +48876,6 @@
     "ItemName": "WILD PROTEIN BAR CHOCOLATE MANI 12 DISPL X 16 UN X 45GR."
   },
   {
-    "ItemCode": "104540004",
-    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "100950001",
-    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
-  },
-  {
-    "ItemCode": "101352003",
-    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
-  },
-  {
     "ItemCode": "100003005",
     "ItemName": "ACEITE PARA FREIR MAXIFRITS 1X10 LT."
   },
@@ -48950,5 +48922,33 @@
   {
     "ItemCode": "100559007",
     "ItemName": "SAL FINA 1X1 KG"
+  },
+  {
+    "ItemCode": "100750005",
+    "ItemName": "MANJAR COLUN BOLSA 1X1 KG"
+  },
+  {
+    "ItemCode": "103910023",
+    "ItemName": "MERMELADA DE MORA EN FRASCO 10X500 GR"
+  },
+  {
+    "ItemCode": "103910062",
+    "ItemName": "MERMELADA FRAMBUESA EN FRASCO WATT’S 10X500 GR"
+  },
+  {
+    "ItemCode": "104540004",
+    "ItemName": "SALSA BBQ TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "100950001",
+    "ItemName": "HUEVO DESHIDRATADO ENTERO BD 1X1 KG."
+  },
+  {
+    "ItemCode": "101352003",
+    "ItemName": "KETCHUP TRAVERSO 10X1 KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   }
 ]
