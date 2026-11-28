@@ -31944,10 +31944,6 @@
     "ItemName": "SUPREMA DE POLLO GRILLADO CONG 6X1,5 KG"
   },
   {
-    "ItemCode": "100402002",
-    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "204790029",
     "ItemName": "PASTA DE CHOCLO CONDIMENTADA 10 X 1 KG"
   },
@@ -35920,10 +35916,6 @@
     "ItemName": "MERKEN 1X1 KG"
   },
   {
-    "ItemCode": "100402001",
-    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
-  },
-  {
     "ItemCode": "103070019",
     "ItemName": "ALCAPARRAS CON TALLO EN VINAGRE IMP ITALCAR 12X720 ML"
   },
@@ -39780,10 +39772,6 @@
     "ItemName": "COSTILLA BABY BACK RIBS COCIDA AHUMADA 12X600 GR (68R)"
   },
   {
-    "ItemCode": "200051018",
-    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "204300046",
     "ItemName": "TRUTRO CORTO DE POLLO CONG (14 KG APROX)"
   },
@@ -42200,10 +42188,6 @@
     "ItemName": "LECHE S/LACTOSA DESC LCO 12X1 LTS"
   },
   {
-    "ItemCode": "200100010",
-    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
-  },
-  {
     "ItemCode": "101201036",
     "ItemName": "BAVAROIS DE LIMON TKF 1X1 KG"
   },
@@ -42290,10 +42274,6 @@
   {
     "ItemCode": "102630000",
     "ItemName": "ATUN LOMITO AL AGUA 48X140 GR"
-  },
-  {
-    "ItemCode": "200051016",
-    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "200303017",
@@ -42670,10 +42650,6 @@
   {
     "ItemCode": "101150036",
     "ItemName": "BANDEJA PINCHO CHICA DOGGIS ND 1 X 600 UNID"
-  },
-  {
-    "ItemCode": "200051014",
-    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101201020",
@@ -46884,10 +46860,6 @@
     "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "400251001",
     "ItemName": "SERVILLETA COCKTAIL BLANCA 1X200 UN SE70055"
   },
@@ -47510,10 +47482,6 @@
   {
     "ItemCode": "104560001",
     "ItemName": "SALSA DE TOMATE WASIL 24X180 GR"
-  },
-  {
-    "ItemCode": "200051017",
-    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "303850007",
@@ -48576,10 +48544,6 @@
     "ItemName": "POROTO VERDE CORTE FRANCES CONG. IMP. 10X1 KG."
   },
   {
-    "ItemCode": "103700006",
-    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
-  },
-  {
     "ItemCode": "100651002",
     "ItemName": "DURAZNO MITADES 24X580 GR"
   },
@@ -48610,10 +48574,6 @@
   {
     "ItemCode": "200304001",
     "ItemName": "CHORITOS COCIDO (MYTILUS CHILENSIS) 1X1 KG"
-  },
-  {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
   },
   {
     "ItemCode": "200051020",
@@ -48770,10 +48730,6 @@
   {
     "ItemCode": "304470001",
     "ItemName": "QUESO PARMESANO EN HEBRAS 10X500 GR"
-  },
-  {
-    "ItemCode": "200051019",
-    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
   },
   {
     "ItemCode": "101201026",
@@ -48950,5 +48906,49 @@
   {
     "ItemCode": "200401018",
     "ItemName": "PAN HAMBURGUESA NF BRIOCHE 210X80 GR"
+  },
+  {
+    "ItemCode": "103700006",
+    "ItemName": "LECHE CONDENSADA NESTLE 48X397 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "100402002",
+    "ItemName": "VINO TINTO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "100402001",
+    "ItemName": "VINO BLANCO TETRA 12X1 LT. 12°"
+  },
+  {
+    "ItemCode": "200100010",
+    "ItemName": "HELADO SAN FCO. VAINILLA FRANCESA (CREMA) 1 X 4,8 LTS"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051019",
+    "ItemName": "PULPA DE MANGO GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051014",
+    "ItemName": "PULPA DE CHIRIMOYA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051016",
+    "ItemName": "PULPA DE FRAMBUESA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051017",
+    "ItemName": "PULPA DE FRUTILLA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "200051018",
+    "ItemName": "PULPA DE JUGO LIMON GUALLARAUCO 10X1 KG."
   }
 ]
