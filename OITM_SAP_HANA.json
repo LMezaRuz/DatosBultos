@@ -31552,10 +31552,6 @@
     "ItemName": "QUESO PARMESANO TROZADO QUILLAYES 1X200 GR"
   },
   {
-    "ItemCode": "202730053",
-    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
-  },
-  {
     "ItemCode": "300351020",
     "ItemName": "PATE DE JAMON 16X125 GRS"
   },
@@ -36166,10 +36162,6 @@
   {
     "ItemCode": "101150009",
     "ItemName": "SAL SANGUCHAZO GYN 1x10 KG"
-  },
-  {
-    "ItemCode": "101150051",
-    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
   },
   {
     "ItemCode": "100101018",
@@ -42976,10 +42968,6 @@
     "ItemName": "SACO DOGGIS MEDIANO DELIVERY 1X500 UN"
   },
   {
-    "ItemCode": "101150054",
-    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
-  },
-  {
     "ItemCode": "100355053",
     "ItemName": "SYRUP COFFEE COLLECTION MONIN 5X50 ML"
   },
@@ -43598,10 +43586,6 @@
   {
     "ItemCode": "100352011",
     "ItemName": "CAFE BIO ORGANIC (100% ARABICA) EN CAPSULA COMPATIBLE CON NESPRESSO 1X10 UN"
-  },
-  {
-    "ItemCode": "200455003",
-    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
   },
   {
     "ItemCode": "101401009",
@@ -48932,10 +48916,6 @@
     "ItemName": "TE LIPTON ROYAL CEYLAN BLACK TB 16X100 BLS"
   },
   {
-    "ItemCode": "102790002",
-    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
-  },
-  {
     "ItemCode": "100251001",
     "ItemName": "CALDO CONCENTRADO DE CARNE TKF 1X1 KG"
   },
@@ -48950,5 +48930,25 @@
   {
     "ItemCode": "400001005",
     "ItemName": "BOLSA DE BASURA NEGRA (100X120) 1X1 UN."
+  },
+  {
+    "ItemCode": "200455003",
+    "ItemName": "NUGGET DE POLLO SADIA 2X3 KG"
+  },
+  {
+    "ItemCode": "202730053",
+    "ItemName": "WAFFLE BELGA 60X60 GR (44880)"
+  },
+  {
+    "ItemCode": "101150051",
+    "ItemName": "MANTEL ANTIGRASA BLANCO 20X20 1000 UN"
+  },
+  {
+    "ItemCode": "101150054",
+    "ItemName": "PAPEL ANTIGRASA JUAN MESTRO 1000 UN"
+  },
+  {
+    "ItemCode": "102790002",
+    "ItemName": "CAFE NESCAFE TRADICION GRANULADO 12X400 GR"
   }
 ]
