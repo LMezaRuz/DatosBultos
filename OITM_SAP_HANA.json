@@ -31752,10 +31752,6 @@
     "ItemName": "BEBIDA VEGETAL COCO SABOR ORIGINAL VILAY 12X1 LT"
   },
   {
-    "ItemCode": "102710017",
-    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
-  },
-  {
     "ItemCode": "10000100",
     "ItemName": "ACEITE CHEF OLIVA 12X1 LT"
   },
@@ -35904,10 +35900,6 @@
     "ItemName": "HAMBURGUESA DE VACUNO 75X70 GR"
   },
   {
-    "ItemCode": "204380017",
-    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
-  },
-  {
     "ItemCode": "304760448",
     "ItemName": "TAPAPECHO AL VACIO CAT-V IMP. BRASIL NATURAFRIG 20KG (APROX)"
   },
@@ -36382,10 +36374,6 @@
   {
     "ItemCode": "101001005",
     "ItemName": "LECHE DE SOYA 12X1 LT."
-  },
-  {
-    "ItemCode": "200001002",
-    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   },
   {
     "ItemCode": "101251002",
@@ -43812,10 +43800,6 @@
     "ItemName": "GALLETA DE CHAMPAÑA 1X140 GR."
   },
   {
-    "ItemCode": "101354010",
-    "ItemName": "MOSTAZA JB 10x1KG"
-  },
-  {
     "ItemCode": "200203013",
     "ItemName": "PAN HAMBURGUESA 10CM X 270 UNIDADES SIN SESAMO"
   },
@@ -44542,10 +44526,6 @@
   {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
-  },
-  {
-    "ItemCode": "101050003",
-    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
   },
   {
     "ItemCode": "103700007",
@@ -48950,5 +48930,25 @@
   {
     "ItemCode": "204000002",
     "ItemName": "OSOBUCO DE MANO VACUNO CONG. KG (20 KG APROX.)"
+  },
+  {
+    "ItemCode": "101354010",
+    "ItemName": "MOSTAZA JB 10x1KG"
+  },
+  {
+    "ItemCode": "101050003",
+    "ItemName": "BURRITOS 1X12X28 CM. (810 GR)"
+  },
+  {
+    "ItemCode": "102710017",
+    "ItemName": "BEBIDA VEGETAL ALMENDRA SABOR ORIGINAL VILAY 12X1 LT"
+  },
+  {
+    "ItemCode": "204380017",
+    "ItemName": "PULPA DE LIMON RIO ALTO 5X1 KG"
+  },
+  {
+    "ItemCode": "200001002",
+    "ItemName": "CHURROS ESPAÑOLES PREFRITOS 6X25X19 GR"
   }
 ]
