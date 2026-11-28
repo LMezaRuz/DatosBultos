@@ -32404,10 +32404,6 @@
     "ItemName": "GUANTE DE LATEX TALLA M 1X100 UN."
   },
   {
-    "ItemCode": "101002004",
-    "ItemName": "CREMA COLUN UHT 12X1 LT."
-  },
-  {
     "ItemCode": "100450006",
     "ItemName": "FIDEO DE ARROZ FINO 1X375 GR."
   },
@@ -43080,10 +43076,6 @@
     "ItemName": "BOLSA CAMISETA 32X40 BLANCA 1X100 UN."
   },
   {
-    "ItemCode": "104210012",
-    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
-  },
-  {
     "ItemCode": "100004006",
     "ItemName": "ACEITE VEGETAL 12X900 CC"
   },
@@ -43666,10 +43658,6 @@
   {
     "ItemCode": "100853004",
     "ItemName": "GALLETA CRACKELET 1X85 GR."
-  },
-  {
-    "ItemCode": "200402032",
-    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   },
   {
     "ItemCode": "101010007",
@@ -44668,10 +44656,6 @@
     "ItemName": "YOGURT ACTIVIA FRUTILLA SIN LACTOSA 24X140 GR"
   },
   {
-    "ItemCode": "300153002",
-    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
-  },
-  {
     "ItemCode": "100905002",
     "ItemName": "SEMOLA 1x500 g."
   },
@@ -44858,10 +44842,6 @@
   {
     "ItemCode": "103670005",
     "ItemName": "KETCHUP HEINZ FLEX 12X900 GR"
-  },
-  {
-    "ItemCode": "104210013",
-    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
   },
   {
     "ItemCode": "404600005",
@@ -48950,5 +48930,25 @@
   {
     "ItemCode": "100201005",
     "ItemName": "AZUCAR 10 X 1 KG"
+  },
+  {
+    "ItemCode": "101002004",
+    "ItemName": "CREMA COLUN UHT 12X1 LT."
+  },
+  {
+    "ItemCode": "104210012",
+    "ItemName": "FUSULLI (ESPIRALES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "104210013",
+    "ItemName": "LINGUINE (TALLARINES) IMP. BERRAK 20 X 400 GR"
+  },
+  {
+    "ItemCode": "300153002",
+    "ItemName": "MANTEQUILLA CON SAL 1X250 GR."
+  },
+  {
+    "ItemCode": "200402032",
+    "ItemName": "HAMBURGUESA DE VACUNO BF RF 33X120 GRS."
   }
 ]
