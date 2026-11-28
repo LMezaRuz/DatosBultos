@@ -28048,10 +28048,6 @@
     "ItemName": "MERMELADA DE DAMASCO 1X1 KG."
   },
   {
-    "ItemCode": "203900007",
-    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
-  },
-  {
     "ItemCode": "101007010",
     "ItemName": "LECHE 0% MG TKF 1X1 KG"
   },
@@ -32230,10 +32226,6 @@
   {
     "ItemCode": "104520005",
     "ItemName": "SAL DE MAR EXTRA GRUESA LOBOS 12X800 GR"
-  },
-  {
-    "ItemCode": "202820027",
-    "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
   },
   {
     "ItemCode": "100356001",
@@ -43400,10 +43392,6 @@
     "ItemName": "ACEITE DE PALMA PARA FREIR 1X20 LT."
   },
   {
-    "ItemCode": "200003006",
-    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
-  },
-  {
     "ItemCode": "200003004",
     "ItemName": "GYOZAS DE CAMARON 5X30 UN"
   },
@@ -43426,10 +43414,6 @@
   {
     "ItemCode": "202720029",
     "ItemName": "MUFFIN CON CHIPS DE CHOCOLATE 20X110 GR"
-  },
-  {
-    "ItemCode": "200003002",
-    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
   },
   {
     "ItemCode": "100251003",
@@ -44048,10 +44032,6 @@
     "ItemName": "PREPARADO HELADO CALO CHIRIMOYA 12X1 LT"
   },
   {
-    "ItemCode": "202820005",
-    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
-  },
-  {
     "ItemCode": "304010001",
     "ItemName": "SALSA CHEDDAR 100% LACTEO TONADITA 4X1 KG"
   },
@@ -44268,16 +44248,8 @@
     "ItemName": "NUGGET DE POLLO SEARA 4X3 KG"
   },
   {
-    "ItemCode": "204180026",
-    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
-  },
-  {
     "ItemCode": "200051021",
     "ItemName": "PULPA DE MARACUYA FINA GUALLARAUCO 10X1 KG."
-  },
-  {
-    "ItemCode": "302890006",
-    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
   },
   {
     "ItemCode": "100102012",
@@ -44442,10 +44414,6 @@
   {
     "ItemCode": "400008003",
     "ItemName": "LAVALOZAS VIRGINIA LIMON CITRUS 1X750 ML"
-  },
-  {
-    "ItemCode": "304440013",
-    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
   },
   {
     "ItemCode": "400001003",
@@ -44722,10 +44690,6 @@
   {
     "ItemCode": "200201001",
     "ItemName": "CROISSANT RECTO BRIDOR 70X60 GR"
-  },
-  {
-    "ItemCode": "204140006",
-    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
   },
   {
     "ItemCode": "204140007",
@@ -48876,10 +48840,6 @@
     "ItemName": "BICARBONATO DE SODIO 1X1 KG"
   },
   {
-    "ItemCode": "200051023",
-    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
-  },
-  {
     "ItemCode": "400101007",
     "ItemName": "BOMBILLA DE PAPEL ENVUELTA  6 MM NEGRAS/KRAFT 1 X 400 UN"
   },
@@ -48950,5 +48910,45 @@
   {
     "ItemCode": "200453019",
     "ItemName": "PULPA PIERNA DE CERDO KG ( BRASIL) (25 KG APROX.)"
+  },
+  {
+    "ItemCode": "200003002",
+    "ItemName": "GYOZAS DE VERDURAS 5X30 UN"
+  },
+  {
+    "ItemCode": "200003006",
+    "ItemName": "ARROLLADO DE PRIMAVERA 1X100 UN"
+  },
+  {
+    "ItemCode": "203900007",
+    "ItemName": "FILETE DE MERLUZA CON PIEL GOLFO 16X500 GR"
+  },
+  {
+    "ItemCode": "202820005",
+    "ItemName": "CAMARON IMP EC CRUDO PELADO DESV SMART CHOICE 26/30 10X1 KG"
+  },
+  {
+    "ItemCode": "202820027",
+    "ItemName": "CAMARON APANADO MARIPOSA PRECOCIDO C/COLA PELADO DESV 20X500 GR"
+  },
+  {
+    "ItemCode": "304440013",
+    "ItemName": "QUESO GAUDA LAMINADO BOLSON 4X2 KG"
+  },
+  {
+    "ItemCode": "302890006",
+    "ItemName": "JAMON DE PIERNA LAMINADO 4X500 GR"
+  },
+  {
+    "ItemCode": "204140006",
+    "ItemName": "PAN MOLDE SANDWICH BLANCO 6X800 GR"
+  },
+  {
+    "ItemCode": "200051023",
+    "ItemName": "PULPA DE PIÑA GUALLARAUCO 10X1 KG."
+  },
+  {
+    "ItemCode": "204180026",
+    "ItemName": "PAPAS PREFRITAS STAR FRITES 12MM 5X2 KG"
   }
 ]
